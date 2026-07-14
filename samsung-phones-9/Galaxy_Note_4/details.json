@@ -1,0 +1,128 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy Note 4",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-note-4-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-note-4-new.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_galaxy_note_4-review-1147.php",
+    "siblingDeviceSlugs": [
+      "samsung_galaxy_note_3-5665",
+      "samsung_galaxy_note5-7431",
+      "samsung_galaxy_note_edge-6631",
+      "samsung_galaxy_s5-6033",
+      "samsung_i9500_galaxy_s4-5125",
+      "samsung_galaxy_note8-8505",
+      "samsung_galaxy_a57_5g-14379",
+      "samsung_galaxy_s26_ultra_5g-14320",
+      "samsung_galaxy_a17_5g-14041",
+      "samsung_galaxy_a27_5g-14606",
+      "samsung_galaxy_m47_5g-14749",
+      "samsung_galaxy_a07-14066"
+    ],
+    "release_date": "Released 2014, October",
+    "dimensions": "176g, 8.5mm thickness",
+    "os": "Android 4.4.4, up to 6.0.1",
+    "storage": "32GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 17, 20 - N910F, N910C",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps (Exynos 5433)\nHSPA 42.2/5.76 Mbps, LTE Cat6 300/50 Mbps (Snapdragon 805)",
+        "Features": "HSDPA 850 / 1700 / 1900 / 2100 - N910W8\n1, 2, 3, 4, 5, 7, 8, 28, 38, 40 - N910G\n1, 2, 3, 4, 5, 7, 8, 12, 17 - N910W8\n1, 2, 3, 4, 5, 7, 8, 28 - N910U"
+      },
+      "Launch": {
+        "Announced": "2014, September 03. Released 2014, October",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "153.5 x 78.6 x 8.5 mm (6.04 x 3.09 x 0.33 in)",
+        "Weight": "176 g (6.21 oz)",
+        "Build": "Glass front (Gorilla Glass 4), plastic back, aluminum frame",
+        "SIM": "Micro-SIM",
+        "Features": "Stylus"
+      },
+      "Display": {
+        "Type": "Super AMOLED",
+        "Size": "5.7 inches, 88.5 cm<sup>2</sup> (~73.4% screen-to-body ratio)",
+        "Resolution": "1440 x 2560 pixels, 16:9 ratio (~518 ppi density)",
+        "Protection": "Corning Gorilla Glass 4"
+      },
+      "Platform": {
+        "OS": "Android 4.4.4 (KitKat), upgradable to 6.0.1 (Marshmallow)",
+        "Chipset": "Qualcomm APQ8084 Snapdragon 805 (28 nm)\nExynos 5433",
+        "CPU": "Quad-core 2.7 GHz Krait 450 - Snapdragon 805\nOcta-core (4x1.3 GHz Cortex-A53 &amp; 4x1.9 GHz Cortex-A57) - Exynos 5433",
+        "GPU": "Adreno 420 (Snapdragon 805)\nMali-T760 MP6 (Exynos 5433)"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "32GB 3GB RAM",
+        "Features": "eMMC 5.0"
+      },
+      "Main Camera": {
+        "Single": "16 MP, f/2.2, 31mm (standard), 1/2.6\", 1.12µm, AF, OIS",
+        "Features": "LED flash, panorama, HDR",
+        "Video": "4K@30fps, 1080p@30/60fps, stereo sound rec."
+      },
+      "Selfie camera": {
+        "Single": "3.7 MP, f/1.9, 22mm (wide)",
+        "Features": "HDR",
+        "Video": "1440p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes",
+        "Features": "24-bit/192kHz audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+        "Bluetooth": "4.1, A2DP, EDR, LE",
+        "Positioning": "GPS, GLONASS, BDS",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "microUSB 2.0 (MHL 3 TV-out), OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (front-mounted), accelerometer, gyro, proximity, compass, barometer, gesture, UV, heart rate, SpO2",
+        "Features": "ANT+\n\nS-Voice natural language commands and dictation\n\nAir gestures"
+      },
+      "Battery": {
+        "Type": "Li-Ion 3220 mAh, removable",
+        "Charging": "15W wired, QC2",
+        "Talk time": "Up to 20 h (3G)",
+        "Music play": "Up to 82 h"
+      },
+      "Misc": {
+        "Colors": "Frosted white, Charcoal black, Bronze Gold, Blossom Pink",
+        "Models": "SM-N910C, SM-N910S, SM-N910H, SM-N910F, SM-N910G, SM-N910U, SM-N910K, SM-N916S, SM-N910L, SM-N916L, SM-N916K, SM-N910T3",
+        "SAR": "0.37 W/kg (head) &nbsp; &nbsp; 0.88 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.37 W/kg (head) &nbsp; &nbsp; 0.38 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 350 EUR"
+      },
+      "Our Tests": {
+        "Performance": "Basemark OS II 2.0: 1328\nBasemark X: 18684",
+        "Display": "<a class=\"noUnd\" href=\"samsung_galaxy_note_4-review-1147p3.php\">Contrast ratio: Infinity (nominal), 4.033 (sunlight)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=6434&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=6434&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"samsung_galaxy_note_4-review-1147p6.php\">Voice 79dB / Noise 74dB / Ring 89dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"samsung_galaxy_note_4-review-1147p7.php\">Noise -96.6dB / Crosstalk -94.2dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 6434); \">Endurance rating 90h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-note-4-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-note-4-02.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_note_4-pictures-6434.php"
+    }
+  }
+}

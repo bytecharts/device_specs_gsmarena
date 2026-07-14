@@ -1,0 +1,98 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy Tab A 10.1 (2016)",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/galaxy-tab-a-101-2016.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-tab-a-101-2016.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2016, May",
+    "dimensions": "525g, 8.2mm thickness",
+    "os": "Android 6.0, up to Android 8.1",
+    "storage": "16GB/32GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4G bands": "1, 3, 5, 7, 8, 18, 19, 38, 40",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps - cellular model only",
+        "Features": "1, 3, 5, 7, 8, 20"
+      },
+      "Launch": {
+        "Announced": "2016, May. Released 2016, May",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "254.2 x 155.3 x 8.2 mm (10.01 x 6.11 x 0.32 in)",
+        "Weight": "525 g (1.16 lb)",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "Nano-SIM (cellular model only)"
+      },
+      "Display": {
+        "Type": "PLS LCD",
+        "Size": "10.1 inches, 295.8 cm<sup>2</sup> (~74.9% screen-to-body ratio)",
+        "Resolution": "1200 x 1920 pixels, 16:10 ratio (~224 ppi density)",
+        "Features": "Stylus (only S Pen models)"
+      },
+      "Platform": {
+        "OS": "Android 6.0 (Marshmallow), upgradable to Android 8.1 (Oreo)",
+        "Chipset": "Exynos 7870 Octa (14 nm)",
+        "CPU": "Octa-core (4x1.6 GHz Cortex-A53 &amp; 4x1.0 GHz Cortex-A53)",
+        "GPU": "Mali-T830 MP1"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "16GB 2GB RAM, 16GB 3GB RAM (S-Pen), 32GB 3GB RAM (S-Pen)",
+        "Features": "eMMC 5.1"
+      },
+      "Main Camera": {
+        "Single": "8 MP, f/1.9, AF",
+        "Features": "LED flash, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "2 MP, f/2.2",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "4.2, A2DP, LE",
+        "Positioning": "GPS, GLONASS, Beidou (market dependent) - cellular model only",
+        "NFC": "No",
+        "Radio": "No",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer"
+      },
+      "Battery": {
+        "Type": "Li-Ion 7300 mAh, non-removable"
+      },
+      "Misc": {
+        "Colors": "Pearl White, Metallic Black",
+        "Models": "SM-T580, SM-T585, SM-P580, SM-P585, SM-P585Y",
+        "SAR EU": "0.92 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 220 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/galaxy-tab-a-101-2016.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/galaxy-tab-a-101-2016-spen.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/galaxy-tab-a-101-2016-spen1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_tab_a_10_1_(2016)-pictures-8090.php"
+    }
+  }
+}

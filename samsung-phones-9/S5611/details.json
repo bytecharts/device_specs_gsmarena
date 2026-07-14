@@ -1,0 +1,98 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung S5611",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-gt-s5611-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-gt-s5611.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2014, February",
+    "dimensions": "91g, 12.9mm thickness",
+    "os": "Feature phone",
+    "storage": "256MB storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 900 / 2100",
+        "Speed": "HSPA"
+      },
+      "Launch": {
+        "Announced": "2014, February. Released 2014, February",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "118.9 x 49.7 x 12.9 mm (4.68 x 1.96 x 0.51 in)",
+        "Weight": "91 g (3.21 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "2.4 inches, 17.8 cm<sup>2</sup> (~30.2% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "Platform": {
+        "CPU": "460 MHz"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Phonebook": "Yes",
+        "Call records": "Yes",
+        "Internal": "256MB"
+      },
+      "Main Camera": {
+        "Single": "5 MP, AF",
+        "Features": "LED flash",
+        "Video": ""
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "3.0, A2DP",
+        "Positioning": "No",
+        "NFC": "No",
+        "Radio": "Stereo FM radio, RDS, recording",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS, Email, Push Email, IM",
+        "Games": "Yes",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "SNS applications\n\nMP3/WMA/eAAC+ player\n\nMP4/H.263 player\n\nOrganizer\n\nVoice memo\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Li-Ion 1000 mAh, removable",
+        "Stand-by": "Up to 310 h (3G)",
+        "Talk time": "Up to 5 h (3G)"
+      },
+      "Misc": {
+        "Colors": "White, Gray, Dark blue",
+        "Models": "GT-S5611",
+        "SAR": "0.44 W/kg (head) &nbsp; &nbsp; 0.27 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.79 W/kg (head) &nbsp; &nbsp; 0.39 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 70 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-gt-s5611-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-gt-s5611-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-gt-s5611-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_s5611-pictures-6505.php"
+    }
+  }
+}

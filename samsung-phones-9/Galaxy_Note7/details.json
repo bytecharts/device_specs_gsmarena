@@ -1,0 +1,112 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy Note7",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-note7-r0.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-note7.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_galaxy_note7-review-1478.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2016, September",
+    "dimensions": "169g, 7.9mm thickness",
+    "os": "Android 6.0.1, TouchWiz UI",
+    "storage": "64GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 &amp; SIM 2 (dual-SIM model only)",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4G bands": "LTE",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE (3CA) Cat9/Cat10 or LTE (3CA) Cat12 600/150 Mbps"
+      },
+      "Launch": {
+        "Announced": "2016, August. Released 2016, September",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "153.5 x 73.9 x 7.9 mm (6.04 x 2.91 x 0.31 in)",
+        "Weight": "169 g (5.96 oz)",
+        "Build": "Glass front (Gorilla Glass 5), glass back (Gorilla Glass 5), aluminum frame",
+        "SIM": "· Nano-SIM\n· Nano-SIM + Nano-SIM",
+        "Features": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)\n\nStylus"
+      },
+      "Display": {
+        "Type": "Super AMOLED, HDR10",
+        "Size": "5.7 inches, 88.5 cm<sup>2</sup> (~78.0% screen-to-body ratio)",
+        "Resolution": "1440 x 2560 pixels, 16:9 ratio (~518 ppi density)",
+        "Protection": "Corning Gorilla Glass 5"
+      },
+      "Platform": {
+        "OS": "Android 6.0.1 (Marshmallow), TouchWiz UI",
+        "Chipset": "Exynos 8890 Octa (14 nm)",
+        "CPU": "Octa-core (4x2.3 GHz Mongoose &amp; 4x1.6 GHz Cortex-A53)",
+        "GPU": "Mali-T880 MP12"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (uses shared SIM slot) - dual SIM model only",
+        "Internal": "64GB 4GB RAM",
+        "Features": "UFS 2.0"
+      },
+      "Main Camera": {
+        "Single": "12 MP, f/1.7, 26mm (wide), 1/2.55\", 1.4µm, dual pixel PDAF, OIS",
+        "Features": "LED flash, auto-HDR, panorama",
+        "Video": "4K@30fps, 1080p@30/60fps, 720p@240fps, stereo sound rec., HDR, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Dual": "5 MP, f/1.7, 22mm (wide)\n\n2 MP (dedicated iris scanner camera)",
+        "Features": "HDR",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes",
+        "Features": "24-bit/192kHz audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "4.2, A2DP, EDR, LE",
+        "Positioning": "GPS, GLONASS, BDS, GALILEO",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 3.1"
+      },
+      "Features": {
+        "Sensors": "Iris scanner, fingerprint (front-mounted), accelerometer, gyro, proximity, compass, barometer, heart rate, SpO2",
+        "Features": "ANT+\n\nS-Voice natural language commands and dictation\n\nSamsung Pay (Visa, MasterCard certified)"
+      },
+      "Battery": {
+        "Type": "Li-Ion 3500 mAh, non-removable",
+        "Charging": "15W wired, QC2\n\nWireless (Qi) (market dependent)"
+      },
+      "Misc": {
+        "Colors": "Blue Coral, Gold Platinum, Silver Titanium, Black Onyx",
+        "Models": "SM-N930V, SM-N930A, SM-N930P, SM-N930T, SM-N930R4, SM-N930W8, SM-N930F, SM-N930G, SM-N930S",
+        "SAR EU": "0.25 W/kg (head) &nbsp; &nbsp; 1.28 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 850 EUR"
+      },
+      "Our Tests": {
+        "Performance": "Basemark OS II 2.0: 2676\nBasemark X: 32648",
+        "Display": "<a class=\"noUnd\" href=\"samsung_galaxy_note7-review-1478p3.php\">Contrast ratio: Infinite (nominal),  4.247 (sunlight)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=8082&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=8082&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"samsung_galaxy_note7-review-1478p8.php\">Voice 69dB / Noise 69dB / Ring 72dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"samsung_galaxy_note7-review-1478p9.php\">Noise -92.8dB / Crosstalk -92.9dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 8082); \">Endurance rating 90h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-note7-r0.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-note7-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-note7-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-note7-r1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_note7-pictures-8082.php"
+    }
+  }
+}

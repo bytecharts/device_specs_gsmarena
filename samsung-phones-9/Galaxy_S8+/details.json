@@ -1,0 +1,112 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy S8+",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s8-plus-.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s8-plus-.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_galaxy_s8_plus-review-1602.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2017, April",
+    "dimensions": "173g, 8.1mm thickness",
+    "os": "Android 7.0, up to Android 9.0, One UI",
+    "storage": "64GB/128GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 &amp; SIM 2 (dual-SIM model only)",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 17, 20, 28",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE (5CA) Cat16 1024/150 Mbps"
+      },
+      "Launch": {
+        "Announced": "2017, March 29. Released 2017, April",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "159.5 x 73.4 x 8.1 mm (6.28 x 2.89 x 0.32 in)",
+        "Weight": "173 g (6.10 oz)",
+        "Build": "Glass front (Gorilla Glass 5), glass back (Gorilla Glass 5), aluminum frame",
+        "SIM": "· Nano-SIM\n· Nano-SIM + Nano-SIM",
+        "Features": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)"
+      },
+      "Display": {
+        "Type": "Super AMOLED",
+        "Size": "6.2 inches, 98.3 cm<sup>2</sup> (~84.0% screen-to-body ratio)",
+        "Resolution": "1440 x 2960 pixels, 18.5:9 ratio (~529 ppi density)",
+        "Protection": "Corning Gorilla Glass 5"
+      },
+      "Platform": {
+        "OS": "Android 7.0 (Nougat), upgradable to Android 9.0 (Pie), One UI",
+        "Chipset": "Exynos 8895 (10 nm) - EMEA\nQualcomm MSM8998 Snapdragon 835 (10 nm) - USA &amp; China",
+        "CPU": "Octa-core (4x2.3 GHz Mongoose M2 &amp; 4x1.7 GHz Cortex-A53) - EMEA\nOcta-core (4x2.35 GHz Kryo &amp; 4x1.9 GHz Kryo) - USA &amp; China",
+        "GPU": "Mali-G71 MP20 - EMEA\nAdreno 540 - USA &amp; China"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (uses shared SIM slot) - dual SIM model only",
+        "Internal": "64GB 4GB RAM, 128GB 6GB RAM",
+        "Features": "UFS 2.0 or UFS 2.1"
+      },
+      "Main Camera": {
+        "Single": "12 MP, f/1.7, 26mm (wide), 1/2.55\", 1.4µm, dual pixel PDAF, OIS",
+        "Features": "LED flash, auto-HDR, panorama",
+        "Video": "4K@30fps, 1080p@30/60fps, 720p@240fps, HDR, stereo sound rec., gyro-EIS, OIS"
+      },
+      "Selfie camera": {
+        "Dual": "8 MP, f/1.7, 25mm (wide), 1/3.6\", 1.22µm, AF\n\n2 MP (dedicated iris scanner camera)",
+        "Features": "HDR",
+        "Video": "1440p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes",
+        "Features": "32-bit/384kHz audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.0, A2DP, LE, aptX",
+        "Positioning": "GPS, GLONASS, BDS, GALILEO",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 3.1"
+      },
+      "Features": {
+        "Sensors": "Iris scanner, fingerprint (rear-mounted), accelerometer, gyro, proximity, compass, barometer, heart rate, SpO2",
+        "Features": "Samsung DeX (desktop experience support)\n\nANT+\n\nBixby natural language commands and dictation\n\nSamsung Pay (Visa, MasterCard certified)"
+      },
+      "Battery": {
+        "Type": "Li-Ion 3500 mAh, non-removable (13.48 Wh)",
+        "Charging": "15W wired, QC2\n\nWireless (Qi) (market dependent)"
+      },
+      "Misc": {
+        "Colors": "Midnight Black, Orchid Gray, Arctic Silver, Coral Blue, Maple Gold, Rose Pink",
+        "Models": "SM-G955F, SM-G955FD, SM-G955W, SM-G955A, SM-G955P, SM-G955T, SM-G955V, SM-G955R4, SM-G955U, SM-G955S, SM-G955K, SM-G955L, SM-G955, SM-G955U1, SM-G955N, SM-G9550, SC-03J, G955F",
+        "SAR": "0.67 W/kg (head) &nbsp; &nbsp; 0.97 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.27 W/kg (head) &nbsp; &nbsp; 1.00 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 430 EUR"
+      },
+      "Our Tests": {
+        "Performance": "GeekBench: 6754 (v4.4)\n\nGFXBench: 13fps (ES 3.1 onscreen)",
+        "Display": "<a class=\"noUnd\" href=\"samsung_galaxy_s8_plus-review-1602p3.php#dt\">Contrast ratio: Infinite (nominal), 4.658(sunlight)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=8523&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=8523&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"samsung_galaxy_s8_plus-review-1602p7.php#lt\">Voice 68dB / Noise 69dB / Ring 71dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"samsung_galaxy_s8_plus-review-1602p8.php#aq\">Noise -92.2dB / Crosstalk -93.3dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 8523); \">Endurance rating 88h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s8-plus-.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s8-plus-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s8-plus-rose-pink1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_s8+-pictures-8523.php"
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Google Pixel 5",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-5-5g-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-5-5g.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/google_pixel_5-review-2185.php",
+    "siblingDeviceSlugs": [
+      "google_pixel_5a_5g-11059",
+      "google_pixel_6a-11229",
+      "google_pixel_4a-10123",
+      "google_pixel_8-12546",
+      "google_pixel_6-11037",
+      "google_pixel_4a_5g-10385",
+      "google_pixel_10_pro_5g-13987",
+      "google_pixel_10a_5g-14474",
+      "google_pixel_10_5g-13979",
+      "google_pixel_7_pro-11908",
+      "google_pixel_10_pro_xl_5g-13988"
+    ],
+    "release_date": "Released 2020, October 15",
+    "dimensions": "151g, 8mm thickness",
+    "os": "Android 11, up to Android 14",
+    "storage": "128GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / EVDO / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 17, 18, 19, 20, 25, 26, 28, 29, 30, 32, 38, 39, 40, 41, 42, 46, 48, 66, 71",
+        "5G bands": "1, 2, 3, 5, 7, 8, 12, 28, 41, 66, 71, 77, 78, 258, 260, 261 Sub6/mmWave - GD1YQ",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "CDMA 800 / 1700 / 1900\nCDMA2000 1xEV-DO\n1, 2, 3, 5, 7, 8, 12, 28, 41, 66, 71, 77, 78 Sub6 - GTT9Q"
+      },
+      "Launch": {
+        "Announced": "2020, September 30",
+        "Status": "Available. Released 2020, October 15"
+      },
+      "Body": {
+        "Dimensions": "144.7 x 70.4 x 8 mm (5.70 x 2.77 x 0.31 in)",
+        "Weight": "151 g (5.33 oz)",
+        "Build": "Glass front (Gorilla Glass 6), aluminum back, aluminum frame",
+        "SIM": "Nano-SIM + <a href=\"glossary.php3?term=esim\">eSIM</a>",
+        "Features": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)"
+      },
+      "Display": {
+        "Type": "OLED, 90Hz, HDR10+",
+        "Size": "6.0 inches, 87.6 cm<sup>2</sup> (~85.9% screen-to-body ratio)",
+        "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~432 ppi density)",
+        "Protection": "Corning Gorilla Glass 6"
+      },
+      "Platform": {
+        "OS": "Android 11, upgradable to Android 14",
+        "Chipset": "Qualcomm SM7250 Snapdragon 765G 5G (7 nm)",
+        "CPU": "Octa-core (1x2.4 GHz Kryo 475 Prime &amp; 1x2.2 GHz Kryo 475 Gold &amp; 6x1.8 GHz Kryo 475 Silver)",
+        "GPU": "Adreno 620"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 8GB RAM",
+        "Features": "UFS 2.1"
+      },
+      "Main Camera": {
+        "Dual": "12.2 MP, f/1.7, 27mm (wide), 1/2.55\", 1.4µm, dual pixel PDAF, OIS\n\n16 MP, f/2.2, 117˚ (ultrawide), 1.0µm",
+        "Features": "LED flash, Pixel Shift, Auto-HDR, panorama",
+        "Video": "4K@30/60fps, 1080p@30/60/120/240fps; gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, f/2.0, 24mm (wide), 1/4.0\", 1.12µm",
+        "Features": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.0, A2DP, LE, aptX HD",
+        "Positioning": "GPS, GLONASS, GALILEO, QZSS, BDS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 3.1"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass, barometer"
+      },
+      "Battery": {
+        "Type": "Li-Po 4080 mAh",
+        "Charging": "18W wired, PD2.0\n\n12W wireless\n\n5W reverse wired"
+      },
+      "Misc": {
+        "Colors": "Just Black, Sorta Sage",
+        "Models": "GD1YQ, GTT9Q, G5NZ6",
+        "Price": "About 290 EUR"
+      },
+      "Our Tests": {
+        "Display": "<a class=\"noUnd\" href=\"google_pixel_5-review-2185p3.php\">699 nits max brightness (measured)</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 10386); \">Endurance rating 95h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-5-5g-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-5-5g-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/google_pixel_5-pictures-10386.php"
+    }
+  }
+}

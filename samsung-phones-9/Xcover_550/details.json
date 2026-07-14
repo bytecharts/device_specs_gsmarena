@@ -1,0 +1,97 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Xcover 550",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-xcover-3-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-xcover-3.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2015, July",
+    "dimensions": "124g, 14mm thickness",
+    "os": "Feature phone",
+    "storage": "256MB 128MB RAM storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 900 / 2100",
+        "Speed": "HSPA 7.2/5.76 Mbps"
+      },
+      "Launch": {
+        "Announced": "2015, July. Released 2015, July",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "129 x 56.2 x 14 mm (5.08 x 2.21 x 0.55 in)",
+        "Weight": "124 g (4.37 oz)",
+        "SIM": "Mini-SIM",
+        "Features": "IP67 dust/water resistant (up to 1m for 30 min)\n\nMIL-STD-810G compliant"
+      },
+      "Display": {
+        "Type": "TFT",
+        "Size": "2.4 inches, 17.8 cm<sup>2</sup> (~24.6% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "Platform": {
+        "Chipset": "Spreadtrum SC7703",
+        "CPU": "Dual-core 460 MHz"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Phonebook": "Yes",
+        "Call records": "Yes",
+        "Internal": "256MB 128MB RAM"
+      },
+      "Main Camera": {
+        "Single": "3.15 MP",
+        "Features": "LED flash",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "3.0, A2DP",
+        "Positioning": "To be confirmed",
+        "NFC": "No",
+        "Radio": "FM radio, RDS",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS, Email, IM",
+        "Games": "Downloadable",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "MP3/WAV/eAAC+ player\n\nMP4/H.263 player\n\nOrganizer\n\nVoice memo"
+      },
+      "Battery": {
+        "Type": "Li-Ion 1500/1300 mAh, removable"
+      },
+      "Misc": {
+        "Colors": "Steel Grey, Dark Silver",
+        "Models": "SM-B550H",
+        "SAR": "0.56 W/kg (head) &nbsp; &nbsp; 1.06 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.78 W/kg (head) &nbsp; &nbsp; 0.44 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 110 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-xcover-3-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-xcover-3-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_xcover_550-pictures-7119.php"
+    }
+  }
+}

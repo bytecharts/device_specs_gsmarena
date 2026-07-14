@@ -1,0 +1,112 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Google Pixel Fold",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-fold-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-fold.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "google_pixel_9_pro_fold-13220",
+      "google_pixel_10_pro_fold-14014",
+      "google_pixel_10_pro_5g-13987",
+      "google_pixel_10a_5g-14474",
+      "google_pixel_10_5g-13979",
+      "google_pixel_7_pro-11908",
+      "google_pixel_8-12546",
+      "google_pixel_10_pro_xl_5g-13988"
+    ],
+    "release_date": "Released 2023, June 27",
+    "dimensions": "283g, 5.8mm thickness",
+    "os": "Android 13, up to 15",
+    "storage": "256GB/512GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / EVDO / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 17, 18, 19, 20, 21, 25, 26, 28, 29, 30, 32, 38, 39, 40, 41, 42, 46, 48, 66, 71",
+        "5G bands": "1, 2, 3, 5, 7, 8, 12, 14, 20, 25, 28, 30, 38, 40, 41, 48, 66, 71, 75, 76, 77, 78, 79, 257, 258, 260, 261 SA/NSA/Sub6/mmWave",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "CDMA 800 / 1900\nCDMA2000 1xEV-DO"
+      },
+      "Launch": {
+        "Announced": "2023, May 10",
+        "Status": "Available. Released 2023, June 27"
+      },
+      "Body": {
+        "Dimensions": "Unfolded: 139.7 x 158.7 x 5.8 mm\nFolded: 139.7 x 79.5 x 12.1 mm",
+        "Weight": "283 g (9.98 oz)",
+        "Build": "Glass front (Gorilla Glass Victus) (folded), plastic front (unfolded), glass back (Gorilla Glass Victus), aluminum frame",
+        "SIM": "Nano-SIM + <a href=\"glossary.php3?term=esim\">eSIM</a>",
+        "Features": "IPX8 water resistant"
+      },
+      "Display": {
+        "Type": "Foldable OLED, 120Hz, HDR10+, 1000 nits (HBM), 1450 nits (peak)",
+        "Size": "7.6 inches, 183.3 cm<sup>2</sup> (~82.7% screen-to-body ratio)",
+        "Resolution": "1840 x 2208 pixels (~378 ppi density)",
+        "Features": "Cover display:\n\nOLED, 120Hz, HDR, Corning Gorilla Glass Victus\n\n5.8 inches, 1080 x 2092 pixels, 17.4:9 ratio, 408 ppi\n\n1200 nits (HBM), 1550 nits (peak)"
+      },
+      "Platform": {
+        "OS": "Android 13, upgradable to Android 15, up to 5 major Android upgrades",
+        "Chipset": "Google Tensor G2 (5 nm)",
+        "CPU": "Octa-core (2x2.85 GHz Cortex-X1 &amp; 2x2.35 GHz Cortex-A78 &amp; 4x1.80 GHz Cortex-A55)",
+        "GPU": "Mali-G710 MP7"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 12GB RAM, 512GB 12GB RAM",
+        "Features": "UFS 3.1"
+      },
+      "Main Camera": {
+        "Triple": "48 MP, f/1.7, 25mm (wide), 1/2.0\", 0.8µm, dual pixel PDAF, OIS\n\n10.8 MP, f/3.1, 112mm (telephoto), 1/3.1\", 1.22µm, dual pixel PDAF, OIS, 5x optical zoom\n\n10.8 MP, f/2.2, 121˚, (ultrawide), 1/3.0\", 1.25µm",
+        "Features": "Laser AF, Dual-LED flash, HDR, panorama",
+        "Video": "4K@30/60fps, 1080p@30/60/120/240fps, 10-bit HDR"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, f/2.0, 24mm (wide), 1/4.0\", 1.12µm\n\nCover camera:\n\n9.5 MP, f/2.2, 24mm (wide), 1.22µm, dual pixel PDAF",
+        "Features": "HDR, panorama",
+        "Video": "4K@30/60fps, 1080p@30/60fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e, tri-band, Wi-Fi Direct",
+        "Bluetooth": "5.2, A2DP, LE, aptX HD",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 3.2, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer",
+        "Features": "Ultra Wideband (UWB) support"
+      },
+      "Battery": {
+        "Type": "Li-Po 4821 mAh",
+        "Charging": "Wired, PD3.0\n\nWireless"
+      },
+      "Misc": {
+        "Colors": "Porcelain, Obsidian",
+        "Models": "G9FPL",
+        "Price": "<a href=\"google_pixel_fold-price-12265.php\">$ 599.99 / £ 649.99 / € 722.89</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-fold-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-fold-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-fold-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-fold-4.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/google_pixel_fold-pictures-12265.php"
+    }
+  }
+}

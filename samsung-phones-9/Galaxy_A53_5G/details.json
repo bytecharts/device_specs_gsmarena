@@ -1,0 +1,110 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy A53 5G",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a53-5g-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a53-5g-.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_galaxy_a53_5g-review-2406.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2022, March 24",
+    "dimensions": "189g, 8.1mm thickness",
+    "os": "Android 12, up to 4 major upgrades, One UI 8",
+    "storage": "128GB/256GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 12, 14, 20, 29, 30, 38, 39, 40, 41, 46, 48, 66 - SM-A536U",
+        "5G bands": "2, 5, 41, 66, 77, 78 SA/NSA/Sub6/mmWave - SM-A536U",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "1, 2, 3, 4, 5, 7, 12, 13, 20, 28, 46, 48, 66 - SM-A536V\n2, 5, 48, 66, 77, 78, 260, 261 SA/NSA/Sub6/mmWave - SM-A536V"
+      },
+      "Launch": {
+        "Announced": "2022, March 17",
+        "Status": "Available. Released 2022, March 24"
+      },
+      "Body": {
+        "Dimensions": "159.6 x 74.8 x 8.1 mm (6.28 x 2.94 x 0.32 in)",
+        "Weight": "189 g (6.67 oz)",
+        "Build": "Glass front (Gorilla Glass 5), plastic frame, plastic back",
+        "SIM": "· Nano-SIM\n· Nano-SIM + Nano-SIM",
+        "Features": "IP67 dust/water resistant (up to 1m for 30 min)"
+      },
+      "Display": {
+        "Type": "Super AMOLED, 120Hz, 800 nits (HBM)",
+        "Size": "6.5 inches, 102.0 cm<sup>2</sup> (~85.4% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~405 ppi density)",
+        "Protection": "Corning Gorilla Glass 5"
+      },
+      "Platform": {
+        "OS": "Android 12, up to 4 major Android upgrades, One UI 8",
+        "Chipset": "Exynos 1280 (5 nm)",
+        "CPU": "Octa-core (2x2.4 GHz Cortex-A78 &amp; 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G68"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (uses shared SIM slot)",
+        "Internal": "128GB 4GB RAM, 128GB 6GB RAM, 128GB 8GB RAM, 256GB 6GB RAM, 256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Quad": "64 MP, f/1.8, 26mm (wide), 1/1.7X\", 0.8µm, PDAF, OIS\n\n12 MP, f/2.2, 123˚ (ultrawide), 1.12µm\n\n5 MP (macro)\n\nAuxiliary lens",
+        "Features": "LED flash, panorama, HDR",
+        "Video": "4K@30fps, 1080p@30/60fps; gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.2, 26mm (wide), 1/2.8\", 0.8µm",
+        "Features": "HDR",
+        "Video": "4K@30fps, 1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.1, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS",
+        "NFC": "Yes (market/region dependent)",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, compass, barometer (market/region dependent)",
+        "Features": "Virtual proximity sensing"
+      },
+      "Battery": {
+        "Type": "Li-Po 5000 mAh",
+        "Charging": "25W wired"
+      },
+      "Misc": {
+        "Colors": "Black, White, Blue, Peach",
+        "Models": "SM-A536B, SM-A536B/DS, SM-A536U, SM-A536U1, SM-A5360, SM-A536E, SM-A536E/DS, SM-A536V, SM-A536W, SM-A536N, SM-S536DL",
+        "SAR": "0.75 W/kg (head) &nbsp; &nbsp; 1.58 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.89 W/kg (head) &nbsp; &nbsp; 1.60 W/kg (body) &nbsp; &nbsp;",
+        "Price": "<a href=\"samsung_galaxy_a53_5g-price-11268.php\">$ 156.00 / £ 149.99 / € 259.99</a>"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 329802 (v8), 379313 (v9)\n\nGeekBench: 1891 (v5.1)\n\nGFXBench: 19fps (ES 3.1 onscreen)",
+        "Display": "<a class=\"noUnd\" href=\"samsung_galaxy_a53_5g-review-2406p3.php#dt\">830 nits max brightness (measured)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=11268&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=11268&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"samsung_galaxy_a53_5g-review-2406p3.php#lt\">-26.5 LUFS (Good)</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 11268); \">Endurance rating 113h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a53-5g-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a33-5g-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_a53_5g-pictures-11268.php"
+    }
+  }
+}

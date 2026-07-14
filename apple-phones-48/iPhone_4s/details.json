@@ -1,0 +1,107 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Apple iPhone 4s",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-4s-white-black-official.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-4s-new.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/apple_iphone_4s-review-665.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2011, October 14",
+    "dimensions": "140g, 9.3mm thickness",
+    "os": "iOS 5, up to iOS 9.3.6",
+    "storage": "8GB/16GB/64GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / EVDO</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "Speed": "HSPA 14.4/5.76 Mbps",
+        "Features": "CDMA 800 / 1900\nCDMA2000 1xEV-DO"
+      },
+      "Launch": {
+        "Announced": "2011, October 04. Released 2011, October 14",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "115.2 x 58.6 x 9.3 mm (4.54 x 2.31 x 0.37 in)",
+        "Weight": "140 g (4.94 oz)",
+        "Build": "Glass front (Corning-made glass), glass back, stainless steel frame",
+        "SIM": "Micro-SIM",
+        "Features": "Scratch-resistant glass back panel"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "3.5 inches, 36.5 cm<sup>2</sup> (~54.0% screen-to-body ratio)",
+        "Resolution": "640 x 960 pixels, 3:2 ratio (~330 ppi density)",
+        "Protection": "Corning Gorilla Glass, oleophobic coating"
+      },
+      "Platform": {
+        "OS": "iOS 5, upgradable to iOS 9.3.6",
+        "Chipset": "Apple A5 (45 nm)",
+        "CPU": "Dual-core 1.0 GHz Cortex-A9",
+        "GPU": "PowerVR SGX543MP2"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "8GB 512MB RAM, 16GB 512MB RAM, 32GB 512MB RAM, 64GB 512MB RAM"
+      },
+      "Main Camera": {
+        "Single": "8 MP, f/2.4, 35mm (standard), 1/3.2\", 1.4µm, AF",
+        "Features": "LED flash, panorama, HDR",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "VGA, videocalling over Wi-Fi and 3G",
+        "Video": "480p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+        "Bluetooth": "4.0, A2DP, LE",
+        "Positioning": "GPS, A-GPS, GLONASS",
+        "Radio": "No",
+        "USB": "2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Po 1432 mAh, non-removable (5.3 Wh)",
+        "Stand-by": "Up to 200 h (3G)",
+        "Talk time": "Up to 8 h (3G)"
+      },
+      "Misc": {
+        "Colors": "Black, White",
+        "Models": "A1431, A1387, iPhone4,1",
+        "SAR": "1.18 W/kg (head) &nbsp; &nbsp; 0.98 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.99 W/kg (head) &nbsp; &nbsp; 0.99 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 190 EUR"
+      },
+      "Our Tests": {
+        "Display": "<a class=\"noUnd\" href=\"apple_iphone_4s-review-665p2.php\">Contrast ratio: 1261:1 (nominal) / 2.269:1 (sunlight)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=4212&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=4212&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"apple_iphone_4s-review-665p4.php\">Voice 65dB / Noise 64dB / Ring 74dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"apple_iphone_4s-review-665p5.php#aq\">Noise -91.2dB / Crosstalk -93.0dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 4212); \">Endurance rating 45h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-4s-white-black-official.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-4s-all-sides.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-4s-side-view.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/apple_iphone_4s-pictures-4212.php"
+    }
+  }
+}

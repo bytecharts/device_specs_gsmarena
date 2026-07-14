@@ -1,0 +1,92 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy Watch Active",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-watch-active-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-watch-active.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "samsung_galaxy_watch_active2-9784"
+    ],
+    "release_date": "Released 2019, April",
+    "dimensions": "25g, 10.5mm thickness",
+    "os": "Tizen OS 5.5",
+    "storage": "4GB 768MB RAM storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">No cellular connectivity</a>",
+        "2G bands": "N/A",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2019, February. Released 2019, April",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "39.5 x 39.5 x 10.5 mm (1.56 x 1.56 x 0.41 in)",
+        "Weight": "25 g (0.88 oz)",
+        "SIM": "No",
+        "Features": "IP68 dust tight and water resistant (immersible up to 50m)\n\nCompatible with standard 20mm straps\n\nMIL-STD-810G compliant*\n\n*does not guarantee ruggedness or use in extreme conditions"
+      },
+      "Display": {
+        "Type": "Super AMOLED",
+        "Size": "1.1 inches",
+        "Resolution": "360 x 360 pixels (~302 ppi density)",
+        "Protection": "Corning Gorilla Glass 3"
+      },
+      "Platform": {
+        "OS": "Tizen OS 5.5",
+        "Chipset": "Exynos 9110 (10 nm)",
+        "CPU": "Dual-core 1.15 GHz Cortex-A53",
+        "GPU": "Mali-T720"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "4GB 768MB RAM"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n",
+        "Bluetooth": "4.2, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, heart rate, barometer"
+      },
+      "Battery": {
+        "Type": "Li-Ion 230 mAh, non-removable",
+        "Charging": "Wireless"
+      },
+      "Misc": {
+        "Colors": "Silver, Black, Rose Gold, Sea Green",
+        "Models": "SM-R500",
+        "Price": "About 210 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-watch-active-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-watch-active-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-watch-active-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-watch-active-4.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_watch_active-pictures-9589.php"
+    }
+  }
+}

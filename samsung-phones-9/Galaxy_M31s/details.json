@@ -1,0 +1,99 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy M31s",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-m31s-2.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-m31s.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_galaxy_m31_hands_on-review-2070.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2020, August 06",
+    "dimensions": "203g, 9.3mm thickness",
+    "os": "Android 10, up to Android 12, One UI 4.1",
+    "storage": "128GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 20, 26, 28, 38, 40, 41, 66",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2020, July 30. Released 2020, August 06",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "159.3 x 74.4 x 9.3 mm (6.27 x 2.93 x 0.37 in)",
+        "Weight": "203 g (7.16 oz)",
+        "SIM": "· Nano-SIM\n· Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "Super AMOLED",
+        "Size": "6.5 inches, 102.0 cm<sup>2</sup> (~86.1% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~405 ppi density)",
+        "Protection": "Corning Gorilla Glass 3"
+      },
+      "Platform": {
+        "OS": "Android 10, upgradable to Android 12, One UI 4.1",
+        "Chipset": "Exynos 9611 (10 nm)",
+        "CPU": "Octa-core (4x2.3 GHz Cortex-A73 &amp; 4x1.7 GHz Cortex-A53)",
+        "GPU": "Mali-G72 MP3"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "128GB 6GB RAM, 128GB 8GB RAM",
+        "Features": "UFS 2.1"
+      },
+      "Main Camera": {
+        "Triple": "64 MP, f/1.8, 26mm (wide), 1/1.73\", 0.8µm, PDAF\n\n12 MP, f/2.2, 123˚ (ultrawide)\n\n5 MP (macro)\n\nAuxiliary lens",
+        "Features": "LED flash, panorama, HDR",
+        "Video": "4K@30fps, 1080p@30fps, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.2, 26mm (wide), 1/2.8\", 0.8µm",
+        "Features": "HDR",
+        "Video": "4K@30fps, 1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS",
+        "NFC": "Yes (market/region dependent)",
+        "Radio": "FM radio, RDS, recording",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, compass",
+        "Features": "Virtual proximity sensing"
+      },
+      "Battery": {
+        "Type": "Li-Po 6000 mAh",
+        "Charging": "25W wired\n\n4.5W reverse wired"
+      },
+      "Misc": {
+        "Colors": "Mirage Black, Mirage Blue",
+        "Models": "SM-M317F, SM-M317F/DS",
+        "SAR": "1.38 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 300 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-m31s-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-m31s-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_m31s-pictures-10333.php"
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy S6 (USA)",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s6-cdma-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s6-cdma.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2015, April",
+    "dimensions": "140g, 6.9mm thickness",
+    "os": "Android 5.0.2, up to 5.1, TouchWiz UI",
+    "storage": "32GB/64GB/128GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / EVDO / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - G920V, G920P",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100 - G920V",
+        "4G bands": "2, 3, 4, 5, 7, 13 - G920V",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat6 300/50 Mbps, EV-DO Rev.A 3.1 Mbps",
+        "Features": "CDMA 800 / 1900 - G920V, G920P, G920R\nCDMA2000 1xEV-DO - G920V, G920P, G920R\n2, 4, 5, 12, 25, 26, 41 - G920P\n2, 4, 5, 12, 13, 17, 25 - G920R"
+      },
+      "Launch": {
+        "Announced": "2015, March. Released 2015, April",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "143.5 x 70.6 x 6.9 mm (5.65 x 2.78 x 0.27 in)",
+        "Weight": "140 g (4.94 oz)",
+        "Build": "Glass front (Gorilla Glass 4), glass back (Gorilla Glass 4), aluminum frame",
+        "SIM": "Nano-SIM"
+      },
+      "Display": {
+        "Type": "Super AMOLED",
+        "Size": "5.1 inches, 71.7 cm<sup>2</sup> (~70.8% screen-to-body ratio)",
+        "Resolution": "1440 x 2560 pixels, 16:9 ratio (~576 ppi density)",
+        "Protection": "Corning Gorilla Glass 4"
+      },
+      "Platform": {
+        "OS": "Android 5.0.2 (Lollipop), upgradable to 5.1 (Lollipop), TouchWiz UI",
+        "Chipset": "Exynos 7420 Octa (14 nm)",
+        "CPU": "Octa-core (4x2.1 GHz Cortex-A57 &amp; 4x1.5 GHz Cortex-A53)",
+        "GPU": "Mali-T760MP8"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "32GB 3GB RAM, 64GB 3GB RAM, 128GB 3GB RAM",
+        "Features": "UFS 2.0"
+      },
+      "Main Camera": {
+        "Single": "16 MP, f/1.9, 28mm (wide), 1/2.6\", 1.12µm, AF, OIS",
+        "Features": "LED flash, auto-HDR, panorama",
+        "Video": "4K@30fps, 1080p@30/60fps, 720p@120fps, HDR, stereo sound rec., OIS, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "5 MP, f/1.9, 22mm (wide)",
+        "Features": "HDR",
+        "Video": "1440p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes",
+        "Features": "24-bit/192kHz audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+        "Bluetooth": "4.1, A2DP, LE, aptX",
+        "Positioning": "GPS, GLONASS",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "microUSB 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (front-mounted), accelerometer, gyro, proximity, compass, barometer, heart rate, SpO2",
+        "Features": "ANT+\n\nS-Voice natural language commands and dictation\n\nSamsung Pay (Visa, MasterCard certified)"
+      },
+      "Battery": {
+        "Type": "Li-Ion 2550 mAh, non-removable",
+        "Charging": "15W wired\n\nWireless",
+        "Talk time": "Up to 23 h (3G)",
+        "Music play": "Up to 57 h"
+      },
+      "Misc": {
+        "Colors": "White Pearl, Black Sapphire, Gold Platinum",
+        "Models": "SM-G920P, SM-G920V, SM-G920R, SM-G920W8, SM-G920R4, SM-G920T1, SM-G920AZ, SM-S907VL",
+        "SAR": "1.09 W/kg (head) &nbsp; &nbsp; 1.13 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.22 W/kg (head) &nbsp; &nbsp; 0.66 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 410 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s6-cdma-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s6-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_s6_(usa)-pictures-7164.php"
+    }
+  }
+}

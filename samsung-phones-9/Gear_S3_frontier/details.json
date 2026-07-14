@@ -1,0 +1,92 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Gear S3 frontier",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-gear-s3-frontier-lte1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-gear-s3-frontier-lte.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_gear_s3-review-1525.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2016, November",
+    "dimensions": "63g, 12.9mm thickness",
+    "os": "Tizen OS 5.5",
+    "storage": "4GB 768MB RAM storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">No cellular connectivity</a>",
+        "2G bands": "N/A",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2016, August. Released 2016, November",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "49 x 46 x 12.9 mm (1.93 x 1.81 x 0.51 in)",
+        "Weight": "63 g (2.22 oz)",
+        "Build": "Glass front (Gorilla Glass 3), stainless steel 316L frame",
+        "SIM": "No",
+        "Features": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)\n\nCompatible with standard 22mm straps"
+      },
+      "Display": {
+        "Type": "Super AMOLED",
+        "Size": "1.3 inches",
+        "Resolution": "360 x 360 pixels (~278 ppi density)",
+        "Protection": "Corning Gorilla Glass SR+",
+        "Features": "Rotating bezel"
+      },
+      "Platform": {
+        "OS": "Tizen OS 5.5",
+        "Chipset": "Exynos 7 Dual 7270 (14 nm)",
+        "CPU": "Dual-core 1.0 GHz Cortex-A53"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "4GB 768MB RAM"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n",
+        "Bluetooth": "4.2, A2DP, LE",
+        "Positioning": "GPS, GLONASS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, heart rate, barometer",
+        "Features": "S-Voice natural language commands and dictation\n\nSamsung Pay"
+      },
+      "Battery": {
+        "Type": "Li-Ion 380 mAh, non-removable",
+        "Charging": "Wireless (Qi)",
+        "Stand-by": "Up to 72 h (3G)"
+      },
+      "Misc": {
+        "Colors": "Silver",
+        "Price": "About 210 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-gear-s3-frontier-lte1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-gear-s3-frontier-lte2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-gear-s3-frontier-lte3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_gear_s3_frontier-pictures-8308.php"
+    }
+  }
+}

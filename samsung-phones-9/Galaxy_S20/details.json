@@ -1,0 +1,117 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy S20",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s20-5g-r1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s20-.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_galaxy_s20-review-2083.php",
+    "siblingDeviceSlugs": [
+      "samsung_galaxy_s20_5g-10044",
+      "samsung_galaxy_s20_fe_5g-10377"
+    ],
+    "release_date": "Released 2020, March 06",
+    "dimensions": "163g, 7.9mm thickness",
+    "os": "Android 10, up to Android 13, One UI 5",
+    "storage": "128GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / EVDO / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 32, 38, 39, 40, 41, 66",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE (7CA) Cat20 2000/200 Mbps",
+        "Features": "CDMA 800 / 1900 &amp; TD-SCDMA\nCDMA2000 1xEV-DO"
+      },
+      "Launch": {
+        "Announced": "2020, February 11",
+        "Status": "Available. Released 2020, March 06"
+      },
+      "Body": {
+        "Dimensions": "151.7 x 69.1 x 7.9 mm (5.97 x 2.72 x 0.31 in)",
+        "Weight": "163 g (5.75 oz)",
+        "Build": "Glass front (Gorilla Glass 6), glass back (Gorilla Glass 6), aluminum frame",
+        "SIM": "· Nano-SIM + <a href=\"glossary.php3?term=esim\">eSIM</a>\n· Nano-SIM + Nano-SIM",
+        "Features": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)"
+      },
+      "Display": {
+        "Type": "Dynamic AMOLED 2X, 120Hz, HDR10+, 1200 nits (peak)",
+        "Size": "6.2 inches, 93.8 cm<sup>2</sup> (~89.5% screen-to-body ratio)",
+        "Resolution": "1440 x 3200 pixels, 20:9 ratio (~563 ppi density)",
+        "Protection": "Corning Gorilla Glass 6",
+        "Features": "120Hz@FHD/60Hz@QHD refresh rate"
+      },
+      "Platform": {
+        "OS": "Android 10, upgradable to Android 13, One UI 5",
+        "Chipset": "Exynos 990 (7 nm+) - Global\nQualcomm SM8250 Snapdragon 865 5G (7 nm+) - USA",
+        "CPU": "Octa-core (2x2.73 GHz Mongoose M5 &amp; 2x2.50 GHz Cortex-A76 &amp; 4x2.0 GHz Cortex-A55) - Global\nOcta-core (1x2.84 GHz Cortex-A77 &amp; 3x2.42 GHz Cortex-A77 &amp; 4x1.80 GHz Cortex-A55) - USA",
+        "GPU": "Mali-G77 MP11 - Global\nAdreno 650 - USA"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (uses shared SIM slot)",
+        "Internal": "128GB 8GB RAM",
+        "Features": "UFS 3.0"
+      },
+      "Main Camera": {
+        "Triple": "12 MP, f/1.8, 26mm (wide), 1/1.76\", 1.8µm, dual pixel PDAF, OIS\n\n64 MP, f/2.0, 29mm (telephoto), 1/1.72\", 0.8µm, PDAF, OIS, 1.1x optical zoom, 3x hybrid zoom\n\n12 MP, f/2.2, 13mm, 120˚ (ultrawide), 1/2.55\" 1.4µm, Super Steady video",
+        "Features": "LED flash, auto-HDR, panorama",
+        "Video": "8K@24fps, 4K@30/60fps, 1080p@30/60/240fps, 720p@960fps, HDR10+, stereo sound rec., gyro-EIS &amp; OIS"
+      },
+      "Selfie camera": {
+        "Single": "10 MP, f/2.2, 26mm (wide), 1/3.24\", 1.22µm, dual pixel PDAF",
+        "Features": "HDR",
+        "Video": "4K@30/60fps, 1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No",
+        "Features": "High-bitrate audio support\n\nTuned by AKG"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS, GLONASS, BDS, GALILEO",
+        "NFC": "Yes",
+        "Radio": "FM radio (Snapdragon model only; market/operator dependent)",
+        "USB": "USB Type-C 3.2, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer",
+        "Features": "Samsung DeX, Samsung Wireless DeX (desktop experience support)\n\nANT+"
+      },
+      "Battery": {
+        "Type": "Li-Ion 4000 mAh",
+        "Charging": "25W wired, PD3.0\n\n15W wireless (Qi)\n\n4.5W reverse wireless"
+      },
+      "Misc": {
+        "Colors": "Cosmic Grey, Cloud Blue, Cloud Pink, Cloud White, Aura Red",
+        "Models": "SM-G980, SM-G980F, SM-G980F/DS",
+        "SAR": "0.76 W/kg (head) &nbsp; &nbsp; 1.01 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.28 W/kg (head) &nbsp; &nbsp; 1.52 W/kg (body) &nbsp; &nbsp;",
+        "Price": "<a href=\"samsung_galaxy_s20-price-10081.php\">£ 242.00 / € 289.99</a>"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 525029 (v8)\n\nGeekBench: 12557 (v4.4), 2750 (v5.1)\n\nGFXBench: 44fps (ES 3.1 onscreen)",
+        "Display": "<a class=\"noUnd\" href=\"samsung_galaxy_s20-review-2083p3.php#dt\">814 nits max brightness (measured)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=10081&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=10081&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"samsung_galaxy_s20-review-2083p3.php#aq\">-23.9 LUFS (Very good)</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 10081); \">Endurance rating 71h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s20-5g-r1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s20-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s20-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s20-colors.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_s20-pictures-10081.php"
+    }
+  }
+}

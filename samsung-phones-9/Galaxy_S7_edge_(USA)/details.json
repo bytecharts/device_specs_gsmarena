@@ -1,0 +1,107 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy S7 edge (USA)",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s7-edge-usa1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s7-edge-usa.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_galaxy_s7_edge-review-1409.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2016, March",
+    "dimensions": "157g, 7.7mm thickness",
+    "os": "Android 6.0, up to Android 8.0, TouchWiz UI",
+    "storage": "32GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / EVDO / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100 - G935A, G935P, G935R",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 20, 29, 30, 38, 39, 40, 41 - G935A",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE (3CA) Cat9 450/50 Mbps, EV-DO Rev.A 3.1 Mbps",
+        "Features": "CDMA 800 / 1900 - G935V, G935P, G935R\nCDMA2000 1xEV-DO - G935V, G935P, G935R\nHSDPA 850 / 1700(AWS) / 1900 / 2100 - G935T\n2, 3, 4, 5, 7, 13, 20, 38, 39, 40 - G935V\n1, 2, 3, 4, 5, 7, 12, 13, 20 - G935T\n1, 2, 3, 4, 5, 8, 12, 25, 26, 41 - G935P\n2,4,5,8,12,13,18,19,25,38,39,40 - G935R"
+      },
+      "Launch": {
+        "Announced": "2016, February. Released 2016, March",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "150.9 x 72.6 x 7.7 mm (5.94 x 2.86 x 0.30 in)",
+        "Weight": "157 g (5.54 oz)",
+        "Build": "Glass front (Gorilla Glass 4), glass back (Gorilla Glass 4), aluminum frame",
+        "SIM": "Nano-SIM",
+        "Features": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)"
+      },
+      "Display": {
+        "Type": "Super AMOLED",
+        "Size": "5.5 inches, 83.4 cm<sup>2</sup> (~76.1% screen-to-body ratio)",
+        "Resolution": "1440 x 2560 pixels, 16:9 ratio (~534 ppi density)",
+        "Protection": "Corning Gorilla Glass 4"
+      },
+      "Platform": {
+        "OS": "Android 6.0 (Marshmallow), upgradable to Android 8.0 (Oreo), TouchWiz UI",
+        "Chipset": "Qualcomm MSM8996 Snapdragon 820 (14 nm)",
+        "CPU": "Quad-core (2x2.15 GHz Kryo &amp; 2x1.6 GHz Kryo)",
+        "GPU": "Adreno 530"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "32GB 4GB RAM"
+      },
+      "Main Camera": {
+        "Single": "12 MP, f/1.7, 26mm (wide), 1/2.55\", 1.4µm, dual pixel PDAF, OIS",
+        "Features": "LED flash, auto-HDR, panorama",
+        "Video": "4K@30fps, 1080p@30fps (gyro-EIS), 1080p@60fps, 720p@240fps, HDR, stereo sound rec., OIS"
+      },
+      "Selfie camera": {
+        "Single": "5 MP, f/1.7, 22mm (wide), 1/4.1\", 1.34µm",
+        "Features": "HDR",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes",
+        "Features": "24-bit/192kHz audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "4.2, A2DP, LE, aptX",
+        "Positioning": "GPS, GLONASS",
+        "NFC": "Yes",
+        "Radio": "FM radio (after SW update; operator dependent)",
+        "USB": "microUSB 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (front-mounted), accelerometer, gyro, proximity, compass, barometer, heart rate, SpO2",
+        "Features": "ANT+\n\nS-Voice natural language commands and dictation\n\nSamsung Pay (Visa, MasterCard certified)"
+      },
+      "Battery": {
+        "Type": "Li-Ion 3600 mAh, non-removable",
+        "Charging": "15W wired, QC2\n\nWireless"
+      },
+      "Misc": {
+        "Colors": "Black Onyx, Silver Titanium, Gold Platinum, Coral Blue",
+        "Models": "SM-G935A, SM-G935P, SM-G935V, SM-G935T, SM-G935R, SM-G935U, SM-G935L, SAMSUNG-SM-G935A",
+        "SAR": "0.64 W/kg (head) &nbsp; &nbsp; 1.59 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 350 EUR"
+      },
+      "Our Tests": {
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 7961); \">Endurance rating 87h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s7-edge-usa1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s7-edge-usa2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s7-edge-blue-coral-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s7-edge-blue-coral-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_s7_edge_(usa)-pictures-7961.php"
+    }
+  }
+}

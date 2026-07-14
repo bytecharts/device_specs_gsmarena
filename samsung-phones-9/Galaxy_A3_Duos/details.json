@@ -1,0 +1,103 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy A3 Duos",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-a3-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-a3.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_galaxy_a3-review-1199.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2014, December",
+    "dimensions": "110.3g, 6.9mm thickness",
+    "os": "Android 4.4.4, up to 5.0.2",
+    "storage": "16GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 &amp; SIM 2",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4G bands": "1, 3, 5, 7, 8, 20",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "Launch": {
+        "Announced": "2014, October. Released 2014, December",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "130.1 x 65.5 x 6.9 mm (5.12 x 2.58 x 0.27 in)",
+        "Weight": "110.3 g (3.88 oz)",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "Super AMOLED",
+        "Size": "4.5 inches, 55.8 cm<sup>2</sup> (~65.5% screen-to-body ratio)",
+        "Resolution": "540 x 960 pixels, 16:9 ratio (~245 ppi density)",
+        "Protection": "Corning Gorilla Glass 4"
+      },
+      "Platform": {
+        "OS": "Android 4.4.4 (KitKat), upgradable to 5.0.2 (Lollipop)",
+        "Chipset": "Qualcomm MSM8916 Snapdragon 410 (28 nm)",
+        "CPU": "Quad-core 1.2 GHz Cortex-A53",
+        "GPU": "Adreno 306"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (uses shared SIM slot)",
+        "Internal": "16GB 1GB RAM",
+        "Features": "eMMC 4.5"
+      },
+      "Main Camera": {
+        "Single": "8 MP, f/2.4, 31mm (standard), AF",
+        "Features": "LED flash, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "5 MP, f/2.2, 23mm (wide)",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+        "Bluetooth": "4.0, A2DP, EDR, LE",
+        "Positioning": "GPS, GLONASS",
+        "NFC": "Yes (LTE model only)",
+        "Radio": "FM radio, recording",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity, compass",
+        "Features": "ANT+"
+      },
+      "Battery": {
+        "Type": "Li-Ion 1900 mAh, non-removable"
+      },
+      "Misc": {
+        "Colors": "Pearl White, Midnight Black, Platinum Silver, Soft Pink, Light Blue, Champagne Gold",
+        "Models": "SM-A300F, SM-A300G, SM-A300H, SM-A300M",
+        "SAR EU": "0.24 W/kg (head) &nbsp; &nbsp; 0.30 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 230 EUR"
+      },
+      "Our Tests": {
+        "Performance": "Basemark X: 1895",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"\">Voice 65dB / Noise 66dB / Ring 76dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 6803); \">Endurance rating 60h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-a3-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-a3-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-a3-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_a3_duos-pictures-6803.php"
+    }
+  }
+}

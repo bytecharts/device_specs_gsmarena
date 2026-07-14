@@ -1,0 +1,91 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung G3812B Galaxy S3 Slim",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/Samsung-G3812B-Galaxy-S3-Slim-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/Samsung-G3812B-Galaxy-S3-Slim.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2014, March",
+    "dimensions": "139g, 9.7mm thickness",
+    "os": "Android 4.2, TouchWiz UI",
+    "storage": "8GB storage, microSDHC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 2100",
+        "Speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "Launch": {
+        "Announced": "2014, March. Released 2014, March",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "133 x 66 x 9.7 mm (5.24 x 2.60 x 0.38 in)",
+        "Weight": "139 g (4.90 oz)",
+        "SIM": "Micro-SIM"
+      },
+      "Display": {
+        "Type": "TFT",
+        "Size": "4.52 inches, 56.3 cm<sup>2</sup> (~64.2% screen-to-body ratio)",
+        "Resolution": "540 x 960 pixels, 16:9 ratio (~244 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 4.2 (Jelly Bean), TouchWiz UI",
+        "CPU": "Quad-core 1.2 GHz"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Internal": "8GB 1GB RAM"
+      },
+      "Main Camera": {
+        "Single": "5 MP, AF",
+        "Features": "LED flash",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Single": "VGA",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+        "Bluetooth": "4.0, A2DP, EDR, aptX",
+        "Positioning": "GPS, GLONASS",
+        "NFC": "No",
+        "Radio": "No",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Ion 2100 mAh, removable"
+      },
+      "Misc": {
+        "Colors": "Black, White",
+        "Models": "SM-G3812B",
+        "SAR": "0.61 W/kg (head) &nbsp; &nbsp; 1.13 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.55 W/kg (head) &nbsp; &nbsp; 0.40 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 200 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/Samsung-G3812B-Galaxy-S3-Slim-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/Samsung-G3812B-Galaxy-S3-Slim-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_g3812b_galaxy_s3_slim-pictures-6209.php"
+    }
+  }
+}

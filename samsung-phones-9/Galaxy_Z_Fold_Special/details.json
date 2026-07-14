@@ -1,0 +1,102 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy Z Fold Special",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-z-fold-special-edition-0.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-z-fold-special-edition.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2024, October 24",
+    "dimensions": "236g, 4.9mm thickness",
+    "os": "Android 14, up to 7 major upgrades",
+    "storage": "512GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 38, 39, 40, 41, 66",
+        "5G bands": "1, 2, 3, 5, 7, 8, 12, 20, 25, 26, 28, 38, 40, 41, 66, 77, 78 SA/NSA/Sub6",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2024, October 21",
+        "Status": "Available. Released 2024, October 24"
+      },
+      "Body": {
+        "Dimensions": "Unfolded: 157.9 x 142.6 x 4.9 mm\nFolded: 157.9 x 72.8 x 10.6 mm",
+        "Weight": "236 g (8.32 oz)",
+        "Build": "Glass front (Gorilla Glass Victus 2) (folded), plastic front (unfolded), glass back (Gorilla Glass Victus 2), aluminum frame",
+        "SIM": "Nano-SIM + <a href=\"glossary.php3?term=esim\">eSIM</a> + eSIM (max 2 at a time)",
+        "Features": "IP48 dust and water resistant (dust &gt; 1mm; immersible up to 1.5m for 30 min)\n\nArmor aluminum frame"
+      },
+      "Display": {
+        "Type": "Foldable Dynamic LTPO AMOLED 2X, 120Hz, HDR10+, 2600 nits (peak)",
+        "Size": "8.0 inches, 205.3 cm<sup>2</sup> (~91.2% screen-to-body ratio)",
+        "Resolution": "1968 x 2184 pixels (~367 ppi density)",
+        "Features": "Ultra Flexible Glass (UFG)\n\nCover display:\n\nDynamic LTPO AMOLED 2X, 120Hz, 2600 nits (peak), Corning Gorilla Glass Victus 2\n\n6.5 inches, 1080 x 2520 pixels"
+      },
+      "Platform": {
+        "OS": "Android 14, up to 7 major Android upgrades, One UI 6.1.1",
+        "Chipset": "Qualcomm SM8650-AC Snapdragon 8 Gen 3 (4 nm)",
+        "CPU": "8-core (1x3.39GHz Cortex-X4 &amp; 3x3.1GHz Cortex-A720 &amp; 2x2.9GHz Cortex-A720 &amp; 2x2.2GHz Cortex-A520)",
+        "GPU": "Adreno 750 (1 GHz)"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "512GB 16GB RAM",
+        "Features": "UFS 4.0"
+      },
+      "Main Camera": {
+        "Triple": "200 MP, f/1.8, (wide), PDAF, OIS\n\n10 MP, f/2.4, 66mm (telephoto), 1.0µm, PDAF, OIS, 3x optical zoom\n\n12 MP, f/2.2, 123˚, 12mm (ultrawide), 1.12µm, AF",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "8K@30fps, 4K@60fps, 1080p@60/120/240fps (gyro-EIS), 720p@960fps (gyro-EIS), HDR10+"
+      },
+      "Selfie camera": {
+        "Single": "4 MP, f/1.8, 26mm (wide), 2.0µm\n\nCover camera:\n\n10 MP, f/2.2, 24mm (wide), 1/3\", 1.22µm",
+        "Features": "HDR",
+        "Video": "4K@30/60fps, 1080p@30/60fps, gyro-EIS"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No",
+        "Features": "High-bitrate audio support"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct",
+        "Bluetooth": "5.3, A2DP, LE",
+        "Positioning": "GPS, GALILEO, GLONASS, BDS, QZSS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 3.2, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer",
+        "Features": "Samsung DeX (desktop experience support)\n\nUltra Wideband (UWB) support"
+      },
+      "Battery": {
+        "Type": "Li-Po 4400 mAh",
+        "Charging": "25W wired, QC2.0, 50% in 30 min\n\n15W wireless\n\n4.5W reverse wireless"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "Models": "SM-F958N",
+        "SAR": "0.66 W/kg (head) &nbsp; &nbsp; 1.13 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 1870 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-z-fold-special-edition-0.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-z-fold-special-edition-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_z_fold_special-pictures-13452.php"
+    }
+  }
+}

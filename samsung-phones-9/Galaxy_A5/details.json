@@ -1,0 +1,114 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy A5",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-a5-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-a5.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_galaxy_a5_and_a5_duos-review-1201.php",
+    "siblingDeviceSlugs": [
+      "samsung_galaxy_a56-13603",
+      "samsung_galaxy_a57_5g-14379"
+    ],
+    "release_date": "Released 2014, December",
+    "dimensions": "123g, 6.7mm thickness",
+    "os": "Android 4.4.4, up to 7.0",
+    "storage": "16GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - all versions",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100 - A500F, A500FQ, A500FU, A500HQ, A500YZ, A500M, A500Y",
+        "4G bands": "1, 3, 5, 7, 8, 20 - A500F, A500FQ, A500FU",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+        "Features": "3, 7, 8, 28 - A500YZ\n1, 2, 4, 5, 7, 17 - A500M\n1, 3, 5, 7, 8, 28 - A500Y"
+      },
+      "Launch": {
+        "Announced": "2014, October 30. Released 2014, December",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "139.3 x 69.7 x 6.7 mm (5.48 x 2.74 x 0.26 in)",
+        "Weight": "123 g (4.34 oz)",
+        "Build": "Glass front (Gorilla Glass 4), plastic back, aluminum frame",
+        "SIM": "Nano-SIM"
+      },
+      "Display": {
+        "Type": "Super AMOLED",
+        "Size": "5.0 inches, 68.9 cm<sup>2</sup> (~71.0% screen-to-body ratio)",
+        "Resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)",
+        "Protection": "Corning Gorilla Glass 4"
+      },
+      "Platform": {
+        "OS": "Android 4.4.4 (KitKat), upgradable to 7.0 (Nougat)",
+        "Chipset": "Qualcomm MSM8916 Snapdragon 410 (28 nm)",
+        "CPU": "Quad-core 1.2 GHz Cortex-A53",
+        "GPU": "Adreno 306"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "16GB 2GB RAM",
+        "Features": "eMMC 4.5"
+      },
+      "Main Camera": {
+        "Single": "13 MP, f/2.0, 28mm (wide), AF",
+        "Features": "LED flash, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "5 MP, f/2.2, 23mm (wide)",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, hotspot",
+        "Bluetooth": "4.0, A2DP, EDR, LE",
+        "Positioning": "GPS, GLONASS, BDS",
+        "NFC": "Yes (LTE model only)",
+        "Radio": "FM radio, recording",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity, compass",
+        "Features": "ANT+\n\nS-Voice"
+      },
+      "Battery": {
+        "Type": "Li-Ion 2300 mAh, non-removable",
+        "Talk time": "Up to 15 h (3G)",
+        "Music play": "Up to 68 h"
+      },
+      "Misc": {
+        "Colors": "Pearl White, Midnight Black, Platinum Silver, Soft Pink, Light Blue, Champagne Gold",
+        "Models": "SM-A5000, SM-A5009, SM-A500F, SM-A500F1, SM-A500FQ, SM-A500FU, SM-A500G, SM-A500H, SM-A500HQ, SM-A500K, SM-A500L, SM-A500S, SM-A500YZ, SM-A500Y, SM-A500W",
+        "SAR": "0.65 W/kg (head) &nbsp; &nbsp; 0.48 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.23 W/kg (head) &nbsp; &nbsp; 0.40 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 360 EUR"
+      },
+      "Our Tests": {
+        "Performance": "Basemark OS II 2.0: 569\nBasemark X: 1897",
+        "Display": "<a class=\"noUnd\" href=\"samsung_galaxy_a5_and_a5_duos-review-1201p3.php\">Contrast ratio: Infinite (nominal), 3.895 (sunlight)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=6761&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=6761&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"samsung_galaxy_a5_and_a5_duos-review-1201p6.php\">Voice 57dB / Noise 60dB / Ring 66dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"samsung_galaxy_a5_and_a5_duos-review-1201p7.php#aq\">Noise -94.5dB / Crosstalk -93.8dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 6761); \">Endurance rating 74h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-a5-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-a5-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-a5-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_a5-pictures-6761.php"
+    }
+  }
+}

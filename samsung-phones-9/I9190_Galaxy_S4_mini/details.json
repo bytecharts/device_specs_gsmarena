@@ -1,0 +1,112 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung I9190 Galaxy S4 mini",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s4-mini-I9190-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s4-mini-I9190-ofic.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_galaxy_s4_mini-review-953.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2013, July",
+    "dimensions": "107g, 8.9mm thickness",
+    "os": "Android 4.2.2, up to 4.4.2",
+    "storage": "8GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - all versions",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100 - I9190, I9195, I9197, I257M",
+        "4G bands": "1, 3, 5, 7, 8, 20 - I9195",
+        "Speed": "HSPA 42.2(LTE)/21.1(3G)/5.76 Mbps, LTE Cat3 100/50 Mbps",
+        "Features": "GSM 850 / 900 / 1800 / 1900 - SIM 1 &amp; SIM 2 - I9192\nLTE 850 / 1800 / 2600 TD-LTE 2300 - I9197\nLTE 700 / 2600 / 850 / 1700 / 1900 / 2100 - I257M"
+      },
+      "Launch": {
+        "Announced": "2013, May. Released 2013, July",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "124.6 x 61.3 x 8.9 mm (4.91 x 2.41 x 0.35 in)",
+        "Weight": "107 g (3.77 oz)",
+        "Build": "Glass front (Gorilla Glass 2), plastic back, plastic frame",
+        "SIM": "Single SIM (Micro-SIM) or Dual SIM (Micro-SIM, dual stand-by)"
+      },
+      "Display": {
+        "Type": "Super AMOLED",
+        "Size": "4.3 inches, 51.0 cm<sup>2</sup> (~66.7% screen-to-body ratio)",
+        "Resolution": "540 x 960 pixels, 16:9 ratio (~256 ppi density)",
+        "Protection": "Corning Gorilla Glass 2"
+      },
+      "Platform": {
+        "OS": "Android 4.2.2 (Jelly Bean), upgradable to 4.4.2 (KitKat)",
+        "Chipset": "Qualcomm MSM8930AB Snapdragon 400 (28 nm)",
+        "CPU": "Dual-core 1.7 GHz Krait 300",
+        "GPU": "Adreno 305"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "8GB 1.5GB RAM",
+        "Features": "eMMC 4.5"
+      },
+      "Main Camera": {
+        "Single": "8 MP, f/2.6, AF",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "1.9 MP",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, DLNA, hotspot",
+        "Bluetooth": "4.0, A2DP, EDR, LE, aptX",
+        "Positioning": "GPS, GLONASS",
+        "NFC": "Yes (GT-I9195, SGH-I257M)",
+        "Infrared port": "Yes",
+        "Radio": "Stereo FM radio, RDS/ I257M model with no FM radio",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Ion 1900 mAh, removable",
+        "Stand-by": "Up to 300 h (3G)",
+        "Talk time": "Up to 12 h (3G)",
+        "Music play": "Up to 49 h"
+      },
+      "Misc": {
+        "Colors": "White Frost, Black Mist, Blue, Pink, Orange, Purple, Black Edition",
+        "Models": "GT-I9192, GT-I9190, GT-I9195, GT-I9195L, GT-I9197, SGH-I257M, GT-I9195I, SGH-I257, SCH-I435, SHV-E370K, GT-I9192I",
+        "SAR": "0.89 W/kg (head) &nbsp; &nbsp; 1.38 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.33 W/kg (head) &nbsp; &nbsp; 0.32 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 230 EUR"
+      },
+      "Our Tests": {
+        "Display": "<a class=\"noUnd\" href=\"samsung_galaxy_s4_mini-review-932p3.php\">Contrast ratio: Infinite (nominal), 3.127 (sunlight)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=5375&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=5375&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"samsung_galaxy_s4_mini-review-953p7.php\">Voice 66dB / Noise 64dB / Ring 75dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"samsung_galaxy_s4_mini-review-953p8.php\">Noise -93.5dB / Crosstalk -86.2dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 5375); \">Endurance rating 54h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s4-mini-I9190-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s4-mini-I9190-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s4-mini-purple-blue.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s4-mini-I9190-black-edition.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_i9190_galaxy_s4_mini-pictures-5375.php"
+    }
+  }
+}

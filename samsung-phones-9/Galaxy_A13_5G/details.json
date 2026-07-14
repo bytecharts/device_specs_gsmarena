@@ -1,0 +1,99 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy A13 5G",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a13-5g-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a13-5g-.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "samsung_galaxy_a13-11402"
+    ],
+    "release_date": "Released 2021, December 03",
+    "dimensions": "195g, 8.8mm thickness",
+    "os": "Android 11, up to Android 14, One UI 6.1",
+    "storage": "32GB/64GB/128GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 12, 14, 20, 29, 30, 38, 39, 40, 41, 66",
+        "5G bands": "2, 5, 66, 77 Sub6/mmWave",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "1, 2, 3, 4, 5, 7, 12, 13, 14, 20, 25, 26, 29, 30, 38, 39, 40, 41, 48, 66, 71 - SM-A136U\n2, 5, 41, 48, 66, 71, 77 Sub6/mmWave - SM-A136U"
+      },
+      "Launch": {
+        "Announced": "2021, December 02",
+        "Status": "Available. Released 2021, December 03"
+      },
+      "Body": {
+        "Dimensions": "164.5 x 76.5 x 8.8 mm (6.48 x 3.01 x 0.35 in)",
+        "Weight": "195 g (6.88 oz)",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "Nano-SIM"
+      },
+      "Display": {
+        "Type": "PLS LCD, 90Hz",
+        "Size": "6.5 inches, 102.0 cm<sup>2</sup> (~81.1% screen-to-body ratio)",
+        "Resolution": "720 x 1600 pixels, 20:9 ratio (~270 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 11, upgradable to Android 14, One UI 6.1",
+        "Chipset": "Mediatek Dimensity 700 (7 nm)",
+        "CPU": "Octa-core (2x2.2 GHz Cortex-A76 &amp; 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "32GB 4GB RAM, 64GB 4GB RAM, 128GB 4GB RAM, 128GB 6GB RAM"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, f/1.8, 26mm (wide), PDAF\n\n2 MP (macro)\n\nAuxiliary lens",
+        "Features": "LED flash, panorama, HDR",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "5 MP, f/2.0, (wide)",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO",
+        "NFC": "Yes",
+        "Radio": "Unspecified",
+        "USB": "USB Type-C 2.0"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, compass, barometer",
+        "Features": "Virtual proximity sensing"
+      },
+      "Battery": {
+        "Type": "Li-Po 5000 mAh",
+        "Charging": "15W wired"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "Models": "SM-A136U, SM-A136U1, SM-A136W, SM-A136B, SM-S136DL",
+        "SAR": "1.27 W/kg (head) &nbsp; &nbsp; 0.58 W/kg (body) &nbsp; &nbsp;",
+        "Price": "<a href=\"samsung_galaxy_a13_5g-price-11149.php\">$ 159.99 / £ 154.99 / € 104.59</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a13-5g-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_a13_5g-pictures-11149.php"
+    }
+  }
+}

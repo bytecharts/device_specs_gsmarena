@@ -1,0 +1,91 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy Beam2",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-beam2-g3858-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-beam2-g3858.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2014, July",
+    "dimensions": "165g, 11.6mm thickness",
+    "os": "Android 4.2.2",
+    "storage": "microSDXC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 1900 / 2100",
+        "Speed": "HSPA",
+        "Features": "TD-SCDMA"
+      },
+      "Launch": {
+        "Announced": "2014, April. Released 2014, July",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "134.5 x 70 x 11.6 mm (5.30 x 2.76 x 0.46 in)",
+        "Weight": "165 g (5.82 oz)",
+        "SIM": "Micro-SIM",
+        "Features": "Built-in nHD projector"
+      },
+      "Display": {
+        "Type": "TFT",
+        "Size": "4.66 inches, 61.8 cm<sup>2</sup> (~65.6% screen-to-body ratio)",
+        "Resolution": "480 x 800 pixels, 5:3 ratio (~200 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 4.2.2 (Jelly Bean)",
+        "CPU": "Quad-core 1.2 GHz"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)"
+      },
+      "Main Camera": {
+        "Single": "5 MP, AF",
+        "Features": "LED flash",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Single": "Yes",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+        "Bluetooth": "4.0, A2DP",
+        "Positioning": "GPS, GLONASS",
+        "NFC": "No",
+        "Radio": "No",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Ion 2600 mAh, removable"
+      },
+      "Misc": {
+        "Colors": "Gray silver",
+        "Models": "SM-G3858",
+        "Price": "About 250 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-beam2-g3858-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-beam2-g3858-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-beam2-g3858-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_beam2-pictures-6328.php"
+    }
+  }
+}

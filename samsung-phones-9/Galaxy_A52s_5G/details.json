@@ -1,0 +1,109 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy A52s 5G",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/galaxy-a52s-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a52s-5g.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_galaxy_a52s_5g-review-2323.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2021, September 01",
+    "dimensions": "189g, 8.4mm thickness",
+    "os": "Android 11, up to Android 14, One UI 6",
+    "storage": "128GB/256GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 20, 26, 28, 32, 38, 40, 41, 66",
+        "5G bands": "1, 3, 5, 7, 8, 20, 28, 38, 40, 41, 66, 78 SA/NSA/Sub6",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat18 1200/150 Mbps, 5G"
+      },
+      "Launch": {
+        "Announced": "2021, August 17",
+        "Status": "Available. Released 2021, September 01"
+      },
+      "Body": {
+        "Dimensions": "159.9 x 75.1 x 8.4 mm (6.30 x 2.96 x 0.33 in)",
+        "Weight": "189 g (6.67 oz)",
+        "Build": "Glass front (Gorilla Glass 5), plastic back",
+        "SIM": "· Nano-SIM\n· Nano-SIM + Nano-SIM",
+        "Features": "IP67 dust/water resistant (up to 1m for 30 min)"
+      },
+      "Display": {
+        "Type": "Super AMOLED, 120Hz, 800 nits (HBM)",
+        "Size": "6.5 inches, 102.0 cm<sup>2</sup> (~84.9% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~405 ppi density)",
+        "Protection": "Corning Gorilla Glass 5"
+      },
+      "Platform": {
+        "OS": "Android 11, upgradable to Android 14, One UI 6",
+        "Chipset": "Qualcomm SM7325 Snapdragon 778G 5G (6 nm)",
+        "CPU": "Octa-core (1x2.4 GHz Cortex-A78 &amp; 3x2.2 GHz Cortex-A78 &amp; 4x1.9 GHz Cortex-A55)",
+        "GPU": "Adreno 642L"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (uses shared SIM slot)",
+        "Internal": "128GB 4GB RAM, 128GB 6GB RAM, 128GB 8GB RAM, 256GB 6GB RAM, 256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Quad": "64 MP, f/1.8, 26mm (wide), 1/1.7\", 0.8µm, PDAF, OIS\n\n12 MP, f/2.2, 123˚ (ultrawide), 1.12µm\n\n5 MP (macro)\n\nAuxiliary lens",
+        "Features": "LED flash, panorama, HDR",
+        "Video": "4K@30fps, 1080p@30/60fps; gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.2, 26mm (wide), 1/2.8\", 0.8µm",
+        "Features": "HDR",
+        "Video": "4K@30fps, 1080p@30/60fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS, QZSS",
+        "NFC": "Yes (market/region dependent)",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, compass",
+        "Features": "Virtual Proximity Sensing"
+      },
+      "Battery": {
+        "Type": "Li-Ion 4500 mAh",
+        "Charging": "25W wired"
+      },
+      "Misc": {
+        "Colors": "Awesome Black, Awesome White, Awesome Purple, Awesome Mint",
+        "Models": "SM-A528B, SM-A528B/DS, SM-A528N",
+        "SAR": "0.72 W/kg (head) &nbsp; &nbsp;",
+        "SAR EU": "0.88 W/kg (head) &nbsp; &nbsp; 0.84 W/kg (body) &nbsp; &nbsp;",
+        "Price": "<a href=\"samsung_galaxy_a52s_5g-price-11039.php\">£ 129.98 / € 178.04</a>"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu:  429675 (v8),  506432(v9)\n\nGeekBench: 11060 (v4.4), 2801 (v5.1)\n\nGFXBench: 28fps (ES 3.1 onscreen)",
+        "Display": "<a class=\"noUnd\" href=\"samsung_galaxy_a52s_5g-review-2323p2.php#dt\">800 nits max brightness (measured)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=11039&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=11039&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"samsung_galaxy_a52s_5g-review-2323p2.php#lt\">-27.5 LUFS (Good)</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 11039); \">Endurance rating 113h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/galaxy-a52s-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/galaxy-a52s-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_a52s_5g-pictures-11039.php"
+    }
+  }
+}

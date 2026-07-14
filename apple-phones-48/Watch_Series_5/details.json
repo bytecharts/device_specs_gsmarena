@@ -1,0 +1,96 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Apple Watch Series 5",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/apple/apple-watch-5-ss.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/apple-watch-series-5.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "apple_watch_series_6-10448",
+      "apple_watch_series_4-9321",
+      "apple_watch_series_7-11146",
+      "apple_watch_series_8-11866"
+    ],
+    "release_date": "Released 2019, September",
+    "dimensions": "47.8g, 10.7mm thickness",
+    "os": "watchOS 6.0, up to watchOS 10.6.1",
+    "storage": "32GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 18, 19, 20, 25, 26, 39, 40, 41, 66 - Global",
+        "Speed": "HSPA, LTE",
+        "Features": "1, 2, 3, 4, 5, 7, 12, 13, 17, 18, 19, 25, 26, 39, 40, 41, 66 - USA, LATAM, Canada"
+      },
+      "Launch": {
+        "Announced": "2019, September. Released 2019, September",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "44 x 38 x 10.7 mm (1.73 x 1.50 x 0.42 in)",
+        "Weight": "47.8 g (1.69 oz)",
+        "Build": "Glass front (Sapphire crystal), ceramic/sapphire crystal back, stainless steel frame",
+        "SIM": "<a href=\"glossary.php3?term=esim\">eSIM</a>",
+        "Features": "50m water resistant\n\nECG certified (region dependent SW application; HW available on all models)"
+      },
+      "Display": {
+        "Type": "Retina LTPO OLED, 1000 nits (peak)",
+        "Size": "1.78 inches",
+        "Resolution": "448 x 368 pixels (~326 ppi density)",
+        "Protection": "Sapphire crystal glass",
+        "Features": "3D Touch display"
+      },
+      "Platform": {
+        "OS": "watchOS 6.0, upgradable to watchOS 10.6.1",
+        "Chipset": "Apple S5",
+        "CPU": "Dual-core",
+        "GPU": "PowerVR"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "32GB 1GB RAM"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, QZSS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, heart rate, barometer, compass"
+      },
+      "Battery": {
+        "Type": "Li-Po 296 mAh (1.13 Wh), non-removable",
+        "Charging": "Wireless"
+      },
+      "Misc": {
+        "Colors": "Space Black, Silver, Gold",
+        "Models": "A2156, A2157, A2094, A2095",
+        "Price": "About 750 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-watch-5-ss.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/apple_watch_series_5-pictures-9859.php"
+    }
+  }
+}

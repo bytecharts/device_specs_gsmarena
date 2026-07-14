@@ -1,0 +1,118 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Apple iPhone 17e",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-17e-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-17e.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/apple_iphone_17e-review-2945.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2026, March 11",
+    "dimensions": "169g, 7.8mm thickness",
+    "os": "iOS 26.3, up to iOS 26.5",
+    "storage": "256GB/512GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 17, 18, 19, 20, 25, 26, 28, 29, 30, 32, 34, 38, 39, 40, 41, 42, 48, 53, 66, 71 - A3575",
+        "5G bands": "1, 2, 3, 5, 7, 8, 12, 14, 20, 25, 26, 28, 29, 30, 38, 40, 41, 48, 53, 66, 70, 71, 75, 77, 78, 79 SA/NSA/Sub6 - A3575",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 30, 32, 34, 38, 39, 40, 41, 42, 48, 53, 66 - A3634\n1, 2, 3, 5, 7, 8, 12, 20, 25, 26, 28, 30, 38, 40, 41, 48, 53, 66, 70, 75, 77, 78, 79 SA/NSA/Sub6 - A3634"
+      },
+      "Launch": {
+        "Announced": "2026, March 02",
+        "Status": "Available. Released 2026, March 11"
+      },
+      "Body": {
+        "Dimensions": "146.7 x 71.5 x 7.8 mm (5.78 x 2.81 x 0.31 in)",
+        "Weight": "169 g (5.96 oz)",
+        "Build": "Glass front (Ceramic Shield 2), glass back, aluminum frame",
+        "SIM": "· Nano-SIM + <a href=\"glossary.php3?term=esim\">eSIM</a> + eSIM (max 2 at a time; International/China)\n· eSIM + eSIM (8 or more, max 2 at a time; USA)",
+        "Features": "IP68 dust tight and water resistant (immersible up to 6m for 30 min)\n\nApple Pay (Visa, MasterCard, AMEX certified)"
+      },
+      "Display": {
+        "Type": "Super Retina XDR OLED, HDR10, 800 nits (HBM), 1200 nits (peak)",
+        "Size": "6.1 inches, 90.2 cm<sup>2</sup> (~86.0% screen-to-body ratio)",
+        "Resolution": "1170 x 2532 pixels, 19.5:9 ratio (~460 ppi density)",
+        "Protection": "Ceramic Shield 2, Mohs level 5",
+        "Features": "Anti-reflective coating"
+      },
+      "Platform": {
+        "OS": "iOS 26.3, upgradable to iOS 26.5",
+        "Chipset": "Apple A19 (3 nm)",
+        "CPU": "Hexa-core (2x4.26 GHz + 4x2.60 GHz)",
+        "GPU": "Apple GPU (4-core graphics)"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 8GB RAM, 512GB 8GB RAM",
+        "Features": "NVMe"
+      },
+      "Main Camera": {
+        "Single": "48 MP, f/1.6, 26mm (wide), 1/2.55\", 0.7µm, PDAF, OIS",
+        "Features": "Dual-LED dual-tone flash, HDR, panorama, 3D (spatial) audio",
+        "Video": "4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, Dolby Vision HDR, OIS, stereo sound rec."
+      },
+      "Selfie camera": {
+        "Single": "12 MP, f/1.9, 23mm (wide), 1/3.6\", 1.0µm, PDAF\n\nSL 3D, (depth/biometrics sensor)",
+        "Features": "HDR, Dolby Vision HDR, 3D (spatial) audio, stereo sound rec.",
+        "Video": "4K@24/25/30/60fps, 1080p@25/30/60/120fps, Dolby Vision HDR"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot",
+        "Bluetooth": "5.3, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS, QZSS, NavIC",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0"
+      },
+      "Features": {
+        "Sensors": "Face ID, accelerometer, gyro, proximity, compass, barometer",
+        "Features": "Emergency SOS, Messages and Find My via satellite"
+      },
+      "Battery": {
+        "Type": "Li-Ion 4005 mAh",
+        "Charging": "Wired, 50% in 30 min\n\n15W wireless MagSafe/Qi2"
+      },
+      "Misc": {
+        "Colors": "Black, White, Soft Pink",
+        "Models": "A3634, A3575, A3635, iPhone18,5",
+        "SAR": "1.20 W/kg (head) &nbsp; &nbsp; 1.20 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "1.49 W/kg (head) &nbsp; &nbsp; 1.49 W/kg (body) &nbsp; &nbsp;",
+        "Price": "<a href=\"apple_iphone_17e-price-14487.php\">₹ 88,739 / $ 539.95 / £ 559.00 / € 649.00</a>"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 2187425 (v11)\n\nGeekBench: 9296 (v6)\n\n3DMark: 4226 (Wild Life Extreme)",
+        "Display": "<a class=\"noUnd\" href=\"apple_iphone_17e-review-2945p3.php#dt\">814 nits max brightness (measured)</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"apple_iphone_17e-review-2945p3.php#lt\">-26.7 LUFS (Good)</a>",
+        "Battery": "<div style=\"position:relative;\">\n<a href=\"apple_iphone_17e-review-2945p3.php#bt\" data-battery2=\"29:14_14:34_18:56_9:25\" onclick=\"showBatteryPopup(event, 14487); \" class=\"v2\">Active use score 15:30h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      },
+      "EU LABEL": {
+        "Energy": "Class A",
+        "Battery": "45:00h endurance, 1000 cycles",
+        "Free fall": "Class B (180 falls)",
+        "Repairability": "Class C"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-17e-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-17e-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-17e-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/apple_iphone_17e-pictures-14487.php"
+    }
+  }
+}

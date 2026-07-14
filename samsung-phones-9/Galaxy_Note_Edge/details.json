@@ -1,0 +1,123 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy Note Edge",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-note-edge-01.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-note-edge1.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_galaxy_note_edge-review-1165.php",
+    "siblingDeviceSlugs": [
+      "samsung_galaxy_note_4-6434",
+      "samsung_galaxy_note9-9163",
+      "samsung_galaxy_s6_edge-7079",
+      "samsung_galaxy_s26_ultra_5g-14320",
+      "samsung_galaxy_a57_5g-14379",
+      "samsung_galaxy_a17_5g-14041",
+      "samsung_galaxy_a27_5g-14606",
+      "samsung_galaxy_m47_5g-14749",
+      "samsung_galaxy_a07-14066"
+    ],
+    "release_date": "Released 2014, November",
+    "dimensions": "174g, 8.3mm thickness",
+    "os": "Android 4.4.4, up to 6.0",
+    "storage": "32GB/64GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 28 - SM-N915G",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE (3CA) Cat6 300/50 Mbps or Cat4 150/50 Mbps",
+        "Features": "1, 2, 3, 4, 5, 7, 8, 20 - SM-N915FY\n1, 2, 3, 4, 5, 7, 17, 20 - SM-N915A\n1, 2, 3, 4, 5, 7, 8, 12, 17 - SM-N915T"
+      },
+      "Launch": {
+        "Announced": "2014, September. Released 2014, November",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "151.3 x 82.4 x 8.3 mm (5.96 x 3.24 x 0.33 in)",
+        "Weight": "174 g (6.14 oz)",
+        "Build": "Glass front (Gorilla Glass 3), plastic back, aluminum frame",
+        "SIM": "Micro-SIM",
+        "Features": "Stylus"
+      },
+      "Display": {
+        "Type": "Super AMOLED",
+        "Size": "5.6 inches, 96.2 cm<sup>2</sup> (~77.2% screen-to-body ratio)",
+        "Resolution": "1600 x 2560 pixels, 16:10 ratio (~524 ppi density)",
+        "Protection": "Corning Gorilla Glass 3",
+        "Features": "Curved edge screen"
+      },
+      "Platform": {
+        "OS": "Android 4.4.4 (KitKat), upgradable to 6.0 (Marshmallow)",
+        "Chipset": "Qualcomm APQ8084 Snapdragon 805 (28 nm)",
+        "CPU": "Quad-core 2.7 GHz Krait 450",
+        "GPU": "Adreno 420"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "32GB 3GB RAM, 64GB 3GB RAM",
+        "Features": "eMMC 5.0"
+      },
+      "Main Camera": {
+        "Single": "16 MP, f/2.2, 31mm (standard), 1/2.6\", 1.12µm, AF, OIS",
+        "Features": "LED flash, panorama, HDR",
+        "Video": "4K@30fps, 1080p@30/60fps, stereo sound rec."
+      },
+      "Selfie camera": {
+        "Single": "3.7 MP, f/1.9",
+        "Video": "1440p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+        "Bluetooth": "4.1, A2DP, EDR, LE",
+        "Positioning": "GPS, GLONASS, BDS",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "microUSB 2.0 (MHL 3 TV-out), OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (front-mounted), accelerometer, gyro, proximity, compass, barometer, UV, heart rate, SpO2",
+        "Features": "ANT+\n\nS-Voice natural language commands and dictation\n\nAir gestures"
+      },
+      "Battery": {
+        "Type": "Li-Ion 3000 mAh, removable",
+        "Charging": "15W wired, QC2",
+        "Talk time": "Up to 18 h (3G)",
+        "Music play": "Up to 67 h"
+      },
+      "Misc": {
+        "Colors": "Black, White",
+        "Models": "SM-N9150, SM-N915A, SM-N915D, SM-N915F, SM-N915FY, SM-N915G, SM-N915K, SM-N915L, SM-N915P, SM-N915R4, SM-N915S, SM-N915T, SM-N915V, SM-N915W8, SM-N915X, SC-01G",
+        "SAR EU": "0.24 W/kg (head) &nbsp; &nbsp; 0.33 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 300 EUR"
+      },
+      "Our Tests": {
+        "Performance": "Basemark OS II 2.0: 1255\nBasemark X: 17108",
+        "Display": "<a class=\"noUnd\" href=\"samsung_galaxy_note_edge-review-1165p3.php\">Contrast ratio: Infinite (nominal), 3.799 (sunlight)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=6631&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=6631&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"samsung_galaxy_note_edge-review-1165p7.php\">Voice 72dB / Noise 75dB / Ring 70dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"samsung_galaxy_note_edge-review-1165p8.php\">Noise -95.9dB / Crosstalk -93.3dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 6631); \">Endurance rating 68h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-note-edge-01.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-note-edge-02.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_note_edge-pictures-6631.php"
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy Core II",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-core-2-sm-g355h-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-core-2.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2014, July",
+    "dimensions": "138g, 9.8mm thickness",
+    "os": "Android 4.4.2",
+    "storage": "4GB 768MB RAM storage, microSDXC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 &amp; SIM 2",
+        "3G bands": "HSDPA 900 / 2100",
+        "Speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "Launch": {
+        "Announced": "2014, June. Released 2014, July",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "130.3 x 68 x 9.8 mm (5.13 x 2.68 x 0.39 in)",
+        "Weight": "138 g (4.87 oz)",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "Dual SIM (Micro-SIM, dual stand-by)"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "4.5 inches, 57.6 cm<sup>2</sup> (~65.1% screen-to-body ratio)",
+        "Resolution": "480 x 800 pixels, 5:3 ratio (~207 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 4.4.2 (KitKat)",
+        "CPU": "Quad-core 1.2 GHz"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "4GB 768MB RAM"
+      },
+      "Main Camera": {
+        "Single": "5 MP, AF",
+        "Features": "LED flash",
+        "Video": "480p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "VGA",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+        "Bluetooth": "4.0, A2DP",
+        "Positioning": "GPS, GLONASS",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer"
+      },
+      "Battery": {
+        "Type": "Li-Ion 2000 mAh, removable",
+        "Talk time": "Up to 7 h (3G)",
+        "Music play": "Up to 30 h"
+      },
+      "Misc": {
+        "Colors": "White, Black",
+        "Models": "SM-G355H, SM-G355HN, SM-G355M",
+        "SAR EU": "0.42 W/kg (head) &nbsp; &nbsp; 0.45 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 130 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-core-2-sm-g355h-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-core-2-sm-g355h-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_core_ii-pictures-6331.php"
+    }
+  }
+}

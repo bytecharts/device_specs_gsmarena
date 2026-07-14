@@ -1,0 +1,124 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Apple iPhone SE",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-se-01.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-5se-ofic.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/apple_iphone_se-review-1424.php",
+    "siblingDeviceSlugs": [
+      "apple_iphone_5s-5685",
+      "apple_iphone_6s-7242",
+      "apple_iphone_7-8064",
+      "apple_iphone_13_mini-11104",
+      "apple_iphone_6-6378",
+      "apple_iphone_18_pro_max_5g-14716",
+      "apple_iphone_17_pro_max-13964",
+      "apple_iphone_17-14050",
+      "apple_iphone_13-11103",
+      "apple_iphone_15-12559",
+      "apple_iphone_17_pro-14049"
+    ],
+    "release_date": "Released 2016, March 31",
+    "dimensions": "113g, 7.6mm thickness",
+    "os": "iOS 9.3.2, up to iOS 15.8.5",
+    "storage": "16GB/32GB/128GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / EVDO / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - A1662, A1723",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100 - A1662, A1723",
+        "4G bands": "1, 2, 3, 4, 5, 8, 12, 13, 17, 18, 19, 20, 25, 26, 29 - A1662",
+        "Speed": "HSPA, LTE Cat4 150/50 Mbps",
+        "Features": "CDMA 800 / 1900 - A1662, A1723\nCDMA2000 1xEV-DO - A1662, A1723\nTD‑SCDMA - A1723\n1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 25, 26, 28, 38, 39, 40, 41 - A1723"
+      },
+      "Launch": {
+        "Announced": "2016, March 21. Released 2016, March 31",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "123.8 x 58.6 x 7.6 mm (4.87 x 2.31 x 0.30 in)",
+        "Weight": "113 g (3.99 oz)",
+        "Build": "Glass front (Corning-made glass), aluminum back, aluminum frame",
+        "SIM": "Nano-SIM",
+        "Features": "Apple Pay (Visa, MasterCard, AMEX certified)"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "4.0 inches, 44.1 cm<sup>2</sup> (~60.8% screen-to-body ratio)",
+        "Resolution": "640 x 1136 pixels, 16:9 ratio (~326 ppi density)"
+      },
+      "Platform": {
+        "OS": "iOS 9.3.2, upgradable to iOS 15.8.5",
+        "Chipset": "Apple A9 (14 nm)",
+        "CPU": "Dual-core 1.84 GHz Twister",
+        "GPU": "PowerVR GT7600 (six-core graphics)"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "16GB 2GB RAM, 32GB 2GB RAM, 64GB 2GB RAM, 128GB 2GB RAM",
+        "Features": "NVMe"
+      },
+      "Main Camera": {
+        "Single": "12 MP, f/2.2, 29mm (standard), 1/3.0\", 1.22µm, PDAF",
+        "Features": "Dual-LED dual-tone flash, HDR",
+        "Video": "4K@30fps, 1080p@30/60fps, 1080p@120fps, 720p@240fps"
+      },
+      "Selfie camera": {
+        "Single": "1.2 MP, f/2.4, 31mm (standard)",
+        "Features": "Face detection, HDR, panorama",
+        "Video": "720p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes",
+        "Features": "16-bit/44.1kHz audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, hotspot",
+        "Bluetooth": "4.2, A2DP, LE",
+        "Positioning": "GPS, GLONASS",
+        "NFC": "Yes (Apple Pay only)",
+        "Radio": "No",
+        "USB": "Lightning, USB 2.0"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (front-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Po 1624 mAh, non-removable (6.21 Wh)",
+        "Stand-by": "Up to 240 h (3G)",
+        "Talk time": "Up to 14 h (3G)"
+      },
+      "Misc": {
+        "Colors": "Space Gray, Silver, Gold, Rose Gold",
+        "Models": "A1662, A1723, A1724, iPhone8,4",
+        "SAR": "1.17 W/kg (head) &nbsp; &nbsp; 1.19 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.72 W/kg (head) &nbsp; &nbsp; 0.97 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 140 EUR"
+      },
+      "Our Tests": {
+        "Performance": "Basemark OS II 2.0: 2163",
+        "Display": "<a class=\"noUnd\" href=\"apple_iphone_se-review-1424p3.php#dt\">Contrast ratio: 804:1 (nominal), 3.681 (sunlight)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=7969&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=7969&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"apple_iphone_se-review-1424p6.php#lt\">Voice 66dB / Noise 65dB / Ring 69dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"apple_iphone_se-review-1424p6.php#aq\">Noise -93.0dB / Crosstalk -72.9dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 7969); \">Endurance rating 73h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-se-01.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-se-00.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-se-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/apple_iphone_se-pictures-7969.php"
+    }
+  }
+}

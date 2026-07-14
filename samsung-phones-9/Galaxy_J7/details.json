@@ -1,0 +1,113 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy J7",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-j7-j700f-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j7-j700f.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_galaxy_j7-review-1307.php",
+    "siblingDeviceSlugs": [
+      "samsung_galaxy_j7_pro-8561",
+      "samsung_galaxy_j7_prime-8314"
+    ],
+    "release_date": "Released 2015, July 16",
+    "dimensions": "171g, 7.5mm thickness",
+    "os": "Android 5.1, up to 7.1.1",
+    "storage": "16GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 &amp; SIM 2 (dual-SIM model only)",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4G bands": "1, 3, 5, 7, 8, 20, 40",
+        "Speed": "HSPA 21.1/5.76 Mbps\nHSPA, LTE Cat4 150/50 Mbps"
+      },
+      "Launch": {
+        "Announced": "2015, June 19. Released 2015, July 16",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "152.2 x 78.7 x 7.5 mm (5.99 x 3.10 x 0.30 in)",
+        "Weight": "171 g (6.03 oz)",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "Single SIM (Micro-SIM) or Dual SIM (Micro-SIM, dual stand-by)"
+      },
+      "Display": {
+        "Type": "Super AMOLED",
+        "Size": "5.5 inches, 83.4 cm<sup>2</sup> (~69.6% screen-to-body ratio)",
+        "Resolution": "720 x 1280 pixels, 16:9 ratio (~267 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 5.1 (Lollipop), upgradable to 7.1.1 (Nougat)",
+        "Chipset": "Qualcomm MSM8939 Snapdragon 615 (28 nm)\nExynos 7580 Octa (28 nm)",
+        "CPU": "Octa-core (4x1.4 GHz Cortex-A53 &amp; 4x1.0 GHz Cortex-A53)\nOcta-core 1.5 GHz Cortex-A53",
+        "GPU": "Adreno 405\nMali-T720MP2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "16GB 1.5GB RAM",
+        "Features": "eMMC 5.0 or eMMC 4.5"
+      },
+      "Main Camera": {
+        "Single": "13 MP, f/1.9, 28mm (wide), AF",
+        "Features": "LED flash, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "5 MP, f/2.2, 23mm (wide)",
+        "Features": "LED flash",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+        "Bluetooth": "4.1, A2DP",
+        "Positioning": "GPS, GLONASS",
+        "NFC": "Yes (Snapdragon model only)",
+        "Radio": "FM radio, RDS, recording",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity",
+        "Features": "ANT+"
+      },
+      "Battery": {
+        "Type": "Li-Ion 3000 mAh, removable",
+        "Talk time": "Up to 18 h (3G)",
+        "Music play": "Up to 76 h"
+      },
+      "Misc": {
+        "Colors": "White, Black, Gold",
+        "Models": "SM-J700F, SM-J700H, SM-J700M, SM-J700T, J7, SM-J700T1, SM-J700K, SM-J700P, SM-j7008",
+        "SAR": "1.25 W/kg (head) &nbsp; &nbsp; 1.36 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.50 W/kg (head) &nbsp; &nbsp; 0.37 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 200 EUR"
+      },
+      "Our Tests": {
+        "Performance": "Basemark OS II 2.0: 709\nBasemark X: 3922",
+        "Display": "<a class=\"noUnd\" href=\"samsung_galaxy_j7-review-1307p3.php\">Contrast ratio: Infinite (nominal),  3.879 (sunlight)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=7185&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=7185&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"samsung_galaxy_j7-review-1307p6.php\">Voice 63dB / Noise 62dB / Ring 66dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"samsung_galaxy_j7-review-1307p7.php\">Noise -96.1dB / Crosstalk -73.2dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 7185); \">Endurance rating 91h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-j7-j700f-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-j7-j700f-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-j7-j700f-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_j7-pictures-7185.php"
+    }
+  }
+}

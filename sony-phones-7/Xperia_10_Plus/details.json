@@ -1,0 +1,112 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Sony Xperia 10 Plus",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/sony/sony-xperia-10-plus-.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/sony-xperia-10-plus-.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/sony_xperia_10_plus-review-1906.php",
+    "siblingDeviceSlugs": [
+      "sony_xperia_10-9353",
+      "sony_xperia_10_vii_5g-14137"
+    ],
+    "release_date": "Released 2019, February 27",
+    "dimensions": "180g, 8.3mm thickness",
+    "os": "Android 9.0",
+    "storage": "64GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100 - I3213, I4213, I4293",
+        "4G bands": "1, 2, 3, 5, 7, 8, 20, 28, 32, 38 - I3213, I4213",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE (2CA) Cat12 600/50 Mbps",
+        "Features": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - I3223\n1, 2, 3, 5, 7, 8, 20, 28, 38, 39, 40, 41 - I4293\n1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 25, 28, 29, 66 - I3223"
+      },
+      "Launch": {
+        "Announced": "2019, February 25. Released 2019, February 27",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "167 x 73 x 8.3 mm (6.57 x 2.87 x 0.33 in)",
+        "Weight": "180 g (6.35 oz)",
+        "Build": "Glass front (Gorilla Glass 5), plastic back, plastic frame",
+        "SIM": "· Nano-SIM\n· Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "6.5 inches, 98.7 cm<sup>2</sup> (~81.0% screen-to-body ratio)",
+        "Resolution": "1080 x 2520 pixels, 21:9 ratio (~422 ppi density)",
+        "Protection": "Corning Gorilla Glass 5"
+      },
+      "Platform": {
+        "OS": "Android 9.0 (Pie)",
+        "Chipset": "Qualcomm SDM636 Snapdragon 636 (14 nm)",
+        "CPU": "Octa-core (4x1.8 GHz Kryo 260 Gold &amp; 4x1.6 GHz Kryo 260 Silver)",
+        "GPU": "Adreno 509"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (uses shared SIM slot)",
+        "Internal": "64GB 4GB RAM, 64GB 6GB RAM",
+        "Features": "eMMC 5.1"
+      },
+      "Main Camera": {
+        "Dual": "12 MP, f/1.8, 27mm (wide), 1/2.8\", 1.25µm, PDAF\n\n8 MP, f/2.4, 53mm (telephoto), 1/4.0\", 1.12µm, PDAF, 2x optical zoom",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, f/2.0, 24mm (wide), 1/4.0\", 1.12µm",
+        "Features": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes",
+        "Features": "Hi-Res audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.0, A2DP, LE, aptX HD",
+        "Positioning": "GPS, GLONASS",
+        "NFC": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Ion 3000 mAh, non-removable",
+        "Charging": "18W wired, PD, QC3"
+      },
+      "Misc": {
+        "Colors": "Black, Navy, Silver, Gold",
+        "Models": "I3213, I4213, I4293, I3223",
+        "Price": "About 560 EUR"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 120573 (v7), 147163 (v8)\n\nGeekBench: 4780 (v4.4), 1238 (v5.1)\n\nGFXBench: 5fps (ES 3.1 onscreen)",
+        "Display": "<a class=\"noUnd\" href=\"\">Contrast ratio: 1530:1 (nominal)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=9591&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=9591&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"sony_xperia_10_plus-review-1906p3.php#ls\">-28.8 LUFS (Average)</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"sony_xperia_10_plus-review-1906p3.php#aq\">Noise -92.4dB / Crosstalk -96.7dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 9591); \">Endurance rating 78h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/sony/sony-xperia-10-plus-.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/sony/sony-xperia-10-plus-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/sony/sony-xperia-10-plus-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/sony_xperia_10_plus-pictures-9591.php"
+    }
+  }
+}

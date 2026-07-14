@@ -1,0 +1,94 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy Watch7",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-watch7-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-watch7.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2024, July 24",
+    "dimensions": "33.8g (44mm), 28.8g (40mm), 9.7mm thickness",
+    "os": "Android Wear OS 5, up to 6.0, One UI Watch 8",
+    "storage": "32GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 18, 19, 20, 25, 26, 28, 40, 66, 71",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2024, July 10",
+        "Status": "Available. Released 2024, July 24"
+      },
+      "Body": {
+        "Dimensions": "44.4 x 44.4 x 9.7 mm (1.75 x 1.75 x 0.38 in)",
+        "Weight": "33.8 g (44mm), 28.8 g (40mm) (1.02 oz)",
+        "Build": "Glass front (Sapphire crystal), aluminum frame",
+        "SIM": "<a href=\"glossary.php3?term=esim\">eSIM</a>",
+        "Features": "MIL-STD-810H compliant*\n\nIP68 dust tight and water resistant (immersible up to 50m/5ATM)\n\nCompatible with standard 20mm straps\n\nECG certified\n\nBlood pressure monitor\n\nArmor aluminum 2 frame\n\n*does not guarantee ruggedness or use in extreme conditions"
+      },
+      "Display": {
+        "Type": "Super AMOLED, 2000 nits (peak)",
+        "Size": "1.5 inches",
+        "Resolution": "480 x 480 pixels (~327 ppi density)",
+        "Protection": "Sapphire crystal"
+      },
+      "Platform": {
+        "OS": "Android Wear OS 5, up to 6.0, One UI Watch 8",
+        "Chipset": "Exynos W1000 (3 nm)",
+        "CPU": "Penta-core",
+        "GPU": "Mali-G68"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "32GB 2GB RAM"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band",
+        "Bluetooth": "5.3, A2DP, LE",
+        "Positioning": "GPS (L1+L5), GLONASS, GALILEO, BDS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, heart rate, barometer, altimeter, compass, SpO2, temperature (skin), BioActive"
+      },
+      "Battery": {
+        "Type": "Li-Ion 425 mAh",
+        "Charging": "10W wireless"
+      },
+      "Misc": {
+        "Colors": "Cream, Silver, Green",
+        "Models": "SM-L310F, SM-L315F",
+        "SAR EU": "0.73 W/kg (head) &nbsp; &nbsp; 1.85 W/kg (body) &nbsp; &nbsp;",
+        "Price": "<a href=\"samsung_galaxy_watch7-price-13128.php\">€ 159.00</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-watch7-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-watch7-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-watch7-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-watch7-4.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-watch7-5.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_watch7-pictures-13128.php"
+    }
+  }
+}

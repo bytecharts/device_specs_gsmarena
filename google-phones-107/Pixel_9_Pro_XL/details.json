@@ -1,0 +1,117 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Google Pixel 9 Pro XL",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-9-pro-xl-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-9-pro-xl-.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/google_pixel_9_pro_xl-review-2738.php",
+    "siblingDeviceSlugs": [
+      "google_pixel_10_pro_xl_5g-13988"
+    ],
+    "release_date": "Released 2024, August 22",
+    "dimensions": "221g, 8.5mm thickness",
+    "os": "Android 14, up to 16",
+    "storage": "128GB/512GB/1TB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 17, 18, 19, 20, 25, 26, 28, 29, 30, 38, 40, 41, 48, 66, 71 - GGX8B",
+        "5G bands": "1, 2, 3, 5, 7, 8, 12, 14, 20, 25, 26, 28, 29, 30, 38, 40, 41, 48, 66, 70, 71, 77, 78, 258, 260, 261 SA/NSA/Sub6/mmWave - GGX8B",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 17, 18, 19, 20, 21, 25, 26, 28, 29, 30, 32, 38, 39, 40, 41, 42, 48, 66, 71, 75 - GZC4K\n1, 2, 3, 5, 7, 8, 12, 14, 20, 25, 26, 28, 30, 38, 40, 41, 66, 71, 75, 76, 77, 78, 79 SA/NSA/Sub6 - GZC4K"
+      },
+      "Launch": {
+        "Announced": "2024, August 13",
+        "Status": "Available. Released 2024, August 22"
+      },
+      "Body": {
+        "Dimensions": "162.8 x 76.6 x 8.5 mm (6.41 x 3.02 x 0.33 in)",
+        "Weight": "221 g (7.80 oz)",
+        "Build": "Glass front (Gorilla Glass Victus 2), glass back (Gorilla Glass Victus 2), aluminum frame",
+        "SIM": "Nano-SIM + <a href=\"glossary.php3?term=esim\">eSIM</a>",
+        "Features": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)"
+      },
+      "Display": {
+        "Type": "LTPO OLED, 120Hz, HDR10+, 2000 nits (HBM), 3000 nits (peak)",
+        "Size": "6.8 inches, 109.7 cm<sup>2</sup> (~88.0% screen-to-body ratio)",
+        "Resolution": "1344 x 2992 pixels, 20:9 ratio (~486 ppi density)",
+        "Protection": "Corning Gorilla Glass Victus 2, Mohs level 4"
+      },
+      "Platform": {
+        "OS": "Android 14, upgradable to Android 16, up to 7 major Android upgrades",
+        "Chipset": "Google Tensor G4 (4 nm)",
+        "CPU": "Octa-core (1x3.1 GHz Cortex-X4 &amp; 3x2.6 GHz Cortex-A720 &amp; 4x1.92 GHz Cortex-A520)",
+        "GPU": "Mali-G715 MC7"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 16GB RAM, 256GB 16GB RAM, 512GB 16GB RAM, 1TB 16GB RAM",
+        "Features": "UFS 3.1"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, f/1.7, 25mm (wide), 1/1.31\", 1.2µm, dual pixel PDAF, OIS\n\n48 MP, f/2.8, 113mm (periscope telephoto), 1/2.55\", dual pixel PDAF, OIS, 5x optical zoom\n\n48 MP, f/1.7, 123˚ (ultrawide), 1/2.55\", dual pixel PDAF,",
+        "Features": "Multi-zone Laser AF, LED flash, Pixel Shift, Ultra-HDR, panorama, Best Take, Zoom Enhance",
+        "Video": "8K@30fps (via cloud-based upscaling), 4K@24/30/60fps, 1080p@24/30/60/120/240fps; gyro-EIS, OIS, 10-bit HDR"
+      },
+      "Selfie camera": {
+        "Single": "42 MP, f/2.2, 17mm (ultrawide), PDAF",
+        "Features": "HDR, panorama",
+        "Video": "4K@30/60fps, 1080p@30/60fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band",
+        "Bluetooth": "5.3, A2DP, LE, aptX HD",
+        "Positioning": "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS, NavIC",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 3.2"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer, thermometer (skin temperature)",
+        "Features": "Ultra Wideband (UWB) support\n\nSatellite SOS service"
+      },
+      "Battery": {
+        "Type": "Li-Ion 5060 mAh",
+        "Charging": "37W wired, PD3.0, PPS, 70% in 30 min\n\n23W wireless (w/ Pixel Stand)\n\n12W wireless (w/ Qi compatible charger)\n\nReverse wireless\n\nBypass charging"
+      },
+      "Misc": {
+        "Colors": "Porcelain, Rose Quartz, Hazel, Obsidian",
+        "Models": "GGX8B, GZC4K, GQ57S",
+        "SAR EU": "0.99 W/kg (head) &nbsp; &nbsp; 1.40 W/kg (body) &nbsp; &nbsp;",
+        "Price": "<a href=\"google_pixel_9_pro_xl-price-13217.php\">₹ 89,799 / $ 519.99 / £ 439.00 / € 548.94</a>"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 1380138 (v10)\n\nGeekBench: 4854 (v6)\n\n3DMark: 2540 (Wild Life Extreme)",
+        "Display": "<a class=\"noUnd\" href=\"google_pixel_9_pro_xl-review-2738p3.php#dt\">2365 nits max brightness (measured)</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"google_pixel_9_pro_xl-review-2738p3.php#lt\">-25.5 LUFS (Very good)</a>",
+        "Battery": "<div style=\"position:relative;\">\n<a href=\"google_pixel_9_pro_xl-review-2738p3.php#bl\" data-battery2=\"25:34_12:18_14:35_7:24\" onclick=\"showBatteryPopup(event, 13217); \" class=\"v2\">Active use score 12:32h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      },
+      "EU LABEL": {
+        "Energy": "Class B",
+        "Battery": "49:30h endurance, 1000 cycles",
+        "Free fall": "Class A (270 falls)",
+        "Repairability": "Class C"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-9-pro-xl-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-9-pro-xl-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/google_pixel_9_pro_xl-pictures-13217.php"
+    }
+  }
+}

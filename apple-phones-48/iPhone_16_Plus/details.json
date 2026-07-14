@@ -1,0 +1,120 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Apple iPhone 16 Plus",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-16-plus-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-16-plus.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/apple_iphone_16_plus-review-2751.php",
+    "siblingDeviceSlugs": [
+      "apple_iphone_16-13317",
+      "apple_iphone_16_pro_max-13123"
+    ],
+    "release_date": "Released 2024, September 20",
+    "dimensions": "199g, 7.8mm thickness",
+    "os": "iOS 18, up to iOS 26.5",
+    "storage": "128GB/256GB/512GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / EVDO / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 30, 32, 34, 38, 39, 40, 41, 42, 48, 53, 66 - A3290",
+        "5G bands": "1, 2, 3, 5, 7, 8, 12, 20, 25, 26, 28, 30, 38, 40, 41, 48, 53, 66, 70, 75, 76, 77, 78, 79 SA/NSA/Sub6 - A3290",
+        "Speed": "HSPA, LTE, 5G, EV-DO Rev.A 3.1 Mbps",
+        "Features": "CDMA 800 / 1900\nCDMA2000 1xEV-DO\n1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 17, 18, 19, 20, 25, 26, 28, 29, 30, 32, 34, 38, 39, 40, 41, 42, 48, 53, 66, 71 - A3082\n1, 2, 3, 4, 5, 7, 8, 11, 12, 13, 14, 17, 18, 19, 20, 21, 25, 26, 28, 29, 30, 32, 34, 38, 39, 40, 41, 42, 48, 53, 66, 71 - A3289\n1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 30, 32, 34, 38, 39, 40, 41, 42, 48, 66 - A3291\n1, 2, 3, 5, 7, 8, 12, 14, 20, 25, 26, 28, 29, 30, 38, 40, 41, 48, 53, 66, 70, 71, 75, 76, 77, 78, 79, 258, 260, 261 SA/NSA/Sub6/mmWave - A3082\n1, 2, 3, 5, 7, 8, 12, 14, 20, 25, 26, 28, 29, 30, 38, 40, 41, 48, 53, 66, 70, 71, 75, 76, 77, 78, 79 SA/NSA/Sub6 - A3289\n1, 2, 3, 5, 7, 8, 12, 20, 25, 26, 28, 30, 38, 40, 41, 48, 66, 70, 75, 76, 77, 78, 79 SA/NSA/Sub6 - A3291"
+      },
+      "Launch": {
+        "Announced": "2024, September 09",
+        "Status": "Available. Released 2024, September 20"
+      },
+      "Body": {
+        "Dimensions": "160.9 x 77.8 x 7.8 mm (6.33 x 3.06 x 0.31 in)",
+        "Weight": "199 g (7.02 oz)",
+        "Build": "Glass front (Ceramic Shield), glass back, aluminum frame",
+        "SIM": "· Nano-SIM + <a href=\"glossary.php3?term=esim\">eSIM</a> + eSIM (max 2 at a time; International)\n· eSIM + eSIM (8 or more, max 2 at a time; USA)\n· Nano-SIM + Nano-SIM (China)",
+        "Features": "IP68 dust tight and water resistant (immersible up to 6m for 30 min)\n\nApple Pay (Visa, MasterCard, AMEX certified)"
+      },
+      "Display": {
+        "Type": "Super Retina XDR OLED, HDR10, Dolby Vision, 1000 nits (typ), 2000 nits (HBM)",
+        "Size": "6.7 inches, 110.2 cm<sup>2</sup> (~88.0% screen-to-body ratio)",
+        "Resolution": "1290 x 2796 pixels, 19.5:9 ratio (~460 ppi density)",
+        "Protection": "Ceramic Shield glass (2024 gen), Mohs level 4"
+      },
+      "Platform": {
+        "OS": "iOS 18, upgradable to iOS 26.5",
+        "Chipset": "Apple A18 (3 nm)",
+        "CPU": "Hexa-core (2x4.04 GHz + 4x2.20 GHz)",
+        "GPU": "Apple GPU (5-core graphics)"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 8GB RAM, 256GB 8GB RAM, 512GB 8GB RAM",
+        "Features": "NVMe"
+      },
+      "Main Camera": {
+        "Dual": "48 MP, f/1.6, 26mm (wide), 1/1.56\", 1.0µm, dual pixel PDAF, sensor-shift OIS\n\n12 MP, f/2.2, 13mm, 120˚ (ultrawide), 0.7µm, dual pixel PDAF",
+        "Features": "Dual-LED dual-tone flash, HDR (photo/panorama)",
+        "Video": "4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec."
+      },
+      "Selfie camera": {
+        "Single": "12 MP, f/1.9, 23mm (wide), 1/3.6\", 1.0µm, PDAF\n\nSL 3D, (depth/biometrics sensor)",
+        "Features": "HDR, Dolby Vision HDR, 3D (spatial) audio, stereo sound rec.",
+        "Video": "4K@24/25/30/60fps, 1080p@25/30/60/120fps, gyro-EIS"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, tri-band, hotspot",
+        "Bluetooth": "5.3, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS, QZSS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, DisplayPort"
+      },
+      "Features": {
+        "Sensors": "Face ID, accelerometer, gyro, proximity, compass, barometer",
+        "Features": "Ultra Wideband (UWB) support (gen2 chip)\n\nEmergency SOS, Messages and Find My via satellite"
+      },
+      "Battery": {
+        "Type": "Li-Ion 4674 mAh",
+        "Charging": "Wired, PD2.0, 50% in 30 min\n\n25W wireless MagSafe/Qi2, 50% in 30 min (15W - China)\n\n4.5W reverse wired"
+      },
+      "Misc": {
+        "Colors": "Black, White, Pink, Teal, Ultramarine",
+        "Models": "A3290, A3082, A3289, A3291, iPhone17,4",
+        "SAR": "1.13 W/kg (head) &nbsp; &nbsp; 1.16 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "1.24 W/kg (head) &nbsp; &nbsp; 1.33 W/kg (body) &nbsp; &nbsp;",
+        "Price": "<a href=\"apple_iphone_16_plus-price-13316.php\">$ 494.00 / £ 512.00 / € 641.91</a>"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 1727276 (v10)\n\nGeekBench: 7927 (v6)\n\n3DMark: 4324 (Wild Life Extreme)",
+        "Display": "<a class=\"noUnd\" href=\"apple_iphone_16_plus-review-2751p3.php\">1823 nits max brightness (measured)</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"apple_iphone_16_plus-review-2751p3.php#lt\">-25.2 LUFS (Very good)</a>",
+        "Battery": "<div style=\"position:relative;\">\n<a href=\"apple_iphone_16_plus-review-2751p3.php#bt\" data-battery2=\"33:20_19:03_23:32_10:43\" onclick=\"showBatteryPopup(event, 13316); \" class=\"v2\">Active use score 18:49h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      },
+      "EU LABEL": {
+        "Energy": "Class B",
+        "Battery": "48:00h endurance, 1000 cycles",
+        "Free fall": "Class C (90 falls)",
+        "Repairability": "Class C"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-16-plus-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-16-plus-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-16-plus-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/apple_iphone_16_plus-pictures-13316.php"
+    }
+  }
+}

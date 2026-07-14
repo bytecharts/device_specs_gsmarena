@@ -1,0 +1,94 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy Watch8 Classic",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-watch8-classic-0.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-watch8-classic.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_galaxy_watch8_and_galaxy_watch8_classic-review-2860.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2025, July 25",
+    "dimensions": "63.5g, 10.6mm thickness",
+    "os": "Android Wear OS 6, One UI 8 Watch",
+    "storage": "64GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 18, 19, 20, 25, 26, 28, 40, 66, 71",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2025, July 09",
+        "Status": "Available. Released 2025, July 25"
+      },
+      "Body": {
+        "Dimensions": "46.4 x 46 x 10.6 mm (1.83 x 1.81 x 0.42 in)",
+        "Weight": "63.5 g (2.26 oz)",
+        "Build": "Glass front (Sapphire crystal), stainless steel frame",
+        "SIM": "<a href=\"glossary.php3?term=esim\">eSIM</a>",
+        "Features": "Rotating bezel\n\nMIL-STD-810H compliant*\n\nIP68 dust tight and water resistant (immersible up to 50m/5ATM)\n\nECG certified\n\nBlood pressure monitor\n\n*does not guarantee ruggedness or use in extreme conditions"
+      },
+      "Display": {
+        "Type": "Super AMOLED, 3000 nits (peak)",
+        "Size": "1.34 inches",
+        "Resolution": "438 x 438 pixels (~327 ppi density)",
+        "Protection": "Sapphire crystal"
+      },
+      "Platform": {
+        "OS": "Android Wear OS 6, One UI 8 Watch",
+        "Chipset": "Exynos W1000 (3 nm)",
+        "CPU": "Penta-core",
+        "GPU": "Mali-G68"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "64GB 2GB RAM"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band",
+        "Bluetooth": "5.3, A2DP, LE",
+        "Positioning": "GPS (L1+L5), GLONASS, GALILEO, BDS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, heart rate, barometer, altimeter, compass, SpO2, temperature (skin), BioActive, antioxidant index"
+      },
+      "Battery": {
+        "Type": "Li-Ion 445 mAh",
+        "Charging": "10W wireless"
+      },
+      "Misc": {
+        "Colors": "Black, White",
+        "Models": "SM-L500, SM-L505U",
+        "SAR": "1.04 W/kg (head) &nbsp; &nbsp; 0.41 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.03 W/kg (head) &nbsp; &nbsp; 0.67 W/kg (body) &nbsp; &nbsp;",
+        "Price": "<a href=\"samsung_galaxy_watch8_classic-price-13998.php\">€ 239.95</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-watch8-classic-0.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-watch8-classic-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-watch8-classic-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_watch8_classic-pictures-13998.php"
+    }
+  }
+}

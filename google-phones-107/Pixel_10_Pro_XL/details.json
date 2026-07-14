@@ -1,0 +1,116 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Google Pixel 10 Pro XL",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-10-pro-xl-11.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-10-pro-xl-.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/google_pixel_10_pro_xl-review-2881.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2025, August 28",
+    "dimensions": "232g, 8.5mm thickness",
+    "os": "Android 16, up to 7 major Android upgrades",
+    "storage": "256GB/512GB/1TB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 17, 18, 19, 20, 21, 25, 26, 28, 29, 30, 30, 32, 38, 39, 40, 41, 42, 48, 66, 71, 75 - G45RY",
+        "5G bands": "1, 2, 3, 5, 7, 8, 12, 14, 20, 25, 26, 28, 30, 38, 40, 46, 71, 75, 76, 77, 78, 79 SA/NSA/Sub6 - G45RY",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 17, 18, 19, 20, 25, 26, 28, 29, 30, 38, 40, 41, 48, 66, 71 - GUL82\n1, 2, 3, 5, 7, 8, 12, 14, 20, 25, 26, 28, 29, 30, 38, 40, 41, 48, 66, 70, 71, 77, 258, 260, 261 SA/NSA/Sub6/mmWave - GUL82"
+      },
+      "Launch": {
+        "Announced": "2025, August 20",
+        "Status": "Available. Released 2025, August 28"
+      },
+      "Body": {
+        "Dimensions": "162.8 x 76.6 x 8.5 mm (6.41 x 3.02 x 0.33 in)",
+        "Weight": "232 g (8.18 oz)",
+        "Build": "Glass front (Gorilla Glass Victus 2), glass back (Gorilla Glass Victus 2), aluminum frame",
+        "SIM": "· Nano-SIM + <a href=\"glossary.php3?term=esim\">eSIM</a>\n· eSIM + eSIM (8 or more, max 2 at a time; USA)",
+        "Features": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)"
+      },
+      "Display": {
+        "Type": "LTPO OLED, 120Hz, HDR10+, 2200 nits (HBM), 3300 nits (peak)",
+        "Size": "6.8 inches, 109.7 cm<sup>2</sup> (~88.0% screen-to-body ratio)",
+        "Resolution": "1344 x 2992 pixels, 20:9 ratio (~486 ppi density)",
+        "Protection": "Corning Gorilla Glass Victus 2, Mohs level 4"
+      },
+      "Platform": {
+        "OS": "Android 16, up to 7 major Android upgrades",
+        "Chipset": "Google Tensor G5 (3 nm)",
+        "CPU": "Octa-core (1x3.78 GHz Cortex-X4 &amp; 5x3.05 GHz Cortex-A725 &amp; 2x2.25 GHz Cortex-A520)",
+        "GPU": "PowerVR DXT-48-1536"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 16GB RAM, 512GB 16GB RAM, 1TB 16GB RAM",
+        "Features": "UFS 4.0"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, f/1.7, 25mm (wide), 1/1.31\", 1.2µm, dual pixel PDAF, OIS\n\n48 MP, f/2.8, 113mm (periscope telephoto), 1/2.55\", dual pixel PDAF, OIS, 5x optical zoom\n\n48 MP, f/1.7, 123˚ (ultrawide), 1/2.55\", dual pixel PDAF,",
+        "Features": "Multi-zone Laser AF, LED flash, Pixel Shift, Ultra-HDR, panorama, Best Take, Zoom Enhance",
+        "Video": "8K@30fps (via cloud-based upscaling), 4K@24/30/60fps, 1080p@24/30/60/120/240fps; gyro-EIS, OIS, 10-bit HDR"
+      },
+      "Selfie camera": {
+        "Single": "42 MP, f/2.2, 17mm (ultrawide), PDAF",
+        "Features": "HDR, panorama",
+        "Video": "4K@30/60fps, 1080p@30/60fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band",
+        "Bluetooth": "6.0, A2DP, LE, aptX HD",
+        "Positioning": "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS, NavIC",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 3.2"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer, thermometer (skin temperature)",
+        "Features": "Ultra Wideband (UWB) support\n\nSatellite SOS service"
+      },
+      "Battery": {
+        "Type": "Li-Ion 5200 mAh",
+        "Charging": "45W wired, PD3.0, PPS, 70% in 30 min\n\n25W wireless (magnetic), Qi2\n\nReverse wired\n\nBypass charging"
+      },
+      "Misc": {
+        "Colors": "Moonstone, Jade, Porcelain, Obsidian",
+        "Models": "G45RY, GUL82, GYPW4",
+        "SAR": "0.99 W/kg (head) &nbsp; &nbsp; 0.99 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.99 W/kg (head) &nbsp; &nbsp; 1.39 W/kg (body) &nbsp; &nbsp;",
+        "Price": "<a href=\"google_pixel_10_pro_xl_5g-price-13988.php\">₹ 116,850 / $ 619.99 / £ 699.00 / € 899.99</a>"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 1423216 (v10), 1548670 (v11)\n\nGeekBench: 6497 (v6)\n\n3DMark: 3332 (Wild Life Extreme)",
+        "Display": "<a class=\"noUnd\" href=\"google_pixel_10_pro_xl-review-2881p3.php\">2340 nits max brightness (measured)</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"google_pixel_10_pro_xl-review-2881p3.php#lt\">-25.3 LUFS (Very good)</a>",
+        "Battery": "<div style=\"position:relative;\">\n<a href=\"google_pixel_10_pro_xl-review-2881p3.php#bt\" data-battery2=\"21:47_13:56_19:43_5:51\" onclick=\"showBatteryPopup(event, 13988); \" class=\"v2\">Active use score 12:29h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      },
+      "EU LABEL": {
+        "Energy": "Class B",
+        "Battery": "48:39h endurance, 1000 cycles",
+        "Free fall": "Class A (270 falls)",
+        "Repairability": "Class B"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-10-pro-xl-11.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-10-pro-xl-12.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/google_pixel_10_pro_xl_5g-pictures-13988.php"
+    }
+  }
+}

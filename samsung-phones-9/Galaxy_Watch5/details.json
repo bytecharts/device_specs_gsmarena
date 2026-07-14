@@ -1,0 +1,96 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy Watch5",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-watch5-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-watch5.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_galaxy_watch5-review-2474.php",
+    "siblingDeviceSlugs": [
+      "samsung_galaxy_watch5_pro-11749"
+    ],
+    "release_date": "Released 2022, August 26",
+    "dimensions": "33.5g (44mm), 28.7g (40mm), 9.8mm thickness",
+    "os": "Android Wear OS 4, One UI Watch 5",
+    "storage": "16GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "1, 3, 5, 7, 8, 20, 28",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2022, August 10",
+        "Status": "Available. Released 2022, August 26"
+      },
+      "Body": {
+        "Dimensions": "44.4 x 43.3 x 9.8 mm (1.75 x 1.70 x 0.39 in)",
+        "Weight": "33.5 g (44mm), 28.7 g (40mm) (1.02 oz)",
+        "Build": "Glass front (Sapphire crystal), aluminum frame",
+        "SIM": "<a href=\"glossary.php3?term=esim\">eSIM</a>",
+        "Features": "MIL-STD-810H compliant*\n\nIP68 dust tight and water resistant (immersible up to 50m)\n\nCompatible with standard 20mm straps\n\nECG certified\n\nBlood pressure monitor\n\nArmor aluminum frame\n\n*does not guarantee ruggedness or use in extreme conditions"
+      },
+      "Display": {
+        "Type": "Super AMOLED",
+        "Size": "1.4 inches",
+        "Resolution": "450 x 450 pixels (~321 ppi density)",
+        "Protection": "Sapphire crystal"
+      },
+      "Platform": {
+        "OS": "Android Wear OS 4, One UI Watch 5",
+        "Chipset": "Exynos W920 (5 nm)",
+        "CPU": "Dual-core 1.18 GHz Cortex-A55",
+        "GPU": "Mali-G68"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "16GB 1.5GB RAM"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band",
+        "Bluetooth": "5.2, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, heart rate, barometer, thermometer (skin temperature)"
+      },
+      "Battery": {
+        "Type": "Li-Ion 410 mAh",
+        "Charging": "10W wireless"
+      },
+      "Misc": {
+        "Colors": "Graphite, Silver, Pink Gold, Sapphire",
+        "Models": "SM-R915F, SM-R905F",
+        "Price": "About 170 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-watch5-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-watch5-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-watch5-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-watch5-4.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-watch5-5.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_watch5-pictures-11748.php"
+    }
+  }
+}

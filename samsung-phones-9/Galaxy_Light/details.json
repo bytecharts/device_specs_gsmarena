@@ -1,0 +1,94 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy Light",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-light.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-light.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2013, October",
+    "dimensions": "121.9g, 10.2mm thickness",
+    "os": "Android 4.2.2",
+    "storage": "8GB storage, microSDHC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 1700 / 1900 / 2100",
+        "4G bands": "4, 17",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2013, October. Released 2013, October",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "121.4 x 63.5 x 10.2 mm (4.78 x 2.5 x 0.40 in)",
+        "Weight": "121.9 g (4.30 oz)",
+        "SIM": "Micro-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "4.0 inches, 45.5 cm<sup>2</sup> (~59.1% screen-to-body ratio)",
+        "Resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)",
+        "Protection": "Scratch-resistant glass"
+      },
+      "Platform": {
+        "OS": "Android 4.2.2 (Jelly Bean)",
+        "CPU": "Quad-core 1.4 GHz"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Internal": "8GB 1GB RAM"
+      },
+      "Main Camera": {
+        "Single": "5 MP, AF",
+        "Features": "LED flash",
+        "Video": "720p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "Yes",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, DLNA, hotspot",
+        "Bluetooth": "2.1, A2DP, EDR",
+        "Positioning": "GPS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Ion 1800 mAh, removable",
+        "Stand-by": "Up to 460 h",
+        "Talk time": "Up to 12 h 30 min"
+      },
+      "Misc": {
+        "Colors": "Dark brown",
+        "Models": "SGH-T399N, SGH-T399",
+        "SAR": "1.18 W/kg (head) &nbsp; &nbsp; 1.43 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.38 W/kg (head) &nbsp; &nbsp; 0.27 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 180 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-light.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_light-pictures-5786.php"
+    }
+  }
+}

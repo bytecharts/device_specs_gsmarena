@@ -1,0 +1,102 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Apple Watch SE",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/apple/apple-watch-se-2.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/apple-watch-se.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "apple_watch_series_6-10448",
+      "apple_watch_series_5-9859",
+      "apple_watch_se_3-14133",
+      "apple_watch_series_8-11866",
+      "apple_watch_series_4_aluminum-9322"
+    ],
+    "release_date": "Released 2020, September 18",
+    "dimensions": "36.4g, 10.4mm thickness",
+    "os": "watchOS 7.0, up to watchOS 10.6.1",
+    "storage": "32GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 1700(AWS) / 1900 / 2100 - USA, LATAM, Canada",
+        "4G bands": "1, 2, 3, 4, 5, 7, 12, 13, 17, 18, 19, 25, 26, 39, 40, 41, 66 - USA, LATAM, Canada",
+        "Speed": "HSPA, LTE",
+        "Features": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - Global\n1, 2, 3, 4, 5, 7, 8, 18, 19, 20, 25, 26, 28, 39, 40, 41, 66 - Global"
+      },
+      "Launch": {
+        "Announced": "2020, September 15",
+        "Status": "Available. Released 2020, September 18"
+      },
+      "Body": {
+        "Dimensions": "44 x 38 x 10.4 mm (1.73 x 1.50 x 0.41 in)",
+        "Weight": "36.4 g (1.27 oz)",
+        "Build": "Glass front, ceramic/sapphire crystal back, aluminum frame",
+        "SIM": "<a href=\"glossary.php3?term=esim\">eSIM</a>",
+        "Features": "50m water resistant"
+      },
+      "Display": {
+        "Type": "Retina LTPO OLED, 1000 nits (peak)",
+        "Size": "1.78 inches",
+        "Resolution": "448 x 368 pixels (~326 ppi density)",
+        "Protection": "Ion-X strengthened glass"
+      },
+      "Platform": {
+        "OS": "watchOS 7.0, upgradable to watchOS 10.6.1",
+        "Chipset": "Apple S5",
+        "CPU": "Dual-core",
+        "GPU": "PowerVR"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "32GB 1GB RAM"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS, GLONASS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, heart rate (2nd gen), barometer, always-on altimeter, compass"
+      },
+      "Battery": {
+        "Type": "Li-Ion",
+        "Charging": "Wireless"
+      },
+      "Misc": {
+        "Colors": "Silver, Gold, Space Gray",
+        "Models": "A2353, A2354, A2355, A2356, A2351, A2352",
+        "Price": "About 290 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-watch-se-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-watch-se-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-watch-se-4.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-watch-se-5.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-watch-se-6.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-watch-se-7.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-watch-se-8.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/apple_watch_se-pictures-10446.php"
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Apple Watch Series 9 Aluminum",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/apple/apple-watch-series9-aluminum-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/apple-watch-series9-aluminum.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/apple_watch_series_9_review-news-60773.php",
+    "siblingDeviceSlugs": [
+      "apple_watch_series_10_aluminum-13319",
+      "apple_watch_series_11_aluminum-14132",
+      "apple_watch_series_7_aluminum-11107",
+      "apple_watch_series_8_aluminum-11864"
+    ],
+    "release_date": "Released 2023, September 22",
+    "dimensions": "31.9g (41mm), 38.7g (45mm), 10.7mm thickness",
+    "os": "watchOS 10, up to watchOS 26.5",
+    "storage": "64GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - International, China, HK",
+        "4G bands": "1, 2, 3, 4, 5, 6, 7, 8, 18, 19, 20, 25, 26, 28, 39, 40, 41, 66 - International, China, HK",
+        "Speed": "HSPA, LTE",
+        "Features": "HSDPA 850 / 1700(AWS) / 1900 / 2100 - USA, LATAM, Canada\n1, 2, 3, 4, 5, 6, 7, 12, 13, 14, 17, 18, 19, 25, 26, 39, 40, 41, 66 - USA, LATAM, Canada"
+      },
+      "Launch": {
+        "Announced": "2023, September 12",
+        "Status": "Available. Released 2023, September 22"
+      },
+      "Body": {
+        "Dimensions": "45 x 38 x 10.7 mm (1.77 x 1.50 x 0.42 in)",
+        "Weight": "31.9 g (41mm), 38.7 g (45mm) (1.13 oz)",
+        "Build": "Glass front, ceramic/sapphire crystal back, aluminum frame",
+        "SIM": "<a href=\"glossary.php3?term=esim\">eSIM</a>",
+        "Features": "IP6X certified\n\n50m water resistant\n\nECG certified (region dependent SW application; HW available on all models)"
+      },
+      "Display": {
+        "Type": "Retina LTPO OLED, 2000 nits (peak)",
+        "Size": "1.9 inches",
+        "Resolution": "484 x 396 pixels (~326 ppi density)",
+        "Protection": "Ion-X strengthened glass"
+      },
+      "Platform": {
+        "OS": "watchOS 10, up to watchOS 26.5, planned upgrade to watchOS 27",
+        "Chipset": "Apple S9",
+        "CPU": "Dual-core",
+        "GPU": "PowerVR"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "64GB"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, dual-band",
+        "Bluetooth": "5.3, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, QZSS, BDS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, heart rate, barometer, always-on altimeter, compass, SpO2, VO2max, temperature (body)",
+        "Features": "Temperature sensing (0.01˚ accuracy)\n\nUltra Wideband (UWB) support (gen2 chip)"
+      },
+      "Battery": {
+        "Type": "Li-Ion 308 mAh",
+        "Charging": "Wireless, 0-80% in 45 min"
+      },
+      "Misc": {
+        "Colors": "Midnight, Starlight, Silver, Pink, Red",
+        "Models": "A2982, A2984, A2983, A2985, Watch7,1, Watch7,2, Watch7,3, Watch7,4",
+        "SAR": "1.02 W/kg (head) &nbsp; &nbsp;",
+        "SAR EU": "0.64 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 340 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-watch-series9-aluminum-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-watch-series9-aluminum-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-watch-series9-aluminum-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/apple_watch_series_9_aluminum-pictures-12562.php"
+    }
+  }
+}

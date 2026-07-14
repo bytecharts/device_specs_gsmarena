@@ -1,0 +1,105 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Google Pixel 5a 5G",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-5a-5g-00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-5a-5g.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/google_pixel_5a_5g-review-2312.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2021, August 26",
+    "dimensions": "183g, 8.8mm thickness",
+    "os": "Android 11, up to Android 14",
+    "storage": "128GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / EVDO / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 17, 18, 19, 20, 25, 26, 28, 29, 30, 32, 38, 39, 40, 41, 42, 46, 48, 66, 71",
+        "5G bands": "1, 2, 5, 12, 25, 28, 41, 66, 71, 77, 78 SA/NSA/Sub6",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "CDMA2000 1xEV-DO"
+      },
+      "Launch": {
+        "Announced": "2021, August 17",
+        "Status": "Available. Released 2021, August 26"
+      },
+      "Body": {
+        "Dimensions": "156.2 x 73.2 x 8.8 mm (6.15 x 2.88 x 0.35 in)",
+        "Weight": "183 g (6.46 oz)",
+        "Build": "Glass front (Gorilla Glass 3), aluminum frame, aluminum back",
+        "SIM": "Nano-SIM + <a href=\"glossary.php3?term=esim\">eSIM</a>",
+        "Features": "IP67 dust/water resistant (up to 1m for 30 min)"
+      },
+      "Display": {
+        "Type": "OLED, HDR",
+        "Size": "6.34 inches, 97.0 cm<sup>2</sup> (~84.9% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~415 ppi density)",
+        "Protection": "Corning Gorilla Glass 3"
+      },
+      "Platform": {
+        "OS": "Android 11, upgradable to Android 14",
+        "Chipset": "Qualcomm SM7250 Snapdragon 765G 5G (7 nm)",
+        "CPU": "Octa-core (1x2.4 GHz Kryo 475 Prime &amp; 1x2.2 GHz Kryo 475 Gold &amp; 6x1.8 GHz Kryo 475 Silver)",
+        "GPU": "Adreno 620"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 6GB RAM"
+      },
+      "Main Camera": {
+        "Dual": "12.2 MP, f/1.7, 27mm, (wide), 1/2.55\", 1.4µm, dual pixel PDAF, OIS\n\n16 MP, f/2.2, 119˚ (ultrawide), 1.0µm",
+        "Features": "LED flash, Pixel Shift, Auto-HDR, panorama",
+        "Video": "4K@30/60fps, 1080p@30/60/120/240fps; gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, f/2.0, 24mm (wide), 1.12µm",
+        "Features": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.0, A2DP, LE, aptX HD",
+        "Positioning": "GPS, GLONASS, GALILEO, QZSS, BDS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 3.1"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass, barometer"
+      },
+      "Battery": {
+        "Type": "Li-Po 4680 mAh",
+        "Charging": "18W wired, PD2.0"
+      },
+      "Misc": {
+        "Colors": "Mostly Black",
+        "Models": "G1F8F, G4S1M",
+        "Price": "<a href=\"google_pixel_5a_5g-price-11059.php\">$ 258.00</a>"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 291303 (v8)\n\nGeekBench: 1337 (v5.1)\n\nGFXBench: 19fps (ES 3.1 onscreen)",
+        "Display": "<a class=\"noUnd\" href=\"google_pixel_5a_5g-review-2312p3.php\">861 nits max brightness (measured)</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 11059); \">Endurance rating 122h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-5a-5g-00.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-5a-5g-01.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/google_pixel_5a_5g-pictures-11059.php"
+    }
+  }
+}

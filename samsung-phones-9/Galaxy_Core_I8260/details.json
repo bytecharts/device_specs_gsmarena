@@ -1,0 +1,104 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy Core I8260",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-core-gt-i8260.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-core-gt-i8260.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_galaxy_core-review-972.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2013, June",
+    "dimensions": "124g, 9mm thickness",
+    "os": "Android 4.1.2",
+    "storage": "8GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - GT-I8260",
+        "3G bands": "HSDPA 900 / 2100",
+        "Speed": "HSPA 7.2/5.76 Mbps",
+        "Features": "GSM 850 / 900 / 1800 / 1900 - GT-I8262 (SIM 1 &amp; SIM 2)\nHSDPA 900 / 2100 - GT-I8262 (SIM 1 &amp; SIM 2)"
+      },
+      "Launch": {
+        "Announced": "2013, May. Released 2013, June",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "129.3 x 67.6 x 9 mm (5.09 x 2.66 x 0.35 in)",
+        "Weight": "124 g (4.37 oz)",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "Single SIM (Micro-SIM) or Dual SIM (Micro-SIM, dual stand-by)"
+      },
+      "Display": {
+        "Type": "TFT",
+        "Size": "4.3 inches, 52.6 cm<sup>2</sup> (~60.2% screen-to-body ratio)",
+        "Resolution": "480 x 800 pixels, 5:3 ratio (~217 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 4.1.2 (Jelly Bean)",
+        "Chipset": "Qualcomm MSM8225 Snapdragon S4 Play",
+        "CPU": "Dual-core 1.2 GHz Cortex-A5",
+        "GPU": "Adreno 203"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "8GB (4.5GB user available), 1GB RAM"
+      },
+      "Main Camera": {
+        "Single": "5 MP, f/2.6, AF",
+        "Features": "LED flash",
+        "Video": "480p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "VGA",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+        "Bluetooth": "3.0, A2DP",
+        "Positioning": "GPS",
+        "NFC": "No",
+        "Radio": "FM radio, RDS",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Ion 1800 mAh, removable",
+        "Stand-by": "Up to 500 h (2G) / Up to 300 h (3G)",
+        "Talk time": "Up to 14 h (2G) / Up to 9 h (3G)"
+      },
+      "Misc": {
+        "Colors": "Metallic Blue, Chic White",
+        "Models": "GT-I8260, GT-I8262",
+        "SAR EU": "0.29 W/kg (head) &nbsp; &nbsp; 0.95 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 160 EUR"
+      },
+      "Our Tests": {
+        "Display": "<a class=\"noUnd\" href=\"samsung_galaxy_core-review-972p3.php\">Contrast ratio: 842:1 (nominal) / 1.563:1 (sunlight)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=5419&amp;nSuggest=1\">Photo</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"samsung_galaxy_core-review-972p6.php\">Voice 71dB / Noise 64dB / Ring 72dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"samsung_galaxy_core-review-972p7.php#aq\">Noise -89.5dB / Crosstalk -85.2dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 5419); \">Endurance rating 49h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-core-gt-i8260.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-core-gt-i8262.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_core_i8260-pictures-5419.php"
+    }
+  }
+}

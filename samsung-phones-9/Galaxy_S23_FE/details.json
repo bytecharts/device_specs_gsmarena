@@ -1,0 +1,112 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy S23 FE",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s23-fe-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s23-fe.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_galaxy_s23_fe-review-2636.php",
+    "siblingDeviceSlugs": [
+      "samsung_galaxy_s23-12082"
+    ],
+    "release_date": "Released 2023, October 05",
+    "dimensions": "209g, 8.2mm thickness",
+    "os": "Android 13, up to 4 major upgrades, One UI 8",
+    "storage": "128GB/256GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 20, 26, 28, 38, 40, 41, 66 - International",
+        "5G bands": "1, 2, 3, 5, 7, 8, 20, 28, 38, 40, 41, 66, 77, 78 SA/NSA/Sub6 - International",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2023, October 04",
+        "Status": "Available. Released 2023, October 05"
+      },
+      "Body": {
+        "Dimensions": "158 x 76.5 x 8.2 mm (6.22 x 3.01 x 0.32 in)",
+        "Weight": "209 g (7.37 oz)",
+        "Build": "Glass front (Gorilla Glass 5), glass back (Gorilla Glass 5), aluminum frame",
+        "SIM": "· Nano-SIM\n· Nano-SIM + Nano-SIM\n· Nano-SIM + Nano-SIM + <a href=\"glossary.php3?term=esim\">eSIM</a> (max 2 at a time)",
+        "Features": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)"
+      },
+      "Display": {
+        "Type": "Dynamic AMOLED 2X, 120Hz, HDR10+, 1450 nits (peak)",
+        "Size": "6.4 inches, 100.5 cm<sup>2</sup> (~83.2% screen-to-body ratio)",
+        "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~403 ppi density)",
+        "Protection": "Corning Gorilla Glass 5"
+      },
+      "Platform": {
+        "OS": "Android 13, up to 4 major Android upgrades, One UI 8",
+        "Chipset": "Exynos 2200 (4 nm) - International\nQualcomm SM8450 Snapdragon 8 Gen 1 (4 nm) - USA",
+        "CPU": "Octa-core (1x2.8 GHz Cortex-X2 &amp; 3x2.50 GHz Cortex-A710 &amp; 4x1.8 GHz Cortex-A510) - International\nOcta-core (1x3.00 GHz Cortex-X2 &amp; 3x2.50 GHz Cortex-A710 &amp; 4x1.80 GHz Cortex-A510) - USA",
+        "GPU": "Xclipse 920 - International\nAdreno 730 - USA"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 8GB RAM, 256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, f/1.8, 23mm (wide), 1/1.57\", 1.0µm, dual pixel PDAF, OIS\n\n8 MP, f/2.4, 76mm (telephoto), 1/4.5\", 1.0µm, PDAF, OIS, 3x optical zoom\n\n12 MP, f/2.2, 13mm, 123˚ (ultrawide), 1/3.0\", 1.12µm",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "8K@24fps, 4K@30/60fps, 1080p@30/60/120/240fps"
+      },
+      "Selfie camera": {
+        "Single": "10 MP, f/2.4, 25mm (wide), 1/3.0\", 1.22µm",
+        "Video": "4K@30/60fps, 1080p@30/60fps; gyro-EIS"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.3, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS",
+        "NFC": "Yes",
+        "Radio": "Unspecified",
+        "USB": "USB Type-C, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, compass",
+        "Features": "Virtual proximity sensing\n\nSamsung DeX (desktop experience support)"
+      },
+      "Battery": {
+        "Type": "Li-Ion 4500 mAh",
+        "Charging": "25W wired, PD3.0, 50% in 30 min\n\n15W wireless\n\nReverse wireless"
+      },
+      "Misc": {
+        "Colors": "Mint, Cream, Graphite, Purple, Indigo, Tangerine",
+        "Models": "SM-S711B, SM-S711B/DS, SM-S711U1, SM-S711U, SM-S711W, SM-S7110, SM-S711N",
+        "SAR": "0.80 W/kg (head) &nbsp; &nbsp; 0.72 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.76 W/kg (head) &nbsp; &nbsp; 1.04 W/kg (body) &nbsp; &nbsp;",
+        "Price": "<a href=\"samsung_galaxy_s23_fe-price-12520.php\">₹ 44,990 / $ 216.89 / £ 203.00 / € 291.00</a>"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 940921 (v9) | 1129280 (v10)\n\nGeekBench: 3550 (v5.1) | 3946 (v6)\n\nGFXBench: 79fps (ES 3.1 onscreen)",
+        "Display": "<a class=\"noUnd\" href=\"samsung_galaxy_s23_fe-review-2636p3.php#dt\">985 nits max brightness (measured)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=12520&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=12520&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"samsung_galaxy_s23_fe-review-2636p3.php#lt\">-23.7 LUFS (Very good)</a>",
+        "Battery": "<div style=\"position:relative;\">\n<a href=\"samsung_galaxy_s23_fe-review-2636p3.php#bt\" data-battery2=\"28:26_7:31_9:16_5:09\" onclick=\"showBatteryPopup(event, 12520); \" class=\"v2\">Active use score 8:28h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s23-fe-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s23-fe-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s23-fe-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s23-fe-10.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_s23_fe-pictures-12520.php"
+    }
+  }
+}

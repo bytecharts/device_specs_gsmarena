@@ -1,0 +1,107 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy S20 FE",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s20-fe-4g-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s20-fe-4g.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_galaxy_s20_fe_5g-review-2178.php",
+    "siblingDeviceSlugs": [
+      "samsung_galaxy_s20_fe_5g-10377",
+      "samsung_galaxy_s20-10081"
+    ],
+    "release_date": "Released 2020, October 02",
+    "dimensions": "190g, 8.4mm thickness",
+    "os": "Android 10, up to Android 13, One UI 5.1",
+    "storage": "128GB/256GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / EVDO / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 20, 26, 28, 32, 38, 40, 41, 66 - International",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE (5CA) Cat19 1800/200 Mbps",
+        "Features": "CDMA 800 / 1900 &amp; TD-SCDMA\nCDMA2000 1xEV-DO"
+      },
+      "Launch": {
+        "Announced": "2020, September 23",
+        "Status": "Available. Released 2020, October 02"
+      },
+      "Body": {
+        "Dimensions": "159.8 x 74.5 x 8.4 mm (6.29 x 2.93 x 0.33 in)",
+        "Weight": "190 g (6.70 oz)",
+        "Build": "Glass front (Gorilla Glass 3), plastic back, aluminum frame",
+        "SIM": "· Nano-SIM\n· Nano-SIM + Nano-SIM",
+        "Features": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)"
+      },
+      "Display": {
+        "Type": "Super AMOLED, 120Hz, HDR10+",
+        "Size": "6.5 inches, 101.0 cm<sup>2</sup> (~84.8% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~407 ppi density)",
+        "Protection": "Corning Gorilla Glass 3"
+      },
+      "Platform": {
+        "OS": "Android 10, upgradable to Android 13, One UI 5.1",
+        "Chipset": "Exynos 990 (7 nm+) - Version 1\nQualcomm SM8250 Snapdragon 865 5G (7 nm+) - Version 2",
+        "CPU": "Octa-core (2x2.73 GHz Mongoose M5 &amp; 2x2.50 GHz Cortex-A76 &amp; 4x2.0 GHz Cortex-A55) - Version 1\nOcta-core (1x2.84 GHz Cortex-A77 &amp; 3x2.42 GHz Cortex-A77 &amp; 4x1.80 GHz Cortex-A55) - Version 2",
+        "GPU": "Mali-G77 MP11 - Version 1\nAdreno 650 - Version 2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (uses shared SIM slot)",
+        "Internal": "128GB 6GB RAM, 128GB 8GB RAM, 256GB 6GB RAM, 256GB 8GB RAM",
+        "Features": "UFS 3.1"
+      },
+      "Main Camera": {
+        "Triple": "12 MP, f/1.8, 26mm (wide), 1/1.76\", 1.8µm, dual pixel PDAF, OIS\n\n8 MP, f/2.4, 76mm (telephoto), 1/4.5\", 1.0µm, PDAF, OIS, 3x optical zoom\n\n12 MP, f/2.2, 13mm, 123˚ (ultrawide), 1/3.0\", 1.12µm",
+        "Features": "LED flash, auto-HDR, panorama",
+        "Video": "4K@30/60fps, 1080p@30/60fps, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.2, 26mm (wide), 1/2.74\", 0.8µm",
+        "Features": "HDR",
+        "Video": "4K@30/60fps, 1080p@30/60fps, gyro-EIS"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No",
+        "Features": "High-bitrate audio support"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS, GLONASS, BDS, GALILEO",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 3.2, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, compass",
+        "Features": "Virtual proximity sensing"
+      },
+      "Battery": {
+        "Type": "Li-Ion 4500 mAh",
+        "Charging": "25W wired, PD3.0\n\n15W wireless (Qi)\n\n4.5W reverse wireless"
+      },
+      "Misc": {
+        "Colors": "Cloud Lavender, Cloud Mint, Cloud Navy, Cloud White, Cloud Red, Cloud Orange",
+        "Models": "SM-G780F, SM-G780F/DSM, SM-G780G",
+        "SAR EU": "0.24 W/kg (head) &nbsp; &nbsp; 1.45 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 390 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s20-fe-4g-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s20-fe-5g-02.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s20-fe-5g-03.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_s20_fe-pictures-10428.php"
+    }
+  }
+}

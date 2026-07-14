@@ -1,0 +1,115 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Apple iPad (2025)",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/apple/apple-ipad-10-2022-0.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/apple-ipad-11-inch-2025.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/ipad_11_inch_a16_2025-review-2848.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2025, March 12",
+    "dimensions": "477g (Wi-Fi) / 481g (LTE), 7mm thickness",
+    "os": "iPadOS 18.3.2, up to iPadOS 26.4",
+    "storage": "128GB/256GB/512GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 11, 12, 13, 14, 17, 18, 19, 20, 21, 25, 26, 28, 29, 30, 32, 34, 38, 39, 40, 41, 42, 48, 66, 71 - A3355",
+        "5G bands": "1, 2, 3, 5, 7, 8, 12, 14, 20, 25, 26, 28, 29, 30, 38, 40, 41, 48, 66, 70, 71, 75, 76, 77, 78, 79 SA/NSA/Sub6 - A3355, A3356",
+        "Speed": "HSPA, LTE, 5G - cellular model only",
+        "Features": "1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 17, 18, 19, 20, 25, 26, 28, 29, 30, 32, 34, 38, 39, 40, 41, 42, 48, 66, 71 - A3356"
+      },
+      "Launch": {
+        "Announced": "2025, March 04",
+        "Status": "Available. Released 2025, March 12"
+      },
+      "Body": {
+        "Dimensions": "248.6 x 179.5 x 7 mm (9.79 x 7.07 x 0.28 in)",
+        "Weight": "477 g (Wi-Fi) / 481 g (LTE) (1.05 lb)",
+        "Build": "Glass front, aluminum back, aluminum frame",
+        "SIM": "<a href=\"glossary.php3?term=esim\">eSIM</a> (cellular model only)",
+        "Features": "Stylus support"
+      },
+      "Display": {
+        "Type": "Liquid Retina IPS LCD, 500 nits (typ)",
+        "Size": "11.0 inches, 357.6 cm<sup>2</sup> (~80.1% screen-to-body ratio)",
+        "Resolution": "1640 x 2360 pixels (~264 ppi density)",
+        "Protection": "Scratch-resistant glass, oleophobic coating, Mohs level 4"
+      },
+      "Platform": {
+        "OS": "iPadOS 18.3.2, upgradable to iPadOS 26.4",
+        "Chipset": "Apple A16 Bionic (4 nm)",
+        "CPU": "5-core",
+        "GPU": "Apple GPU (4-core graphics)"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 6GB RAM, 256GB 6GB RAM, 512GB 6GB RAM"
+      },
+      "Main Camera": {
+        "Single": "12 MP, f/1.8, (wide), PDAF",
+        "Features": "HDR, panorama",
+        "Video": "4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "12 MP, f/2.4, 122˚ (ultrawide)",
+        "Features": "HDR",
+        "Video": "1080p@25/30/60fps, gyro-EIS"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot",
+        "Bluetooth": "5.3, A2DP, EDR, LE",
+        "Positioning": "GPS, GLONASS (Wi‑Fi + Cellular model only)",
+        "NFC": "No",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, DisplayPort; magnetic connector"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (top-mounted), accelerometer, gyro, compass, barometer"
+      },
+      "Battery": {
+        "Type": "Li-Po (28.93 Wh)",
+        "Charging": "45W wired, PD"
+      },
+      "Misc": {
+        "Colors": "Silver, Blue, Pink, Yellow",
+        "Models": "A3355, A3356, A3354, ipad15,7, ipad15,8",
+        "SAR": "1.19 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "1.47 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 400 EUR"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 1414489 (v10)\n\nGeekBench: 6157 (v6)\n\n3DMark: 2604 (Wild Life Extreme)",
+        "Display": "<a class=\"noUnd\" href=\"ipad_11_inch_a16_2025-review-2848p3.php#dt\">466 nits max brightness (measured)</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"ipad_11_inch_a16_2025-review-2848p3.php#lt\">-28.8 LUFS (Average)</a>",
+        "Battery": "<div style=\"position:relative;\">\n<a href=\"ipad_11_inch_a16_2025-review-2848p3.php#bt\" data-battery2=\"53:51_8:02_8:45_6:31\" onclick=\"showBatteryPopup(event, 13702); \" class=\"v2\">Active use score 9:26h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      },
+      "EU LABEL": {
+        "Energy": "Class G",
+        "Battery": "67:00h endurance, 1000 cycles",
+        "Free fall": "Class E",
+        "Repairability": "Class C"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-ipad-10-2022-0.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-ipad-10-2022-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-ipad-10-2022-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/apple_ipad_(2025)-pictures-13702.php"
+    }
+  }
+}

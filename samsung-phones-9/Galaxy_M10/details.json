@@ -1,0 +1,109 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy M10",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-m10-m105f-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-m10-m105f.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_galaxy_m10-review-1913.php",
+    "siblingDeviceSlugs": [
+      "samsung_galaxy_m10s-9861"
+    ],
+    "release_date": "Released 2019, February",
+    "dimensions": "163g, 7.7mm thickness",
+    "os": "Android 9.0, up to Android 10, One UI 2",
+    "storage": "16GB/32GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "1, 3, 5, 8, 20, 38, 40, 41",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE (2CA) Cat6 300/50 Mbps",
+        "Features": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100\n1, 2, 3, 4, 5, 7, 8, 12, 17, 28"
+      },
+      "Launch": {
+        "Announced": "2019, January. Released 2019, February",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "155.6 x 75.6 x 7.7 mm (6.13 x 2.98 x 0.30 in)",
+        "Weight": "163 g (5.75 oz)",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "PLS LCD",
+        "Size": "6.22 inches, 96.6 cm<sup>2</sup> (~82.1% screen-to-body ratio)",
+        "Resolution": "720 x 1520 pixels, 19:9 ratio (~270 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 9.0 (Pie), upgradable to Android 10, One UI 2",
+        "Chipset": "Exynos 7870 Octa (14 nm)",
+        "CPU": "Octa-core 1.6 GHz Cortex-A53",
+        "GPU": "Mali-T830 MP1"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "16GB 2GB RAM, 32GB 3GB RAM",
+        "Features": "eMMC 5.1"
+      },
+      "Main Camera": {
+        "Dual": "13 MP, f/1.9, 27mm (wide), 1/3.1\", 1.12µm, PDAF\n\n5 MP, f/2.2, 12mm (ultrawide)",
+        "Features": "LED flash, panorama, HDR",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "5 MP, f/2.0, 32mm (normal)",
+        "Features": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
+        "Bluetooth": "4.2, A2DP, LE",
+        "Positioning": "GPS, GLONASS, BDS",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity"
+      },
+      "Battery": {
+        "Type": "Li-Ion 3400 mAh, non-removable"
+      },
+      "Misc": {
+        "Colors": "Ocean Blue, Charcoal Black",
+        "Models": "SM-M105F, SM-M105G, SM-M105Y, SM-M105M",
+        "SAR": "0.24 W/kg (head) &nbsp; &nbsp;",
+        "SAR EU": "0.24 W/kg (head) &nbsp; &nbsp; 1.53 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 240 EUR"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 64144 (v7)\n\nGeekBench: 3662 (v4.4)\n\nGFXBench: 3.7fps (ES 3.1 onscreen)",
+        "Display": "<a class=\"noUnd\" href=\"samsung_galaxy_m10-review-1913p3.php#dt\">Contrast ratio: 1182:1</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=9508&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=9508&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"samsung_galaxy_m10-review-1913p3.php#lt\">Voice 66dB / Noise 71dB / Ring 80dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"samsung_galaxy_m10-review-1913p3.php#aq\">Noise -90.7dB / Crosstalk -94.5dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 9508); \">Endurance rating 89h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-m10-m105f-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-m10-m105f-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_m10-pictures-9508.php"
+    }
+  }
+}

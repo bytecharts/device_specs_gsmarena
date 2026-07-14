@@ -1,0 +1,107 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy S6 active",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s6-active-r-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s6-active.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_galaxy_s6_active-review-1268.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2015, June",
+    "dimensions": "170g, 8.6mm thickness",
+    "os": "Android 5.0.2, up to 6.0.1, TouchWiz UI",
+    "storage": "32GB/64GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 20, 29, 40",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat6 300/50 Mbps"
+      },
+      "Launch": {
+        "Announced": "2015, June. Released 2015, June",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "146.8 x 73.4 x 8.6 mm (5.78 x 2.89 x 0.34 in)",
+        "Weight": "170 g (6.00 oz)",
+        "SIM": "Nano-SIM",
+        "Features": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)\n\nMIL-STD-810G compliant salt, dust, humidity, rain, vibration, solar radiation, transport and thermal shock resistant"
+      },
+      "Display": {
+        "Type": "Super AMOLED",
+        "Size": "5.1 inches, 71.7 cm<sup>2</sup> (~66.5% screen-to-body ratio)",
+        "Resolution": "1440 x 2560 pixels, 16:9 ratio (~576 ppi density)",
+        "Protection": "Corning Gorilla Glass 4"
+      },
+      "Platform": {
+        "OS": "Android 5.0.2 (Lollipop), upgradable to 6.0.1 (Marshmallow), TouchWiz UI",
+        "Chipset": "Exynos 7420 Octa (14 nm)",
+        "CPU": "Octa-core (4x2.1 GHz Cortex-A57 &amp; 4x1.5 GHz Cortex-A53)",
+        "GPU": "Mali-T760MP8"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "32GB 3GB RAM, 64GB 3GB RAM",
+        "Features": "UFS 2.0"
+      },
+      "Main Camera": {
+        "Single": "16 MP, f/1.9, 28mm (wide), 1/2.6\", 1.12µm, AF",
+        "Features": "LED flash, auto-HDR, panorama",
+        "Video": "4K@30fps, 1080p@30/60fps, 720p@120fps, HDR, stereo sound rec., OIS, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "5 MP, f/1.9, 22mm (wide)",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+        "Bluetooth": "4.1, A2DP, LE, aptX",
+        "Positioning": "GPS, GLONASS",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, proximity, compass, barometer, heart rate",
+        "Features": "ANT+\n\nS-Voice natural language commands and dictation"
+      },
+      "Battery": {
+        "Type": "Li-Ion 3500 mAh, non-removable",
+        "Charging": "15W wired\n\nWireless (Qi) (market dependent)",
+        "Stand-by": "Up to 504 h (3G)",
+        "Talk time": "Up to 24 h (3G)",
+        "Music play": "Up to 57 h"
+      },
+      "Misc": {
+        "Colors": "White, Gray",
+        "Models": "SM-G890A",
+        "SAR": "1.19 W/kg (head) &nbsp; &nbsp; 1.58 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.48 W/kg (head) &nbsp; &nbsp; 0.42 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 350 EUR"
+      },
+      "Our Tests": {
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 7114); \">Endurance rating 109h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s6-active-r-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s6-active-r-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_s6_active-pictures-7114.php"
+    }
+  }
+}

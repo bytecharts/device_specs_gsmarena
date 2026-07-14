@@ -1,0 +1,98 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy Tab Active Pro",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-tab-active-pro-sm-t547-0.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-tab-active-pro-sm-t547.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "samsung_galaxy_tab_active3-10476"
+    ],
+    "release_date": "Released 2019, October",
+    "dimensions": "653g, 9.9mm thickness",
+    "os": "Android 9.0",
+    "storage": "64GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 20, 28, 38, 40, 41, 66",
+        "Speed": "HSPA, LTE - cellular model only"
+      },
+      "Launch": {
+        "Announced": "2019, September. Released 2019, October",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "243.5 x 170.2 x 9.9 mm (9.59 x 6.70 x 0.39 in)",
+        "Weight": "653 g (1.44 lb)",
+        "SIM": "Nano-SIM (cellular model only)",
+        "Features": "Stylus\n\nIP68 dust tight and water resistant (immersible up to 1.5m for 30 min)\n\nMIL-STD-810G compliant*\n\n*does not guarantee ruggedness or use in extreme conditions"
+      },
+      "Display": {
+        "Type": "LCD, 550 nits (peak)",
+        "Size": "10.1 inches, 295.8 cm<sup>2</sup> (~71.4% screen-to-body ratio)",
+        "Resolution": "1920 x 1200 pixels, 16:10 ratio (~224 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 9.0 (Pie)",
+        "Chipset": "Qualcomm SDM670 Snapdragon 670 (10 nm)",
+        "CPU": "Octa-core (2x2.0 GHz Kryo 360 Gold &amp; 6x1.7 GHz Kryo 360 Silver)",
+        "GPU": "Adreno 616"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "64GB 4GB RAM"
+      },
+      "Main Camera": {
+        "Single": "13 MP, AF",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS, GLONASS - cellular model only",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 3.1"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (front-mounted), accelerometer, gyro, proximity, compass",
+        "Features": "Samsung DeX (desktop experience support)"
+      },
+      "Battery": {
+        "Type": "Li-Po 7600 mAh, removable",
+        "Charging": "15W wired"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "Models": "SM-T540, SM-T547",
+        "Price": "About 600 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-tab-active-pro-sm-t547-0.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-tab-active-pro-sm-t547-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-tab-active-pro-sm-t547-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_tab_active_pro-pictures-9850.php"
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy Young 2",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-young-2-sm-g130.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-young-2-sm-g130.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "samsung_galaxy_young_s6310-5280"
+    ],
+    "release_date": "Released 2014, October",
+    "dimensions": "108g, 11.8mm thickness",
+    "os": "Android 4.4.2",
+    "storage": "4GB 512MB RAM storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 &amp; SIM 2",
+        "3G bands": "HSDPA 900 / 2100",
+        "Speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "Launch": {
+        "Announced": "2014, June. Released 2014, October",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "109.8 x 59.9 x 11.8 mm (4.32 x 2.36 x 0.46 in)",
+        "Weight": "108 g (3.81 oz)",
+        "SIM": "Dual SIM (Micro-SIM, dual stand-by)"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "3.5 inches, 36.5 cm<sup>2</sup> (~55.5% screen-to-body ratio)",
+        "Resolution": "320 x 480 pixels, 3:2 ratio (~165 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 4.4.2 (KitKat)",
+        "CPU": "1.0 GHz Cortex-A7"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Internal": "4GB 512MB RAM"
+      },
+      "Main Camera": {
+        "Single": "3.15 MP",
+        "Video": "480p@24fps"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+        "Bluetooth": "4.0, A2DP",
+        "Positioning": "GPS, GLONASS",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer"
+      },
+      "Battery": {
+        "Type": "Li-Ion 1300 mAh, removable",
+        "Talk time": "Up to 6 h (3G)",
+        "Music play": "Up to 24 h"
+      },
+      "Misc": {
+        "Colors": "Iris Charcoal, White",
+        "Models": "SM-G130H, SM-G130HN",
+        "SAR": "0.87 W/kg (head) &nbsp; &nbsp; 0.94 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.92 W/kg (head) &nbsp; &nbsp; 0.44 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 100 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-young-2-sm-g130.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_young_2-pictures-6480.php"
+    }
+  }
+}

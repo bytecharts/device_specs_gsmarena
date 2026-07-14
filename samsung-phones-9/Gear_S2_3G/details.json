@@ -1,0 +1,95 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Gear S2 3G",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-gear-s2-0.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-gear-s2.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_gear_s2-review-1334.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2015, October",
+    "dimensions": "51g, 13.4mm thickness",
+    "os": "Tizen OS 2.3.2",
+    "storage": "4GB 512MB RAM storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 900 / 1800",
+        "3G bands": "HSDPA 900 / 2100",
+        "Speed": "HSPA",
+        "Features": "GSM 850 / 1900\nHSDPA 850 / 1900"
+      },
+      "Launch": {
+        "Announced": "2015, August. Released 2015, October",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "51.8 x 44 x 13.4 mm (2.04 x 1.73 x 0.53 in)",
+        "Weight": "51 g (1.80 oz)",
+        "Build": "Glass front (Gorilla Glass 3), stainless steel frame",
+        "SIM": "<a href=\"glossary.php3?term=esim\">eSIM</a>",
+        "Features": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)"
+      },
+      "Display": {
+        "Type": "Super AMOLED",
+        "Size": "1.2 inches",
+        "Resolution": "360 x 360 pixels (~302 ppi density)",
+        "Protection": "Corning Gorilla Glass 3",
+        "Features": "Rotating bezel"
+      },
+      "Platform": {
+        "OS": "Tizen OS 2.3.2",
+        "Chipset": "Qualcomm MSM8x26",
+        "CPU": "Dual-core 1.0 GHz"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "4GB 512MB RAM"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n",
+        "Bluetooth": "4.1, A2DP, LE",
+        "Positioning": "GPS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, heart rate, barometer",
+        "Features": "S-Voice natural language commands and dictation\n\nMP3/M4A/AAC/WAV player\n\nPhoto viewer\n\nVoice memo/dial/commands\n\nSamsung Pay"
+      },
+      "Battery": {
+        "Type": "Li-Ion 300 mAh, non-removable",
+        "Charging": "Wireless (Qi)",
+        "Stand-by": "Up to 48 h (3G)"
+      },
+      "Misc": {
+        "Colors": "Dark Gray, Silver",
+        "Models": "SM-R7200, SM-R7320, SM-R7300",
+        "SAR EU": "0.05 W/kg (head) &nbsp; &nbsp; 0.30 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 250 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-gear-s2-0.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-gear-s2-01.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-gear-s2-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_gear_s2_3g-pictures-7585.php"
+    }
+  }
+}

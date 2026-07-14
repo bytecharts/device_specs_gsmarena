@@ -1,0 +1,102 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy Tab Pro 8.4",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-tab-pro-84.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-tab-pro-84.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_galaxy_tab_pro_8_4-review-1042.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2014, February",
+    "dimensions": "331g, 7.2mm thickness",
+    "os": "Android 4.4, TouchWiz UI",
+    "storage": "16GB/32GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">No cellular connectivity</a>",
+        "2G bands": "N/A",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2014, January. Released 2014, February",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "219 x 128.5 x 7.2 mm (8.62 x 5.06 x 0.28 in)",
+        "Weight": "331 g (11.68 oz)",
+        "SIM": "No"
+      },
+      "Display": {
+        "Type": "Super clear LCD",
+        "Size": "8.4 inches, 204.6 cm<sup>2</sup> (~72.7% screen-to-body ratio)",
+        "Resolution": "1600 x 2560 pixels, 16:10 ratio (~359 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 4.4 (KitKat), TouchWiz UI",
+        "Chipset": "Qualcomm Snapdragon 800 (28 nm)",
+        "CPU": "Quad-core 2.3 GHz Krait 400",
+        "GPU": "Adreno 330"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "16GB 2GB RAM, 32GB 2GB RAM",
+        "Features": "eMMC 4.5"
+      },
+      "Main Camera": {
+        "Single": "8 MP, AF",
+        "Features": "LED flash",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "2 MP",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+        "Bluetooth": "4.0, A2DP, LE",
+        "Positioning": "GPS, GLONASS",
+        "NFC": "No",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "microUSB 2.0 (MHL TV-out), OTG"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro"
+      },
+      "Battery": {
+        "Type": "Li-Ion 4800 mAh, non-removable",
+        "Talk time": "Up to 11 h (multimedia)",
+        "Music play": "Up to 127 h"
+      },
+      "Misc": {
+        "Colors": "Black, White",
+        "Models": "SM-T320",
+        "SAR": "1.04 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 290 EUR"
+      },
+      "Our Tests": {
+        "Display": "<a class=\"noUnd\" href=\"samsung_galaxy_tab_pro_8_4-review-1042p3.php\">Contrast ratio: 822:1 (nominal)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=5946&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=5946&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"samsung_galaxy_tab_pro_8_4-review-1042p8.php\">Voice 75dB / Noise 66dB / Ring 76dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"samsung_galaxy_tab_pro_8_4-review-1042p8.php\">Noise -93.3dB / Crosstalk -89.2dB</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-tab-pro-84.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_tab_pro_8_4-pictures-5946.php"
+    }
+  }
+}

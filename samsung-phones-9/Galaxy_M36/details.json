@@ -1,0 +1,102 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy M36",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-m36-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-m36.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2025, July 12",
+    "dimensions": "197g, 7.7mm thickness",
+    "os": "Android 15, up to 6 major upgrades, One UI 7",
+    "storage": "128GB/256GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 5, 7, 8, 20, 28, 38, 40, 41",
+        "5G bands": "1, 3, 5, 8, 28, 38, 40, 41, 78 SA/NSA/Sub6",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2025, June 27",
+        "Status": "Available. Released 2025, July 12"
+      },
+      "Body": {
+        "Dimensions": "164.4 x 77.9 x 7.7 mm (6.47 x 3.07 x 0.30 in)",
+        "Weight": "197 g (6.95 oz)",
+        "Build": "Glass front (Gorilla Glass Victus+), plastic frame, glass back",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "Drop resistant up to 2m"
+      },
+      "Display": {
+        "Type": "Super AMOLED, 120Hz",
+        "Size": "6.7 inches, 110.2 cm<sup>2</sup> (~86.0% screen-to-body ratio)",
+        "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~385 ppi density)",
+        "Protection": "Corning Gorilla Glass Victus+"
+      },
+      "Platform": {
+        "OS": "Android 15, up to 6 major Android upgrades, One UI 7",
+        "Chipset": "Exynos 1380 (5 nm)",
+        "CPU": "Octa-core (4x2.4 GHz Cortex-A78 &amp; 4x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G68 MP5"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (uses shared SIM slot)",
+        "Internal": "128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM",
+        "Features": "UFS 2.2"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, f/1.8, (wide), 1/1.96\", PDAF, OIS\n\n8 MP, f/2.2, 123˚, (ultrawide), 1/4.0\", 1.12µm\n\n2 MP (macro)",
+        "Features": "LED flash, panorama, HDR",
+        "Video": "4K@30fps, 1080p@30/60fps, 720p@480fps, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "13 MP, f/2.2, (wide), 1/3.06\", 1.12µm",
+        "Features": "HDR",
+        "Video": "4K@30fps, 1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.3, A2DP, LE",
+        "Positioning": "GPS, GALILEO, GLONASS, BDS, QZSS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, compass",
+        "Features": "Virtual proximity sensing"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "25W wired"
+      },
+      "Misc": {
+        "Colors": "Orange Haze, Velvet Black, Serene Green",
+        "Models": "SM-M366B, SM-M366B/DS",
+        "SAR": "0.46 W/kg (head) &nbsp; &nbsp;",
+        "SAR EU": "0.38 W/kg (head) &nbsp; &nbsp; 1.01 W/kg (body) &nbsp; &nbsp;",
+        "Price": "<a href=\"samsung_galaxy_m36_5g-price-13967.php\">₹ 19,999</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-m36-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-m36-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_m36_5g-pictures-13967.php"
+    }
+  }
+}

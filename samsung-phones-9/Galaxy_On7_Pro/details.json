@@ -1,0 +1,97 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy On7 Pro",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-on7-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-on7-.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_galaxy_on5_pro_on7_pro-review-1470.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2016, July",
+    "dimensions": "172g, 8mm thickness",
+    "os": "Android 6.0.1",
+    "storage": "16GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 &amp; SIM 2",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100 - G600FY",
+        "4G bands": "LTE - G600FY",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "Launch": {
+        "Announced": "2016, July. Released 2016, July",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "152 x 78 x 8 mm (5.98 x 3.07 x 0.31 in)",
+        "Weight": "172 g (6.07 oz)",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "Hybrid Dual SIM (Micro-SIM, dual stand-by)"
+      },
+      "Display": {
+        "Type": "TFT",
+        "Size": "5.5 inches, 83.4 cm<sup>2</sup> (~70.3% screen-to-body ratio)",
+        "Resolution": "720 x 1280 pixels, 16:9 ratio (~267 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 6.0.1 (Marshmallow)",
+        "Chipset": "Qualcomm MSM8916 Snapdragon 410 (28 nm)",
+        "CPU": "Quad-core 1.2 GHz Cortex-A53",
+        "GPU": "Adreno 306"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (uses shared SIM slot)",
+        "Internal": "16GB 2GB RAM",
+        "Features": "eMMC 4.5"
+      },
+      "Main Camera": {
+        "Single": "13 MP, f/2.1, AF",
+        "Features": "LED flash",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "5 MP, f/2.2",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
+        "Bluetooth": "4.1, A2DP",
+        "Positioning": "GPS, GLONASS/ BDS (region dependent)",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity"
+      },
+      "Battery": {
+        "Type": "Li-Ion 3000 mAh, removable"
+      },
+      "Misc": {
+        "Colors": "White, Black, Gold",
+        "Models": "SM-G600FY",
+        "SAR": "0.79 W/kg (head) &nbsp; &nbsp; 0.90 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.38 W/kg (head) &nbsp; &nbsp; 0.54 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 150 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-on7-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-on7-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_on7_pro-pictures-8140.php"
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy S4 Active LTE-A",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-i9295-galaxy-s4-active-ofic.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-i9295-galaxy-s4-active-ofic.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2013, December",
+    "dimensions": "147g, 9.1mm thickness",
+    "os": "Android 4.2.2, TouchWiz UI",
+    "storage": "16GB/32GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "3G bands": "HSDPA",
+        "4G bands": "LTE",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+        "GPRS": "Class 33",
+        "EDGE": "Class 33"
+      },
+      "Launch": {
+        "Announced": "2013, December. Released 2013, December",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "139.7 x 71.3 x 9.1 mm (5.5 x 2.81 x 0.36 in)",
+        "Weight": "147 g (5.19 oz)",
+        "SIM": "Micro-SIM",
+        "Features": "IP67 dust/water resistant (up to 1m for 30 min)"
+      },
+      "Display": {
+        "Type": "TFT",
+        "Size": "5.0 inches, 68.9 cm<sup>2</sup> (~69.2% screen-to-body ratio)",
+        "Resolution": "1080 x 1920 pixels, 16:9 ratio (~441 ppi density)",
+        "Protection": "Corning Gorilla Glass 2"
+      },
+      "Platform": {
+        "OS": "Android 4.2.2 (Jelly Bean), TouchWiz UI",
+        "Chipset": "Qualcomm MSM8974 Snapdragon 800 (28 nm)",
+        "CPU": "Quad-core 2.3 GHz Krait 400",
+        "GPU": "Adreno 330"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "16GB 2GB RAM, 32GB 2GB RAM",
+        "Features": "eMMC 4.5"
+      },
+      "Main Camera": {
+        "Single": "13 MP, f/2.2, 31mm (standard), 1/3.1\", 1.14µm, AF",
+        "Features": "LED flash, HDR",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "2 MP, f/2.4, 31mm (standard)",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA, hotspot",
+        "Bluetooth": "4.0, A2DP, EDR, LE, aptX",
+        "Positioning": "GPS, GLONASS",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "microUSB 2.0 (MHL 2 TV-out), OTG"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, proximity, compass, barometer, gesture",
+        "Features": "DMB-T TV tuner\n\nS-Voice natural language commands and dictation\n\nAir gestures"
+      },
+      "Battery": {
+        "Type": "Li-Ion 2600 mAh, removable",
+        "Stand-by": "Up to 320 h (3G)",
+        "Talk time": "Up to 15 h (3G)"
+      },
+      "Misc": {
+        "Colors": "Dive Blue, Pink",
+        "Models": "SHV-E470S",
+        "SAR": "1.25 W/kg (head) &nbsp; &nbsp; 0.74 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.52 W/kg (head) &nbsp; &nbsp; 0.30 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 410 EUR"
+      }
+    }
+  }
+}

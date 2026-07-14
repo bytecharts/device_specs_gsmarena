@@ -1,0 +1,100 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy M31 Prime",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-m31-sm-m315f-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-m31-sm-m315f.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "samsung_galaxy_m31-10079"
+    ],
+    "release_date": "Released 2020, October 17",
+    "dimensions": "191g, 8.9mm thickness",
+    "os": "Android 10, One UI 2.0",
+    "storage": "64GB/128GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 20, 26, 28, 38, 40, 41, 66",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2020, October 14. Released 2020, October 17",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "159.2 x 75.1 x 8.9 mm (6.27 x 2.96 x 0.35 in)",
+        "Weight": "191 g (6.74 oz)",
+        "Build": "Glass front (Gorilla Glass 3), plastic back, plastic frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "Super AMOLED, 420 nits (peak)",
+        "Size": "6.4 inches, 100.5 cm<sup>2</sup> (~84.1% screen-to-body ratio)",
+        "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~403 ppi density)",
+        "Protection": "Corning Gorilla Glass 3"
+      },
+      "Platform": {
+        "OS": "Android 10, One UI 2.0",
+        "Chipset": "Exynos 9611 (10 nm)",
+        "CPU": "Octa-core (4x2.3 GHz Cortex-A73 &amp; 4x1.7 GHz Cortex-A53)",
+        "GPU": "Mali-G72 MP3"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "64GB 6GB RAM, 128GB 6GB RAM",
+        "Features": "UFS 2.1"
+      },
+      "Main Camera": {
+        "Quad": "64 MP, f/1.8, 26mm (wide), 1/1.72\", 0.8µm, PDAF\n\n8 MP, f/2.2, 123˚ (ultrawide), 1/4.0\", 1.12µm\n\n5 MP (macro)\n\nAuxiliary lens",
+        "Features": "LED flash, panorama, HDR",
+        "Video": "4K@30fps, 1080p@30fps, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.0, 26mm (wide), 1/2.8\", 0.8µm",
+        "Features": "HDR",
+        "Video": "4K@30fps, 1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS",
+        "NFC": "No",
+        "Radio": "FM radio, RDS, recording",
+        "USB": "USB Type-C 2.0"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (rear-mounted), accelerometer, gyro, compass",
+        "Features": "Virtual proximity sensing"
+      },
+      "Battery": {
+        "Type": "Li-Po 6000 mAh",
+        "Charging": "15W wired"
+      },
+      "Misc": {
+        "Colors": "Ocean Blue, Space Black, Iceberg Blue",
+        "Models": "SM-M315F/DS",
+        "SAR": "0.38 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 190 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-m31-sm-m315f-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_m31_prime-pictures-10496.php"
+    }
+  }
+}

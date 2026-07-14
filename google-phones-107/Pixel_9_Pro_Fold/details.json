@@ -1,0 +1,121 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Google Pixel 9 Pro Fold",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-9-pro-fold-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-9-pro-fold-.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/google_pixel_9_pro_fold-review-2744.php",
+    "siblingDeviceSlugs": [
+      "google_pixel_10_pro_fold-14014",
+      "google_pixel_fold-12265",
+      "google_pixel_9_pro_xl-13217",
+      "google_pixel_9_pro-13218",
+      "google_pixel_10_pro_5g-13987",
+      "google_pixel_10a_5g-14474",
+      "google_pixel_10_5g-13979",
+      "google_pixel_7_pro-11908",
+      "google_pixel_8-12546",
+      "google_pixel_10_pro_xl_5g-13988"
+    ],
+    "release_date": "Released 2024, September 04",
+    "dimensions": "257g, 5.1mm thickness",
+    "os": "Android 14, up to 16",
+    "storage": "256GB/512GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 17, 18, 19, 20, 21, 25, 26, 28, 29, 30, 32, 38, 39, 40, 41, 42, 46, 48, 66, 71",
+        "5G bands": "1, 2, 3, 5, 7, 8, 12, 14, 20, 25, 26, 28, 29, 30, 38, 40, 41, 48, 66, 70, 71, 75, 76, 77, 78, 79, 257, 258, 260, 261 SA/NSA/Sub6/mmWave",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2024, August 13",
+        "Status": "Available. Released 2024, September 04"
+      },
+      "Body": {
+        "Dimensions": "Unfolded: 155.2 x 150.2 x 5.1 mm\nFolded: 155.2 x 77.1 x 10.5 mm",
+        "Weight": "257 g (9.07 oz)",
+        "Build": "Glass front (Gorilla Glass Victus 2) (folded), plastic front (unfolded), glass back (Gorilla Glass Victus 2), aluminum frame",
+        "SIM": "Nano-SIM + <a href=\"glossary.php3?term=esim\">eSIM</a>",
+        "Features": "IPX8 water resistant"
+      },
+      "Display": {
+        "Type": "Foldable LTPO OLED, 120Hz, HDR10+, 1600 nits (HBM), 2700 nits (peak)",
+        "Size": "8.0 inches, 207.4 cm<sup>2</sup> (~89.0% screen-to-body ratio)",
+        "Resolution": "2076 x 2152 pixels, 1:1 ratio (~373 ppi density)",
+        "Features": "Cover display:\n\nOLED, 120Hz, HDR, Corning Gorilla Glass Victus 2\n\n6.3 inches, 1080 x 2424 pixels, 20:9 ratio, 422 ppi\n\n1800 nits (HBM), 2700 nits (peak)"
+      },
+      "Platform": {
+        "OS": "Android 14, upgradable to Android 16, up to 7 major Android upgrades",
+        "Chipset": "Google Tensor G4 (4 nm)",
+        "CPU": "Octa-core (1x3.1 GHz Cortex-X4 &amp; 3x2.6 GHz Cortex-A720 &amp; 4x1.92 GHz Cortex-A520)",
+        "GPU": "Mali-G715 MC7"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 16GB RAM, 512GB 16GB RAM",
+        "Features": "UFS 3.1"
+      },
+      "Main Camera": {
+        "Triple": "48 MP, f/1.7, 25mm (wide), 1/2.0\", 0.8µm, dual pixel PDAF, OIS\n\n10.8 MP, f/3.1, 112mm (telephoto), 1/3.2\", dual pixel PDAF, OIS, 5x optical zoom\n\n10.5 MP, f/2.2, 127˚ (ultrawide), 1/3.4\", PDAF",
+        "Features": "Multi-zone Laser AF, LED flash, Pixel Shift, Ultra-HDR, panorama, Best Take, Zoom Enhance",
+        "Video": "4K@24/30/60fps, 1080p@24/30/60/120/240fps, 10-bit HDR, gyro-EIS, OIS"
+      },
+      "Selfie camera": {
+        "Single": "10 MP, f/2.2, 23mm (wide), 1/3.94\", PDAF\n\nCover camera:\n\n10 MP, f/2.2, 23mm (wide), 1/3.94\", PDAF",
+        "Features": "HDR, panorama",
+        "Video": "4K@30/60fps, 1080p@30/60fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band",
+        "Bluetooth": "5.3, A2DP, LE, aptX HD",
+        "Positioning": "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS, NavIC",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 3.2"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer",
+        "Features": "Ultra Wideband (UWB) support\n\nSatellite SOS service"
+      },
+      "Battery": {
+        "Type": "4650 mAh",
+        "Charging": "21W wired\n\n7.5W wireless\n\nBypass charging"
+      },
+      "Misc": {
+        "Colors": "Obsidian, Porcelain",
+        "Models": "GGH2X, GC15S",
+        "SAR EU": "0.98 W/kg (head) &nbsp; &nbsp; 1.39 W/kg (body) &nbsp; &nbsp;",
+        "Price": "<a href=\"google_pixel_9_pro_fold-price-13220.php\">$ 789.00 / £ 659.99 / € 1,028.89</a>"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 1222228 (v10)\n\nGeekBench: 4783 (v6)\n\n3DMark: 2620 (Wild Life Extreme)",
+        "Display": "<a class=\"noUnd\" href=\"google_pixel_9_pro_fold-review-2744p3.php\">2199 nits max brightness (measured)</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"google_pixel_9_pro_fold-review-2744p3.php#lt\">-24.1 LUFS (Very good)</a>",
+        "Battery": "<div style=\"position:relative;\">\n<a href=\"google_pixel_9_pro_fold-review-2744p3.php#bt\" data-battery2=\"27:51_11:07_14:47_6:45\" onclick=\"showBatteryPopup(event, 13220); \" class=\"v2\">Active use score 11:54h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-9-pro-fold-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-9-pro-fold-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-9-pro-fold-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-9-pro-fold-4.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/google_pixel_9_pro_fold-pictures-13220.php"
+    }
+  }
+}

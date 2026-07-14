@@ -1,0 +1,114 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Apple iPhone 6s Plus",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone6s-plus-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-6s-plus.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/apple_iphone_6s_plus-review-1316.php",
+    "siblingDeviceSlugs": [
+      "apple_iphone_6s-7242"
+    ],
+    "release_date": "Released 2015, September 25",
+    "dimensions": "192g, 7.3mm thickness",
+    "os": "iOS 9, up to iOS 15.8.5",
+    "storage": "16GB/32GB/128GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / EVDO / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700 / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 29, 30 - A1633",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE (2CA) Cat6 300/50 Mbps, EV-DO Rev.A 3.1 Mbps",
+        "Features": "CDMA 800 / 1700 / 1900 / 2100\nCDMA2000 1xEV-DO\n1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 29, 30, 38, 39, 40, 41 - A1634"
+      },
+      "Launch": {
+        "Announced": "2015, September 09. Released 2015, September 25",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "158.2 x 77.9 x 7.3 mm (6.23 x 3.07 x 0.29 in)",
+        "Weight": "192 g (6.77 oz)",
+        "Build": "Glass front (Corning-made glass), aluminum back, aluminum frame",
+        "SIM": "Nano-SIM",
+        "Features": "Apple Pay (Visa, MasterCard, AMEX certified)"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "5.5 inches, 83.4 cm<sup>2</sup> (~67.7% screen-to-body ratio)",
+        "Resolution": "1080 x 1920 pixels, 16:9 ratio (~401 ppi density)",
+        "Protection": "Ion-strengthened glass, oleophobic coating",
+        "Features": "3D Touch display"
+      },
+      "Platform": {
+        "OS": "iOS 9, upgradable to iOS 15.8.5",
+        "Chipset": "Apple A9 (14/16 nm - maker dependant)",
+        "CPU": "Dual-core 1.84 GHz Twister",
+        "GPU": "PowerVR GT7600 (six-core graphics)"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "16GB 2GB RAM, 32GB 2GB RAM, 64GB 2GB RAM, 128GB 2GB RAM",
+        "Features": "NVMe"
+      },
+      "Main Camera": {
+        "Single": "12 MP, f/2.2, 29mm (standard), 1/3.0\", 1.22µm, PDAF, OIS",
+        "Features": "Dual-LED dual-tone flash, HDR",
+        "Video": "4K@30fps, 1080p@60fps, 1080p@120fps, 720p@240fps"
+      },
+      "Selfie camera": {
+        "Single": "5 MP, f/2.2, 31mm (standard)",
+        "Features": "Face detection, HDR, panorama",
+        "Video": "720p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes",
+        "Features": "16-bit/44.1kHz audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, hotspot",
+        "Bluetooth": "4.2, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, QZSS",
+        "NFC": "Yes (Apple Pay only)",
+        "Radio": "No",
+        "USB": "Lightning, USB 2.0"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (front-mounted), accelerometer, gyro, proximity, compass, barometer"
+      },
+      "Battery": {
+        "Type": "Li-Ion 2750 mAh, non-removable (10.45 Wh)",
+        "Stand-by": "Up to 384 h (3G)",
+        "Talk time": "Up to 24 h (3G)"
+      },
+      "Misc": {
+        "Colors": "Space Gray, Silver, Gold, Rose Gold",
+        "Models": "A1634, A1687, A1690, A1699, iPhone8,2",
+        "SAR": "1.12 W/kg (head) &nbsp; &nbsp; 1.14 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.93 W/kg (head) &nbsp; &nbsp; 0.98 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 240 EUR"
+      },
+      "Our Tests": {
+        "Performance": "Basemark OS II 2.0: 2261",
+        "Display": "<a class=\"noUnd\" href=\"apple_iphone_6s_plus-review-1316p3.php\">Contrast ratio: 1382:1 (nominal), 3.530 (sunlight)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=7243&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=7243&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"apple_iphone_6s_plus-review-1316p7.php\">Voice 65dB / Noise 65dB / Ring 64dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"apple_iphone_6s_plus-review-1316p8.php#aq\">Noise -93.4dB / Crosstalk -71.1dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 7243); \">Endurance rating 85h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone6s-plus-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/apple_iphone_6s_plus-pictures-7243.php"
+    }
+  }
+}

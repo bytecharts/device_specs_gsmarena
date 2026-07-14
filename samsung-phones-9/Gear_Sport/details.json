@@ -1,0 +1,91 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Gear Sport",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-gear-sport1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-gear-sport1.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_gear_sport-review-1694.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2017, October",
+    "dimensions": "67g (w/ strap); 50g (w/о strap), 11.6mm thickness",
+    "os": "Tizen OS 5.5",
+    "storage": "4GB 768MB RAM storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">No cellular connectivity</a>",
+        "2G bands": "N/A",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2017, August. Released 2017, October",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "44.6 x 42.9 x 11.6 mm (1.76 x 1.69 x 0.46 in)",
+        "Weight": "67g (w/ strap); 50g (w/о strap) (1.76 oz)",
+        "SIM": "No",
+        "Features": "50m water resistant\n\nCompatible with standard 20mm straps\n\nMIL-STD-810G compliant*\n\n*does not guarantee ruggedness or use in extreme conditions"
+      },
+      "Display": {
+        "Type": "Super AMOLED",
+        "Size": "1.2 inches",
+        "Resolution": "360 x 360 pixels (~424 ppi density)",
+        "Protection": "Corning Gorilla Glass 3",
+        "Features": "Rotating bezel"
+      },
+      "Platform": {
+        "OS": "Tizen OS 5.5",
+        "Chipset": "Exynos 3250 Dual",
+        "CPU": "Dual-core 1.0 GHz Cortex-A7",
+        "GPU": "Mali-400MP2"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "4GB 768MB RAM"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n",
+        "Bluetooth": "4.2, A2DP, LE",
+        "Positioning": "GPS, GLONASS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, heart rate, barometer",
+        "Features": "Bixby natural language commands and dictation\n\nSamsung Pay"
+      },
+      "Battery": {
+        "Type": "Li-Ion 300 mAh, non-removable",
+        "Charging": "Wireless (Qi)",
+        "Stand-by": "Up to 48 h (3G)"
+      },
+      "Misc": {
+        "Colors": "Black, Blue",
+        "Models": "SM-R600",
+        "Price": "About 200 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-gear-sport1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-gear-sport2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-gear-sport3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-gear-sport4.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_gear_sport-pictures-8839.php"
+    }
+  }
+}

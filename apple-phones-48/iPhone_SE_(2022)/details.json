@@ -1,0 +1,111 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Apple iPhone SE (2022)",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-se-2022-0.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-se-2022.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/apple_iphone_se_2022-review-2405.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2022, March 18",
+    "dimensions": "144g, 7.3mm thickness",
+    "os": "iOS 15.4, up to iOS 26.5",
+    "storage": "64GB/128GB/256GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / EVDO / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 30, 32, 34, 38, 39, 40, 41, 42, 46, 48, 66 - A2783, A2784, A2785",
+        "5G bands": "1, 2, 3, 5, 7, 8, 12, 20, 25, 28, 30, 38, 40, 41, 48, 66, 77, 78, 79 SA/NSA/Sub6 - A2783, A2784, A2785, A2782",
+        "Speed": "HSPA, LTE, 5G, EV-DO Rev.A 3.1 Mbps",
+        "Features": "CDMA 800 / 1900\nCDMA2000 1xEV-DO\n1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 17, 18, 19, 20, 25, 26, 28, 29, 30, 32, 34, 38, 39, 40, 41, 42, 46, 48, 66, 71 - A2595\n1, 2, 3, 4, 5, 7, 8, 11, 12, 13, 17, 18, 19, 20, 21, 25, 26, 28, 30, 32, 34, 38, 39, 40, 41, 42, 46, 48, 66 - A2782\n1, 2, 3, 5, 7, 8, 12, 20, 25, 28, 29, 30, 38, 40, 41, 48, 66, 71, 77, 78, 79 SA/NSA/Sub6 - A2595"
+      },
+      "Launch": {
+        "Announced": "2022, March 08",
+        "Status": "Available. Released 2022, March 18"
+      },
+      "Body": {
+        "Dimensions": "138.4 x 67.3 x 7.3 mm (5.45 x 2.65 x 0.29 in)",
+        "Weight": "144 g (5.08 oz)",
+        "Build": "Glass front, glass back, aluminum frame",
+        "SIM": "Nano-SIM + <a href=\"glossary.php3?term=esim\">eSIM</a>",
+        "Features": "IP67 dust/water resistant (up to 1m for 30 min)\n\nApple Pay (Visa, MasterCard, AMEX certified)"
+      },
+      "Display": {
+        "Type": "Retina IPS LCD, 625 nits (typ)",
+        "Size": "4.7 inches, 60.9 cm<sup>2</sup> (~65.4% screen-to-body ratio)",
+        "Resolution": "750 x 1334 pixels, 16:9 ratio (~326 ppi density)",
+        "Protection": "Ion-strengthened glass"
+      },
+      "Platform": {
+        "OS": "iOS 15.4, upgradable to iOS 26.5",
+        "Chipset": "Apple A15 Bionic (5 nm)",
+        "CPU": "Hexa-core (2x3.22 GHz Avalanche + 4x1.82 GHz Blizzard)",
+        "GPU": "Apple GPU (4-core graphics)"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "64GB 4GB RAM, 128GB 4GB RAM, 256GB 4GB RAM",
+        "Features": "NVMe"
+      },
+      "Main Camera": {
+        "Single": "12 MP, f/1.8 (wide), PDAF, OIS",
+        "Features": "Quad-LED dual-tone flash, HDR, panorama",
+        "Video": "4K@24/30/60fps, 1080p@30/60/120/240fps, HDR, OIS, stereo sound rec."
+      },
+      "Selfie camera": {
+        "Single": "7 MP, f/2.2",
+        "Features": "HDR",
+        "Video": "1080p@30/120fps; gyro-EIS"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS, QZSS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "Lightning, USB 2.0"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (front-mounted), accelerometer, proximity, gyro, compass, barometer"
+      },
+      "Battery": {
+        "Type": "Li-Ion 2018 mAh (6.96 Wh)",
+        "Charging": "20W wired, 50% in 30 min\n\n7.5W wireless (Qi)"
+      },
+      "Misc": {
+        "Colors": "Midnight, Starlight, Red",
+        "Models": "A2783, A2595, A2785, A2782, A2784, iphone14,6",
+        "SAR": "0.98 W/kg (head) &nbsp; &nbsp; 0.99 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "1.20 W/kg (head) &nbsp; &nbsp; 1.19 W/kg (body) &nbsp; &nbsp;",
+        "Price": "<a href=\"apple_iphone_se_(2022)-price-11410.php\">$ 101.83 / £ 102.00 / € 139.99</a>"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 723486 (v9)\n\nGeekBench: 4629 (v5.1)\n\nGFXBench: 60fps (ES 3.1 onscreen)",
+        "Display": "<a class=\"noUnd\" href=\"apple_iphone_se_2022-review-2405p3.php#dt\">1424:1 contrast ratio, 605 nits max brightness (measured)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=11410&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=11410&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"apple_iphone_se_2022-review-2405p3.php#lt\">-25.2 LUFS (Very good)</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 11410); \">Endurance rating 62h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-se-2022-0.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-se-2022-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-se-2022-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/apple_iphone_se_(2022)-pictures-11410.php"
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy M55",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-m55-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-m55.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "samsung_galaxy_m55s-13354"
+    ],
+    "release_date": "Released 2024, March 28",
+    "dimensions": "180g, 7.8mm thickness",
+    "os": "Android 14, up to Android 16, One UI 8.5",
+    "storage": "128GB/256GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 20, 25, 26, 28, 38, 40, 41, 66",
+        "5G bands": "1, 3, 5, 7, 8, 20, 28, 38, 40, 41, 66, 77, 78 SA/NSA/Sub6",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2024, March 28",
+        "Status": "Available. Released 2024, March 28"
+      },
+      "Body": {
+        "Dimensions": "163.9 x 76.5 x 7.8 mm (6.45 x 3.01 x 0.31 in)",
+        "Weight": "180 g (6.35 oz)",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "Super AMOLED+, 120Hz, 1000 nits (HBM)",
+        "Size": "6.7 inches, 108.4 cm<sup>2</sup> (~86.4% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~393 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 14, upgradable to Android 16, One UI 8.5",
+        "Chipset": "Qualcomm SM7450-AB Snapdragon 7 Gen 1 (4 nm)",
+        "CPU": "Octa-core (1x2.4 GHz Cortex-A710 &amp; 3x2.36 GHz Cortex-A710 &amp; 4x1.8 GHz Cortex-A510)",
+        "GPU": "Adreno 644"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (uses shared SIM slot)",
+        "Internal": "128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, f/1.8, (wide), 1/1.56\", 1.0µm, PDAF, OIS\n\n8 MP, f/2.2, 123˚ (ultrawide)\n\n2 MP (macro)",
+        "Features": "LED flash, panorama, HDR",
+        "Video": "4K@30fps, 1080p@30/60fps, gyro-EIS, OIS"
+      },
+      "Selfie camera": {
+        "Single": "50 MP, f/2.4, (wide)",
+        "Video": "4K@30fps, 1080p@30/60fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.2, A2DP, LE",
+        "Positioning": "GPS, GALILEO, GLONASS, BDS, QZSS",
+        "NFC": "Yes (market/region dependent)",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "45W wired"
+      },
+      "Misc": {
+        "Colors": "Dark Blue, Light Green",
+        "Models": "SM-M556B, SM-M556B/DS",
+        "SAR": "0.93 W/kg (head) &nbsp; &nbsp;",
+        "SAR EU": "0.96 W/kg (head) &nbsp; &nbsp; 0.98 W/kg (body) &nbsp; &nbsp;",
+        "Price": "<a href=\"samsung_galaxy_m55-price-12896.php\">₹ 28,999 / $ 269.99 / € 252.99</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-m55-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-m55-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_m55-pictures-12896.php"
+    }
+  }
+}

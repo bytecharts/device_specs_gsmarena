@@ -1,0 +1,98 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy M12",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-m12-2.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-m12.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2021, April 30",
+    "dimensions": "212g, 9.7mm thickness",
+    "os": "Android 11, One UI Core 3.1",
+    "storage": "32GB/64GB/128GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 20, 26, 28, 38, 40, 41, 66",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2021, April 19",
+        "Status": "Available. Released 2021, April 30"
+      },
+      "Body": {
+        "Dimensions": "164 x 75.9 x 9.7 mm (6.46 x 2.99 x 0.38 in)",
+        "Weight": "212 g (7.48 oz)",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "PLS LCD, 90Hz",
+        "Size": "6.5 inches, 102.0 cm<sup>2</sup> (~81.9% screen-to-body ratio)",
+        "Resolution": "720 x 1600 pixels, 20:9 ratio (~270 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 11, One UI Core 3.1",
+        "Chipset": "Exynos 850 (8 nm)",
+        "CPU": "Octa-core (4x2.0 GHz Cortex-A55 &amp; 4x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G52"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "32GB 3GB RAM, 32GB 4GB RAM, 64GB 4GB RAM, 128GB 4GB RAM",
+        "Features": "eMMC 5.1"
+      },
+      "Main Camera": {
+        "Quad": "48 MP, f/2.0, (wide), 1/2.0\", 0.8µm, PDAF\n\n5 MP, f/2.2, 123˚ (ultrawide)\n\n2 MP (macro)\n\nAuxiliary lens",
+        "Features": "LED flash, panorama, HDR",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, f/2.2, (wide)",
+        "Features": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS",
+        "NFC": "Yes",
+        "Radio": "Unspecified",
+        "USB": "USB Type-C 2.0"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer",
+        "Features": "Virtual proximity sensing"
+      },
+      "Battery": {
+        "Type": "Li-Po 5000 mAh",
+        "Charging": "15W wired"
+      },
+      "Misc": {
+        "Colors": "Black, Blue, Green",
+        "Models": "SM-M127F, SM-M127F/DSN, SM-M127N",
+        "SAR EU": "0.54 W/kg (head) &nbsp; &nbsp; 1.39 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 170 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-m12-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-m12-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_m12-pictures-10860.php"
+    }
+  }
+}

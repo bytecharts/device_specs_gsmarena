@@ -1,0 +1,91 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Gear 2 Neo",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-gear-2-neo1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-gear-2-neo.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_mwc_2014-review-1055.php",
+    "siblingDeviceSlugs": [
+      "samsung_gear_2-7717"
+    ],
+    "release_date": "Released 2014, May",
+    "dimensions": "55g, 9.9mm thickness",
+    "os": "Tizen OS",
+    "storage": "4GB 512MB RAM storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">No cellular connectivity</a>",
+        "2G bands": "N/A",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2014, February. Released 2014, May",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "58.7 x 37.9 x 9.9 mm (2.31 x 1.49 x 0.39 in)",
+        "Weight": "55 g (1.94 oz)",
+        "SIM": "No"
+      },
+      "Display": {
+        "Type": "Super AMOLED",
+        "Size": "1.63 inches",
+        "Resolution": "320 x 320 pixels (~278 ppi density)"
+      },
+      "Platform": {
+        "OS": "Tizen OS",
+        "Chipset": "Exynos 3250 Dual",
+        "CPU": "Dual-core 1.0 GHz Cortex-A7",
+        "GPU": "Mali-400MP2"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "4GB 512MB RAM"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "4.0, LE",
+        "Positioning": "No",
+        "NFC": "No",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, heart rate",
+        "Features": "MP3 player\n\nPhoto viewer\n\nS-Voice\n\nVoice memo/dial/commands"
+      },
+      "Battery": {
+        "Type": "Li-Ion 300 mAh, non-removable"
+      },
+      "Misc": {
+        "Colors": "Mocha Gray, Wild Orange, Charcoal Black",
+        "Models": "SM-R3810",
+        "Price": "About 170 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-gear-2-neo1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-gear-2-neo2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-gear-2-neo3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_gear_2_neo-pictures-7715.php"
+    }
+  }
+}

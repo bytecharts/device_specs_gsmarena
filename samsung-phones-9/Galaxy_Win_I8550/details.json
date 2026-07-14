@@ -1,0 +1,97 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy Win I8550",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-win-i8550.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-win-i8552.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2013, May",
+    "dimensions": "143.9g, 9.7mm thickness",
+    "os": "Android 4.1.2",
+    "storage": "8GB storage, microSDHC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - I8550",
+        "3G bands": "HSDPA 900 / 2100",
+        "Speed": "HSPA 7.2/5.76 Mbps",
+        "Features": "GSM 850 / 900 / 1800 / 1900 - SIM 1 &amp; SIM 2 - I8552"
+      },
+      "Launch": {
+        "Announced": "2013, April. Released 2013, May",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "133.3 x 70.7 x 9.7 mm (5.25 x 2.78 x 0.38 in)",
+        "Weight": "143.9 g (5.04 oz)",
+        "SIM": "Single SIM (Micro-SIM) or Dual SIM (Micro-SIM, dual stand-by)"
+      },
+      "Display": {
+        "Type": "TFT",
+        "Size": "4.7 inches, 62.9 cm<sup>2</sup> (~66.7% screen-to-body ratio)",
+        "Resolution": "480 x 800 pixels, 5:3 ratio (~199 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 4.1.2 (Jelly Bean)",
+        "Chipset": "Qualcomm MSM8625Q Snapdragon 200 (45 nm)",
+        "CPU": "Quad-core 1.2 GHz Cortex-A5",
+        "GPU": "Adreno 203"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Internal": "8GB 1GB RAM",
+        "Features": "eMMC 4.5"
+      },
+      "Main Camera": {
+        "Single": "5 MP, AF",
+        "Features": "LED flash",
+        "Video": "480p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "VGA",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, hotspot, DLNA",
+        "Bluetooth": "3.0",
+        "Positioning": "GPS",
+        "NFC": "No",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Ion 2000 mAh, removable",
+        "Stand-by": "Up to 210 h (3G)",
+        "Talk time": "Up to 11 h (3G)"
+      },
+      "Misc": {
+        "Colors": "Ceramic White, Titan Gray",
+        "Models": "GT-I8550, GT-I8552, GT-I8552B",
+        "SAR": "0.26 W/kg (head) &nbsp; &nbsp; 0.67 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.12 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 170 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-win-i8550.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-win-i8550-i8552.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_win_i8550-pictures-5392.php"
+    }
+  }
+}

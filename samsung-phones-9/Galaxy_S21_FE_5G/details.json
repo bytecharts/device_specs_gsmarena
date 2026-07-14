@@ -1,0 +1,115 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy S21 FE 5G",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s21-fe-5g-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s21-fe-5g.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_galaxy_s21_fe_5g-review-2365.php",
+    "siblingDeviceSlugs": [
+      "samsung_galaxy_s21_5g-10626"
+    ],
+    "release_date": "Released 2022, January 07",
+    "dimensions": "177g, 7.9mm thickness",
+    "os": "Android 12, up to 4 major upgrades, One UI 8",
+    "storage": "128GB/256GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / EVDO / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 20, 26, 28, 32, 38, 40, 41, 66 - International",
+        "5G bands": "1, 3, 5, 8, 20, 28, 38, 40, 41, 66, 78 SA/NSA/Sub6 - International",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE (5CA) Cat19 1600/200 Mbps, 5G",
+        "Features": "CDMA 800 / 1900 &amp; TD-SCDMA\nCDMA2000 1xEV-DO\n1, 2, 3, 4, 5, 7, 12, 13, 29, 25, 26, 28, 38, 39, 40, 41, 46, 48, 66, 71 - USA\n41, 66, 71, 260, 261 SA/NSA/Sub6/mmWave - USA"
+      },
+      "Launch": {
+        "Announced": "2022, January 04",
+        "Status": "Available. Released 2022, January 07"
+      },
+      "Body": {
+        "Dimensions": "155.7 x 74.5 x 7.9 mm (6.13 x 2.93 x 0.31 in)",
+        "Weight": "177 g (6.24 oz)",
+        "Build": "Glass front (Gorilla Glass Victus), plastic back, aluminum frame",
+        "SIM": "· Nano-SIM\n· Nano-SIM + Nano-SIM",
+        "Features": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)"
+      },
+      "Display": {
+        "Type": "Dynamic AMOLED 2X, 120Hz, HDR10+",
+        "Size": "6.4 inches, 100.5 cm<sup>2</sup> (~86.7% screen-to-body ratio)",
+        "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~403 ppi density)",
+        "Protection": "Corning Gorilla Glass Victus"
+      },
+      "Platform": {
+        "OS": "Android 12, up to 4 major Android upgrades, One UI 8",
+        "Chipset": "Qualcomm SM8350 Snapdragon 888 5G (5 nm) - Version 1\nExynos 2100 (5 nm) - Version 2",
+        "CPU": "Octa-core (1x2.84 GHz Cortex-X1 &amp; 3x2.42 GHz Cortex-A78 &amp; 4x1.80 GHz Cortex-A55) - Version 1\nOcta-core (1x2.9 GHz Cortex-X1 &amp; 3x2.80 GHz Cortex-A78 &amp; 4x2.2 GHz Cortex-A55) - Version 2",
+        "GPU": "Adreno 660 - Version 1\nMali-G78 MP14 - Version 2"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 6GB RAM, 128GB 8GB RAM, 256GB 6GB RAM, 256GB 8GB RAM",
+        "Features": "UFS 3.1"
+      },
+      "Main Camera": {
+        "Triple": "12 MP, f/1.8, 26mm (wide), 1/1.76\", 1.8µm, dual pixel PDAF, OIS\n\n8 MP, f/2.4, 76mm (telephoto), 1/4.5\", 1.0µm, PDAF, OIS, 3x optical zoom\n\n12 MP, f/2.2, 13mm, 123˚ (ultrawide), 1/3.0\", 1.12µm",
+        "Features": "LED flash, auto-HDR, panorama",
+        "Video": "4K@30/60fps, 1080p@30/60/120/240fps, HDR10+, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.2, 26mm (wide), 1/2.74\", 0.8µm",
+        "Features": "HDR",
+        "Video": "4K@30/60fps, 1080p@30/60fps, gyro-EIS"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No",
+        "Features": "32-bit/384kHz audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS, GLONASS, BDS, GALILEO",
+        "NFC": "Yes",
+        "Radio": "Unspecified",
+        "USB": "USB Type-C, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",
+        "Features": "Samsung DeX (desktop experience support)"
+      },
+      "Battery": {
+        "Type": "Li-Ion 4500 mAh",
+        "Charging": "25W wired, PD3.0, 50% in 30 min\n\n15W wireless\n\nReverse wireless"
+      },
+      "Misc": {
+        "Colors": "White, Graphite, Lavender, Olive",
+        "Models": "SM-G990B, SM-G990B/DS, SM-G990U, SM-G990U1, SM-G990W, SM-G990E, SM-G9900, SM-G990B2, SM-G990U2, SM-G990W2, SM-G990U3",
+        "SAR": "0.77 W/kg (head) &nbsp; &nbsp; 0.90 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.95 W/kg (head) &nbsp; &nbsp; 1.48 W/kg (body) &nbsp; &nbsp;",
+        "Price": "<a href=\"samsung_galaxy_s21_fe_5g-price-10954.php\">$ 149.00 / £ 168.79 / € 259.99</a>"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 566529 (v8), 719696 (v9)\n\nGeekBench: 3049 (v5.1)\n\nGFXBench: 56fps (ES 3.1 onscreen)",
+        "Display": "<a class=\"noUnd\" href=\"samsung_galaxy_s21_fe_5g-review-2365p3.php#dt\">792 nits max brightness (measured)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=10954&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=10954&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"samsung_galaxy_s21_fe_5g-review-2365p3.php#lt\">-26.9 LUFS (Good)</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 10954); \">Endurance rating 92h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s21-fe-5g-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s21-fe-5g-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s21-fe-5g-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_s21_fe_5g-pictures-10954.php"
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung ATIV SE",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-ativ-se.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-ativ-se.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_ativ_se-review-1091.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2014, April",
+    "dimensions": "135.8, 8.4mm thickness",
+    "os": "Microsoft Windows Phone 8, up to 8.1",
+    "storage": "16GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / EVDO / LTE</a>",
+        "2G bands": "CDMA 800 / 1900",
+        "3G bands": "CDMA2000 1xEV-DO",
+        "4G bands": "4, 13",
+        "Speed": "EV-DO Rev.A 3.1 Mbps, HSPA, LTE",
+        "Features": "GSM 850 / 900 / 1800 / 1900\nHSDPA 850 / 900 / 1900 / 2100"
+      },
+      "Launch": {
+        "Announced": "2014, April. Released 2014, April",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "137.7 x 69.9 x 8.4 mm (5.42 x 2.75 x 0.33 in)",
+        "Weight": "135.8 (4.80 oz)",
+        "SIM": "Micro-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED",
+        "Size": "5.0 inches, 68.9 cm<sup>2</sup> (~71.6% screen-to-body ratio)",
+        "Resolution": "1080 x 1920 pixels, 16:9 ratio (~441 ppi density)",
+        "Protection": "Corning Gorilla Glass 3"
+      },
+      "Platform": {
+        "OS": "Microsoft Windows Phone 8, upgradable to 8.1",
+        "Chipset": "Qualcomm Snapdragon 800 (28 nm)",
+        "CPU": "Quad-core 2.3 GHz Krait 400",
+        "GPU": "Adreno 330"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "16GB 2GB RAM",
+        "Features": "eMMC 4.5"
+      },
+      "Main Camera": {
+        "Single": "13 MP, AF",
+        "Features": "LED flash",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Single": "2 MP",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, hotspot",
+        "Bluetooth": "3.0, A2DP",
+        "Positioning": "GPS",
+        "NFC": "No",
+        "Radio": "No",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity"
+      },
+      "Battery": {
+        "Type": "Li-Ion 2600 mAh, removable",
+        "Stand-by": "Up to 480 h",
+        "Talk time": "Up to 20 h",
+        "Music play": "Up to 83 h"
+      },
+      "Misc": {
+        "Colors": "Gray",
+        "Models": "SM-W750V",
+        "SAR": "1.05 W/kg (head) &nbsp; &nbsp; 1.49 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 440 EUR"
+      },
+      "Our Tests": {
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 6245); \">Endurance rating 60h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-ativ-se.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_ativ_se-pictures-6245.php"
+    }
+  }
+}

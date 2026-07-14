@@ -1,0 +1,92 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Apple iPad Wi-Fi",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/apple/apple-ipad-wifi-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/apple-ipad-original.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/gsmarena_lab_tests-review-751p2.php",
+    "siblingDeviceSlugs": [
+      "apple_ipad_2_wi_fi-3847"
+    ],
+    "release_date": "Released 2010, March",
+    "dimensions": "680g, 13.4mm thickness",
+    "os": "iOS 4, up to iOS 5.1.1",
+    "storage": "16GB/32GB/64GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">No cellular connectivity</a>",
+        "2G bands": "N/A",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2010, January. Released 2010, March",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "242.8 x 189.7 x 13.4 mm (9.56 x 7.47 x 0.53 in)",
+        "Weight": "680 g (1.50 lb)",
+        "SIM": "No"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "9.7 inches, 291.4 cm<sup>2</sup> (~63.3% screen-to-body ratio)",
+        "Resolution": "768 x 1024 pixels, 4:3 ratio (~132 ppi density)",
+        "Protection": "Scratch-resistant glass, oleophobic coating"
+      },
+      "Platform": {
+        "OS": "iOS 4, upgradable to iOS 5.1.1",
+        "Chipset": "Apple A4 (45 nm)",
+        "CPU": "1.0 GHz Cortex-A8",
+        "GPU": "PowerVR SGX535"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "16GB 256MB RAM, 32GB 256MB RAM, 64GB 256MB RAM"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band",
+        "Bluetooth": "2.1, A2DP, EDR",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": "2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer",
+        "Browser": "HTML (Safari)",
+        "Features": "MP3/WAV player\n\nMP4/H.264 player\n\nDocument viewer"
+      },
+      "Battery": {
+        "Type": "Non-removable Li-Po 6600 mAh battery (24.8 Wh)"
+      },
+      "Misc": {
+        "Colors": "Silver",
+        "Models": "iPad1,1",
+        "Price": "About 310 EUR"
+      },
+      "Our Tests": {
+        "Display": "<a class=\"noUnd\" href=\"\">Contrast ratio: 776:1 (nominal)</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-ipad-wifi-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/apple_ipad_wi_fi-pictures-3828.php"
+    }
+  }
+}

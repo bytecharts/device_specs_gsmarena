@@ -1,0 +1,91 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Metro 312",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-metro-312-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-metro-312.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2014, June",
+    "dimensions": "74g, 13.1mm thickness",
+    "os": "Feature phone",
+    "storage": "microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 - SIM 1 &amp; SIM 2",
+        "GPRS": "Class 12",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2014, May. Released 2014, June",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "112.7 x 46.4 x 13.1 mm (4.44 x 1.83 x 0.52 in)",
+        "Weight": "74 g (2.61 oz)",
+        "SIM": "Dual SIM, (Mini-SIM, dual stand-by)"
+      },
+      "Display": {
+        "Type": "TFT, 65K colors",
+        "Size": "2.0 inches, 12.6 cm<sup>2</sup> (~24.1% screen-to-body ratio)",
+        "Resolution": "128 x 160 pixels (~102 ppi density)"
+      },
+      "Platform": {
+        "CPU": "208 MHz"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Phonebook": "Yes",
+        "Call records": "Yes"
+      },
+      "Main Camera": {
+        "Single": "0.3 MP",
+        "Video": "QCIF@15ps"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "3.0, A2DP",
+        "Positioning": "No",
+        "NFC": "No",
+        "Radio": "Stereo FM radio",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS, Email, Push Email, IM",
+        "Games": "Yes",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "SNS applications\n\nMP3/WMA/eAAC+ player\n\nMP4/H.263 player\n\nOrganizer\n\nVoice memo\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Li-Ion 1000 mAh, removable",
+        "Talk time": "Up to 12 h (3G)"
+      },
+      "Misc": {
+        "Colors": "White",
+        "Models": "SM-B312E",
+        "SAR EU": "1.06 W/kg (head) &nbsp; &nbsp;"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-metro-312-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_metro_312-pictures-6650.php"
+    }
+  }
+}

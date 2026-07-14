@@ -1,0 +1,109 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy S20 Ultra",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s20-ultra-10.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s20-ultra-.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_galaxy_s20_ultra_5g-review-2074.php",
+    "siblingDeviceSlugs": [
+      "samsung_galaxy_s20_ultra_5g-10040",
+      "samsung_galaxy_s20-10081",
+      "samsung_galaxy_s20_fe-10428"
+    ],
+    "release_date": "Released 2020, March 15",
+    "dimensions": "220g, 8.8mm thickness",
+    "os": "Android 10, up to Android 13, One UI 5",
+    "storage": "128GB/512GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / EVDO / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 32, 38, 39, 40, 41, 66",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE (7CA) Cat20 2000/200 Mbps",
+        "Features": "CDMA 800 / 1900 &amp; TD-SCDMA\nCDMA2000 1xEV-DO"
+      },
+      "Launch": {
+        "Announced": "2020, February 11",
+        "Status": "Available. Released 2020, March 15"
+      },
+      "Body": {
+        "Dimensions": "166.9 x 76 x 8.8 mm (6.57 x 2.99 x 0.35 in)",
+        "Weight": "220 g (7.76 oz)",
+        "Build": "Glass front (Gorilla Glass 6), glass back (Gorilla Glass 6), aluminum frame",
+        "SIM": "· Nano-SIM + <a href=\"glossary.php3?term=esim\">eSIM</a>\n· Nano-SIM + Nano-SIM",
+        "Features": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)"
+      },
+      "Display": {
+        "Type": "Dynamic AMOLED 2X, 120Hz, HDR10+, 1400 nits (peak)",
+        "Size": "6.9 inches, 114.0 cm<sup>2</sup> (~89.9% screen-to-body ratio)",
+        "Resolution": "1440 x 3200 pixels, 20:9 ratio (~511 ppi density)",
+        "Protection": "Corning Gorilla Glass 6",
+        "Features": "120Hz@FHD/60Hz@QHD refresh rate"
+      },
+      "Platform": {
+        "OS": "Android 10, upgradable to Android 13, One UI 5",
+        "Chipset": "Exynos 990 (7 nm+)\nQualcomm SM8250 Snapdragon 865 5G (7 nm+)",
+        "CPU": "Octa-core (2x2.73 GHz Mongoose M5 &amp; 2x2.50 GHz Cortex-A76 &amp; 4x2.0 GHz Cortex-A55)\nOcta-core (1x2.84 GHz Cortex-A77 &amp; 3x2.42 GHz Cortex-A77 &amp; 4x1.80 GHz Cortex-A55)",
+        "GPU": "Mali-G77 MP11\nAdreno 650"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (uses shared SIM slot)",
+        "Internal": "128GB 12GB RAM, 512GB 16GB RAM",
+        "Features": "UFS 3.0"
+      },
+      "Main Camera": {
+        "Triple": "108 MP, f/1.8, 26mm (wide), 1/1.33\", 0.8µm, PDAF, OIS\n\n48 MP, f/3.5, 103mm (periscope telephoto), 1/2.0\", 0.8µm, PDAF, OIS, 4x optical zoom, 10x hybrid zoom\n\n12 MP, f/2.2, 13mm, 120˚ (ultrawide), 1/2.55\" 1.4µm, Super Steady video\n\n0.3 MP, TOF 3D, f/1.0, (depth)",
+        "Features": "LED flash, auto-HDR, panorama",
+        "Video": "8K@24fps, 4K@30/60fps, 1080p@30/60/240fps, 720p@960fps, HDR10+, stereo sound rec., gyro-EIS &amp; OIS"
+      },
+      "Selfie camera": {
+        "Single": "40 MP, f/2.2, 26mm (wide), 1/2.8\", 0.7µm, PDAF",
+        "Features": "HDR",
+        "Video": "4K@30/60fps, 1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No",
+        "Features": "High-bitrate audio support\n\nTuned by AKG"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS, GLONASS, BDS, GALILEO",
+        "NFC": "Yes",
+        "Radio": "FM radio (USA &amp; Canada only)",
+        "USB": "USB Type-C 3.2, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer",
+        "Features": "Samsung DeX, Samsung Wireless DeX (desktop experience support)\n\nANT+"
+      },
+      "Battery": {
+        "Type": "Li-Ion 5000 mAh",
+        "Charging": "45W wired, PD3.0\n\n15W wireless (Qi)\n\n4.5W reverse wireless"
+      },
+      "Misc": {
+        "Colors": "Cosmic Grey, Cosmic Black, Cloud White",
+        "Models": "SM-G988B/DS",
+        "SAR": "0.94 W/kg (head) &nbsp; &nbsp; 0.95 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.32 W/kg (head) &nbsp; &nbsp; 1.56 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 690 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s20-ultra-10.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s20-ultra-11.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_s20_ultra-pictures-10084.php"
+    }
+  }
+}

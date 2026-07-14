@@ -1,0 +1,97 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Apple Watch Series 11 Aluminum",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/apple/apple-watch11-alu-1-.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/apple-watch11-alu.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2025, September 19",
+    "dimensions": "29.7g (42mm), 36.9g (46mm), 9.7mm thickness",
+    "os": "watchOS 26, up to watchOS 26.5",
+    "storage": "64GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - International, China, HK",
+        "4G bands": "1, 2, 3, 4, 5, 6, 7, 8, 18, 19, 20, 25, 26, 28, 39, 40, 41, 66 - International, China, HK",
+        "5G bands": "SA/NSA",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "HSDPA 850 / 1700(AWS) / 1900 / 2100 - USA, LATAM, Canada\n1, 2, 3, 4, 5, 6, 7, 12, 13, 14, 17, 18, 19, 25, 26, 39, 40, 41, 66 - USA, LATAM, Canada"
+      },
+      "Launch": {
+        "Announced": "2025, September 09",
+        "Status": "Available. Released 2025, September 19"
+      },
+      "Body": {
+        "Dimensions": "46 x 39 x 9.7 mm (1.81 x 1.54 x 0.38 in)",
+        "Weight": "29.7 g (42mm), 36.9 g (46mm) (1.06 oz)",
+        "Build": "Glass front, ceramic/sapphire crystal back, aluminum frame",
+        "SIM": "<a href=\"glossary.php3?term=esim\">eSIM</a>",
+        "Features": "IP6X certified\n\n50m water resistant\n\nECG certified (region dependent SW application; HW available on all models)\n\nDepth gauge to 6m"
+      },
+      "Display": {
+        "Type": "Retina LTPO3 OLED, 2000 nits (peak)",
+        "Size": "1.96 inches",
+        "Resolution": "496 x 416 pixels (~330 ppi density)",
+        "Protection": "Ion-X strengthened glass (2025 gen)",
+        "Features": "Wide-angle OLED"
+      },
+      "Platform": {
+        "OS": "watchOS 26, up to watchOS 26.5, planned upgrade to watchOS 27",
+        "Chipset": "Apple S10",
+        "CPU": "Dual-core",
+        "GPU": "PowerVR"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "64GB"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, dual-band",
+        "Bluetooth": "5.3, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, QZSS, BDS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, heart rate, barometer, always-on altimeter, compass, SpO2, VO2max, temperature (body), temperature (water)",
+        "Features": "Temperature sensing (0.01˚ accuracy)\n\nUltra Wideband (UWB) support (gen2 chip)\n\nMedia playback"
+      },
+      "Battery": {
+        "Type": "Li-Ion",
+        "Charging": "Wireless, 0-80% in 30 min"
+      },
+      "Misc": {
+        "Colors": "Jet Black, Space Gray, Rose Gold, Silver",
+        "Models": "A3333, A3331, A3335, A3337, A3450, A3451, A3452, A3453",
+        "SAR": "0.42 W/kg (head) &nbsp; &nbsp;",
+        "SAR EU": "0.11 W/kg (head) &nbsp; &nbsp;",
+        "Price": "<a href=\"apple_watch_series_11_aluminum-price-14132.php\">€ 349.90</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-watch11-alu-1-.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-watch11-alu-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-watch11-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/apple_watch_series_11_aluminum-pictures-14132.php"
+    }
+  }
+}

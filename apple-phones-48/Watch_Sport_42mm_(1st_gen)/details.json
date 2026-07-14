@@ -1,0 +1,92 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Apple Watch Sport 42mm (1st gen)",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/apple/apple-watch-sport-42mm1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/apple-watch-sport-42mm2.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/apple_watch-review-1256.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2015, April",
+    "dimensions": "30g body, 10.5mm thickness",
+    "os": "watchOS 1.0, up to watchOS 4.3.2",
+    "storage": "8GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">No cellular connectivity</a>",
+        "2G bands": "N/A",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2014, September. Released 2015, April",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "42 x 35.9 x 10.5 mm (1.65 x 1.41 x 0.41 in)",
+        "Weight": "30 g body (2.47 oz)",
+        "Build": "Glass front, composite plastic back, aluminum frame",
+        "SIM": "No",
+        "Features": "IPX7 water resistant up to 1 meter and 30 minutes"
+      },
+      "Display": {
+        "Type": "Retina OLED, 450 nits (peak)",
+        "Size": "1.65 inches",
+        "Resolution": "390 x 312 pixels (~302 ppi density)",
+        "Protection": "Ion-X strengthened glass",
+        "Features": "3D Touch display"
+      },
+      "Platform": {
+        "OS": "watchOS 1.0, upgradable to watchOS 4.3.2",
+        "Chipset": "Apple S1 (28 nm)",
+        "CPU": "520 MHz Cortex-A7",
+        "GPU": "PowerVR SGX543"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "8GB 512MB RAM"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n",
+        "Bluetooth": "4.0, LE",
+        "Positioning": "No",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, heart rate",
+        "Features": "Natural language commands and dictation"
+      },
+      "Battery": {
+        "Type": "Li-Ion 250 mAh (0.94 Wh), non-removable",
+        "Charging": "Wireless"
+      },
+      "Misc": {
+        "Colors": "Silver/White, Orange, Blue; Gray/Black; Rose Gold/Lavender, Stone; Gold/White, Blue, Yellow, Apricot, Royal Blue, Pink/Royal Blue/Gold&amp;Red/Black Woven Nylon",
+        "Models": "A1554",
+        "Price": "About 250 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-watch-sport-42mm1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-watch-sport-42mm.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/apple_watch_sport_42mm_(1st_gen)-pictures-7694.php"
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy Watch FE",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-watch-fe-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-watch-fe-r.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "samsung_galaxy_watch7-13128",
+      "samsung_galaxy_watch6-12437",
+      "samsung_galaxy_watch4-11045",
+      "samsung_galaxy_watch5-11748",
+      "samsung_galaxy_watch4_classic-11046"
+    ],
+    "release_date": "Released 2024, June 24",
+    "dimensions": "26.6g, 9.8mm thickness",
+    "os": "Android Wear OS 4, up to 6.0, One UI Watch 8",
+    "storage": "16GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "LTE",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2024, June 13",
+        "Status": "Available. Released 2024, June 24"
+      },
+      "Body": {
+        "Dimensions": "40.4 x 39.3 x 9.8 mm (1.59 x 1.55 x 0.39 in)",
+        "Weight": "26.6 g (0.95 oz)",
+        "Build": "Glass front (sapphire crystal), aluminum frame",
+        "SIM": "<a href=\"glossary.php3?term=esim\">eSIM</a>",
+        "Features": "50m/5ATM water resistant (up to 10 min)\n\nIP68 dust tight and water resistant (immersible up to 1.5m for 30 min)\n\nMIL-STD-810H compliant*\n\nECG certified\n\nCompatible with standard 20mm straps\n\n* does not guarantee ruggedness or use in extreme conditions"
+      },
+      "Display": {
+        "Type": "Super AMOLED",
+        "Size": "1.2 inches",
+        "Resolution": "396 x 396 pixels (~330 ppi density)",
+        "Protection": "Sapphire crystal glass"
+      },
+      "Platform": {
+        "OS": "Android Wear OS 4, upgradable to 6.0, One UI Watch 8",
+        "Chipset": "Exynos W920 (5 nm)",
+        "CPU": "Dual-core 1.18 GHz Cortex-A55",
+        "GPU": "Mali-G68"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "16GB 1.5GB RAM"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS, GALILEO, GLONASS, BDS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, heart rate, barometer, altimeter, compass, SpO2, temperature (skin)"
+      },
+      "Battery": {
+        "Type": "Li-Ion 247 mAh battery",
+        "Charging": "Wireless"
+      },
+      "Misc": {
+        "Colors": "Black, Pink Gold, Silver",
+        "Models": "SM-R861, SM-R866",
+        "SAR EU": "0.52 W/kg (head) &nbsp; &nbsp; 0.17 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 100 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-watch-fe-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-watch-fe-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-watch-fe-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-watch-fe-4.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_watch_fe-pictures-13112.php"
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Apple Watch Edition Series 6",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/apple/apple-watch-s6-titanium-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/apple-watch-s6-titanium.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2020, September 18",
+    "dimensions": "41.3g, 10.7mm thickness",
+    "os": "watchOS 7.0, up to watchOS 26.5",
+    "storage": "32GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 1700(AWS) / 1900 / 2100 - USA, LATAM, Canada",
+        "4G bands": "1, 2, 3, 4, 5, 7, 12, 13, 17, 18, 19, 25, 26, 39, 40, 41, 66 - USA, LATAM, Canada",
+        "Speed": "HSPA, LTE",
+        "Features": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - Global\n1, 2, 3, 4, 5, 7, 8, 18, 19, 20, 25, 26, 28, 39, 40, 41, 66 - Global"
+      },
+      "Launch": {
+        "Announced": "2020, September 15",
+        "Status": "Available. Released 2020, September 18"
+      },
+      "Body": {
+        "Dimensions": "44 x 38 x 10.7 mm (1.73 x 1.50 x 0.42 in)",
+        "Weight": "41.3 g (1.45 oz)",
+        "Build": "Glass front (Sapphire crystal), ceramic/sapphire crystal back, titanium frame",
+        "SIM": "<a href=\"glossary.php3?term=esim\">eSIM</a>",
+        "Features": "50m water resistant\n\nECG certified (region dependent SW application; HW available on all models)"
+      },
+      "Display": {
+        "Type": "Retina LTPO OLED, 1000 nits (peak)",
+        "Size": "1.78 inches",
+        "Resolution": "448 x 368 pixels (~326 ppi density)",
+        "Protection": "Sapphire crystal glass"
+      },
+      "Platform": {
+        "OS": "watchOS 7.0, upgradable to watchOS 26.5",
+        "Chipset": "Apple S6",
+        "CPU": "Dual-core",
+        "GPU": "PowerVR"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "32GB 1GB RAM"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, dual-band",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, QZSS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, heart rate, barometer, always-on altimeter, compass, SpO2, VO2max",
+        "Features": "Ultra Wideband (UWB) support"
+      },
+      "Battery": {
+        "Type": "Li-Ion 303.8 mAh",
+        "Charging": "Wireless"
+      },
+      "Misc": {
+        "Colors": "Titanium, Space Black",
+        "Models": "A2293, A2294, A2375, A2376",
+        "Price": "About 810 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-watch-s6-titanium-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-watch-s6-titanium-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/apple_watch_edition_series_6-pictures-10449.php"
+    }
+  }
+}

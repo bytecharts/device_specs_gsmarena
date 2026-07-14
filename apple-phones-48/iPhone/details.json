@@ -1,0 +1,101 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Apple iPhone",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/apple/apple_iphone_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone.gif"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/apple_iphone-review-155.php",
+    "siblingDeviceSlugs": [
+      "apple_iphone_18_pro_max_5g-14716",
+      "apple_iphone_17_pro_max-13964",
+      "apple_iphone_17-14050",
+      "apple_iphone_13-11103",
+      "apple_iphone_15-12559",
+      "apple_iphone_17_pro-14049"
+    ],
+    "release_date": "Released 2007, June",
+    "dimensions": "135g, 11.6mm thickness",
+    "os": "iOS, up to iOS 3.1.3",
+    "storage": "16GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "GPRS": "Yes",
+        "EDGE": "Yes"
+      },
+      "Launch": {
+        "Announced": "2007, January. Released 2007, June",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "115 x 61 x 11.6 mm (4.53 x 2.40 x 0.46 in)",
+        "Weight": "135 g (4.76 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT",
+        "Size": "3.5 inches, 36.5 cm<sup>2</sup> (~52.0% screen-to-body ratio)",
+        "Resolution": "320 x 480 pixels, 3:2 ratio (~165 ppi density)",
+        "Protection": "Corning Gorilla Glass, oleophobic coating"
+      },
+      "Platform": {
+        "OS": "iOS, upgradable to iOS 3.1.3",
+        "CPU": "412 MHz ARM 11",
+        "GPU": "PowerVR MBX"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "4/8/16GB"
+      },
+      "Main Camera": {
+        "Single": "2 MP",
+        "Video": "No"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "Alert types": "Vibration, proprietary ringtones",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11b/g",
+        "Bluetooth": "2.0 (headset support only)",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": "2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity",
+        "Browser": "HTML (Safari)",
+        "Features": "Google Maps\n\nAudio/video player\n\nTV-out\n\nOrganizer\n\nDocument viewer\n\nPhoto viewer\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Li-Ion 1400 mAh, non-removable"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "Models": "A1203, iPhone1,1",
+        "SAR": "0.97 W/kg (head) &nbsp; &nbsp; 0.38 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.97 W/kg (head) &nbsp; &nbsp; 0.69 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 420 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple_iphone_00.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple_iphone_01.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/apple_iphone-pictures-1827.php"
+    }
+  }
+}

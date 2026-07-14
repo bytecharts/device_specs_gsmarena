@@ -1,0 +1,107 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy Mega 6.3 I9200",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-mega-63-gt-i9200.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-mega-6-3.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_galaxy_mega_63-review-939.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2013, June",
+    "dimensions": "199g, 8mm thickness",
+    "os": "Android 4.2.2, up to 4.4.2, TouchWiz UI",
+    "storage": "8GB/16GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4G bands": "1, 3, 5, 7, 8, 20 - GT-I9205",
+        "Speed": "HSPA 21.1/5.76 Mbps (I9200), LTE Cat3 100/50 Mbps (I9205)"
+      },
+      "Launch": {
+        "Announced": "2013, April. Released 2013, June",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "167.6 x 88 x 8 mm (6.60 x 3.46 x 0.31 in)",
+        "Weight": "199 g (7.02 oz)",
+        "SIM": "Micro-SIM"
+      },
+      "Display": {
+        "Type": "SC-LCD",
+        "Size": "6.3 inches, 109.4 cm<sup>2</sup> (~74.2% screen-to-body ratio)",
+        "Resolution": "720 x 1280 pixels, 16:9 ratio (~233 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 4.2.2 (Jelly Bean), upgradable to 4.4.2 (KitKat), TouchWiz UI",
+        "Chipset": "Qualcomm Snapdragon 400 (28 nm)",
+        "CPU": "Dual-core 1.7 GHz Krait 300",
+        "GPU": "Adreno 305"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "8GB 1.5GB RAM, 16GB 1.5GB RAM",
+        "Features": "eMMC 4.5"
+      },
+      "Main Camera": {
+        "Single": "8 MP, f/2.6, AF",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "1080p@30fps, stereo sound rec."
+      },
+      "Selfie camera": {
+        "Single": "1.9 MP",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA, hotspot",
+        "Bluetooth": "4.0, A2DP, LE",
+        "Positioning": "GPS, GLONASS",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "microUSB 2.0 (MHL TV-out), OTG"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Ion 3200 mAh, removable",
+        "Stand-by": "Up to 420 h",
+        "Talk time": "Up to 17 h (2G) / Up to 10 h (3G)",
+        "Music play": "Up to 82 h"
+      },
+      "Misc": {
+        "Colors": "White, Black, Plum Purple",
+        "Models": "GT-I9200, GT-I9205, GT-I9200X, SGH-i527, SGH-I527",
+        "SAR": "1.09 W/kg (head) &nbsp; &nbsp; 1.09 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.20 W/kg (head) &nbsp; &nbsp; 0.34 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 300 EUR"
+      },
+      "Our Tests": {
+        "Display": "<a class=\"noUnd\" href=\"samsung_galaxy_mega_63-review-939p3.php\">Contrast ratio: 1379:1 (nominal) / 1.913:1 (sunlight)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=5398&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=5398&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"samsung_galaxy_mega_63-review-939p6.php\">Voice 67dB / Noise 69dB / Ring 75dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"samsung_galaxy_mega_63-review-939p7.php#aq\">Noise -90.4dB / Crosstalk -91.7dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 5398); \">Endurance rating 60h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-mega-63-gt-i9200.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-mega-63-gt-i9200-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_mega_6_3_i9200-pictures-5398.php"
+    }
+  }
+}

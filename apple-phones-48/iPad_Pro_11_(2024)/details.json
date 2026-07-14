@@ -1,0 +1,114 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Apple iPad Pro 11 (2024)",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/apple/apple-ipad-pro-11-2024-2.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/apple-ipad-pro-11-2024.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/apple_ipad_pro_11_2024-review-2703.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2024, May 15",
+    "dimensions": "444g (Wi-Fi), 446g (5G), 5.3mm thickness",
+    "os": "iPadOS 17.5.1, up to iPadOS 26.4",
+    "storage": "256GB/512GB/2TB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 11, 12, 13, 14, 17, 18, 19, 20, 21, 25, 26, 28, 29, 30, 32, 34, 38, 39, 40, 41, 42, 48, 66, 71 - A2837",
+        "5G bands": "1, 2, 3, 5, 7, 8, 12, 14, 20, 25, 26, 28, 29, 30, 38, 40, 41, 48, 66, 70, 71, 75, 76, 77, 78, 79 SA/NSA - A2837, A3006",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 17, 18, 19, 20, 25, 26, 28, 29, 30, 32, 34, 38, 39, 40, 41, 42, 48, 66, 71 - A3006"
+      },
+      "Launch": {
+        "Announced": "2024, May 07",
+        "Status": "Available. Released 2024, May 15"
+      },
+      "Body": {
+        "Dimensions": "249.7 x 177.5 x 5.3 mm (9.83 x 6.99 x 0.21 in)",
+        "Weight": "444 g (Wi-Fi), 446 g (5G) (1.03 lb)",
+        "Build": "Glass front, aluminum back, aluminum frame",
+        "SIM": "<a href=\"glossary.php3?term=esim\">eSIM</a>",
+        "Features": "Stylus support"
+      },
+      "Display": {
+        "Type": "Ultra Retina Tandem OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (HBM), 1600 nits (peak)",
+        "Size": "11.0 inches, 373.1 cm<sup>2</sup> (~84.2% screen-to-body ratio)",
+        "Resolution": "1668 x 2420 pixels, 3:2 ratio (~264 ppi density)",
+        "Protection": "Scratch-resistant glass, oleophobic coating, Mohs level 4",
+        "Features": "Antireflective coating\n\nNano-texture display glass option on 1TB and 2TB models"
+      },
+      "Platform": {
+        "OS": "iPadOS 17.5.1, upgradable to iPadOS 26.4",
+        "Chipset": "Apple M4",
+        "CPU": "9-core 4.4 GHz (3 performance cores, 6 efficiency cores) - 256/512GB models\n10-core 4.4 GHz (4 performance cores, 6 efficiency cores) - 1/2TB models",
+        "GPU": "Apple GPU (10-core graphics)"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 8GB RAM, 512GB 8GB RAM, 1TB 16GB RAM, 2TB 16GB RAM"
+      },
+      "Main Camera": {
+        "Single": "12 MP, f/1.8, (wide), dual pixel PDAF\n\nTOF 3D LiDAR scanner (depth)",
+        "Features": "Quad-LED dual-tone flash, HDR",
+        "Video": "4K@24/25/30/60fps, 1080p@25/30/60/120/240fps; gyro-EIS, ProRes (4K, 1080p)"
+      },
+      "Selfie camera": {
+        "Single": "12 MP, f/2.4, 122˚ (ultrawide)",
+        "Features": "Face detection, HDR, panorama",
+        "Video": "1080p@25/30/60fps, gyro-EIS, HDR"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers (4 speakers)",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band, hotspot",
+        "Bluetooth": "5.3, A2DP, LE, EDR",
+        "Positioning": "GPS, GLONASS, GALILEO, QZSS (Wi‑Fi + Cellular model only)",
+        "NFC": "No",
+        "Radio": "No",
+        "USB": "USB Type-C 4 (Thunderbolt 3), DisplayPort, magnetic connector"
+      },
+      "Features": {
+        "Sensors": "Face ID, accelerometer, gyro, compass, barometer"
+      },
+      "Battery": {
+        "Type": "Li-Po 8160 mAh"
+      },
+      "Misc": {
+        "Colors": "Silver, Space Black",
+        "Models": "A2836, A2837, A3006, iPad16,3, iPad16,4",
+        "Price": "About 1200 EUR"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 2566792 (v10)\n\nGeekBench: 13160 (v6)",
+        "Display": "<a class=\"noUnd\" href=\"apple_ipad_pro_11_2024-review-2703p3.php\">994 nits max brightness (measured)</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"apple_ipad_pro_11_2024-review-2703p3.php#lt\">-26.3 LUFS (Good)</a>",
+        "Battery": "<div style=\"position:relative;\">\n<a href=\"apple_ipad_pro_11_2024-review-2703p3.php#bt\" data-battery2=\"37:02_9:53_15:43_8:12\" onclick=\"showBatteryPopup(event, 12986); \" class=\"v2\">Active use score 12:37h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      },
+      "EU LABEL": {
+        "Energy": "Class G",
+        "Battery": "73:00h endurance, 1000 cycles",
+        "Free fall": "Class E",
+        "Repairability": "Class C"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-ipad-pro-11-2024-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-ipad-pro-2024-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-ipad-pro-2024-4.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-ipad-pro-11-2024-5.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/apple_ipad_pro_11_(2024)-pictures-12986.php"
+    }
+  }
+}

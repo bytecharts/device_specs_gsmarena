@@ -1,0 +1,93 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung ATIV S Neo",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-ativ-s-neo-i800.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-ativ-s-neo-i800.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2013, August",
+    "dimensions": "144g, 9.1mm thickness",
+    "os": "Microsoft Windows Phone 8",
+    "storage": "16GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / EVDO / LTE</a>",
+        "2G bands": "CDMA 800 / 1900",
+        "3G bands": "CDMA2000 1xEV-DO",
+        "4G bands": "25",
+        "Speed": "EV-DO Rev.A 3.1 Mbps, HSPA, LTE",
+        "Features": "GSM 850 / 900 / 1800 / 1900\nHSDPA 1900 / 2100"
+      },
+      "Launch": {
+        "Announced": "2013, June. Released 2013, August",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "135.4 x 69.1 x 9.1 mm (5.33 x 2.72 x 0.36 in)",
+        "Weight": "144 g (5.08 oz)",
+        "SIM": "Yes"
+      },
+      "Display": {
+        "Type": "TFT",
+        "Size": "4.77 inches, 62.7 cm<sup>2</sup> (~67.0% screen-to-body ratio)",
+        "Resolution": "720 x 1280 pixels, 16:9 ratio (~308 ppi density)"
+      },
+      "Platform": {
+        "OS": "Microsoft Windows Phone 8",
+        "CPU": "Dual-core 1.4 GHz Krait"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "16GB 1GB RAM"
+      },
+      "Main Camera": {
+        "Single": "8 MP, AF",
+        "Features": "LED flash, HDR",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Single": "1.2 MP",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity"
+      },
+      "Battery": {
+        "Type": "Li-Ion 2000 mAh, removable",
+        "Stand-by": "Up to 330 h (3G)",
+        "Talk time": "Up to 15 h (3G)",
+        "Music play": "Up to 70 h"
+      },
+      "Misc": {
+        "Colors": "Gray",
+        "SAR": "0.91 W/kg (head) &nbsp; &nbsp; 1.52 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 310 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-ativ-s-neo-i800.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_ativ_s_neo-pictures-5548.php"
+    }
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy A5 (2016)",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a5-2016-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a5-2016.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_galaxy_a5_2016-review-1369.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2015, December",
+    "dimensions": "155g, 7.3mm thickness",
+    "os": "Android 5.1.1, up to 7.0",
+    "storage": "16GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / UMTS / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 &amp; SIM 2 (dual-SIM model only)",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4G bands": "1, 3, 5, 7, 8, 20, 40",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat6 300/50 Mbps",
+        "Features": "UMTS 2100"
+      },
+      "Launch": {
+        "Announced": "2015, December. Released 2015, December",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "144.8 x 71 x 7.3 mm (5.70 x 2.80 x 0.29 in)",
+        "Weight": "155 g (5.47 oz)",
+        "Build": "Glass front (Gorilla Glass 4), glass back (Gorilla Glass 4), aluminum frame",
+        "SIM": "· Nano-SIM\n· Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "Super AMOLED",
+        "Size": "5.2 inches, 74.5 cm<sup>2</sup> (~72.5% screen-to-body ratio)",
+        "Resolution": "1080 x 1920 pixels, 16:9 ratio (~424 ppi density)",
+        "Protection": "Corning Gorilla Glass 4"
+      },
+      "Platform": {
+        "OS": "Android 5.1.1 (Lollipop), upgradable to 7.0 (Nougat)",
+        "Chipset": "Exynos 7580 Octa (28 nm)\nQualcomm MSM8939 Snapdragon 615 (28 nm) - China only",
+        "CPU": "Octa-core 1.6 GHz Cortex-A53\nOcta-core (4x1.2 GHz Cortex-A53 &amp; 4x1.5 GHz Cortex-A53) - China only",
+        "GPU": "Mali-T720MP2\nAdreno 405 - China only"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (uses shared SIM slot) - dual SIM model only",
+        "Internal": "16GB 2GB RAM",
+        "Features": "eMMC 5.0 or eMMC 4.5"
+      },
+      "Main Camera": {
+        "Single": "13 MP, f/1.9, 28mm (wide), AF, OIS",
+        "Features": "LED flash, panorama, HDR",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "5 MP, f/1.9, 24mm (wide)",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, hotspot",
+        "Bluetooth": "4.1, A2DP, EDR, LE",
+        "Positioning": "GPS, GLONASS",
+        "NFC": "Yes",
+        "Radio": "FM radio",
+        "USB": "microUSB 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (front-mounted), accelerometer, proximity, compass",
+        "Features": "ANT+\n\nSamsung Pay"
+      },
+      "Battery": {
+        "Type": "Li-Ion 2900 mAh, non-removable",
+        "Charging": "18W wired",
+        "Talk time": "Up to 16 h (3G)",
+        "Music play": "Up to 75 h"
+      },
+      "Misc": {
+        "Colors": "Black, White, Gold, Pink",
+        "Models": "SM-A5100, SM-A510F, SM-A510M, SM-A510Y, SM-A510FD, SM-A5108, SM-A510S, SM-A510K, SM-A510L, SM-A510",
+        "SAR": "0.29 W/kg (head) &nbsp; &nbsp; 0.47 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.29 W/kg (head) &nbsp; &nbsp; 0.47 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 160 EUR"
+      },
+      "Our Tests": {
+        "Performance": "Basemark OS II 2.0: 833\nBasemark X: 4947",
+        "Display": "<a class=\"noUnd\" href=\"samsung_galaxy_a5_2016-review-1369p3.php\">Contrast ratio: Infinite (nominal),  3.789 (sunlight)3.789</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=7789&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=7789&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"samsung_galaxy_a5_2016-review-1369p6.php\">Voice 65dB / Noise 66dB / Ring 66dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"samsung_galaxy_a5_2016-review-1369p7.php\">Noise -93.4dB / Crosstalk -53.0dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 7789); \">Endurance rating 91h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a5-2016-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a5-2016-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_a5_(2016)-pictures-7789.php"
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Gear S2 classic 3G",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-gear-s2-classic-ceramic-bracelet.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-gear-s2-classic-3g.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2016, April",
+    "dimensions": "54g, 13.4mm thickness",
+    "os": "Tizen OS 2.3.2",
+    "storage": "4GB 512MB RAM storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2016, February. Released 2016, April",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "44 x 46.9 x 13.4 mm (1.73 x 1.85 x 0.53 in)",
+        "Weight": "54 g (1.90 oz)",
+        "Build": "Glass front (Gorilla Glass 3), stainless steel frame",
+        "SIM": "<a href=\"glossary.php3?term=esim\">eSIM</a>",
+        "Features": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)\n\nCompatible with standard 20mm straps"
+      },
+      "Display": {
+        "Type": "Super AMOLED",
+        "Size": "1.2 inches",
+        "Resolution": "360 x 360 pixels (~424 ppi density)",
+        "Protection": "Corning Gorilla Glass 3",
+        "Features": "Rotating bezel"
+      },
+      "Platform": {
+        "OS": "Tizen OS 2.3.2",
+        "Chipset": "Exynos 3250 Dual",
+        "CPU": "Dual-core 1.0 GHz Cortex-A7",
+        "GPU": "Mali-400MP2"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "4GB 512MB RAM"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n/e",
+        "Bluetooth": "4.1, A2DP, LE",
+        "Positioning": "No",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, heart rate, barometer",
+        "Features": "S-Voice natural language commands and dictation\n\nMP3/M4A/AAC/WAV player\n\nPhoto viewer\n\nVoice memo/dial/commands\n\nSamsung Pay"
+      },
+      "Battery": {
+        "Type": "Li-Ion 300 mAh, non-removable",
+        "Charging": "Wireless (Qi)",
+        "Stand-by": "Up to 48 h (3G)"
+      },
+      "Misc": {
+        "Colors": "Black, Rose Gold, ceramic bracelet",
+        "Price": "About 250 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-gear-s2-classic-ceramic-bracelet.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-gear-s2-classic-3g.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_gear_s2_classic_3g-pictures-7934.php"
+    }
+  }
+}

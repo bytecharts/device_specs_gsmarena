@@ -1,0 +1,107 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy C5",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-c5-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-c5r3.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_galaxy_c5-review-1501.php",
+    "siblingDeviceSlugs": [
+      "samsung_galaxy_c5_pro-8437"
+    ],
+    "release_date": "Released 2016, June",
+    "dimensions": "143g, 6.7mm thickness",
+    "os": "Android 6.0.1, up to Android 8.0",
+    "storage": "32GB/64GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100 - C5000",
+        "4G bands": "1, 3, 7, 8, 38, 39, 40, 41 - C5000",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "Launch": {
+        "Announced": "2016, May. Released 2016, June",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "145.9 x 72 x 6.7 mm (5.74 x 2.83 x 0.26 in)",
+        "Weight": "143 g (5.04 oz)",
+        "Build": "Glass front, aluminum back, aluminum frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "Super AMOLED",
+        "Size": "5.2 inches, 74.5 cm<sup>2</sup> (~71.0% screen-to-body ratio)",
+        "Resolution": "1080 x 1920 pixels, 16:9 ratio (~424 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 6.0.1 (Marshmallow), upgradable to Android 8.0 (Oreo)",
+        "Chipset": "Qualcomm MSM8952 Snapdragon 617 (28 nm)",
+        "CPU": "Octa-core (4x1.5 GHz Cortex-A53 &amp; 4x1.2 GHz Cortex-A53)",
+        "GPU": "Adreno 405"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (uses shared SIM slot)",
+        "Internal": "32GB 4GB RAM, 64GB 4GB RAM",
+        "Features": "eMMC 5.1"
+      },
+      "Main Camera": {
+        "Single": "16 MP, f/1.9, AF",
+        "Features": "Dual-LED dual-tone flash, panorama, HDR",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, f/1.9",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n, Wi-Fi Direct",
+        "Bluetooth": "4.2, A2DP, LE",
+        "Positioning": "GPS, GLONASS/ BDS (region dependent)",
+        "NFC": "Yes",
+        "Radio": "Stereo FM radio with RDS; recording",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (front-mounted), accelerometer, proximity, compass",
+        "Features": "ANT+"
+      },
+      "Battery": {
+        "Type": "Li-Ion 2600 mAh, non-removable",
+        "Charging": "18W wired"
+      },
+      "Misc": {
+        "Colors": "Gold, Pink Gold, Dark Gray",
+        "Models": "SM-C5000",
+        "SAR EU": "0.45 W/kg (head) &nbsp; &nbsp; 1.07 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 220 EUR"
+      },
+      "Our Tests": {
+        "Performance": "Basemark OS II 2.0: 815\nBasemark X: 5039",
+        "Display": "<a class=\"noUnd\" href=\"samsung_galaxy_c5-review-1501p3.php#dt\">Contrast ratio: Infinite (nominal), 3.911 (sunlight)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=8047&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=8047&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"samsung_galaxy_c5-review-1501p6.php#lt\">Voice 67dB / Noise 69dB / Ring 72dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"samsung_galaxy_c5-review-1501p7.php#aq\">Noise-93.1dB / Crosstalk -68.3dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 8047); \">Endurance rating 75h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-c5-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_c5-pictures-8047.php"
+    }
+  }
+}

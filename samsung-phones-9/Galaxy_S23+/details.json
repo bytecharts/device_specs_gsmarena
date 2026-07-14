@@ -1,0 +1,115 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy S23+",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s23-plus-5g-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s23-plus-5g.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_galaxy_s23_plus-review-2527.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2023, February 17",
+    "dimensions": "196g, 7.6mm thickness",
+    "os": "Android 13, up to 4 major upgrades",
+    "storage": "256GB/512GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / EVDO / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 32, 38, 39, 40, 41, 66 - International",
+        "5G bands": "1, 2, 3, 5, 7, 8, 12, 20, 25, 28, 38, 40, 41, 66, 75, 77, 78 SA/NSA/Sub6 - International",
+        "Speed": "HSPA, LTE (CA), 5G",
+        "Features": "CDMA 800 / 1900 &amp; TD-SCDMA\nCDMA2000 1xEV-DO\n1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 18, 29, 20, 25, 26, 28, 29, 30, 38, 39, 40, 41, 46, 48, 66, 71 - USA\n1, 7, 28, 41, 66, 71, 78, 258, 260, 261 SA/NSA/Sub6/mmWave - USA"
+      },
+      "Launch": {
+        "Announced": "2023, February 01",
+        "Status": "Available. Released 2023, February 17"
+      },
+      "Body": {
+        "Dimensions": "157.8 x 76.2 x 7.6 mm (6.21 x 3.00 x 0.30 in)",
+        "Weight": "196 g (6.91 oz)",
+        "Build": "Glass front (Gorilla Glass Victus 2), glass back (Gorilla Glass Victus 2), aluminum frame",
+        "SIM": "· Nano-SIM + <a href=\"glossary.php3?term=esim\">eSIM</a>\n· Nano-SIM + Nano-SIM + eSIM (max 2 at a time)",
+        "Features": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)\n\nArmor aluminum frame"
+      },
+      "Display": {
+        "Type": "Dynamic AMOLED 2X, 120Hz, HDR10+, 1200 nits (HBM), 1750 nits (peak)",
+        "Size": "6.6 inches, 105.3 cm<sup>2</sup> (~87.6% screen-to-body ratio)",
+        "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~393 ppi density)",
+        "Protection": "Corning Gorilla Glass Victus 2"
+      },
+      "Platform": {
+        "OS": "Android 13, up to 4 major Android upgrades, One UI 8.5",
+        "Chipset": "Qualcomm SM8550-AC Snapdragon 8 Gen 2 (4 nm)",
+        "CPU": "Octa-core (1x3.36 GHz Cortex-X3 &amp; 2x2.8 GHz Cortex-A715 &amp; 2x2.8 GHz Cortex-A710 &amp; 3x2.0 GHz Cortex-A510)",
+        "GPU": "Adreno 740"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 8GB RAM, 512GB 8GB RAM",
+        "Features": "UFS 4.0"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, f/1.8, 24mm (wide), 1/1.56\", 1.0µm, dual pixel PDAF, OIS\n\n10 MP, f/2.4, 70mm (telephoto), 1/3.94\", 1.0µm, PDAF, OIS, 3x optical zoom\n\n12 MP, f/2.2, 13mm, 120˚ (ultrawide), 1/2.55\" 1.4µm, Super Steady video",
+        "Features": "LED flash, auto-HDR, panorama",
+        "Video": "8K@24/30fps, 4K@30/60fps, 1080p@30/60/120/240fps, HDR10+, stereo sound rec., gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "12 MP, f/2.2, 26mm (wide), 1/3.2\", 1.12µm, dual pixel PDAF",
+        "Features": "HDR, HDR10+",
+        "Video": "4K@30/60fps, 1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No",
+        "Features": "High-bitrate audio support"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e, tri-band, Wi-Fi Direct",
+        "Bluetooth": "5.3, A2DP, LE",
+        "Positioning": "GPS, GLONASS, BDS, GALILEO",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 3.2, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer",
+        "Features": "Samsung DeX, Samsung Wireless DeX (desktop experience support)\n\nUltra Wideband (UWB) support"
+      },
+      "Battery": {
+        "Type": "Li-Ion 4700 mAh",
+        "Charging": "45W wired, PD3.0, 65% in 30 min\n\n15W wireless (Qi)\n\n4.5W reverse wireless"
+      },
+      "Misc": {
+        "Colors": "Phantom Black, Cream, Green, Lavender, Graphite, Lime",
+        "Models": "SM-S916B, SM-S916B/DS, SM-S916U, SM-S916U1, SM-S916W, SM-S916N, SM-S9160, SM-S916E, SM-S916E/DS",
+        "SAR": "0.95 W/kg (head) &nbsp; &nbsp; 1.04 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.77 W/kg (head) &nbsp; &nbsp; 1.45 W/kg (body) &nbsp; &nbsp;",
+        "Price": "<a href=\"samsung_galaxy_s23+-price-12083.php\">$ 314.44 / £ 391.00 / € 402.00</a>"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 1234077 (v9)\n\nGeekBench: 5073 (v5.1)\n\nGFXBench: 110fps (ES 3.1 onscreen)",
+        "Display": "<a class=\"noUnd\" href=\"samsung_galaxy_s23_plus-review-2527p3.php#dt\">1205 nits max brightness (measured)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=12083&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=12083&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"samsung_galaxy_s23_plus-review-2527p3.php#lt\">-26.5 LUFS (Good)</a>",
+        "Battery": "<div style=\"position:relative;\">\n<a href=\"samsung_galaxy_s23_plus-review-2527p3.php#bl\" data-battery2=\"36:26_11:15_15:47_9:31\" onclick=\"showBatteryPopup(event, 12083); \" class=\"v2\">Active use score 13:51h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 12083); \">Endurance rating 111h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s23-plus-5g-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s23-plus-5g-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s23-plus-5g-4.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s23-plus-5g-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_s23+-pictures-12083.php"
+    }
+  }
+}

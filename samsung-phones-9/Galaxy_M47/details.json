@@ -1,0 +1,100 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy M47",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-m47-11.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-m47-1.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2026, July 04",
+    "dimensions": "200g, 7.8mm thickness",
+    "os": "Android 16, up to 6 major upgrades",
+    "storage": "128GB/256GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "LTE",
+        "5G bands": "SA/NSA/Sub6",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2026, June 29",
+        "Status": "Available. Released 2026, July 04"
+      },
+      "Body": {
+        "Dimensions": "162.4 x 78.2 x 7.8 mm (6.39 x 3.08 x 0.31 in)",
+        "Weight": "200 g (7.05 oz)",
+        "Build": "Glass front (Gorilla Glass Victus+), plastic frame, glass back (Gorilla Glass Victus+)",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "IP64 dust tight and water resistant (water splashes)\n\nDrop resistant up to 2m"
+      },
+      "Display": {
+        "Type": "Super AMOLED, 120Hz, 800 nits (typ), 1400 nits (HBM)",
+        "Size": "6.7 inches, 110.2 cm<sup>2</sup> (~86.8% screen-to-body ratio)",
+        "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~385 ppi density)",
+        "Protection": "Corning Gorilla Glass Victus+"
+      },
+      "Platform": {
+        "OS": "Android 16, up to 6 major Android upgrades, One UI 8.5",
+        "Chipset": "Qualcomm SM6475-AB Snapdragon 6 Gen 3 (4 nm)",
+        "CPU": "Octa-core (4x2.4 GHz Cortex-A78 &amp; 4x1.8 GHz Cortex-A55)",
+        "GPU": "Adreno 710"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (uses shared SIM slot)",
+        "Internal": "128GB 6GB RAM, 256GB 8GB RAM",
+        "Features": "UFS 3.1"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, f/1.8, (wide), 1/2.76\", 0.64µm, PDAF, OIS\n\n5 MP, f/2.2, (ultrawide), 1/5.0\", 1.12µm\n\n2 MP (macro)",
+        "Features": "LED flash, panorama, HDR",
+        "Video": "4K@30fps, 1080p@30fps, 720p@480fps, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "12 MP, f/2.2, (wide), AF",
+        "Video": "1080p@30fps, HDR"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.3, A2DP, LE, ASHA",
+        "Positioning": "GPS, GALILEO, GLONASS, BDS, QZSS",
+        "NFC": "Yes",
+        "Radio": "Unspecified",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, compass",
+        "Features": "Virtual proximity sensing"
+      },
+      "Battery": {
+        "Type": "6000 mAh",
+        "Charging": "45W wired\n\nBypass charging"
+      },
+      "Misc": {
+        "Colors": "Blaze Blue, Rogue Red",
+        "Models": "SM-M476B/DS, SM-M476B",
+        "SAR": "0.87 W/kg (head) &nbsp; &nbsp;",
+        "SAR EU": "0.50 W/kg (head) &nbsp; &nbsp; 0.98 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 210 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-m47-11.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_m47_5g-pictures-14749.php"
+    }
+  }
+}

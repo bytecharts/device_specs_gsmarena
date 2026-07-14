@@ -1,0 +1,118 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Apple iPhone 4",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-4-ofic-4.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-4-ofic-final.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/apple_iphone_4-review-490.php",
+    "siblingDeviceSlugs": [
+      "apple_iphone_4s-4212",
+      "apple_iphone_5-4910",
+      "apple_iphone_3gs-2826",
+      "apple_iphone_5s-5685",
+      "apple_iphone_se-7969",
+      "apple_iphone_18_pro_max_5g-14716",
+      "apple_iphone_17_pro_max-13964",
+      "apple_iphone_17-14050",
+      "apple_iphone_13-11103",
+      "apple_iphone_15-12559",
+      "apple_iphone_17_pro-14049"
+    ],
+    "release_date": "Released 2010, June",
+    "dimensions": "137g, 9.3mm thickness",
+    "os": "iOS 4, up to iOS 7.1.2",
+    "storage": "8GB/16GB/32GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "Speed": "HSPA 7.2/5.76 Mbps"
+      },
+      "Launch": {
+        "Announced": "2010, June. Released 2010, June",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "115.2 x 58.6 x 9.3 mm (4.54 x 2.31 x 0.37 in)",
+        "Weight": "137 g (4.83 oz)",
+        "Build": "Glass front (Corning-made glass), glass back, stainless steel frame",
+        "SIM": "Micro-SIM",
+        "Features": "Scratch-resistant glass back panel"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "3.5 inches, 36.5 cm<sup>2</sup> (~54.0% screen-to-body ratio)",
+        "Resolution": "640 x 960 pixels, 3:2 ratio (~330 ppi density)",
+        "Protection": "Corning Gorilla Glass, oleophobic coating"
+      },
+      "Platform": {
+        "OS": "iOS 4, upgradable to iOS 7.1.2",
+        "Chipset": "Apple A4 (45 nm)",
+        "CPU": "1.0 GHz Cortex-A8",
+        "GPU": "PowerVR SGX535"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "8GB 512MB RAM, 16GB 512MB RAM, 32GB 512MB RAM"
+      },
+      "Main Camera": {
+        "Single": "5 MP, f/2.8, 1/3.2\", 1.75µm, AF",
+        "Features": "LED flash, HDR",
+        "Video": "720p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "VGA, videocalling over Wi-Fi only",
+        "Video": "480p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+        "Bluetooth": "2.1, A2DP",
+        "Positioning": "GPS, A-GPS",
+        "Radio": "No",
+        "USB": "2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, proximity, compass",
+        "Browser": "HTML5 (Safari)"
+      },
+      "Battery": {
+        "Type": "Li-Po 1420 mAh, non-removable",
+        "Stand-by": "Up to 300 h (3G)",
+        "Talk time": "Up to 7 h (3G)"
+      },
+      "Misc": {
+        "Colors": "Black, White",
+        "Models": "A1349, A1332, iPhone 3,1",
+        "SAR": "1.17 W/kg (head) &nbsp; &nbsp; 1.11 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.93 W/kg (head) &nbsp; &nbsp; 0.74 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 200 EUR"
+      },
+      "Our Tests": {
+        "Display": "<a class=\"noUnd\" href=\"apple_iphone_4-review-490p3.php\">Contrast ratio: 1242:1 (nominal) / 2.016:1 (sunlight)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=3275&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=3275&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"apple_iphone_4-review-490p6.php\">Voice 65dB / Noise 60dB / Ring 66dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"apple_iphone_4-review-490p7.php#aq\">Noise -90.1dB / Crosstalk -89.6dB</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-4-ofic-4.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-4-ofic-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-4-ofic-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/apple_iphone_4-pictures-3275.php"
+    }
+  }
+}

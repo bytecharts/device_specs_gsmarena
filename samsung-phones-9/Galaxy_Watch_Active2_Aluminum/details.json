@@ -1,0 +1,91 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy Watch Active2 Aluminum",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-watch-active2-aluminum-violet.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-watch-active2-.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_galaxy_watch_active2_review-news-41093.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2019, September",
+    "dimensions": "30g, 10.9mm thickness",
+    "os": "Tizen OS 5.5",
+    "storage": "4GB 768MB RAM storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">HSPA / LTE</a>",
+        "2G bands": "N/A",
+        "3G bands": "HSDPA 900 / 2100 - 44mm LTE version only",
+        "4G bands": "1, 3, 7, 8, 20 - 44mm LTE version only",
+        "Speed": "No"
+      },
+      "Launch": {
+        "Announced": "2019, August. Released 2019, September",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "44 x 44 x 10.9 mm (1.73 x 1.73 x 0.43 in)",
+        "Weight": "30 g (1.06 oz)",
+        "Build": "Glass front (Gorilla Glass DX+), aluminum frame",
+        "SIM": "No",
+        "Features": "IP68 dust tight and water resistant (immersible up to 50m)\n\nCompatible with standard 20mm straps\n\nECG certified\n\nTouch-sensitive bezel\n\nMIL-STD-810G compliant*\n\n*does not guarantee ruggedness or use in extreme conditions"
+      },
+      "Display": {
+        "Type": "Super AMOLED",
+        "Size": "1.4 inches",
+        "Resolution": "360 x 360 pixels (~364 ppi density)",
+        "Protection": "Corning Gorilla Glass DX+"
+      },
+      "Platform": {
+        "OS": "Tizen OS 5.5",
+        "Chipset": "Exynos 9110 (10 nm)",
+        "CPU": "Dual-core 1.15 GHz Cortex-A53",
+        "GPU": "Mali-T720"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "4GB 768MB RAM, 4GB 1.5GB RAM"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, heart rate, barometer"
+      },
+      "Battery": {
+        "Type": "Li-Ion 340 mAh, non-removable",
+        "Charging": "Wireless"
+      },
+      "Misc": {
+        "Colors": "Cloud Silver, Aqua Black, Pink Gold, Phantom Violet",
+        "Models": "SM-R830",
+        "Price": "About 300 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-watch-active2-aluminum-violet.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-watch-active2-aluminum-40mm.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_watch_active2_aluminum-pictures-9786.php"
+    }
+  }
+}

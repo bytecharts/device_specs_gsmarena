@@ -1,0 +1,104 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy A71 5G",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a71-5g-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a71-5g.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "samsung_galaxy_a71-9995"
+    ],
+    "release_date": "Released 2020, June 15",
+    "dimensions": "185g, 8.1mm thickness",
+    "os": "Android 10, up to Android 13, One UI 5",
+    "storage": "128GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / EVDO / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100 - SM-A716B",
+        "4G bands": "1, 3, 4, 5, 7, 8, 12, 20, 28, 34, 38, 39, 40, 41 - SM-A716B",
+        "5G bands": "41, 78 SA/NSA/Sub6 - SM-A716B",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "CDMA 800 / 1900\nHSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - SM-A716U\nCDMA2000 1xEV-DO\n1, 2, 3, 4, 5, 7, 12, 13, 14, 20, 25, 26, 28, 29, 30, 38, 39, 40, 41, 66, 71 - SM-A716U\n2, 5, 41, 66, 71 mmWave/Sub6 - SM-A716U"
+      },
+      "Launch": {
+        "Announced": "2020, April 08",
+        "Status": "Available. Released 2020, June 15"
+      },
+      "Body": {
+        "Dimensions": "162.5 x 75.5 x 8.1 mm (6.40 x 2.97 x 0.32 in)",
+        "Weight": "185 g (6.53 oz)",
+        "Build": "Glass front (Gorilla Glass 3), plastic back, aluminum frame",
+        "SIM": "· Nano-SIM\n· Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "Super AMOLED Plus",
+        "Size": "6.7 inches, 108.4 cm<sup>2</sup> (~88.3% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~393 ppi density)",
+        "Protection": "Corning Gorilla Glass 3"
+      },
+      "Platform": {
+        "OS": "Android 10, upgradable to Android 13, One UI 5",
+        "Chipset": "Exynos 980 (8 nm)",
+        "CPU": "Octa-core (2x2.2 GHz Cortex-A77 &amp; 6x1.8 GHz Cortex A55)",
+        "GPU": "Mali-G76 MP5"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (uses shared SIM slot)",
+        "Internal": "128GB 6GB RAM, 128GB 8GB RAM",
+        "Features": "UFS 2.1"
+      },
+      "Main Camera": {
+        "Quad": "64 MP, f/1.8, 26mm (wide), 1/1.72\", 0.8µm, PDAF\n\n12 MP, f/2.2, 123˚ (ultrawide)\n\n5 MP (macro)\n\nAuxiliary lens",
+        "Features": "LED flash, panorama, HDR",
+        "Video": "4K@30fps, 1080p@30/240fps, 1080p@960fps; gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.2, 26mm (wide), 1/2.8\", 0.8µm",
+        "Features": "HDR",
+        "Video": "4K@30fps, 1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS",
+        "NFC": "Yes (market dependent)",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",
+        "Features": "ANT+"
+      },
+      "Battery": {
+        "Type": "Li-Po 4500 mAh",
+        "Charging": "25W wired"
+      },
+      "Misc": {
+        "Colors": "Prism Cube Black, Prism Cube Sliver, Prism Cube Blue",
+        "Models": "SM-A716F, SM-A716F/DS, SM-A716F/DSN, SM-A7160, SM-A716B/DS, SM-A716U, SM-A716B, SM-A716U1",
+        "SAR": "0.69 W/kg (head) &nbsp; &nbsp; 1.11 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "1.24 W/kg (head) &nbsp; &nbsp; 1.53 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 120 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a71-5g-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a71-5g-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_a71_5g-pictures-10146.php"
+    }
+  }
+}

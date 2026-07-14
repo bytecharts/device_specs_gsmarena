@@ -1,0 +1,109 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy A32 5G",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a32-5g-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a32-5g.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_galaxy_a32_5g-review-2279.php",
+    "siblingDeviceSlugs": [
+      "samsung_galaxy_a32-10753"
+    ],
+    "release_date": "Released 2021, January 22",
+    "dimensions": "205g, 9.1mm thickness",
+    "os": "Android 11, up to Android 13, One UI 5",
+    "storage": "64GB/128GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 20, 26, 28, 38, 40, 41, 66",
+        "5G bands": "1, 3, 5, 7, 8, 20, 28, 38, 40, 41, 66, 78, 79 SA/NSA/Sub6",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat16 1024/75 Mbps, 5G",
+        "Features": "CDMA 800 / 1900\nHSDPA 850 / 900 / 1700(AWS) / 1900 / 2100\nHSDPA 850 / 1700(AWS) / 1900 / 2100  - SM-A326U\n1, 2, 3, 4, 5, 7, 12, 13, 20, 25, 26, 38, 39, 40, 66, 71  - SM-A326U\n25, 41, 66, 71 SA/NSA/Sub6 - SM-A326U"
+      },
+      "Launch": {
+        "Announced": "2021, January 13",
+        "Status": "Available. Released 2021, January 22"
+      },
+      "Body": {
+        "Dimensions": "164.2 x 76.1 x 9.1 mm (6.46 x 3.00 x 0.36 in)",
+        "Weight": "205 g (7.23 oz)",
+        "Build": "Glass front (Gorilla Glass 5), plastic frame, plastic back",
+        "SIM": "· Nano-SIM\n· Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "TFT LCD, 60Hz (International), 90Hz (SM-A326U, SM-326DL only)",
+        "Size": "6.5 inches, 102.0 cm<sup>2</sup> (~81.6% screen-to-body ratio)",
+        "Resolution": "720 x 1600 pixels, 20:9 ratio (~270 ppi density)",
+        "Protection": "Corning Gorilla Glass 5"
+      },
+      "Platform": {
+        "OS": "Android 11, upgradable to Android 13, One UI 5",
+        "Chipset": "Mediatek Dimensity 720 (7 nm)",
+        "CPU": "Octa-core (2x2.0 GHz Cortex-A76 &amp; 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC3"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (uses shared SIM slot)",
+        "Internal": "64GB 4GB RAM, 128GB 4GB RAM, 128GB 6GB RAM, 128GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Quad": "48 MP, f/1.8, 26mm (wide), 1/2.0\", 0.8µm, PDAF\n\n8 MP, f/2.2, 123˚, (ultrawide), 1/4.0\", 1.12µm\n\n5 MP (macro)\n\nAuxiliary lens",
+        "Features": "LED flash, panorama, HDR",
+        "Video": "4K@30fps, 1080p@30/120fps"
+      },
+      "Selfie camera": {
+        "Single": "13 MP, f/2.2, (wide), 1/3.1\", 1.12µm",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS",
+        "NFC": "Yes (market/region dependent)",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, compass",
+        "Features": "Virtual proximity sensing"
+      },
+      "Battery": {
+        "Type": "Li-Ion 5000 mAh",
+        "Charging": "15W wired"
+      },
+      "Misc": {
+        "Colors": "Awesome Black, Awesome White, Awesome Blue, Awesome Violet",
+        "Models": "SM-A326B, SM-A326B/DS, SM-A326BR/DS, SM-A326BR, SM-A326U, SM-A326W, SM-A326U1, SM-A326K, SCG08, SM-S326DL",
+        "SAR EU": "0.33 W/kg (head) &nbsp; &nbsp; 1.08 W/kg (body) &nbsp; &nbsp;",
+        "Price": "<a href=\"samsung_galaxy_a32_5g-price-10648.php\">$ 88.99 / £ 84.99 / € 112.09</a>"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 226561 (v8)\n\nGeekBench: 1673 (v5.1)",
+        "Display": "<a class=\"noUnd\" href=\"samsung_galaxy_a32_5g-review-2279p3.php#dt\">1490:1 contrast ratio, 497 nits max brightness (measured)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=10648&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=10648&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"samsung_galaxy_a32_5g-review-2279p3.php#lt\">-28.5 LUFS (Average)</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 10648); \">Endurance rating 123h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a32-5g-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a32-5g-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_a32_5g-pictures-10648.php"
+    }
+  }
+}

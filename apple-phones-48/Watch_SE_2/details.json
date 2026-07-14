@@ -1,0 +1,93 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Apple Watch SE 2",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/apple/apple-watch-8se-2022-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/apple-watch-8se-2022.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2022, September 16",
+    "dimensions": "33g, 10.7mm thickness",
+    "os": "watchOS 9.0, up to watchOS 26.5",
+    "storage": "32GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - International, China, HK",
+        "4G bands": "1, 2, 3, 4, 5, 6, 7, 8, 18, 19, 20, 25, 26, 28, 39, 40, 41, 66 - International, China, HK",
+        "Speed": "HSPA, LTE",
+        "Features": "HSDPA 850 / 1700(AWS) / 1900 / 2100 - USA, LATAM, Canada\n1, 2, 3, 4, 5, 6, 7, 12, 13, 14, 17, 18, 19, 25, 26, 39, 40, 41, 66 - USA, LATAM, Canada"
+      },
+      "Launch": {
+        "Announced": "2022, September 07",
+        "Status": "Available. Released 2022, September 16"
+      },
+      "Body": {
+        "Dimensions": "44 x 38 x 10.7 mm (1.73 x 1.50 x 0.42 in)",
+        "Weight": "33 g (1.16 oz)",
+        "Build": "Glass front, plastic/sapphire crystal back, aluminum frame",
+        "SIM": "<a href=\"glossary.php3?term=esim\">eSIM</a>",
+        "Features": "50m water resistant"
+      },
+      "Display": {
+        "Type": "Retina LTPO OLED, 1000 nits (peak)",
+        "Size": "1.78 inches",
+        "Resolution": "448 x 368 pixels (~326 ppi density)",
+        "Protection": "Ion-X strengthened glass"
+      },
+      "Platform": {
+        "OS": "watchOS 9.0, upgradable to watchOS 26.5",
+        "Chipset": "Apple S8",
+        "CPU": "Dual-core",
+        "GPU": "PowerVR"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "32GB 1GB RAM"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n",
+        "Bluetooth": "5.3, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, QZSS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, heart rate (2nd gen), barometer, always-on altimeter, compass"
+      },
+      "Battery": {
+        "Type": "Li-Ion 296 mAh",
+        "Charging": "Wireless"
+      },
+      "Misc": {
+        "Colors": "Midnight, Starlight, Silver",
+        "Models": "A2722, A2723, A2724, A2727, A2856, A2725, A2726, A2855, watch6,10, watch6,11, watch6,12, watch6,13",
+        "SAR": "0.27 W/kg (head) &nbsp; &nbsp; 1.96 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.27 W/kg (head) &nbsp; &nbsp; 1.96 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 190 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-watch-8se-2022-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-watch-8se-2022-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/apple_watch_se_(2022)-pictures-11865.php"
+    }
+  }
+}

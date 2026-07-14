@@ -1,0 +1,95 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy A10e",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a10e-sm-a102u.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a10e-sm-a102u.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2019, August",
+    "dimensions": "141g, 8.4mm thickness",
+    "os": "Android 9.0, up to Android 11, One UI 3.1",
+    "storage": "32GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 1700(AWS) / 1900 / 2100 - AT&amp;T",
+        "4G bands": "2, 3, 4, 5, 7, 12, 14, 29, 30, 66 - AT&amp;T",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+        "Features": "CDMA 800 / 1900 - Verizon, Metro PCS, Sprint, T-Mobile, Virgin Mobile, Boost Mobile\nHSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - Verizon, Metro PCS, Sprint, T-Mobile, Virgin Mobile, Boost Mobile\n2, 4, 5, 12, 13, 25, 26, 41, 71 - Verizon, Sprint, Virgin Mobile, Boost Mobile\n1, 2, 3, 4, 5, 7, 8, 12, 13, 20, 25, 26, 28, 38, 39, 40, 41, 66, 71 - Metro PCS, T-Mobile"
+      },
+      "Launch": {
+        "Announced": "2019, July. Released 2019, August",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "147.3 x 69.6 x 8.4 mm (5.80 x 2.74 x 0.33 in)",
+        "Weight": "141 g (4.97 oz)",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "Nano-SIM"
+      },
+      "Display": {
+        "Type": "PLS LCD",
+        "Size": "5.83 inches, 83.4 cm<sup>2</sup> (~81.4% screen-to-body ratio)",
+        "Resolution": "720 x 1560 pixels, 19.5:9 ratio (~295 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 9.0 (Pie), upgradable to Android 11, One UI 3.1",
+        "Chipset": "Exynos 7884 (14 nm)",
+        "CPU": "Octa-core (2x1.6 GHz Cortex-A73 &amp; 6x1.35 GHz Cortex-A53)",
+        "GPU": "Mali-G71 MP2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "32GB 2GB RAM, 32GB 3GB RAM",
+        "Features": "eMMC 5.1"
+      },
+      "Main Camera": {
+        "Single": "8 MP, f/1.9, AF\n\nor\n\n5 MP, AF",
+        "Features": "LED flash, panorama, HDR",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "5 MP, f/2.0\n\nor\n\n2 MP",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO",
+        "NFC": "No",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity"
+      },
+      "Battery": {
+        "Type": "Li-Ion 3000 mAh, non-removable"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "Models": "SM-A102U, SM-S102DL, SM-A102U1, SM-A102W, SM-A102N",
+        "SAR": "0.47 W/kg (head) &nbsp; &nbsp; 0.54 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 80 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a10e-sm-a102u.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_a10e-pictures-9790.php"
+    }
+  }
+}

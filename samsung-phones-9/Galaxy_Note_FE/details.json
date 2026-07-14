@@ -1,0 +1,118 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy Note FE",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-note-fe-n935.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-note-fe1.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "samsung_galaxy_note7-8082",
+      "samsung_galaxy_note8-8505",
+      "samsung_galaxy_s7_edge-7945",
+      "samsung_galaxy_s24_ultra-12771",
+      "samsung_galaxy_note5-7431",
+      "samsung_galaxy_s8-8161",
+      "samsung_galaxy_a57_5g-14379",
+      "samsung_galaxy_s26_ultra_5g-14320",
+      "samsung_galaxy_a17_5g-14041",
+      "samsung_galaxy_a27_5g-14606",
+      "samsung_galaxy_m47_5g-14749",
+      "samsung_galaxy_a07-14066"
+    ],
+    "release_date": "Released 2017, July",
+    "dimensions": "167g, 7.9mm thickness",
+    "os": "Android 7.1.1, up to Android 9.0, One UI",
+    "storage": "64GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 900 / 1800 / 1900 - SIM 1 &amp; SIM 2 (dual-SIM model only)",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 38, 39, 40, 41",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE (3CA) Cat12 600/150 Mbps",
+        "Features": "TD-SCDMA"
+      },
+      "Launch": {
+        "Announced": "2017, July. Released 2017, July",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "153.5 x 73.9 x 7.9 mm (6.04 x 2.91 x 0.31 in)",
+        "Weight": "167 g (5.89 oz)",
+        "Build": "Glass front (Gorilla Glass 5), glass back (Gorilla Glass 5), aluminum frame",
+        "SIM": "· Nano-SIM\n· Nano-SIM + Nano-SIM",
+        "Features": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)\n\nStylus"
+      },
+      "Display": {
+        "Type": "Super AMOLED, HDR10",
+        "Size": "5.7 inches, 89.6 cm<sup>2</sup> (~79.0% screen-to-body ratio)",
+        "Resolution": "1440 x 2560 pixels, 16:9 ratio (~515 ppi density)",
+        "Protection": "Corning Gorilla Glass 5"
+      },
+      "Platform": {
+        "OS": "Android 7.1.1 (Nougat), upgradable to Android 9.0 (Pie), One UI",
+        "Chipset": "Exynos 8890 Octa (14 nm)",
+        "CPU": "Octa-core (4x2.3 GHz Mongoose &amp; 4x1.6 GHz Cortex-A53)",
+        "GPU": "Mali-T880 MP12"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (uses shared SIM slot)",
+        "Internal": "64GB 4GB RAM",
+        "Features": "UFS 2.0"
+      },
+      "Main Camera": {
+        "Single": "12 MP, f/1.7, 26mm (wide), 1/2.55\", 1.4µm, dual pixel PDAF, OIS",
+        "Features": "LED flash, auto-HDR, panorama",
+        "Video": "4K@30fps, 1080p@30/60fps, 720p@240fps, stereo sound rec., HDR, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Dual": "5 MP, f/1.7, 22mm (wide)\n\n2 MP (dedicated iris scanner camera)",
+        "Features": "HDR",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes",
+        "Features": "24-bit/192kHz audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "4.2, A2DP, EDR, LE",
+        "Positioning": "GPS, GLONASS, BDS, GALILEO",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 3.1"
+      },
+      "Features": {
+        "Sensors": "Iris scanner, fingerprint (front-mounted), accelerometer, gyro, proximity, compass, barometer, heart rate, SpO2",
+        "Features": "ANT+\n\nS-Voice natural language commands and dictation\n\nSamsung Pay (Visa, MasterCard certified)"
+      },
+      "Battery": {
+        "Type": "Li-Ion 3200 mAh, non-removable",
+        "Charging": "15W wired, QC2\n\nWireless (Qi)",
+        "Talk time": "Up to 23 h (3G)",
+        "Music play": "Up to 68 h"
+      },
+      "Misc": {
+        "Colors": "Black Onyx, Blue Coral, Gold Platinum, Silver Titanium",
+        "Models": "SM-N935F, SM-N935L, SM-N935S, SM-N935K",
+        "SAR": "0.46 W/kg (head) &nbsp; &nbsp; 1.16 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 500 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-note-fe-n935.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-note-fe-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-note-fe-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_note_fe-pictures-8683.php"
+    }
+  }
+}

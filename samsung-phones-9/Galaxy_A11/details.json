@@ -1,0 +1,97 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy A11",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a11-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a11.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2020, May 01",
+    "dimensions": "177g, 8mm thickness",
+    "os": "Android 10, up to Android 12, One UI Core 4.1",
+    "storage": "32GB/64GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4G bands": "1, 2, 3, 5, 7, 8, 20, 28, 38, 40, 41",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+        "Features": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - SM-A115U\n1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 20, 25, 26, 28, 38, 39, 40, 41, 66, 71 - SM-A115U"
+      },
+      "Launch": {
+        "Announced": "2020, March 13. Released 2020, May 01",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "161.4 x 76.3 x 8 mm (6.35 x 3.00 x 0.31 in)",
+        "Weight": "177 g (6.24 oz)",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "· Nano-SIM\n· Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "PLS LCD",
+        "Size": "6.4 inches, 100.5 cm<sup>2</sup> (~81.6% screen-to-body ratio)",
+        "Resolution": "720 x 1560 pixels, 19.5:9 ratio (~268 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 10, upgradable to Android 12, One UI Core 4.1",
+        "Chipset": "Qualcomm SDM450 Snapdragon 450 (14 nm)",
+        "CPU": "Octa-core 1.8 GHz Cortex-A53",
+        "GPU": "Adreno 506"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "32GB 2GB RAM, 32GB 3GB RAM, 64GB 3GB RAM, 64GB 4GB RAM",
+        "Features": "eMMC 5.1"
+      },
+      "Main Camera": {
+        "Triple": "13 MP, f/1.8, 27mm (wide), AF\n\n5 MP, f/2.2, 115˚ (ultrawide)\n\nAuxiliary lens",
+        "Features": "LED flash, panorama, HDR",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, f/2.0",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
+        "Bluetooth": "4.2, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (rear-mounted), accelerometer, proximity"
+      },
+      "Battery": {
+        "Type": "Li-Po 4000 mAh",
+        "Charging": "15W wired"
+      },
+      "Misc": {
+        "Colors": "Black, White, Blue, Red",
+        "Models": "SM-A115F/DS, SM-A115F, SM-A115M, SM-A115M/DS, SM-A115U, SM-A115A, SM-A115AZ, SM-A115U1, SM-A115W, SM-A115AP, SM-S115DL",
+        "SAR EU": "0.52 W/kg (head) &nbsp; &nbsp; 0.99 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 160 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a11-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a11-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_a11-pictures-10132.php"
+    }
+  }
+}

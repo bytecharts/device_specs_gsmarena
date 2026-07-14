@@ -1,0 +1,106 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy A41",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a41-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a41.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_galaxy_a41-review-2132.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2020, May 22",
+    "dimensions": "152g, 7.9mm thickness",
+    "os": "Android 10, up to Android 12, One UI 4.1",
+    "storage": "64GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4G bands": "1, 3, 5, 7, 8, 20, 28, 38, 40, 41",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2020, March 18. Released 2020, May 22",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "149.9 x 69.8 x 7.9 mm (5.90 x 2.75 x 0.31 in)",
+        "Weight": "152 g (5.36 oz)",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "· Nano-SIM\n· Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "Super AMOLED",
+        "Size": "6.1 inches, 89.8 cm<sup>2</sup> (~85.9% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~431 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 10, upgradable to Android 12, One UI 4.1",
+        "Chipset": "Mediatek MT6768 Helio P65 (12 nm)",
+        "CPU": "Octa-core (2x2.0 GHz Cortex-A75 &amp; 6x1.7 GHz Cortex-A55)",
+        "GPU": "Mali-G52 MC2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "64GB 4GB RAM, 64GB 8GB RAM",
+        "Features": "eMMC 5.1"
+      },
+      "Main Camera": {
+        "Triple": "48 MP, f/2.0, 26mm (wide), 1/2.0\", 0.8µm, PDAF\n\n8 MP, f/2.2, 123˚ (ultrawide), 1/4.0\", 1.12µm\n\nAuxiliary lens",
+        "Features": "LED flash, panorama, HDR",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "25 MP, f/2.2, 25mm (wide), 1/2.8\", 0.9µm",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS",
+        "NFC": "Yes",
+        "Radio": "FM radio, recording",
+        "USB": "USB Type-C 2.0"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, compass",
+        "Features": "Virtual proximity sensing"
+      },
+      "Battery": {
+        "Type": "Li-Po 3500 mAh",
+        "Charging": "15W wired"
+      },
+      "Misc": {
+        "Colors": "Prism Crush Black, Prism Crush Silver, Prism Crush Blue, Prism Crush Red",
+        "Models": "SM-A415F/DSN, SM-A415F/DSM, SM-A415F, SM-A415F/DS, SCV48, SC-41A",
+        "SAR EU": "0.59 W/kg (head) &nbsp; &nbsp; 1.50 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 290 EUR"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 170044 (v8)\n\nGeekBench: 1175 (v5.1)\n\nGFXBench: 6.9fps (ES 3.1 onscreen)",
+        "Display": "<a class=\"noUnd\" href=\"samsung_galaxy_a41-review-2132p3.php#dt\">624 nits max brightness (measured)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=10138&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=10138&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"samsung_galaxy_a41-review-2132p3.php#lt\">-30.5 LUFS (Below average)</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 10138); \">Endurance rating 102h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a41-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a41-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a41-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_a41-pictures-10138.php"
+    }
+  }
+}

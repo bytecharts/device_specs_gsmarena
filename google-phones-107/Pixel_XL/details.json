@@ -1,0 +1,113 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Google Pixel XL",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-xl-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-xl.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/google_pixel_xl-review-1513.php",
+    "siblingDeviceSlugs": [
+      "google_pixel_10_pro_xl_5g-13988"
+    ],
+    "release_date": "Released 2016, October 20",
+    "dimensions": "168g, 8.5mm thickness",
+    "os": "Android 7.1, up to Android 10",
+    "storage": "32GB/128GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 21, 26, 28, 32, 38, 39, 40, 41",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE (3CA) Cat9 450/50 Mbps or LTE (3CA) Cat11 600/75 Mbps",
+        "GPRS": "Yes",
+        "EDGE": "Yes",
+        "Features": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100"
+      },
+      "Launch": {
+        "Announced": "2016, October 04. Released 2016, October 20",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "154.7 x 75.7 x 8.5 mm (6.09 x 2.98 x 0.33 in)",
+        "Weight": "168 g (5.93 oz)",
+        "Build": "Glass front (Gorilla Glass 4), aluminum/glass back, aluminum frame",
+        "SIM": "Nano-SIM",
+        "Features": "Water-repellent coating"
+      },
+      "Display": {
+        "Type": "AMOLED",
+        "Size": "5.5 inches, 83.4 cm<sup>2</sup> (~71.2% screen-to-body ratio)",
+        "Resolution": "1440 x 2560 pixels, 16:9 ratio (~534 ppi density)",
+        "Protection": "Corning Gorilla Glass 4"
+      },
+      "Platform": {
+        "OS": "Android 7.1 (Nougat), upgradable to Android 10",
+        "Chipset": "Qualcomm MSM8996 Snapdragon 821 (14 nm)",
+        "CPU": "Quad-core (2x2.15 GHz Kryo &amp; 2x1.6 GHz Kryo)",
+        "GPU": "Adreno 530"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "32GB 4GB RAM, 128GB 4GB RAM",
+        "Features": "UFS 2.0"
+      },
+      "Main Camera": {
+        "Single": "12.3 MP, f/2.0, 1/2.3\", 1.55µm, PDAF",
+        "Features": "Laser AF, Dual-LED flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@60/120fps, 1080p@30fps (gyro-EIS), 720p@240fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, f/2.4, 1/3.2\", 1.4µm",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA",
+        "Bluetooth": "4.2, A2DP, LE, aptX",
+        "Positioning": "GPS, GLONASS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 3.0"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass, barometer"
+      },
+      "Battery": {
+        "Type": "Li-Ion 3450 mAh, non-removable",
+        "Charging": "18W wired, PD",
+        "Stand-by": "Up to 552 h (3G)",
+        "Talk time": "Up to 32 h (3G)",
+        "Music play": "Up to 130 h"
+      },
+      "Misc": {
+        "Colors": "Quite Black, Very Silver, Really Blue",
+        "SAR": "0.89 W/kg (head) &nbsp; &nbsp; 0.56 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.25 W/kg (head) &nbsp; &nbsp; 0.44 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 400 EUR"
+      },
+      "Our Tests": {
+        "Performance": "Basemark OS II 2.0: 2281\nBasemark X: 30861",
+        "Display": "<a class=\"noUnd\" href=\"google_pixel_xl-review-1513p3.php#dt\">Contrast ratio: Infinite (nominal),  4.164 (sunlight)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=8345&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=8345&amp;nSuggest=1\">Video</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 8345); \">Endurance rating 78h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-xl-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-xl-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-xl-4.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/google_pixel_xl-pictures-8345.php"
+    }
+  }
+}

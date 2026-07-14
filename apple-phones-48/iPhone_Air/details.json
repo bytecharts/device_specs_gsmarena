@@ -1,0 +1,117 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Apple iPhone Air",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-air-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-air.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/apple_iphone_air-review-2885.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2025, September 19",
+    "dimensions": "165g, 5.6mm thickness",
+    "os": "iOS 26, up to iOS 26.5",
+    "storage": "256GB/512GB/1TB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / EVDO / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 30, 32, 34, 38, 39, 40, 41, 42, 48, 53, 66 - A3517",
+        "5G bands": "1, 2, 3, 5, 7, 8, 12, 20, 25, 26, 28, 30, 38, 40, 41, 48, 53, 66, 70, 75, 77, 78, 79 SA/NSA/Sub6 - A3517",
+        "Speed": "HSPA, LTE, 5G, EV-DO Rev.A 3.1 Mbps",
+        "Features": "CDMA 800 / 1900\nCDMA2000 1xEV-DO\n1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 17, 18, 19, 20, 25, 26, 28, 29, 30, 32, 34, 38, 39, 40, 41, 42, 48, 53, 66, 71 - A3260\n1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 30, 32, 34, 38, 39, 40, 41, 42, 48, 66 - A3518\n1, 2, 3, 5, 7, 8, 12, 14, 20, 25, 26, 28, 29, 30, 38, 40, 41, 48, 53, 66, 70, 71, 75, 77, 78, 79 SA/NSA/Sub6 - A3260\n1, 2, 3, 5, 7, 8, 12, 20, 25, 26, 28, 30, 38, 40, 41, 48, 66, 70, 75, 77, 78, 79 SA/NSA/Sub6 - A3518"
+      },
+      "Launch": {
+        "Announced": "2025, September 09",
+        "Status": "Available. Released 2025, September 19"
+      },
+      "Body": {
+        "Dimensions": "156.2 x 74.7 x 5.6 mm (6.15 x 2.94 x 0.22 in)",
+        "Weight": "165 g (5.82 oz)",
+        "Build": "Glass front (Ceramic Shield 2), titanium frame (grade 5), glass back (Ceramic Shield)",
+        "SIM": "<a href=\"glossary.php3?term=esim\">eSIM</a> + eSIM (8 or more, max 2 at a time)",
+        "Features": "IP68 dust tight and water resistant (immersible up to 6m for 30 min)\n\nApple Pay (Visa, MasterCard, AMEX certified)"
+      },
+      "Display": {
+        "Type": "LTPO Super Retina XDR OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (typ), 1600 nits (HBM), 3000 nits (peak)",
+        "Size": "6.5 inches, 104.9 cm<sup>2</sup> (~89.9% screen-to-body ratio)",
+        "Resolution": "1260 x 2736 pixels, 19.5:9 ratio (~460 ppi density)",
+        "Protection": "Ceramic Shield 2, Mohs level 5",
+        "Features": "Anti-reflective coating"
+      },
+      "Platform": {
+        "OS": "iOS 26, upgradable to iOS 26.5",
+        "Chipset": "Apple A19 Pro (3 nm)",
+        "CPU": "Hexa-core (2x4.26 GHz + 4x2.60 GHz)",
+        "GPU": "Apple GPU (5-core graphics)"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 12GB RAM, 512GB 12GB RAM, 1TB 12GB RAM",
+        "Features": "NVMe"
+      },
+      "Main Camera": {
+        "Single": "48 MP, f/1.6, 26mm (wide), 1/1.56\", 1.0µm, dual pixel PDAF, sensor-shift OIS",
+        "Features": "Dual-LED dual-tone flash, HDR (photo/panorama)",
+        "Video": "4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec."
+      },
+      "Selfie camera": {
+        "Single": "18 MP multi-aspect, f/1.9, 20mm (ultrawide), PDAF\n\nSL 3D, (depth/biometrics sensor)",
+        "Features": "HDR, Dolby Vision HDR, 3D (spatial) audio, stereo sound rec.",
+        "Video": "4K@24/25/30/60fps, 1080p@25/30/60/120fps, gyro-EIS"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, hotspot",
+        "Bluetooth": "6.0, A2DP, LE",
+        "Positioning": "GPS, GALILEO, GLONASS, QZSS, BDS, NavIC",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0"
+      },
+      "Features": {
+        "Sensors": "Face ID, accelerometer, gyro, proximity, compass, barometer",
+        "Features": "Ultra Wideband (UWB) support (gen2 chip)\n\nEmergency SOS, Messages and Find My via satellite"
+      },
+      "Battery": {
+        "Type": "Li-Ion 3149 mAh",
+        "Charging": "Wired, PD2.0, 50% in 30 min\n\n20 wireless MagSafe/Qi2, 50% in 30 min (15W - China)\n\n4.5W reverse wired"
+      },
+      "Misc": {
+        "Colors": "Space Black, Cloud White, Light Gold, Sky Blue",
+        "Models": "iPhone18,4, A3517, A3260, A3518, A3516",
+        "SAR": "1.19 W/kg (head) &nbsp; &nbsp; 1.19 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "1.49 W/kg (head) &nbsp; &nbsp; 1.49 W/kg (body) &nbsp; &nbsp;",
+        "Price": "<a href=\"apple_iphone_17_air-price-13502.php\">₹ 101,900 / $ 650.00 / £ 618.46 / € 726.49</a>"
+      },
+      "Our Tests": {
+        "Display": "<a class=\"noUnd\" href=\"https://www.gsmarena.com/apple_iphone_air-review-2885p3.php#dt\">998 nits max brightness (measured)</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"https://www.gsmarena.com/apple_iphone_air-review-2885p3.php#lt\">-29.8 LUFS (Average)</a>",
+        "Battery": "<div style=\"position:relative;\">\n<a href=\"https://www.gsmarena.com/apple_iphone_air-review-2885p3.php#bt\" data-battery2=\"17:06_10:30_20:05_8:34\" onclick=\"showBatteryPopup(event, 13502); \" class=\"v2\">Active use score 12:44h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      },
+      "EU LABEL": {
+        "Energy": "Class A",
+        "Battery": "40:00h endurance, 1000 cycles",
+        "Free fall": "Class B (180 falls)",
+        "Repairability": "Class C"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-air-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-air-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-air-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/apple_iphone_17_air-pictures-13502.php"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Google Pixel Watch 4",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-watch-4-00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-watch4.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/google_pixel_watch_4_handson_review-news-70601.php",
+    "siblingDeviceSlugs": [
+      "google_pixel_watch_3-13253",
+      "google_pixel_watch_2-12547",
+      "google_pixel_watch-11546"
+    ],
+    "release_date": "Released 2025, October 09",
+    "dimensions": "31g or 37g, 12.3mm thickness",
+    "os": "Android Wear OS 6, up to 7.0",
+    "storage": "32GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "LTE",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2025, August 20",
+        "Status": "Available. Released 2025, October 09"
+      },
+      "Body": {
+        "Dimensions": "45 x 45 x 12.3 mm (1.77 x 1.77 x 0.48 in)",
+        "Weight": "31 g or 37 g (1.09 oz)",
+        "Build": "Glass front (Gorilla Glass 5), aluminum frame",
+        "SIM": "<a href=\"glossary.php3?term=esim\">eSIM</a>",
+        "Features": "IP68 dust tight and water resistant (immersible up to 50m/5ATM)\n\nECG certified"
+      },
+      "Display": {
+        "Type": "LTPO AMOLED, 3000 nits (peak)",
+        "Size": "1.4 inches",
+        "Resolution": "456 x 456 pixels (~320 ppi density)",
+        "Protection": "Corning Gorilla Glass 5"
+      },
+      "Platform": {
+        "OS": "Android Wear OS 6, up to 7.0",
+        "Chipset": "Qualcomm Snapdragon W5 Gen 2 (4 nm)",
+        "CPU": "Quad-core (4x1.7 GHz Cortex-A53)",
+        "GPU": "Adreno A702"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "32GB 2GB RAM",
+        "Features": "eMMC"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+        "Bluetooth": "6.0, A2DP",
+        "Positioning": "GPS (L1+L5), GLONASS, GALILEO (E1+E5a)",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, heart rate, altimeter, compass, SpO2, thermometer (skin temperature), skin conductance",
+        "Features": "Satellite SOS service (LTE models only)\n\nUltra Wideband (UWB) support"
+      },
+      "Battery": {
+        "Type": "Li-Ion 455 mAh",
+        "Charging": "Wired, 50% in 15 min, 80% in 30 min, 100% in 60 min - 45mm model\n\nWired, 50% in 15 min, 80% in 25 min, 100% in 45 min - 41mm model"
+      },
+      "Misc": {
+        "Colors": "Matte Black, Polished Silver, Champagne Gold, Satin Moonstone",
+        "Price": "<a href=\"google_pixel_watch_4-price-14088.php\">$ 342.99 / € 269.00</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-watch-4-00.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-watch-4-01.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-watch-4-02.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/google_pixel_watch_4-pictures-14088.php"
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy Note 4 Duos",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-note-4-duos-sm-n9100-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-note-4-duos-sm-n9100.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2014, October",
+    "dimensions": "175g, 8.5mm thickness",
+    "os": "Android 4.4.4, up to 6.0.1",
+    "storage": "16GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 &amp; SIM 2",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4G bands": "1, 3, 7, 38, 39, 40, 41 - Hong Kong",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2014, October. Released 2014, October",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "153.5 x 78.6 x 8.5 mm (6.04 x 3.09 x 0.33 in)",
+        "Weight": "175 g (6.17 oz)",
+        "SIM": "Dual SIM (Micro-SIM, dual stand-by)",
+        "Features": "Stylus"
+      },
+      "Display": {
+        "Type": "Super AMOLED",
+        "Size": "5.7 inches, 89.6 cm<sup>2</sup> (~74.2% screen-to-body ratio)",
+        "Resolution": "1440 x 2560 pixels, 16:9 ratio (~515 ppi density)",
+        "Protection": "Corning Gorilla Glass 4"
+      },
+      "Platform": {
+        "OS": "Android 4.4.4 (KitKat), upgradable to 6.0.1 (Marshmallow)",
+        "Chipset": "Qualcomm APQ8084 Snapdragon 805 (28 nm)",
+        "CPU": "Quad-core 2.7 GHz Krait 450",
+        "GPU": "Adreno 420"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "16GB 3GB RAM",
+        "Features": "eMMC 5.0"
+      },
+      "Main Camera": {
+        "Single": "16 MP, f/2.2, 31mm (standard), 1/2.6\", 1.12µm, AF, OIS",
+        "Features": "LED flash, panorama, HDR",
+        "Video": "4K@30fps, 1080p@30/60fps, stereo sound rec."
+      },
+      "Selfie camera": {
+        "Single": "3.7 MP, f/1.9, 22mm (wide)",
+        "Features": "HDR",
+        "Video": "1440p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes",
+        "Features": "24-bit/192kHz audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+        "Bluetooth": "4.1, A2DP, EDR, LE",
+        "Positioning": "GPS, GLONASS, BDS",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "microUSB 2.0 (MHL 3 TV-out), OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (front-mounted), accelerometer, gyro, proximity, compass, barometer, gesture, UV, heart rate, SpO2",
+        "Features": "ANT+\n\nS-Voice natural language commands and dictation\n\nAir gestures"
+      },
+      "Battery": {
+        "Type": "Li-Ion 3000 mAh, removable",
+        "Charging": "15W wired, QC2",
+        "Stand-by": "Up to 381 h (3G)"
+      },
+      "Misc": {
+        "Colors": "Frosted white, Charcoal black, Bronze Gold, Blossom Pink",
+        "Models": "SM-N9100, SM-N9100",
+        "SAR": "0.33 W/kg (head) &nbsp; &nbsp; 1.09 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.20 W/kg (head) &nbsp; &nbsp; 0.27 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 300 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-note-4-duos-sm-n9100-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-note-4-duos-sm-n9100-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-note-4-duos-sm-n9100-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_note_4_duos-pictures-6749.php"
+    }
+  }
+}

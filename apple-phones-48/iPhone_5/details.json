@@ -1,0 +1,126 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Apple iPhone 5",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-5-front.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-5-ofic.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/apple_iphone_5-review-822.php",
+    "siblingDeviceSlugs": [
+      "apple_iphone_5s-5685",
+      "apple_iphone_5c-5690",
+      "apple_iphone_4s-4212",
+      "apple_iphone_4-3275",
+      "apple_iphone_6-6378",
+      "apple_iphone_18_pro_max_5g-14716",
+      "apple_iphone_17_pro_max-13964",
+      "apple_iphone_17-14050",
+      "apple_iphone_13-11103",
+      "apple_iphone_15-12559",
+      "apple_iphone_17_pro-14049"
+    ],
+    "release_date": "Released 2012, September  21",
+    "dimensions": "112g, 7.6mm thickness",
+    "os": "iOS 6, up to iOS 10.3.4",
+    "storage": "16GB/32GB/64GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / EVDO / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - GSM A1428",
+        "3G bands": "HSDPA 850 / 900 / 1700 / 1900 / 2100 - GSM A1428",
+        "4G bands": "4, 17 - GSM A1428",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat3 100/50 Mbps, EV-DO Rev.A 3.1 Mbps",
+        "Features": "CDMA 800 / 1900 / 2100 - CDMA A1429\nCDMA2000 1xEV-DO - CDMA A1429\nLTE 700 / 850 / 1800 / 1900 / 2100 - CDMA A1429\nLTE 850 / 1800 / 2100 - GSM A1429"
+      },
+      "Launch": {
+        "Announced": "2012, September 12. Released 2012, September  21",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "123.8 x 58.6 x 7.6 mm (4.87 x 2.31 x 0.30 in)",
+        "Weight": "112 g (3.95 oz)",
+        "Build": "Glass front (Corning-made glass), aluminum back, aluminum frame",
+        "SIM": "Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "4.0 inches, 44.1 cm<sup>2</sup> (~60.8% screen-to-body ratio)",
+        "Resolution": "640 x 1136 pixels, 16:9 ratio (~326 ppi density)",
+        "Protection": "Corning Gorilla Glass, oleophobic coating"
+      },
+      "Platform": {
+        "OS": "iOS 6, upgradable to iOS 10.3.4",
+        "Chipset": "Apple A6 (32 nm)",
+        "CPU": "Dual-core 1.3 GHz Swift (ARM v7-based)",
+        "GPU": "PowerVR SGX 543MP3 (triple-core graphics)"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "16GB 1GB RAM, 32GB 1GB RAM, 64GB 1GB RAM"
+      },
+      "Main Camera": {
+        "Single": "8 MP, f/2.4, 33mm (standard), 1/3.2\", 1.4µm, AF",
+        "Features": "LED flash, panorama, HDR",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "1.2 MP, f/2.4, 35mm (standard)",
+        "Features": "face detection, FaceTime over Wi-Fi or Cellular",
+        "Video": "720p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes",
+        "Features": "16-bit/44.1kHz audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, hotspot",
+        "Bluetooth": "4.0, A2DP, LE",
+        "Positioning": "GPS, A-GPS, GLONASS",
+        "Radio": "No",
+        "USB": "Lightning, USB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Po 1440 mAh, non-removable (5.45 Wh)",
+        "Stand-by": "Up to 225 h (3G)",
+        "Talk time": "Up to 8 h (3G)"
+      },
+      "Misc": {
+        "Colors": "Black/Slate, White/Silver",
+        "Models": "A1428, A1429, A1442, iPhone5,1, iPhone5,2",
+        "SAR": "1.18 W/kg (head) &nbsp; &nbsp; 1.18 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.95 W/kg (head) &nbsp; &nbsp; 0.90 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 340 EUR"
+      },
+      "Our Tests": {
+        "Performance": "Basemark X: 2229",
+        "Display": "<a class=\"noUnd\" href=\"apple_iphone_5-review-822p3.php\">Contrast ratio: 1320:1 (nominal) / 3.997:1 (sunlight)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=4910&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=4910&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"apple_iphone_5-review-822p5.php\">Voice 66dB / Noise 66dB / Ring 67dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"apple_iphone_5-review-822p6.php#aq\">Noise -91.3dB / Crosstalk -76.5dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 4910); \">Endurance rating 51h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-5-front.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-5-white.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-5-white-all-sides.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-5-black-all-sides.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-5-black.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-5-earpods.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-5-earpods-side.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/apple_iphone_5-pictures-4910.php"
+    }
+  }
+}

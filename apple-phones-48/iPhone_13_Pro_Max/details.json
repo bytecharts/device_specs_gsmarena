@@ -1,0 +1,118 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Apple iPhone 13 Pro Max",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-13-pro-max-01.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13-pro-max.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/apple_iphone_13_pro_max-review-2326.php",
+    "siblingDeviceSlugs": [
+      "apple_iphone_13_pro-11102",
+      "apple_iphone_13-11103"
+    ],
+    "release_date": "Released 2021, September 24",
+    "dimensions": "240g, 7.7mm thickness",
+    "os": "iOS 15, up to iOS 26.5",
+    "storage": "128GB/256GB/1TB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / EVDO / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 30, 32, 34, 38, 39, 40, 41, 42, 46, 48, 66 - A2643, A2644, A2645",
+        "5G bands": "1, 2, 3, 5, 7, 8, 12, 20, 25, 28, 30, 38, 40, 41, 48, 66, 77, 78, 79 SA/NSA/Sub6 - A2643, A2644",
+        "Speed": "HSPA, LTE, 5G, EV-DO Rev.A 3.1 Mbps",
+        "Features": "CDMA 800 / 1900\nCDMA2000 1xEV-DO\n1, 2, 3, 4, 5, 7, 8, 11, 12, 13, 14, 17, 18, 19, 20, 21, 25, 26, 28, 29, 30, 32, 34, 38, 39, 40, 41, 42, 46, 48, 66, 71 - A2484, A2641\n1, 2, 3, 5, 7, 8, 12, 20, 25, 28, 29, 30, 38, 40, 41, 48, 66, 71, 78, 79, 258, 260, 261 SA/NSA/Sub6/mmWave - A2484\n1, 2, 3, 5, 7, 8, 12, 20, 25, 28, 29, 30, 38, 40, 41, 48, 66, 71, 77, 78, 79 SA/NSA/Sub6 - A2641"
+      },
+      "Launch": {
+        "Announced": "2021, September 14",
+        "Status": "Available. Released 2021, September 24"
+      },
+      "Body": {
+        "Dimensions": "160.8 x 78.1 x 7.7 mm (6.33 x 3.07 x 0.30 in)",
+        "Weight": "240 g (8.47 oz)",
+        "Build": "Glass front, glass back, stainless steel frame",
+        "SIM": "· Nano-SIM + <a href=\"glossary.php3?term=esim\">eSIM</a>\n· Nano-SIM + Nano-SIM",
+        "Features": "IP68 dust tight and water resistant (immersible up to 6m for 30 min)\n\nApple Pay (Visa, MasterCard, AMEX certified)"
+      },
+      "Display": {
+        "Type": "Super Retina XDR OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (HBM), 1200 nits (peak)",
+        "Size": "6.7 inches, 109.8 cm<sup>2</sup> (~87.4% screen-to-body ratio)",
+        "Resolution": "1284 x 2778 pixels, 19.5:9 ratio (~458 ppi density)",
+        "Protection": "Ceramic Shield glass"
+      },
+      "Platform": {
+        "OS": "iOS 15, upgradable to iOS 26.5",
+        "Chipset": "Apple A15 Bionic (5 nm)",
+        "CPU": "Hexa-core (2x3.23 GHz Avalanche + 4x1.82 GHz Blizzard)",
+        "GPU": "Apple GPU (5-core graphics)"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 6GB RAM, 256GB 6GB RAM, 512GB 6GB RAM, 1TB 6GB RAM",
+        "Features": "NVMe"
+      },
+      "Main Camera": {
+        "Triple": "12 MP, f/1.5, 26mm (wide), 1/1.7\", 1.9µm, dual pixel PDAF, sensor-shift OIS\n\n12 MP, f/2.8, 77mm (telephoto), PDAF, 1/3.4\", 1.0µm, OIS, 3x optical zoom\n\n12 MP, f/1.8, 13mm, 120˚ (ultrawide), 1/3.4\", 1.0µm, PDAF\n\nTOF 3D LiDAR scanner (depth)",
+        "Features": "Dual-LED dual-tone flash, HDR (photo/panorama)",
+        "Video": "4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, 10-bit HDR, Dolby Vision HDR (up to 60fps), ProRes, stereo sound rec."
+      },
+      "Selfie camera": {
+        "Single": "12 MP, f/2.2, 23mm (wide), 1/3.6\", 1.0µm\n\nSL 3D, (depth/biometrics sensor)",
+        "Features": "HDR",
+        "Video": "4K@24/25/30/60fps, 1080p@25/30/60/120fps, gyro-EIS"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS, QZSS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "Lightning, USB 2.0"
+      },
+      "Features": {
+        "Sensors": "Face ID, accelerometer, gyro, proximity, compass, barometer",
+        "Features": "Ultra Wideband (UWB) support"
+      },
+      "Battery": {
+        "Type": "Li-Ion 4352 mAh (16.75 Wh)",
+        "Charging": "Wired, PD2.0, 50% in 30 min\n\n15W wireless (MagSafe)\n\n15W wireless (Qi2) - requires iOS 17.2 update"
+      },
+      "Misc": {
+        "Colors": "Graphite, Gold, Silver, Sierra Blue, Alpine Green",
+        "Models": "A2643, A2484, A2641, A2644, A2645, iphone14,3",
+        "SAR": "1.18 W/kg (head) &nbsp; &nbsp; 1.20 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.99 W/kg (head) &nbsp; &nbsp; 0.98 W/kg (body) &nbsp; &nbsp;",
+        "Price": "<a href=\"apple_iphone_13_pro_max-price-11089.php\">$ 450.09 / £ 324.95 / € 412.00</a>"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 801691 (v9)\n\nGeekBench: 4706 (v5.1)\n\nGFXBench: 60fps (ES 3.1 onscreen)",
+        "Display": "<a class=\"noUnd\" href=\"apple_iphone_13_pro_max-review-2326p3.php\">1050 nits max brightness (measured)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=11089&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=11089&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"apple_iphone_13_pro_max-review-2326p3.php#lt\">-24.0 LUFS (Very good)</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 11089); \">Endurance rating 121h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-13-pro-max-01.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-13-pro-max-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-13-pro-max-5.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-13-pro-max-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-13-pro-max-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-13-pro-max-4.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/apple_iphone_13_pro_max-pictures-11089.php"
+    }
+  }
+}

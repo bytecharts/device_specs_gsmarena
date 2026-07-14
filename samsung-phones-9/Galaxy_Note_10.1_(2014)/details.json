@@ -1,0 +1,110 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy Note 10.1 (2014)",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-note-101-2014-2.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-note-101-2014-new.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_galaxy_note_101_2014-review-1003.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2013, October",
+    "dimensions": "540g (WIFI)/ 535g (3G)/ 547g (LTE), 7.9mm thickness",
+    "os": "Android 4.3, up to 5.1.1, TouchWiz UI",
+    "storage": "16GB/32GB/64GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - all versions",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100 - all versions",
+        "4G bands": "1, 3, 5, 7, 8, 20 - SM-P605",
+        "Speed": "HSPA 42.2(LTE)/21.1(3G)/5.76 Mbps, LTE Cat4 150/50 Mbps - cellular model only"
+      },
+      "Launch": {
+        "Announced": "2013, September. Released 2013, October",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "243.1 x 171.4 x 7.9 mm (9.57 x 6.75 x 0.31 in)",
+        "Weight": "540g (WIFI)/ 535 g (3G)/ 547g (LTE) (1.18 lb)",
+        "SIM": "Micro-SIM - cellular model only",
+        "Features": "Stylus"
+      },
+      "Display": {
+        "Type": "Super clear LCD",
+        "Size": "10.1 inches, 295.8 cm<sup>2</sup> (~71.0% screen-to-body ratio)",
+        "Resolution": "2560 x 1600 pixels, 16:10 ratio (~299 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 4.3 (Jelly Bean), upgradable to 5.1.1 (Lollipop), TouchWiz UI",
+        "Chipset": "Qualcomm Snapdragon 800 (28 nm)",
+        "CPU": "Quad-core 2.3 GHz Krait 400 - LTE model\nOcta-core (4x1.9 GHz Cortex-A15 &amp; 4x1.3 GHz Cortex-A7) - 3G model",
+        "GPU": "Adreno 330 (LTE model)"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "16GB 3GB RAM, 32GB 3GB RAM, 64GB 3GB RAM",
+        "Features": "eMMC 4.5"
+      },
+      "Main Camera": {
+        "Single": "8 MP, AF",
+        "Features": "LED flash",
+        "Video": "1080p@60fps (LTE model)"
+      },
+      "Selfie camera": {
+        "Single": "2 MP",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+        "Bluetooth": "4.0, A2DP",
+        "Positioning": "GPS, GLONASS - cellular model only",
+        "NFC": "No",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "microUSB 2.0 (MHL TV-out), OTG"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Po 8220 mAh, non-removable",
+        "Stand-by": "Up to 2230 h",
+        "Talk time": "Up to 10 h (multimedia) (2G) / Up to 49 h (3G)",
+        "Music play": "Up to 98 h"
+      },
+      "Misc": {
+        "Colors": "Black, White",
+        "Models": "SM-P600, SM-P601, SM-P605",
+        "SAR": "1.59 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.64 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 370 EUR"
+      },
+      "Our Tests": {
+        "Display": "<a class=\"noUnd\" href=\"samsung_galaxy_note_101_2014-review-1003p2.php\">Contrast ratio: 821:1 (nominal)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=5677&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=5677&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"samsung_galaxy_note_101_2014-review-1003p7.php\">Voice 75dB / Noise 66dB / Ring 77dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"samsung_galaxy_note_101_2014-review-1003p7.php#aq\">Noise -95.5dB / Crosstalk -97.3dB</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-note-101-2014-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-note-101-2014-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-note-101-2014-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-note-101-2014-4.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-note-101-2014-5.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_note_10_1_(2014)-pictures-5677.php"
+    }
+  }
+}

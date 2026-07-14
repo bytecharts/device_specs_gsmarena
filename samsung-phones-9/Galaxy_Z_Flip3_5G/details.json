@@ -1,0 +1,110 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy Z Flip3 5G",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/galaxy-z-flip3-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-z-flip3-5g.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_galaxy_z_flip3_5g-review-2301.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2021, August 27",
+    "dimensions": "183g, 6.9mm thickness",
+    "os": "Android 11, up to Android 15, One UI 7",
+    "storage": "128GB/256GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / EVDO / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 78, 12, 13, 17, 18, 19, 20, 25, 26, 28, 32, 38, 39, 40, 41, 66 - International",
+        "5G bands": "1, 3, 5, 7, 8, 20, 28, 38, 40, 41, 77, 78, 66 SA/NSA/Sub6 - International",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE (6CA) Cat20 2000/200 Mbps, 5G",
+        "Features": "CDMA 800 / 1900\nHSDPA 850 / 900 / 1900 / 2100\nCDMA2000 1xEV-DO\n1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 18, 19, 20, 25, 26, 28, 30, 38, 39, 40, 41, 46, 48, 66, 71 - USA\n2, 5, 25, 41, 66, 71, 260, 261 SA/NSA/Sub6/mmWave - USA"
+      },
+      "Launch": {
+        "Announced": "2021, August 11",
+        "Status": "Available. Released 2021, August 27"
+      },
+      "Body": {
+        "Dimensions": "Unfolded: 166 x 72.2 x 6.9 mm\n Folded: 86.4 x 72.2 x 15.9-17.1 mm",
+        "Weight": "183 g (6.46 oz)",
+        "Build": "Plastic front, glass back (Gorilla Glass Victus), aluminum frame",
+        "SIM": "Nano-SIM + <a href=\"glossary.php3?term=esim\">eSIM</a>",
+        "Features": "IPX8 water resistant (up to 1.5m for 30 min)\n\nArmor aluminum frame"
+      },
+      "Display": {
+        "Type": "Foldable Dynamic AMOLED 2X, 120Hz, HDR10+, 1200 nits (peak)",
+        "Size": "6.7 inches, 101.5 cm<sup>2</sup> (~84.7% screen-to-body ratio)",
+        "Resolution": "1080 x 2640 pixels (~426 ppi density)",
+        "Features": "Cover display:\n\nSuper AMOLED, 1.9 inches, 260 x 512 pixels"
+      },
+      "Platform": {
+        "OS": "Android 11, upgradable to Android 15, One UI 7",
+        "Chipset": "Qualcomm SM8350 Snapdragon 888 5G (5 nm)",
+        "CPU": "Octa-core (1x2.84 GHz Cortex-X1 &amp; 3x2.42 GHz Cortex-A78 &amp; 4x1.80 GHz Cortex-A55)",
+        "GPU": "Adreno 660"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 8GB RAM, 256GB 8GB RAM",
+        "Features": "UFS 3.1"
+      },
+      "Main Camera": {
+        "Dual": "12 MP, f/1.8, 27mm (wide), 1/2.55\", 1.4µm, dual pixel PDAF, OIS\n\n12 MP, f/2.2, 123˚ (ultrawide), 1.12µm",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "4K@30/60fps, 1080p@60/240fps, HDR10+"
+      },
+      "Selfie camera": {
+        "Single": "10 MP, f/2.4, 26mm (wide), 1.22µm",
+        "Features": "HDR",
+        "Video": "4K@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No",
+        "Features": "High-bitrate audio support"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.1, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer"
+      },
+      "Battery": {
+        "Type": "Li-Po 3300 mAh",
+        "Charging": "15W wired\n\n10W wireless\n\n4.5W reverse wireless"
+      },
+      "Misc": {
+        "Colors": "Phantom Black, Green, Lavender, Cream, White, Pink, Gray, Thom Browne Edition, Bespoke Edition, Wooyoungmi Edition, Dream White",
+        "Models": "SM-F711B, SM-F711N, SM-F711U, SM-F711U1, SM-F711W, SM-F7110",
+        "SAR EU": "0.86 W/kg (head) &nbsp; &nbsp; 1.58 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 250 EUR"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 596866 (v8) | 682223 (v9)\n\nGeekBench: 3441 (v5.1)\n\nGFXBench: 40fps (ES 3.1 onscreen)",
+        "Display": "<a class=\"noUnd\" href=\"samsung_galaxy_z_flip3_5g-review-2301p3.php\">935 nits max brightness (measured)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=11044&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=11044&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"samsung_galaxy_z_flip3_5g-review-2301p3.php#lt\">-25.8 LUFS (Very good)</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 11044); \">Endurance rating 69h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/galaxy-z-flip3-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/galaxy-z-flip3-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_z_flip3_5g-pictures-11044.php"
+    }
+  }
+}

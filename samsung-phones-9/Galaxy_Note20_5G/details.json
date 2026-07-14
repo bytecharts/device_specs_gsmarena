@@ -1,0 +1,110 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy Note20 5G",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-note20-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-note20-5g-r.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "samsung_galaxy_note20-10338",
+      "samsung_galaxy_note20_ultra_5g-10261"
+    ],
+    "release_date": "Released 2020, August 21",
+    "dimensions": "192g (Sub6 5G), 194g (mmWave 5G), 8.3mm thickness",
+    "os": "Android 10, up to Android 13, One UI 5",
+    "storage": "128GB/256GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / EVDO / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 18, 19, 20, 25, 26, 28, 29, 30, 38, 39, 40, 41, 46, 48, 66, 71 - SM-N981U",
+        "5G bands": "2, 5, 41, 66, 71, 260, 261 SA/NSA/Sub6/mmWave - SM-N981U",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE (7CA) Cat20 2000/200 Mbps, 5G",
+        "Features": "CDMA 800 / 1900\nCDMA2000 1xEV-DO\n1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 32, 38, 39, 40, 41, 66 - SM-N981B\n2, 3, 4, 5, 7, 8, 12, 13, 18, 19, 20, 25, 29, 30, 38, 39, 40, 41, 46, 66, 71 - SM-N981W\n1, 3, 5, 7, 8, 28, 40, 77, 78 SA/NSA/Sub6 - SM-N981B\n41, 66, 71 Sub6 - SM-N981W"
+      },
+      "Launch": {
+        "Announced": "2020, August 05",
+        "Status": "Available. Released 2020, August 21"
+      },
+      "Body": {
+        "Dimensions": "161.6 x 75.2 x 8.3 mm (6.36 x 2.96 x 0.33 in)",
+        "Weight": "192 g (Sub6 5G), 194 g (mmWave 5G) (6.77 oz)",
+        "Build": "Glass front (Gorilla Glass 5), plastic back",
+        "SIM": "· Nano-SIM + <a href=\"glossary.php3?term=esim\">eSIM</a>\n· Nano-SIM + Nano-SIM",
+        "Features": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)\n\nStylus, 26ms latency (Bluetooth integration, accelerometer, gyro)"
+      },
+      "Display": {
+        "Type": "Super AMOLED Plus, HDR10+",
+        "Size": "6.7 inches, 108.4 cm<sup>2</sup> (~89.2% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~393 ppi density)",
+        "Protection": "Corning Gorilla Glass 5"
+      },
+      "Platform": {
+        "OS": "Android 10, upgradable to Android 13, One UI 5",
+        "Chipset": "Exynos 990 (7 nm+) - Global\nQualcomm SM8250 Snapdragon 865 5G+ (7 nm+) - USA",
+        "CPU": "Octa-core (2x2.73 GHz Mongoose M5 &amp; 2x2.50 GHz Cortex-A76 &amp; 4x2.0 GHz Cortex-A55) - Global\nOcta-core (1x3.0 GHz Kryo 585 &amp; 3x2.42 GHz Cortex-A77 &amp; 4x1.80 GHz Cortex-A55) - USA",
+        "GPU": "Mali-G77 MP11 - Global\nAdreno 650 - USA"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 8GB RAM, 256GB 8GB RAM",
+        "Features": "UFS 3.0"
+      },
+      "Main Camera": {
+        "Triple": "12 MP, f/1.8, 26mm (wide), 1/1.76\", 1.8µm, dual pixel PDAF, OIS\n\n64 MP, f/2.0, 27mm (telephoto), 1/1.72\", 0.8µm, PDAF, OIS, 3x hybrid zoom\n\n12 MP, f/2.2, 120˚, 13mm (ultrawide), 1/2.55\", 1.4µm",
+        "Features": "LED flash, auto-HDR, panorama",
+        "Video": "8K@24fps, 4K@30/60fps, 1080p@30/60/240fps, 720p@960fps, HDR10+, stereo sound rec., gyro-EIS &amp; OIS"
+      },
+      "Selfie camera": {
+        "Single": "10 MP, f/2.2, 26mm (wide), 1/3.2\", 1.22µm, dual pixel PDAF",
+        "Features": "HDR",
+        "Video": "4K@30/60fps, 1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No",
+        "Features": "High-bitrate audio support\n\nTuned by AKG"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.0, A2DP, LE, aptX",
+        "Positioning": "GPS, GLONASS, BDS, GALILEO",
+        "NFC": "Yes",
+        "Radio": "FM radio (Snapdragon model only; market/operator dependent)",
+        "USB": "USB Type-C 3.2, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer",
+        "Features": "Samsung Wireless DeX (desktop experience support)\n\nANT+"
+      },
+      "Battery": {
+        "Type": "Li-Ion 4300 mAh",
+        "Charging": "25W wired, PD3.0\n\n15W wireless (Qi)\n\n4.5W reverse wireless"
+      },
+      "Misc": {
+        "Colors": "Mystic Green, Mystic Bronze, Mystic Gray, Mystic Red, Mystic Blue",
+        "Models": "SM-N981B, SM-N981B/DS, SM-N981U, SM-N981U1, SM-N981W, SM-N9810, SM-N981N",
+        "SAR": "0.95 W/kg (head) &nbsp; &nbsp; 0.72 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.68 W/kg (head) &nbsp; &nbsp; 1.37 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 430 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-note20-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-note20-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-note20-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-note20-mystic-red.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-note20-mystic-blue.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_note20_5g-pictures-10325.php"
+    }
+  }
+}

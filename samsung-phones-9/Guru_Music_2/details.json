@@ -1,0 +1,87 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Guru Music 2",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/guru-music-2-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-guru-music-2.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2014, June",
+    "dimensions": "75g, 13.1mm thickness",
+    "os": "Feature phone",
+    "storage": "microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 - SIM 1 &amp; SIM 2",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2014, May. Released 2014, June",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "112.7 x 46.4 x 13.1 mm (4.44 x 1.83 x 0.52 in)",
+        "Weight": "75 g (2.65 oz)",
+        "SIM": "Dual SIM, (Mini-SIM, dual stand-by)"
+      },
+      "Display": {
+        "Type": "TFT, 65K colors",
+        "Size": "2.0 inches, 12.6 cm<sup>2</sup> (~24.1% screen-to-body ratio)",
+        "Resolution": "128 x 160 pixels (~102 ppi density)"
+      },
+      "Platform": {
+        "CPU": "208 MHz"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Phonebook": "Yes",
+        "Call records": "Yes"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "NFC": "No",
+        "Radio": "Stereo FM radio, RDS, recording",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS",
+        "Games": "Yes",
+        "Java": ""
+      },
+      "Battery": {
+        "Type": "Li-Ion 800 mAh, removable",
+        "Talk time": "Up to 11 h (3G)"
+      },
+      "Misc": {
+        "Colors": "White",
+        "Models": "SM-B310E",
+        "SAR EU": "0.87 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 20 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/guru-music-2-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_guru_music_2-pictures-6651.php"
+    }
+  }
+}

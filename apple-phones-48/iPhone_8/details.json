@@ -1,0 +1,124 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Apple iPhone 8",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-8-new-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-8-new.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/apple_iphone_8-review-1664.php",
+    "siblingDeviceSlugs": [
+      "apple_iphone_7-8064",
+      "apple_iphone_8_plus-8131",
+      "apple_iphone_x-8858",
+      "apple_iphone_xr-9320",
+      "apple_iphone_18_pro_max_5g-14716",
+      "apple_iphone_17_pro_max-13964",
+      "apple_iphone_17-14050",
+      "apple_iphone_13-11103",
+      "apple_iphone_15-12559",
+      "apple_iphone_17_pro-14049"
+    ],
+    "release_date": "Released 2017, September 22",
+    "dimensions": "148g, 7.3mm thickness",
+    "os": "iOS 11, up to iOS 16.7.12",
+    "storage": "64GB/128GB/256GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 29, 30, 34, 38, 39, 40, 41, 66",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE (3CA) Cat12 600/150 Mbps, EV-DO Rev.A 3.1 Mbps"
+      },
+      "Launch": {
+        "Announced": "2017, September 12. Released 2017, September 22",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "138.4 x 67.3 x 7.3 mm (5.45 x 2.65 x 0.29 in)",
+        "Weight": "148 g (5.22 oz)",
+        "Build": "Glass front (Corning-made glass), glass back (Corning-made glass), aluminum frame",
+        "SIM": "Nano-SIM",
+        "Features": "IP67 dust/water resistant (up to 1m for 30 min)\n\nApple Pay (Visa, MasterCard, AMEX certified)"
+      },
+      "Display": {
+        "Type": "Retina IPS LCD, 625 nits (typ)",
+        "Size": "4.7 inches, 60.9 cm<sup>2</sup> (~65.4% screen-to-body ratio)",
+        "Resolution": "750 x 1334 pixels, 16:9 ratio (~326 ppi density)",
+        "Protection": "Ion-strengthened glass",
+        "Features": "3D Touch display &amp; home button"
+      },
+      "Platform": {
+        "OS": "iOS 11, up to iOS 16.7.12",
+        "Chipset": "Apple A11 Bionic (10 nm)",
+        "CPU": "Hexa-core (2x Monsoon + 4x Mistral)",
+        "GPU": "Apple GPU (three-core graphics)"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "64GB 2GB RAM, 128GB 2GB RAM, 256GB 2GB RAM",
+        "Features": "NVMe"
+      },
+      "Main Camera": {
+        "Single": "12 MP, f/1.8, 28mm (wide), PDAF, OIS",
+        "Features": "Quad-LED dual-tone flash, HDR",
+        "Video": "4K@24/30/60fps, 1080p@30/60/120/240fps"
+      },
+      "Selfie camera": {
+        "Single": "7 MP, f/2.2",
+        "Features": "Face detection, HDR, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, hotspot",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, QZSS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "Lightning, USB 2.0"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (front-mounted), accelerometer, gyro, proximity, compass, barometer"
+      },
+      "Battery": {
+        "Type": "Li-Ion 1821 mAh, non-removable (6.96 Wh)",
+        "Charging": "15W wired, PD2.0, 50% in 30 min\n\nWireless (Qi)",
+        "Talk time": "Up to 14 h (3G)"
+      },
+      "Misc": {
+        "Colors": "Silver, Space Gray, Gold, Red",
+        "Models": "A1863, A1905, A1906, A1907, iPhone10,1, iPhone10,4",
+        "SAR": "1.32 W/kg (head) &nbsp; &nbsp; 1.36 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "1.19 W/kg (head) &nbsp; &nbsp; 1.17 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 210 EUR"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 237594 (v7)\n\nGeekBench: 10214 (v4.4)\n\nGFXBench: 20fps (ES 3.1 onscreen)",
+        "Display": "<a class=\"noUnd\" href=\"apple_iphone_8-review-1664p3.php#dt\">Contrast ratio: 1395:1 (nominal), 3.957 (sunlight)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=8573&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=8573&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"apple_iphone_8-review-1664p6.php#lt\">Voice 71dB / Noise 77dB / Ring 80dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"apple_iphone_8-review-1664p7.php#aq\">Noise -93.5dB / Crosstalk -80.4dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 8573); \">Endurance rating 66h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-8-new-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-8-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-8-5.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-8-4.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/apple_iphone_8-pictures-8573.php"
+    }
+  }
+}

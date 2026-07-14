@@ -1,0 +1,105 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy A06",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a06-11.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a06-1.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_galaxy_a06-review-2743.php",
+    "siblingDeviceSlugs": [
+      "samsung_galaxy_a06_5g-13662"
+    ],
+    "release_date": "Released 2024, August 22",
+    "dimensions": "189g, 8mm thickness",
+    "os": "Android 14, up to 2 major upgrades, One UI 8",
+    "storage": "64GB/128GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "1, 3, 5, 7, 8, 20, 28, 38, 40, 41",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2024, August 16",
+        "Status": "Available. Released 2024, August 22"
+      },
+      "Body": {
+        "Dimensions": "167.3 x 77.3 x 8 mm (6.59 x 3.04 x 0.31 in)",
+        "Weight": "189 g (6.67 oz)",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "· Nano-SIM\n· Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "PLS LCD",
+        "Size": "6.7 inches, 108.4 cm<sup>2</sup> (~83.8% screen-to-body ratio)",
+        "Resolution": "720 x 1600 pixels, 20:9 ratio (~262 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 14, up to 2 major Android upgrades, One UI 8",
+        "Chipset": "Mediatek Helio G85 (12 nm)",
+        "CPU": "Octa-core (2x2.0 GHz Cortex-A75 &amp; 6x1.8 GHz Cortex-A55)",
+        "GPU": "Mali-G52 MC2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "64GB 4GB RAM, 128GB 4GB RAM, 128GB 6GB RAM",
+        "Features": "eMMC 5.1"
+      },
+      "Main Camera": {
+        "Dual": "50 MP, f/1.8, (wide), 1/2.76\", 0.64µm, PDAF\n\nAuxiliary lens",
+        "Features": "LED flash",
+        "Video": "1080p@30/60fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, f/2.0, (wide), 1/4.0\", 1.12µm",
+        "Video": "Yes"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.3, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, proximity"
+      },
+      "Battery": {
+        "Type": "Li-Po 5000 mAh",
+        "Charging": "25W wired"
+      },
+      "Misc": {
+        "Colors": "Blue, Gold, White",
+        "Models": "SM-A065F, SM-A065F/DS, SM-A065M, SM-A065M/DS",
+        "SAR EU": "0.44 W/kg (head) &nbsp; &nbsp; 1.08 W/kg (body) &nbsp; &nbsp;",
+        "Price": "<a href=\"samsung_galaxy_a06-price-13265.php\">₹ 10,728 / $ 98.49 / £ 80.00</a>"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 182064 (v9), 247675 (v10)\n\n\n\nGeekBench: 1273 (v5), 1276 (v6)\n\n3DMark: 188 (Wild Life Extreme)",
+        "Display": "<a class=\"noUnd\" href=\"samsung_galaxy_a06-review-2743p3.php#dt\">1484:1 contrast ratio, 564 nits max brightness (measured)</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"samsung_galaxy_a06-review-2743p3.php#lt\">-27.7 LUFS (Good)</a>",
+        "Battery": "<div style=\"position:relative;\">\n<a href=\"samsung_galaxy_a06-review-2743p3.php#bt\" data-battery2=\"39:08_12:20_13:32_9:40\" onclick=\"showBatteryPopup(event, 13265); \" class=\"v2\">Active use score 13:50h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a06-11.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a06-12.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_a06-pictures-13265.php"
+    }
+  }
+}

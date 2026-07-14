@@ -1,0 +1,96 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy Tab A7 10.4 (2020)",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-tab-a7-104-2020-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-tab-a7-104-2020.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2020, September 11",
+    "dimensions": "476g (Wi-Fi), 477g (LTE), 7mm thickness",
+    "os": "Android 10, up to Android 12, One UI 4",
+    "storage": "32GB/64GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 20, 28, 38, 39, 40, 41, 66",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE (2CA) Cat13 400/50 Mbps - cellular model only"
+      },
+      "Launch": {
+        "Announced": "2020, September 02. Released 2020, September 11",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "247.6 x 157.4 x 7 mm (9.75 x 6.20 x 0.28 in)",
+        "Weight": "476 g (Wi-Fi), 477 g (LTE) (1.05 lb)",
+        "SIM": "Nano-SIM (cellular model only)"
+      },
+      "Display": {
+        "Type": "TFT LCD",
+        "Size": "10.4 inches, 307.9 cm<sup>2</sup> (~79.0% screen-to-body ratio)",
+        "Resolution": "1200 x 2000 pixels, 5:3 ratio (~224 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 10, upgradable to Android 12, One UI 4",
+        "Chipset": "Qualcomm SM6115 Snapdragon 662 (11 nm)",
+        "CPU": "Octa-core (4x2.0 GHz Kryo 260 Gold &amp; 4x1.8 GHz Kryo 260 Silver)",
+        "GPU": "Adreno 610"
+      },
+      "Memory": {
+        "Card slot": "microSDXC",
+        "Internal": "32GB 3GB RAM, 32GB 4GB RAM, 64GB 3GB RAM, 64GB 4GB RAM",
+        "Features": "eMMC 5.1"
+      },
+      "Main Camera": {
+        "Single": "8 MP, AF",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "5 MP",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers (4 speakers)",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS, GLONASS, BDS, GALILEO - cellular model only",
+        "NFC": "No",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Po 7040 mAh",
+        "Charging": "15W wired"
+      },
+      "Misc": {
+        "Colors": "Dark Gray, Silver, Gold",
+        "Models": "SM-T500, SM-T505, SM-T505N",
+        "SAR EU": "1.01 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 240 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-tab-a7-104-2020-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-tab-a7-104-2020-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-tab-a7-104-2020-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-tab-a7-104-2020-4.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_tab_a7_10_4_(2020)-pictures-10411.php"
+    }
+  }
+}

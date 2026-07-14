@@ -1,0 +1,109 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy A40",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a40-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a40.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_galaxy_a40-review-1924.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2019, April",
+    "dimensions": "140g, 7.9mm thickness",
+    "os": "Android 9.0, up to Android 11",
+    "storage": "64GB/128GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4G bands": "1, 3, 5, 7, 8, 20, 38, 40, 41",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE (2CA) Cat12 600/150 Mbps"
+      },
+      "Launch": {
+        "Announced": "2019, March 19. Released 2019, April",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "144.4 x 69.2 x 7.9 mm (5.69 x 2.72 x 0.31 in)",
+        "Weight": "140 g (4.94 oz)",
+        "Build": "Glass front (Gorilla Glass 3), plastic back, plastic frame",
+        "SIM": "· Nano-SIM\n· Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "Super AMOLED",
+        "Size": "5.9 inches, 85.5 cm<sup>2</sup> (~85.5% screen-to-body ratio)",
+        "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~437 ppi density)",
+        "Protection": "Corning Gorilla Glass 3"
+      },
+      "Platform": {
+        "OS": "Android 9.0 (Pie), upgradable to Android 11",
+        "Chipset": "Exynos 7904 (14 nm)",
+        "CPU": "Octa-core (2x1.77 GHz Cortex-A73 &amp; 6x1.59 GHz Cortex-A53)",
+        "GPU": "Mali-G71 MP2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "64GB 4GB RAM, 128GB 4GB RAM",
+        "Features": "eMMC 5.1"
+      },
+      "Main Camera": {
+        "Dual": "16 MP, f/1.7, 26mm (wide), PDAF\n\n5 MP, f/2.2, 13mm (ultrawide)",
+        "Features": "LED flash, panorama, HDR",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "25 MP, f/2.0, 25mm (wide), 1/2.8\", 0.9µm",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS",
+        "NFC": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",
+        "Features": "ANT+"
+      },
+      "Battery": {
+        "Type": "Li-Po 3100 mAh, non-removable",
+        "Charging": "15W wired"
+      },
+      "Misc": {
+        "Colors": "Black, White, Blue, Coral",
+        "Models": "SM-A405F, SM-A405FN, SM-A405FM, SM-A405S",
+        "SAR EU": "0.49 W/kg (head) &nbsp; &nbsp; 1.34 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 260 EUR"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 106388 (v7)\n\nGeekBench: 4112 (v4.4)\n\nGFXBench: 4.6fps (ES 3.1 onscreen)",
+        "Display": "<a class=\"noUnd\" href=\"samsung_galaxy_a40-review-1924p3.php#dt\">548 nits max brightness (measured)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=9642&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=9642&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"samsung_galaxy_a40-review-1924p3.php#lt\">Voice 66dB / Noise 68dB / Ring 73dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"samsung_galaxy_a40-review-1924p3.php#aq\">Noise -91.0dB / Crosstalk -85.9dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 9642); \">Endurance rating 73h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a40-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a40-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a40-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a40-4.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_a40-pictures-9642.php"
+    }
+  }
+}

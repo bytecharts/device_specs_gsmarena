@@ -1,0 +1,110 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy A54",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a54-5.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a54.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_galaxy_a54-review-2546.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2023, March 24",
+    "dimensions": "202g, 8.2mm thickness",
+    "os": "Android 13, up to 4 major upgrades",
+    "storage": "128GB/256GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 20, 26, 28, 32, 38, 40, 41, 66 - International",
+        "5G bands": "1, 3, 7, 8, 20, 28, 38, 40, 41, 77, 78 SA/NSA/Sub6 - International",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "1, 2, 3, 4, 5, 7, 12, 13, 14, 20, 25, 26, 29, 30, 38, 39, 40, 41, 46, 48, 66, 71 - USA\n25, 41, 66, 71 SA/NSA/Sub6/mmWave - USA"
+      },
+      "Launch": {
+        "Announced": "2023, March 15",
+        "Status": "Available. Released 2023, March 24"
+      },
+      "Body": {
+        "Dimensions": "158.2 x 76.7 x 8.2 mm (6.23 x 3.02 x 0.32 in)",
+        "Weight": "202 g (7.13 oz)",
+        "Build": "Glass front (Gorilla Glass 5), glass back (Gorilla Glass 5), plastic frame",
+        "SIM": "· Nano-SIM + <a href=\"glossary.php3?term=esim\">eSIM</a>\n· Nano-SIM + Nano-SIM",
+        "Features": "IP67 dust/water resistant (up to 1m for 30 min)"
+      },
+      "Display": {
+        "Type": "Super AMOLED, 120Hz, HDR10+, 1000 nits (HBM)",
+        "Size": "6.4 inches, 100.5 cm<sup>2</sup> (~82.9% screen-to-body ratio)",
+        "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~403 ppi density)",
+        "Protection": "Corning Gorilla Glass 5"
+      },
+      "Platform": {
+        "OS": "Android 13, up to 4 major Android upgrades, One UI 8.5",
+        "Chipset": "Exynos 1380 (5 nm)",
+        "CPU": "Octa-core (4x2.4 GHz Cortex-A78 &amp; 4x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G68 MP5"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (uses shared SIM slot)",
+        "Internal": "128GB 4GB RAM, 128GB 6GB RAM, 128GB 8GB RAM, 256GB 6GB RAM, 256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, f/1.8, 23mm (wide), 1/1.56\", 1.0µm, PDAF, OIS\n\n12 MP, f/2.2, 13mm, 123˚ (ultrawide), 1/3.X\", 1.12µm\n\n5 MP (macro)",
+        "Features": "LED flash, panorama, HDR",
+        "Video": "4K@30fps, 1080p@30/60fps, 720p@480fps, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.2, 26mm (wide), 1/2.8\", 0.8µm",
+        "Video": "4K@30fps, 1080p@30/60fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.3, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS",
+        "NFC": "Yes (market/region dependent)",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, compass, barometer (USA only)",
+        "Features": "Virtual proximity sensing"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "25W wired"
+      },
+      "Misc": {
+        "Colors": "Lime, Graphite, Violet, White",
+        "Models": "SM-A546V, SM-A546U, SM-A546U1, SM-A546B, SM-A546B/DS, SM-A546E, SM-A546E/DS, SM-A5460, SM-A546M, SM-A546M/DS, SM-A546W",
+        "SAR": "0.81 W/kg (head) &nbsp; &nbsp; 0.67 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.69 W/kg (head) &nbsp; &nbsp; 1.34 W/kg (body) &nbsp; &nbsp;",
+        "Price": "<a href=\"samsung_galaxy_a54-price-12070.php\">₹ 38,999 / $ 176.99 / £ 157.97 / € 218.57</a>"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 506678 (v9)\n\nGeekBench: 2703 (v5.1), 2797 (v6)\n\nGFXBench: 25fps (ES 3.1 onscreen)",
+        "Display": "<a class=\"noUnd\" href=\"samsung_galaxy_a54-review-2546p3.php#dt\">980 nits max brightness (measured)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=12070&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=12070&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"samsung_galaxy_a54-review-2546p3.php#lt\">-26.6 LUFS (Good)</a>",
+        "Battery": "<div style=\"position:relative;\">\n<a href=\"samsung_galaxy_a54-review-2546p3.php#bl\" data-battery2=\"26:34_9:05_13:23_7:42\" onclick=\"showBatteryPopup(event, 12070); \" class=\"v2\">Active use score 11:15h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 12070); \">Endurance rating 119h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a54-5.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a54-6.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_a54-pictures-12070.php"
+    }
+  }
+}

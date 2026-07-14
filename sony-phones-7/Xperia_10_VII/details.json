@@ -1,0 +1,114 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Sony Xperia 10 VII",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/sony/sony-xperia-10-vii-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/sony-xperia-10-vii-.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/sony_xperia_10_vii-review-2879.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2025, September 19",
+    "dimensions": "168g, 8.3mm thickness",
+    "os": "Android 15, up to 16",
+    "storage": "128GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 2100",
+        "4G bands": "1, 3, 4, 5, 7, 8, 20, 28, 38, 39, 40, 41",
+        "5G bands": "1, 3, 5, 7, 8, 20, 28, 38, 40, 41, 77, 78, 79 SA/NSA/Sub6",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2025, September 12",
+        "Status": "Available. Released 2025, September 19"
+      },
+      "Body": {
+        "Dimensions": "153 x 72 x 8.3 mm (6.02 x 2.83 x 0.33 in)",
+        "Weight": "168 g (5.93 oz)",
+        "Build": "Glass front (Gorilla Glass Victus 2), plastic frame, plastic back",
+        "SIM": "· Nano-SIM + <a href=\"glossary.php3?term=esim\">eSIM</a>\n· Nano-SIM + Nano-SIM",
+        "Features": "IP65/IP68 dust tight and water resistant (low pressure water jets; immersible up to 1.5m for 30 min)"
+      },
+      "Display": {
+        "Type": "OLED, 1B colors, 120Hz, HDR",
+        "Size": "6.1 inches, 91.3 cm<sup>2</sup> (~82.9% screen-to-body ratio)",
+        "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~422 ppi density)",
+        "Protection": "Corning Gorilla Glass Victus 2, Mohs level 5",
+        "Features": "Triluminos display"
+      },
+      "Platform": {
+        "OS": "Android 15, upgradable to Android 16, up to 4 major Android upgrades",
+        "Chipset": "Qualcomm SM6475-AB Snapdragon 6 Gen 3 (4 nm)",
+        "CPU": "Octa-core (4x2.4 GHz Cortex-A78 &amp; 4x1.8 GHz Cortex-A55)",
+        "GPU": "Adreno 710"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (uses shared SIM slot)",
+        "Internal": "128GB 8GB RAM",
+        "Features": "UFS"
+      },
+      "Main Camera": {
+        "Dual": "50 MP, f/1.9, 24mm (wide), 1/1.56\", PDAF, OIS\n\n13 MP, f/2.4, 16mm, 123˚ (ultrawide), 1/3.0\"",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@30/60/120fps, gyro-EIS, OIS"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, f/2.0, 26mm (wide), 1/4.0\", 1.12µm",
+        "Features": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes",
+        "Features": "Hi-Res &amp; Hi-Res wireless audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e, tri-band",
+        "Bluetooth": "5.4, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS, QZSS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "Wired, PD, QC"
+      },
+      "Misc": {
+        "Colors": "White, Turquoise, Charcoal",
+        "Models": "XQ-FE54, XQZ-CBFE, xqfe54eukcl.gc, xqfe54eukcw.gc, xqfe54eukcb.gc",
+        "Price": "<a href=\"sony_xperia_10_vii_5g-price-14137.php\">€ 449.00</a>"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 600667 (v10)\n\nGeekBench: 2943 (v6)\n\n3DMark: 865 (Wild Life Extreme)",
+        "Display": "<a class=\"noUnd\" href=\"sony_xperia_10_vii-review-2879p3.php#dt\">1064 nits max brightness (measured)</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"sony_xperia_10_vii-review-2879p3.php#lt\">-26.9 LUFS (Good)</a>",
+        "Battery": "<div style=\"position:relative;\">\n<a href=\"sony_xperia_10_vii-review-2879p3.php#bt\" data-battery2=\"34:57_13:51_17:04_6:12\" onclick=\"showBatteryPopup(event, 14137); \" class=\"v2\">Active use score 12:57h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      },
+      "EU LABEL": {
+        "Energy": "Class B",
+        "Battery": "48:10h endurance, 1400 cycles",
+        "Free fall": "Class C (90 falls)",
+        "Repairability": "Class D"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/sony/sony-xperia-10-vii-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/sony/sony-xperia-10-vii-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/sony_xperia_10_vii_5g-pictures-14137.php"
+    }
+  }
+}

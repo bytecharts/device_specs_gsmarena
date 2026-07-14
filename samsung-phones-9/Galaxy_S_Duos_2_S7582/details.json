@@ -1,0 +1,95 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy S Duos 2 S7582",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/Samsung-Galaxy-S-Duos-2-GT-S7582.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/Samsung-Galaxy-S-Duos-2-GT-S7582.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2013, December",
+    "dimensions": "118g, 10.6mm thickness",
+    "os": "Android 4.2.2",
+    "storage": "4GB 768MB RAM storage, microSDXC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 &amp; SIM 2",
+        "3G bands": "HSDPA 900 / 2100 - S7580, S7582",
+        "Speed": "HSPA 21.1/5.76 Mbps",
+        "Features": "GSM 850 / 900 / 1800 / 1900 - S7580"
+      },
+      "Launch": {
+        "Announced": "2013, November. Released 2013, December",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "121.5 x 63.1 x 10.6 mm (4.78 x 2.48 x 0.42 in)",
+        "Weight": "118 g (4.16 oz)",
+        "SIM": "Dual SIM (Mini-SIM, dual stand-by)"
+      },
+      "Display": {
+        "Type": "TFT",
+        "Size": "4.0 inches, 45.5 cm<sup>2</sup> (~59.4% screen-to-body ratio)",
+        "Resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 4.2.2 (Jelly Bean)",
+        "Chipset": "BCM 28145/28155",
+        "CPU": "Dual-core 1.2 GHz Cortex-A9",
+        "GPU": "Broadcom VideoCore IV"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "4GB 768MB RAM"
+      },
+      "Main Camera": {
+        "Single": "5 MP, AF",
+        "Features": "LED flash",
+        "Video": "720p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "VGA",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, DLNA, hotspot",
+        "Bluetooth": "4.0, A2DP",
+        "Positioning": "GPS, GLONASS",
+        "NFC": "No",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Ion 1500 mAh, removable",
+        "Stand-by": "Up to 280 h (3G)",
+        "Talk time": "Up to 8 h (3G)"
+      },
+      "Misc": {
+        "Colors": "White, Black",
+        "Models": "GT-S7582, GT-S7580, GT-S7583T, GT-S7582L",
+        "SAR": "0.74 W/kg (head) &nbsp; &nbsp; 1.02 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.59 W/kg (head) &nbsp; &nbsp; 0.42 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 130 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/Samsung-Galaxy-S-Duos-2-GT-S7582.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_s_duos_2_s7582-pictures-5876.php"
+    }
+  }
+}

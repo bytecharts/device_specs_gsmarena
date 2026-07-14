@@ -1,0 +1,90 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Apple Watch Series 1 Aluminum 38mm",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/apple/apple-watch1-sport-38mm.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/apple-watch2-s2-sport-38mm.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2016, December",
+    "dimensions": "25g body, 10.5mm thickness",
+    "os": "watchOS 3.0, up to watchOS 6.2.8",
+    "storage": "8GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">No cellular connectivity</a>",
+        "2G bands": "N/A",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2016, September. Released 2016, December",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "38.6 x 33.3 x 10.5 mm (1.52 x 1.31 x 0.41 in)",
+        "Weight": "25 g body (0.88 oz)",
+        "Build": "Glass front, composite plastic back, aluminum frame",
+        "SIM": "No",
+        "Features": "IPX7 water resistant up to 1 meter and 30 minutes"
+      },
+      "Display": {
+        "Type": "Retina OLED, 450 nits (peak)",
+        "Size": "1.5 inches",
+        "Resolution": "340 x 272 pixels (~290 ppi density)",
+        "Protection": "Ion-X strengthened glass",
+        "Features": "3D Touch display"
+      },
+      "Platform": {
+        "OS": "watchOS 3.0, upgradable to watchOS 6.2.8",
+        "Chipset": "Apple S1P (28 nm)",
+        "CPU": "Dual-core 520 MHz Cortex-A7",
+        "GPU": "PowerVR G6200"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "8GB 512MB RAM"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n",
+        "Bluetooth": "4.0, LE",
+        "Positioning": "No",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, heart rate",
+        "Features": "Natural language commands and dictation"
+      },
+      "Battery": {
+        "Type": "Li-Ion 205 mAh (0.78 Wh), non-removable",
+        "Charging": "Wireless"
+      },
+      "Misc": {
+        "Colors": "Case colors: silver, gold, rose gold, gray\n Band colors: gray, white, black, pink\n Band types: sport",
+        "Models": "A1802",
+        "Price": "About 270 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-watch1-sport-38mm.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/apple_watch_series_1_aluminum_38mm-pictures-8333.php"
+    }
+  }
+}

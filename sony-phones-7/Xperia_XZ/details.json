@@ -1,0 +1,117 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Sony Xperia XZ",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/sony/sony-xperia-xz.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/sony-xperia-xz.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/sony_xperia_xz-review-1500.php",
+    "siblingDeviceSlugs": [
+      "sony_xperia_xzs-8599",
+      "sony_xperia_xz_premium-8593",
+      "sony_xperia_xz1-8804"
+    ],
+    "release_date": "Released 2016, October 03",
+    "dimensions": "161g, 8.1mm thickness",
+    "os": "Android 6.0.1, up to Android 8.0",
+    "storage": "32GB/64GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 &amp; SIM 2 (dual-SIM model only)",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100 - F8331, F8332",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 19, 20, 26, 28, 29, 32, 38, 39, 40, 41 - F8331, F8332",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE (3CA) Cat9 450/50 Mbps"
+      },
+      "Launch": {
+        "Announced": "2016, September 01. Released 2016, October 03",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "146 x 72 x 8.1 mm (5.75 x 2.83 x 0.32 in)",
+        "Weight": "161 g (5.68 oz)",
+        "Build": "Glass front (Gorilla Glass 4), aluminum back, aluminum frame",
+        "SIM": "· Nano-SIM\n· Nano-SIM + Nano-SIM",
+        "Features": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "5.2 inches, 74.5 cm<sup>2</sup> (~70.9% screen-to-body ratio)",
+        "Resolution": "1080 x 1920 pixels, 16:9 ratio (~424 ppi density)",
+        "Protection": "Corning Gorilla Glass 4",
+        "Features": "Triluminos display\n\nX-Reality Engine"
+      },
+      "Platform": {
+        "OS": "Android 6.0.1 (Marshmallow), upgradable to Android 8.0 (Oreo)",
+        "Chipset": "Qualcomm MSM8996 Snapdragon 820 (14 nm)",
+        "CPU": "Quad-core (2x2.15 GHz Kryo &amp; 2x1.6 GHz Kryo)",
+        "GPU": "Adreno 530"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (uses shared SIM slot) - dual SIM model only",
+        "Internal": "32GB 3GB RAM, 64GB 3GB RAM",
+        "Features": "eMMC 5.1"
+      },
+      "Main Camera": {
+        "Single": "23 MP, f/2.0, 24mm (wide), 1/2.3\", PDAF",
+        "Features": "Laser AF, color spectrum sensor, LED flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@60fps, 1080p@30fps (gyro-EIS)"
+      },
+      "Selfie camera": {
+        "Single": "13 MP, f/2.0, 22mm (wide), 1/3\"",
+        "Features": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes",
+        "Features": "24-bit/192kHz audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA",
+        "Bluetooth": "4.2, A2DP, aptX, LE",
+        "Positioning": "GPS, GLONASS/ BDS (region dependent)",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, barometer, compass"
+      },
+      "Battery": {
+        "Type": "Li-Ion 2900 mAh, non-removable",
+        "Charging": "18W wired, QC3",
+        "Stand-by": "Up to 600 h (2G) / Up to 610 h (3G)",
+        "Talk time": "Up to 11 h 40 min (2G) / Up to 17 h 30 min (3G)"
+      },
+      "Misc": {
+        "Colors": "Mineral black, Platinum, Forest blue, Deep pink",
+        "Models": "F8331, F8332, SO-01J, SOV34, 601SO",
+        "SAR": "0.81 W/kg (head) &nbsp; &nbsp; 0.35 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.85 W/kg (head) &nbsp; &nbsp; 1.20 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 230 EUR"
+      },
+      "Our Tests": {
+        "Performance": "Basemark OS II 2.0: 2151\nBasemark X: 29548",
+        "Display": "<a class=\"noUnd\" href=\"sony_xperia_xz-review-1500p3.php\">Contrast ratio: 1349 (nominal), 3.795 (sunlight)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=8313&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=8313&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"sony_xperia_xz-review-1500p6.php\">Voice 61dB / Noise 65dB / Ring 67dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"sony_xperia_xz-review-1500p7.php#aq\">Noise -93.0dB / Crosstalk -93.6dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 8313); \">Endurance rating 72h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/sony/sony-xperia-xz.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/sony/sony-xperia-xz1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/sony_xperia_xz-pictures-8313.php"
+    }
+  }
+}

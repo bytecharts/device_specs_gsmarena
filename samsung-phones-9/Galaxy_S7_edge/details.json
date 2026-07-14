@@ -1,0 +1,120 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy S7 edge",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s7-edge-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s7-edge-.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_galaxy_s7_edge-review-1409.php",
+    "siblingDeviceSlugs": [
+      "samsung_galaxy_s7-7821"
+    ],
+    "release_date": "Released 2016, March 11",
+    "dimensions": "157g, 7.7mm thickness",
+    "os": "Android 6.0, up to Android 8.0, TouchWiz UI",
+    "storage": "32GB/64GB/128GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 &amp; SIM 2 - G935FD, G9350",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - G935F, G935FD, G935W8",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 38, 39, 40, 41 - G935F, G935FD",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE (3CA) Cat9 450/50 Mbps",
+        "Features": "HSDPA 850 / 900 / 1900 / 2100 &amp; TD-SCDMA - G9350\n1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 38, 39, 40, 41 - G9350\n1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 29, 30, 38, 39, 40, 41 - G935W8"
+      },
+      "Launch": {
+        "Announced": "2016, February 21. Released 2016, March 11",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "150.9 x 72.6 x 7.7 mm (5.94 x 2.86 x 0.30 in)",
+        "Weight": "157 g (5.54 oz)",
+        "Build": "Glass front (Gorilla Glass 4), glass back (Gorilla Glass 4), aluminum frame",
+        "SIM": "· Nano-SIM (G935F, G935W8)\n· Nano-SIM + Nano-SIM (G935FD)",
+        "Features": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)"
+      },
+      "Display": {
+        "Type": "Super AMOLED",
+        "Size": "5.5 inches, 83.4 cm<sup>2</sup> (~76.1% screen-to-body ratio)",
+        "Resolution": "1440 x 2560 pixels, 16:9 ratio (~534 ppi density)",
+        "Protection": "Corning Gorilla Glass 4"
+      },
+      "Platform": {
+        "OS": "Android 6.0 (Marshmallow), upgradable to Android 8.0 (Oreo), TouchWiz UI",
+        "Chipset": "Qualcomm MSM8996 Snapdragon 820 (14 nm) - G9350\nExynos 8890 Octa (14 nm) - G935FD, G935F, G935W8",
+        "CPU": "Quad-core (2x2.15 GHz Kryo &amp; 2x1.6 GHz Kryo) - G9350\nOcta-core (4x2.3 GHz Mongoose &amp; 4x1.6 GHz Cortex-A53) - G935FD, G935F, G935W8",
+        "GPU": "Adreno 530 - G9350\nMali-T880 MP12 - G935FD, G935F, G935W8"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (uses shared SIM slot) - dual SIM model only",
+        "Internal": "32GB 4GB RAM, 64GB 4GB RAM, 128GB 4GB RAM",
+        "Features": "UFS 2.0"
+      },
+      "Main Camera": {
+        "Single": "12 MP, f/1.7, 26mm (wide), 1/2.55\", 1.4µm, dual pixel PDAF, OIS",
+        "Features": "LED flash, auto-HDR, panorama",
+        "Video": "4K@30fps, 1080p@30fps (gyro-EIS), 1080p@60fps, 720p@240fps, HDR, stereo sound rec., OIS"
+      },
+      "Selfie camera": {
+        "Single": "5 MP, f/1.7, 22mm (wide), 1/4.1\", 1.34µm",
+        "Features": "HDR",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes",
+        "Features": "24-bit/192kHz audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "4.2, A2DP, LE, aptX",
+        "Positioning": "GPS, GLONASS, BDS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "microUSB 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (front-mounted), accelerometer, gyro, proximity, compass, barometer, heart rate, SpO2",
+        "Features": "ANT+\n\nS-Voice natural language commands and dictation\n\nSamsung Pay (Visa, MasterCard certified)"
+      },
+      "Battery": {
+        "Type": "Li-Ion 3600 mAh, non-removable",
+        "Charging": "15W wired, QC2\n\nWireless (Qi) (market dependent)",
+        "Talk time": "Up to 27 h (3G)",
+        "Music play": "Up to 74 h"
+      },
+      "Misc": {
+        "Colors": "Black, White, Gold, Silver, Pink Gold, Black Pearl, Coral Blue",
+        "Models": "SM-G935F, SM-G935FD, SM-G935W8, SM-G9350, SM-G935S, SC-02H, SM-G935K, SM-G935L, SM-G935R4, SCV33, SM-G935X, SM-G935VC, SM-G935D",
+        "SAR": "0.56 W/kg (head) &nbsp; &nbsp; 0.66 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.26 W/kg (head) &nbsp; &nbsp; 1.43 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 330 EUR"
+      },
+      "Our Tests": {
+        "Performance": "GFXBench: 8.3fps (ES 3.1 onscreen)",
+        "Display": "<a class=\"noUnd\" href=\"samsung_galaxy_s7_edge-review-1409p3.php#dt\">Contrast ratio: Infinite (nominal), 4.439 (sunlight)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=7945&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=7945&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"samsung_galaxy_s7_edge-review-1409p7.php#lt\">Voice 70dB / Noise 69dB / Ring 71dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"samsung_galaxy_s7_edge-review-1409p8.php#aq\">Noise -92.5dB / Crosstalk -92.2dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 7945); \">Endurance rating 92h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s7-edge-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s7-edge-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s7-edge-21.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s7-edge-pink.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s7-edge-blue-coral-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s7-edge-blue-coral-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_s7_edge-pictures-7945.php"
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Apple iPad Air 2",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/apple/apple-ipad-air-2-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/apple-ipad-air-2-new.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/apple_ipad_air_2-review-1167.php",
+    "siblingDeviceSlugs": [
+      "apple_ipad_air-5797"
+    ],
+    "release_date": "Released 2014, October 24",
+    "dimensions": "437g (Wi-Fi) / 444g (3G/LTE), 6.1mm thickness",
+    "os": "iOS 8.1, up to iPadOS 15.8.5",
+    "storage": "16GB/32GB/128GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / EVDO / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700 / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 13, 17, 18, 19, 20, 25, 26, 28, 29, 38, 39, 40, 41 - A1567",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps, EV-DO Rev.A 3.1 Mbps - cellular model only",
+        "Features": "CDMA 800 / 1900\nCDMA2000 1xEV-DO"
+      },
+      "Launch": {
+        "Announced": "2014, October 16. Released 2014, October 24",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "240 x 169.5 x 6.1 mm (9.45 x 6.67 x 0.24 in)",
+        "Weight": "437 g (Wi-Fi) / 444 g (3G/LTE) (15.41 oz)",
+        "Build": "Glass front, aluminum back, aluminum frame",
+        "SIM": "Nano-SIM + <a href=\"glossary.php3?term=esim\">eSIM</a> (cellular model only)"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "9.7 inches, 291.4 cm<sup>2</sup> (~71.6% screen-to-body ratio)",
+        "Resolution": "1536 x 2048 pixels, 4:3 ratio (~264 ppi density)",
+        "Protection": "Scratch-resistant glass, oleophobic coating"
+      },
+      "Platform": {
+        "OS": "iOS 8.1, upgradable to iPadOS 15.8.5",
+        "Chipset": "Apple A8X (20 nm)",
+        "CPU": "Triple-core 1.5 GHz Typhoon",
+        "GPU": "PowerVR GXA6850 (octa-core graphics)"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "16GB 2GB RAM, 32GB 2GB RAM, 64GB 2GB RAM, 128GB 2GB RAM"
+      },
+      "Main Camera": {
+        "Single": "8 MP, f/2.4, 31mm (standard), 1.12µm, AF",
+        "Features": "HDR",
+        "Video": "1080p@30fps, 720p@120fps, HDR, stereo sound rec."
+      },
+      "Selfie camera": {
+        "Single": "1.2 MP, f/2.2, 31mm (standard)",
+        "Features": "face detection, HDR, FaceTime over Wi-Fi or Cellular",
+        "Video": "720p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, hotspot",
+        "Bluetooth": "4.0, A2DP, EDR",
+        "Positioning": "GPS, GLONASS - cellular model only",
+        "NFC": "No",
+        "Radio": "No",
+        "USB": "Lightning, USB 2.0"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (front-mounted), accelerometer, gyro, compass, barometer"
+      },
+      "Battery": {
+        "Type": "Li-Po 7340 mAh, non-removable (27.62 Wh)",
+        "Talk time": "Up to 10 h (multimedia)"
+      },
+      "Misc": {
+        "Colors": "Space Gray, Silver, Gold",
+        "Models": "A1566, A1567, iPad5,3, iPad5,4",
+        "Price": "About 440 EUR"
+      },
+      "Our Tests": {
+        "Performance": "Basemark X: 29753",
+        "Display": "<a class=\"noUnd\" href=\"apple_ipad_air_2-review-1167p3.php\">Contrast ratio: 1048 (nominal)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=6742&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=6742&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"apple_ipad_air_2-review-1167p6.php\">Voice 75dB / Noise 70dB / Ring 78dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"apple_ipad_air_2-review-1167p7.php#aq\">Noise -93.9dB / Crosstalk -83.9dB</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-ipad-air-2-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-ipad-air-2-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-ipad-air-2-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-ipad-air-2-4.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/apple_ipad_air_2-pictures-6742.php"
+    }
+  }
+}

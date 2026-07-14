@@ -1,0 +1,116 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy Z Flip 5G",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-z-flip-5g-mystic-bronze-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-z-flip-5g-mystic-bronze.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "samsung_galaxy_z_flip-10054",
+      "samsung_galaxy_z_flip3_5g-11044",
+      "samsung_galaxy_z_flip5-12252",
+      "samsung_galaxy_z_fold2_5g-10342",
+      "samsung_galaxy_note20_5g-10325",
+      "samsung_galaxy_a57_5g-14379",
+      "samsung_galaxy_s26_ultra_5g-14320",
+      "samsung_galaxy_a17_5g-14041",
+      "samsung_galaxy_a27_5g-14606",
+      "samsung_galaxy_m47_5g-14749",
+      "samsung_galaxy_a07-14066"
+    ],
+    "release_date": "Released 2020, August 07",
+    "dimensions": "183g, 7.2mm thickness",
+    "os": "Android 10, up to Android 13, One UI 5",
+    "storage": "256GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / EVDO / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - International, Canada",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 18, 19, 20, 25, 26, 28, 29, 30, 38, 39, 40, 41, 66, 71 - International",
+        "5G bands": "1, 41, 77, 78, 79 Sub6 - China, Hong Kong",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE (6CA) Cat20 2000/200 Mbps, 5G",
+        "Features": "CDMA 800 / 1900\nCDMA2000 1xEV-DO\nHSDPA 850 / 900 / 1900 / 2100 - China, Hong Kong\n1, 2, 3, 4, 5, 7, 8, 12, 13, 18, 19, 20, 25, 29, 30, 38, 39, 40, 41, 66, 71 - Canada\n1, 2, 3, 4, 5, 7, 8, 12, 13, 18, 19, 20, 25, 26, 28, 34, 38, 39, 40, 41 - China, Hong Kong\n41, 66, 71 Sub6 - Canada"
+      },
+      "Launch": {
+        "Announced": "2020, July 22",
+        "Status": "Available. Released 2020, August 07"
+      },
+      "Body": {
+        "Dimensions": "Unfolded: 167.3 x 73.6 x 7.2 mm\n Folded: 87.4 x 73.6 x 17.3 mm",
+        "Weight": "183 g (6.46 oz)",
+        "Build": "Plastic front, glass back (Gorilla Glass 6), aluminum frame",
+        "SIM": "Nano-SIM + <a href=\"glossary.php3?term=esim\">eSIM</a>"
+      },
+      "Display": {
+        "Type": "Foldable Dynamic AMOLED, HDR10+",
+        "Size": "6.7 inches, 101.6 cm<sup>2</sup> (~82.5% screen-to-body ratio)",
+        "Resolution": "1080 x 2636 pixels (~425 ppi density)",
+        "Features": "Cover display:\n\nSuper AMOLED, 1.1 inches, 112 x 300 pixels"
+      },
+      "Platform": {
+        "OS": "Android 10, upgradable to Android 13, One UI 5",
+        "Chipset": "Qualcomm SM8250 Snapdragon 865 5G+ (7 nm+)",
+        "CPU": "Octa-core (1x3.09 GHz Cortex-A77 &amp; 3x2.40 GHz Cortex-A77 &amp; 4x1.80 GHz Cortex-A55)",
+        "GPU": "Adreno 650"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 8GB RAM",
+        "Features": "UFS 3.0"
+      },
+      "Main Camera": {
+        "Dual": "12 MP, f/1.8, 27mm (wide), 1/2.55\", 1.4µm, dual pixel PDAF, OIS\n\n12 MP, f/2.2, 123˚ (ultrawide), 1.12µm",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "4K@30/60fps, 1080p@60/240fps, 720p@960fps, HDR10+"
+      },
+      "Selfie camera": {
+        "Single": "10 MP, f/2.4, 26mm (wide), 1.22µm",
+        "Features": "HDR",
+        "Video": "4K@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No",
+        "Features": "High-bitrate audio support\n\nTuned by AKG"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer"
+      },
+      "Battery": {
+        "Type": "Li-Po 3300 mAh",
+        "Charging": "15W wired\n\n9W wireless"
+      },
+      "Misc": {
+        "Colors": "Mystic Grey, Mystic Bronze, Mystic White",
+        "Models": "SM-F707B, SM-F707N, SM-F7070, SM-F707U, SM-F707U1, SM-F707W",
+        "SAR": "0.80 W/kg (head) &nbsp; &nbsp; 1.01 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.80 W/kg (head) &nbsp; &nbsp; 1.45 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 800 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-z-flip-5g-mystic-bronze-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-z-flip-5g-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-z-flip-5g-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-z-flip-5g-4.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_z_flip_5g-pictures-10244.php"
+    }
+  }
+}

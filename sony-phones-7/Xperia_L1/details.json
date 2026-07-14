@@ -1,0 +1,108 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Sony Xperia L1",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/sony/sony-xperia-l1-0.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/sony-xperia-l1-.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/sony_xperia_l1-review-1624.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2017, June",
+    "dimensions": "180g, 8.7mm thickness",
+    "os": "Android 7.0",
+    "storage": "16GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 &amp; SIM 2 (dual-SIM model only)",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4G bands": "1, 2, 3, 5, 7, 8, 20",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "Launch": {
+        "Announced": "2017, March. Released 2017, June",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "151 x 74 x 8.7 mm (5.94 x 2.91 x 0.34 in)",
+        "Weight": "180 g (6.35 oz)",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "· Nano-SIM\n· Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "5.5 inches, 83.4 cm<sup>2</sup> (~74.6% screen-to-body ratio)",
+        "Resolution": "720 x 1280 pixels, 16:9 ratio (~267 ppi density)",
+        "Protection": "Scratch-resistant glass (&gt; 6H)"
+      },
+      "Platform": {
+        "OS": "Android 7.0 (Nougat)",
+        "Chipset": "Mediatek MT6737T (28 nm)",
+        "CPU": "Quad-core 1.45 GHz Cortex-A53",
+        "GPU": "Mali-T720MP2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (uses shared SIM slot)",
+        "Internal": "16GB 2GB RAM",
+        "Features": "eMMC 5.0"
+      },
+      "Main Camera": {
+        "Single": "13 MP, f/2.2, AF",
+        "Features": "LED flash, HDR",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "5 MP, f/2.2, 24mm (wide)",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n, Wi-Fi Direct",
+        "Bluetooth": "4.2, A2DP, LE, aptX",
+        "Positioning": "GPS, GLONASS, BDS",
+        "NFC": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Ion 2620 mAh, non-removable",
+        "Stand-by": "Up to 639 h (2G) / Up to 687 h (3G)",
+        "Talk time": "Up to 13 h (2G) / Up to 11 h 30 min (3G)",
+        "Music play": "Up to 63 h"
+      },
+      "Misc": {
+        "Colors": "Black, White, Pink",
+        "Models": "G3312, G3311, G3313",
+        "Price": "About 110 EUR"
+      },
+      "Our Tests": {
+        "Performance": "GeekBench: 1890 (v4.4)",
+        "Display": "<a class=\"noUnd\" href=\"sony_xperia_l1-review-1624p3.php#dt\">Contrast ratio: 957:1 (nominal), 2.994 (sunlight)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=8619&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=8619&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"sony_xperia_l1-review-1624p6.php#lt\">Voice 91dB / Noise 74dB / Ring 83dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"sony_xperia_l1-review-1624p7.php#aq\">Noise -93.6dB / Crosstalk -93.8dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 8619); \">Endurance rating 63h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/sony/sony-xperia-l1-0.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/sony/sony-xperia-l1-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/sony/sony-xperia-l1-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/sony_xperia_l1-pictures-8619.php"
+    }
+  }
+}

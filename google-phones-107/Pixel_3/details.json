@@ -1,0 +1,121 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Google Pixel 3",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-3-4.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-3-.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/google_pixel_3-review-1847.php",
+    "siblingDeviceSlugs": [
+      "google_pixel_3a-9408",
+      "google_pixel_4-9896",
+      "google_pixel_5-10386",
+      "google_pixel_3_xl-9257",
+      "google_pixel_2-8733",
+      "google_pixel_7-11903",
+      "google_pixel_10_pro_5g-13987",
+      "google_pixel_10a_5g-14474",
+      "google_pixel_10_5g-13979",
+      "google_pixel_7_pro-11908",
+      "google_pixel_8-12546",
+      "google_pixel_10_pro_xl_5g-13988"
+    ],
+    "release_date": "Released 2018, October 18",
+    "dimensions": "148g, 7.9mm thickness",
+    "os": "Android 9.0, up to Android 12",
+    "storage": "64GB/128GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / EVDO / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 29, 32, 38, 39, 40, 41, 42, 46, 66, 71",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE (5CA) Cat16 1024/75 Mbps",
+        "Features": "CDMA 800 / 1900\nCDMA2000 1xEV-DO"
+      },
+      "Launch": {
+        "Announced": "2018, October 09. Released 2018, October 18",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "145.6 x 68.2 x 7.9 mm (5.73 x 2.69 x 0.31 in)",
+        "Weight": "148 g (5.22 oz)",
+        "Build": "Glass front (Gorilla Glass 5), glass back (Gorilla Glass 5), aluminum frame",
+        "SIM": "Nano-SIM + <a href=\"glossary.php3?term=esim\">eSIM</a>",
+        "Features": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)"
+      },
+      "Display": {
+        "Type": "P-OLED, HDR",
+        "Size": "5.5 inches, 76.7 cm<sup>2</sup> (~77.2% screen-to-body ratio)",
+        "Resolution": "1080 x 2160 pixels, 18:9 ratio (~443 ppi density)",
+        "Protection": "Corning Gorilla Glass 5"
+      },
+      "Platform": {
+        "OS": "Android 9.0 (Pie), upgradable to Android 12",
+        "Chipset": "Qualcomm SDM845 Snapdragon 845 (10 nm)",
+        "CPU": "Octa-core (4x2.5 GHz Kryo 385 Gold &amp; 4x1.6 GHz Kryo 385 Silver)",
+        "GPU": "Adreno 630"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "64GB 4GB RAM, 128GB 4GB RAM",
+        "Features": "UFS 2.1"
+      },
+      "Main Camera": {
+        "Single": "12.2 MP, f/1.8, 28mm (wide), 1/2.55\", 1.4µm, dual pixel PDAF, OIS",
+        "Features": "Dual-LED flash, Pixel Shift, Auto-HDR, panorama",
+        "Video": "4K@30fps, 1080p@30/60/120fps, 1080p@30fps (gyro-EIS)"
+      },
+      "Selfie camera": {
+        "Dual": "8 MP, f/1.8, 28mm (wide), PDAF\n\n8 MP, f/2.2, 19mm (ultrawide), no AF",
+        "Features": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA",
+        "Bluetooth": "5.0, A2DP, LE, aptX HD",
+        "Positioning": "GPS, GLONASS, BDS, GALILEO",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 3.1"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass, barometer"
+      },
+      "Battery": {
+        "Type": "Li-Po 2915 mAh, non-removable",
+        "Charging": "18W wired, PD2.0\n\nWireless"
+      },
+      "Misc": {
+        "Colors": "Clearly White, Just Black, Not Pink",
+        "Models": "G013A",
+        "Price": "About 450 EUR"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 285044 (v7)\n\nGeekBench: 8337 (v4.4)\n\nGFXBench: 33fps (ES 3.1 onscreen)",
+        "Display": "<a class=\"noUnd\" href=\"google_pixel_3-review-1847p3.php\">Contrast ratio: Infinite (nominal), 4.350 (sunlight)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=9256&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=9256&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"google_pixel_3-review-1847p3.php#ls\">Voice 77dB / Noise 71dB / Ring 81dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"google_pixel_3-review-1847p3.php#aq\">Noise -71.7dB / Crosstalk -70.1dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 9256); \">Endurance rating 69h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-3-4.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-3-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/google_pixel_3-pictures-9256.php"
+    }
+  }
+}

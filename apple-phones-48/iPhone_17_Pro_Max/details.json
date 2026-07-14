@@ -1,0 +1,122 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Apple iPhone 17 Pro Max",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-17-pro-max-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-17-pro-max.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/apple_iphone_17_pro_max-review-2884.php",
+    "siblingDeviceSlugs": [
+      "apple_iphone_17_pro-14049",
+      "apple_iphone_17-14050"
+    ],
+    "release_date": "Released 2025, September 19",
+    "dimensions": "233g, 8.8mm thickness",
+    "os": "iOS 26, up to iOS 26.5",
+    "storage": "256GB/512GB/2TB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / EVDO / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 30, 32, 34, 38, 39, 40, 41, 42, 48, 53, 66 - A3526",
+        "5G bands": "1, 2, 3, 5, 7, 8, 12, 20, 25, 26, 28, 30, 38, 40, 41, 48, 53, 66, 70, 75, 77, 78, 79 SA/NSA/Sub6 - A3526",
+        "Speed": "HSPA, LTE, 5G, EV-DO Rev.A 3.1 Mbps",
+        "Features": "CDMA 800 / 1900\nCDMA2000 1xEV-DO\n1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 17, 18, 19, 20, 25, 26, 28, 29, 30, 32, 34, 38, 39, 40, 41, 42, 48, 53, 66, 71 - A3257\n1, 2, 3, 4, 5, 7, 8, 11, 12, 13, 14, 17, 18, 19, 20, 21, 25, 26, 28, 29, 30, 32, 34, 38, 39, 40, 41, 42, 48, 53, 66, 71 - A3525\n1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 30, 32, 34, 38, 39, 40, 41, 42, 48, 66 - A3527\n1, 2, 3, 5, 7, 8, 12, 14, 20, 25, 26, 28, 29, 30, 38, 40, 41, 48, 53, 66, 70, 71, 75, 77, 78, 79, 258, 260, 261 SA/NSA/Sub6/mmWave - A3257\n1, 2, 3, 5, 7, 8, 12, 14, 20, 25, 26, 28, 29, 30, 38, 40, 41, 48, 53, 66, 70, 71, 75, 77, 78, 79 SA/NSA/Sub6 - A3525\n1, 2, 3, 5, 7, 8, 12, 20, 25, 26, 28, 30, 38, 40, 41, 48, 66, 70, 75, 77, 78, 79 SA/NSA/Sub6 - A3527"
+      },
+      "Launch": {
+        "Announced": "2025, September 09",
+        "Status": "Available. Released 2025, September 19"
+      },
+      "Body": {
+        "Dimensions": "163.4 x 78 x 8.8 mm (6.43 x 3.07 x 0.35 in)",
+        "Weight": "233 g (8.22 oz)",
+        "Build": "Glass front (Ceramic Shield 2), aluminum frame, aluminum back/ glass back (Ceramic Shield)",
+        "SIM": "· Nano-SIM + <a href=\"glossary.php3?term=esim\">eSIM</a> + eSIM (max 2 at a time; International)\n· eSIM + eSIM (8 or more, max 2 at a time; USA)\n· Nano-SIM + Nano-SIM (China)",
+        "Features": "IP68 dust tight and water resistant (immersible up to 6m for 30 min)\n\nApple Pay (Visa, MasterCard, AMEX certified)"
+      },
+      "Display": {
+        "Type": "LTPO Super Retina XDR OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (typ), 1600 nits (HBM), 3000 nits (peak)",
+        "Size": "6.9 inches, 115.6 cm<sup>2</sup> (~90.7% screen-to-body ratio)",
+        "Resolution": "1320 x 2868 pixels, 19.5:9 ratio (~460 ppi density)",
+        "Protection": "Ceramic Shield 2, Mohs level 5",
+        "Features": "Anti-reflective coating"
+      },
+      "Platform": {
+        "OS": "iOS 26, upgradable to iOS 26.5",
+        "Chipset": "Apple A19 Pro (3 nm)",
+        "CPU": "Hexa-core (2x4.26 GHz + 4x2.60 GHz)",
+        "GPU": "Apple GPU (6-core graphics)"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 12GB RAM, 512GB 12GB RAM, 1TB 12GB RAM, 2TB 12GB RAM",
+        "Features": "NVMe"
+      },
+      "Main Camera": {
+        "Triple": "48 MP, f/1.8, 24mm (wide), 1/1.28\", 1.22µm, dual pixel PDAF, sensor-shift OIS\n\n48 MP, f/2.8, 100mm (periscope telephoto), 1/2.55\", 0.7µm, PDAF, 3D sensor‑shift OIS, 4x optical zoom\n\n48 MP, f/2.2, 13mm, 120˚ (ultrawide), 1/2.55\", 0.7µm, PDAF\n\nTOF 3D LiDAR scanner (depth)",
+        "Features": "Dual-LED dual-tone flash, HDR (photo/panorama)",
+        "Video": "4K@24/25/30/60/100/120fps, 1080p@25/30/60/120/240fps, 10-bit HDR, Dolby Vision HDR (up to 120fps), ProRes, ProRes RAW (up to 120fps), Apple Log 2, 3D (spatial) video/audio, stereo sound rec."
+      },
+      "Selfie camera": {
+        "Single": "18 MP multi-aspect, f/1.9, 20mm (ultrawide), PDAF\n\nSL 3D, (depth/biometrics sensor)",
+        "Features": "HDR, Dolby Vision HDR, 3D (spatial) audio, stereo sound rec., ProRes RAW, Apple Log 2",
+        "Video": "4K@24/25/30/60fps, 1080p@25/30/60/120fps, gyro-EIS"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, hotspot",
+        "Bluetooth": "6.0, A2DP, LE",
+        "Positioning": "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS, NavIC",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 3.2 Gen 2, DisplayPort"
+      },
+      "Features": {
+        "Sensors": "Face ID, accelerometer, gyro, proximity, compass, barometer",
+        "Features": "Ultra Wideband (UWB) support (gen2 chip)\n\nEmergency SOS, Messages and Find My via satellite"
+      },
+      "Battery": {
+        "Type": "Market-dependent versions:\n· Li-Ion 4823 mAh - Nano SIM model\n· Li-Ion 5088 mAh - eSIM only model",
+        "Charging": "Wired, PD3.2, AVS, 50% in 20 min\n\n25W wireless MagSafe/Qi2, 50% in 30 min (15W - China)\n\n4.5W reverse wired"
+      },
+      "Misc": {
+        "Colors": "Silver, Cosmic Orange, Deep Blue",
+        "Models": "iPhone18,2, A3526, A3257, A3527, A3525",
+        "SAR": "1.19 W/kg (head) &nbsp; &nbsp; 1.19 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "1.49 W/kg (head) &nbsp; &nbsp; 1.49 W/kg (body) &nbsp; &nbsp;",
+        "Price": "<a href=\"apple_iphone_17_pro_max-price-13964.php\">$ 939.26 / £ 1,037.99 / € 1,096.09</a>"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 2600583 (v10), 2331417 (v11)\n\nGeekBench: 10118 (v6)\n\n3DMark: 6010 (Wild Life Extreme)",
+        "Display": "<a class=\"noUnd\" href=\"apple_iphone_17_pro_max-review-2884p3.php#dt\">1000 nits max brightness (measured)</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"apple_iphone_17_pro_max-review-2884p3.php#lt\">-26.2 LUFS (Good)</a>",
+        "Battery": "<div style=\"position:relative;\">\n<a href=\"apple_iphone_17_pro_max-review-2884p3.php#bt\" data-battery2=\"24:26_15:33_25:41_12:08\" onclick=\"showBatteryPopup(event, 13964); \" class=\"v2\">Active use score 17:58h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      },
+      "EU LABEL": {
+        "Energy": "Class A",
+        "Battery": "53:00h endurance, 1000 cycles",
+        "Free fall": "Class B (180 falls)",
+        "Repairability": "Class C"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-17-pro-max-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-17-pro-max-nano-sim.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-17-pro-max-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-17-pro-max-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/apple_iphone_17_pro_max-pictures-13964.php"
+    }
+  }
+}

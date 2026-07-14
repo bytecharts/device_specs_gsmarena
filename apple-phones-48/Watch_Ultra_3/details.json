@@ -1,0 +1,106 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Apple Watch Ultra 3",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/apple/apple-watch-ultra3-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/apple-watch-ultra3.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "apple_watch_ultra_2-12560",
+      "apple_watch_series_11-14131",
+      "samsung_galaxy_watch_ultra-13127",
+      "apple_watch_ultra-11827",
+      "apple_watch_se_3-14133",
+      "apple_watch_series_11_aluminum-14132"
+    ],
+    "release_date": "Released 2025, September 19",
+    "dimensions": "61.6g or 61.8g (black), 12mm thickness",
+    "os": "watchOS 26, up to watchOS 26.5",
+    "storage": "64GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - International, China, HK",
+        "4G bands": "1, 2, 3, 4, 5, 6, 7, 8, 18, 19, 20, 25, 26, 28, 39, 40, 41, 66 - International, China, HK",
+        "5G bands": "SA/NSA",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "HSDPA 850 / 1700(AWS) / 1900 / 2100 - USA, LATAM, Canada\n1, 2, 3, 4, 5, 6, 7, 12, 13, 14, 17, 18, 19, 25, 26, 39, 40, 41, 66 - USA, LATAM, Canada"
+      },
+      "Launch": {
+        "Announced": "2025, September 09",
+        "Status": "Available. Released 2025, September 19"
+      },
+      "Body": {
+        "Dimensions": "49 x 44 x 12 mm (1.93 x 1.73 x 0.47 in)",
+        "Weight": "61.6 g or 61.8 g (black) (2.15 oz)",
+        "Build": "Sapphire crystal front, ceramic/sapphire crystal back, titanium frame (grade 5)",
+        "SIM": "<a href=\"glossary.php3?term=esim\">eSIM</a>",
+        "Features": "IP6X certified \n\n100m water resistant (22810:2010)\n\n40m swimproof/diving (EN13319)\n\nMIL-STD-810H compliant\n\nECG certified (region dependent SW application; HW available on all models)"
+      },
+      "Display": {
+        "Type": "Retina LTPO3 OLED, 3000 nits (peak)",
+        "Size": "1.98 inches",
+        "Resolution": "514 x 422 pixels (~326 ppi density)",
+        "Protection": "Sapphire crystal glass",
+        "Features": "Wide-angle OLED"
+      },
+      "Platform": {
+        "OS": "watchOS 26, up to watchOS 26.5, planned upgrade to watchOS 27",
+        "Chipset": "Apple S10",
+        "CPU": "Dual-core",
+        "GPU": "PowerVR"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "64GB"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with dual speakers (86-decibel)",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, dual-band",
+        "Bluetooth": "5.3, A2DP, LE",
+        "Positioning": "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, heart rate, barometer, always-on altimeter (-500m to 9000m), compass, SpO2, VO2max, temperature (body), temperature (water)",
+        "Features": "Temperature sensing (0.01˚ accuracy)\n\nDepth gauge (±1m accuracy)\n\nUltra Wideband (UWB) support (gen2 chip)\n\nEmergency SOS via satellite"
+      },
+      "Battery": {
+        "Type": "Li-Ion 599 mAh",
+        "Charging": "Wireless, 0-80% in 45 min"
+      },
+      "Misc": {
+        "Colors": "Natural, Black",
+        "Models": "A3281, A3282",
+        "SAR": "1.16 W/kg (head) &nbsp; &nbsp;",
+        "SAR EU": "1.19 W/kg (head) &nbsp; &nbsp;",
+        "Price": "<a href=\"apple_watch_ultra_3-price-14130.php\">$ 229.99 / € 799.00</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-watch-ultra3-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-watch-ultra3-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-watch-ultra3-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-watch-ultra3-4.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-watch-ultra3-5.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/apple_watch_ultra_3-pictures-14130.php"
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy A2 Core",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a2-core-sm-a260f-red.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a2-core-sm-a260f.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2019, April",
+    "dimensions": "142g, 9.1mm thickness",
+    "os": "Android 8.0 Oreo",
+    "storage": "8GB/16GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 900 / 1800",
+        "3G bands": "HSDPA 900 / 2100 - A260F/DS",
+        "4G bands": "1, 3, 7, 8, 20 - A260F/DS",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+        "Features": "HSDPA 850 / 900 / 2100 - A260G/DS\n1, 3, 5, 7, 8, 40, 41 - A260G/DS"
+      },
+      "Launch": {
+        "Announced": "2019, April. Released 2019, April",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "141.6 x 71 x 9.1 mm (5.57 x 2.80 x 0.36 in)",
+        "Weight": "142 g (5.01 oz)",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "· Nano-SIM\n· Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "PLS LCD",
+        "Size": "5.0 inches, 68.9 cm<sup>2</sup> (~68.6% screen-to-body ratio)",
+        "Resolution": "540 x 960 pixels, 16:9 ratio (~220 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 8.0 Oreo (Go edition)",
+        "Chipset": "Exynos 7870 Octa (14 nm)",
+        "CPU": "Octa-core 1.6 GHz Cortex-A53",
+        "GPU": "Mali-T830 MP1"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "8GB 1GB RAM, 16GB 1GB RAM",
+        "Features": "eMMC 5.1"
+      },
+      "Main Camera": {
+        "Single": "5 MP, f/1.9, AF",
+        "Features": "LED flash, HDR",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "5 MP, f/2.2",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
+        "Bluetooth": "4.2, A2DP, LE",
+        "Positioning": "GPS, GLONASS, BDS",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "microUSB 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity"
+      },
+      "Battery": {
+        "Type": "Li-Ion 2600 mAh, non-removable"
+      },
+      "Misc": {
+        "Colors": "Black, Blue, Red, Gold",
+        "Models": "SM-A260F, SM-A260G",
+        "SAR EU": "0.53 W/kg (head) &nbsp; &nbsp; 1.09 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 120 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a2-core-sm-a260f-red.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a2-core-sm-a260f.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_a2_core-pictures-9636.php"
+    }
+  }
+}

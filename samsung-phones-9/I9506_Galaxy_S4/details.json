@@ -1,0 +1,107 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung I9506 Galaxy S4",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s4-i9500-white.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s-4-i9500-black-mist.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2013, Q3",
+    "dimensions": "130g, 7.9mm thickness",
+    "os": "Android 4.2.2, up to 5.0.1, TouchWiz UI",
+    "storage": "16GB/32GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - I9506",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100 - I9506",
+        "4G bands": "1, 3, 5, 7, 8, 20 - I9506",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+        "Features": "GSM 900 / 1800 / 1900 - SHV-E330S\nHSDPA 1900 / 2100 - SHV-E330S\n5, 9 - SHV-E330S"
+      },
+      "Launch": {
+        "Announced": "2013, Q3. Released 2013, Q3",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "136.6 x 69.8 x 7.9 mm (5.38 x 2.75 x 0.31 in)",
+        "Weight": "130 g (4.59 oz)",
+        "SIM": "Micro-SIM"
+      },
+      "Display": {
+        "Type": "Super AMOLED",
+        "Size": "5.0 inches, 68.9 cm<sup>2</sup> (~72.3% screen-to-body ratio)",
+        "Resolution": "1080 x 1920 pixels, 16:9 ratio (~441 ppi density)",
+        "Protection": "Corning Gorilla Glass 3"
+      },
+      "Platform": {
+        "OS": "Android 4.2.2 (Jelly Bean), upgradable to 5.0.1 (Lollipop), TouchWiz UI",
+        "Chipset": "Qualcomm MSM8974 Snapdragon 800 (28 nm)",
+        "CPU": "Quad-core 2.3 GHz Krait 400",
+        "GPU": "Adreno 330"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "16GB 2GB RAM, 32GB 2GB RAM",
+        "Features": "eMMC 4.5"
+      },
+      "Main Camera": {
+        "Single": "13 MP, f/2.2, 31mm (standard), 1/3.1\", 1.14µm, AF",
+        "Features": "LED flash, HDR",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "2 MP, f/2.4, 27mm (wide)",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA, hotspot",
+        "Bluetooth": "4.0, A2DP, EDR, LE, aptX",
+        "Positioning": "GPS, GLONASS",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "microUSB 2.0 (MHL 2 TV-out), OTG"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, proximity, compass, barometer, temperature, humidity, gesture",
+        "Features": "S-Voice natural language commands and dictation\n\nAir gestures"
+      },
+      "Battery": {
+        "Type": "Li-Ion 2600 mAh, removable",
+        "Charging": "Wireless (Qi) (market dependent)",
+        "Stand-by": "Up to 370 h (3G)",
+        "Talk time": "Up to 17 h (3G)",
+        "Music play": "Up to 62 h"
+      },
+      "Misc": {
+        "Colors": "White Frost, Black Mist (I9506)/ Arctic Blue, Red Aurora, rose gold white, rose gold black, deep black (SHV-E330S)",
+        "Models": "SHV-E330S, GT-i9506, GT-I9506, GT-I9507V, SHV-E330K, SHV-E300S",
+        "SAR": "0.93 W/kg (head) &nbsp; &nbsp; 1.39 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.39 W/kg (head) &nbsp; &nbsp; 0.44 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 390 EUR"
+      },
+      "Our Tests": {
+        "Performance": "Basemark OS II 2.0: 1105"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s4-i9500-white.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-shv-e330s-galaxy-s4-lte-a.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-shv-e330s-galaxy-s4-lte-a1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_i9506_galaxy_s4-pictures-5542.php"
+    }
+  }
+}

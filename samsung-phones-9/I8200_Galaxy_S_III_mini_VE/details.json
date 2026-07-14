@@ -1,0 +1,95 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung I8200 Galaxy S III mini VE",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s3-mini-value-edition-i8200-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s3-mini-value-edition-i8200.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2014, March",
+    "dimensions": "112g, 9.9mm thickness",
+    "os": "Android 4.2.2",
+    "storage": "8GB/16GB storage, microSDHC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 900 / 1900 / 2100",
+        "Speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "Launch": {
+        "Announced": "2014, March. Released 2014, March",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "121.6 x 63 x 9.9 mm (4.79 x 2.48 x 0.39 in)",
+        "Weight": "112 g (3.95 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "Super AMOLED",
+        "Size": "4.0 inches, 45.5 cm<sup>2</sup> (~59.4% screen-to-body ratio)",
+        "Resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 4.2.2 (Jelly Bean)",
+        "CPU": "1.2 GHz dual-core Cortex-A9"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Internal": "8GB 1GB RAM, 16GB 1GB RAM"
+      },
+      "Main Camera": {
+        "Single": "5 MP, AF",
+        "Features": "LED flash, panorama",
+        "Video": "720p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "VGA",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, hotspot",
+        "Bluetooth": "4.0, A2DP, EDR, LE, aptX",
+        "Positioning": "GPS, GLONASS",
+        "NFC": "Yes (I8200N only)",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Ion 1500 mAh, removable",
+        "Stand-by": "Up to 320 h (3G)",
+        "Talk time": "Up to 8 h (3G)",
+        "Music play": "Up to 57 h"
+      },
+      "Misc": {
+        "Colors": "White, Blue, Gray, Black",
+        "Models": "GT-I8200, GT-I8200N, GT-I8200L",
+        "SAR": "1.14 W/kg (head) &nbsp; &nbsp; 1.24 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.64 W/kg (head) &nbsp; &nbsp; 0.53 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 180 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s3-mini-value-edition-i8200-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s3-mini-value-edition-i8200-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s3-mini-value-edition-i8200-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_i8200_galaxy_s_iii_mini_ve-pictures-6190.php"
+    }
+  }
+}

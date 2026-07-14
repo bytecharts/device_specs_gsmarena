@@ -1,0 +1,97 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Apple Watch Series 10",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/apple/apple-watch-series10-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/apple-watch-series10.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2024, September 20",
+    "dimensions": "34.4g (42mm), 41.7g (46mm), 9.7mm thickness",
+    "os": "watchOS 11, up to watchOS 26.5",
+    "storage": "64GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - International, China, HK",
+        "4G bands": "1, 2, 3, 4, 5, 6, 7, 8, 18, 19, 20, 25, 26, 28, 39, 40, 41, 66 - International, China, HK",
+        "Speed": "HSPA, LTE",
+        "Features": "HSDPA 850 / 1700(AWS) / 1900 / 2100 - USA, LATAM, Canada\n1, 2, 3, 4, 5, 6, 7, 12, 13, 14, 17, 18, 19, 25, 26, 39, 40, 41, 66 - USA, LATAM, Canada"
+      },
+      "Launch": {
+        "Announced": "2024, September 09",
+        "Status": "Available. Released 2024, September 20"
+      },
+      "Body": {
+        "Dimensions": "46 x 39 x 9.7 mm (1.81 x 1.54 x 0.38 in)",
+        "Weight": "34.4 g (42mm), 41.7 g (46mm) (1.48 oz)",
+        "Build": "Sapphire crystal front, ceramic/sapphire crystal back, titanium frame (grade 5)",
+        "SIM": "<a href=\"glossary.php3?term=esim\">eSIM</a>",
+        "Features": "IP6X certified\n\n50m water resistant\n\nECG certified (region dependent SW application; HW available on all models)\n\nDepth gauge to 6m"
+      },
+      "Display": {
+        "Type": "Retina LTPO3 OLED, 2000 nits (peak)",
+        "Size": "1.96 inches",
+        "Resolution": "496 x 416 pixels (~330 ppi density)",
+        "Protection": "Sapphire crystal glass",
+        "Features": "Wide-angle OLED"
+      },
+      "Platform": {
+        "OS": "watchOS 11, up to watchOS 26.5, planned upgrade to watchOS 27",
+        "Chipset": "Apple S10",
+        "CPU": "Dual-core",
+        "GPU": "PowerVR"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "64GB"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, dual-band",
+        "Bluetooth": "5.3, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, QZSS, BDS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, heart rate, barometer, always-on altimeter, compass, SpO2, VO2max, temperature (body), temperature (water)",
+        "Features": "Temperature sensing (0.01˚ accuracy)\n\nUltra Wideband (UWB) support (gen2 chip)\n\nMedia playback"
+      },
+      "Battery": {
+        "Type": "Li-Ion 327 mAh",
+        "Charging": "Wireless, 0-80% in 30 min"
+      },
+      "Misc": {
+        "Colors": "Slate, Gold, Natural",
+        "Models": "A3001, A3002, A3003, A3206",
+        "SAR": "1.08 W/kg (head) &nbsp; &nbsp;",
+        "SAR EU": "0.26 W/kg (head) &nbsp; &nbsp; 0.83 W/kg (body) &nbsp; &nbsp;",
+        "Price": "<a href=\"apple_watch_series_10-price-13318.php\">€ 499.00</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-watch-series10-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-watch-series10-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-watch-series10-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-watch-series10-4.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/apple_watch_series_10-pictures-13318.php"
+    }
+  }
+}

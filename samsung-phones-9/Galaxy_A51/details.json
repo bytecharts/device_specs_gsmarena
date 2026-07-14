@@ -1,0 +1,112 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy A51",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a51-sm-a515-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a51-sm-a515.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_galaxy_a51-review-2057.php",
+    "siblingDeviceSlugs": [
+      "samsung_galaxy_a51_5g-10157"
+    ],
+    "release_date": "Released 2019, December 16",
+    "dimensions": "172g, 7.9mm thickness",
+    "os": "Android 10, up to Android 13, One UI 5",
+    "storage": "64GB/128GB/256GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 20, 26, 28, 38, 40, 41, 66",
+        "Speed": "HSPA, LTE",
+        "Features": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100\n2, 4, 5, 12, 13, 25, 26, 41, 66, 71 - SM-A515U"
+      },
+      "Launch": {
+        "Announced": "2019, December 12. Released 2019, December 16",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "158.5 x 73.6 x 7.9 mm (6.24 x 2.90 x 0.31 in)",
+        "Weight": "172 g (6.07 oz)",
+        "Build": "Glass front (Gorilla Glass 3), plastic back, plastic frame",
+        "SIM": "· Nano-SIM\n· Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "Super AMOLED",
+        "Size": "6.5 inches, 102.0 cm<sup>2</sup> (~87.4% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~405 ppi density)",
+        "Protection": "Corning Gorilla Glass 3"
+      },
+      "Platform": {
+        "OS": "Android 10, upgradable to Android 13, One UI 5",
+        "Chipset": "Exynos 9611 (10 nm)",
+        "CPU": "Octa-core (4x2.3 GHz Cortex-A73 &amp; 4x1.7 GHz Cortex-A53)",
+        "GPU": "Mali-G72 MP3"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "64GB 4GB RAM, 64GB 6GB RAM, 128GB 4GB RAM, 128GB 6GB RAM, 128GB 8GB RAM, 256GB 6GB RAM, 256GB 8GB RAM",
+        "Features": "UFS 2.0"
+      },
+      "Main Camera": {
+        "Quad": "48 MP, f/2.0, 26mm (wide), 1/2.0\", 0.8µm, PDAF\n\n12 MP, f/2.2, 123˚ (ultrawide)\n\n5 MP (macro)\n\nAuxiliary lens",
+        "Features": "LED flash, panorama, HDR",
+        "Video": "4K@30fps, 1080p@30/120fps; gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.2, 26mm (wide), 1/2.8\", 0.8µm",
+        "Features": "HDR",
+        "Video": "4K@30fps, 1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS",
+        "NFC": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, compass",
+        "Features": "Virtual proximity sensing\n\nANT+"
+      },
+      "Battery": {
+        "Type": "Li-Po 4000 mAh, non-removable",
+        "Charging": "15W wired"
+      },
+      "Misc": {
+        "Colors": "Prism Crush Black, Prism Crush White, Prism Crush Blue, Prism Crush Pink",
+        "Models": "SM-A515F, SM-A515F/DSN, SM-A515F/DS, SM-A515F/DST, SM-A515F/DSM, SM-A515F/N, SM-A515U, SM-A515U1, SM-A515W, SM-A515X, SM-S515DL",
+        "SAR": "0.80 W/kg (head) &nbsp; &nbsp; 0.67 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.37 W/kg (head) &nbsp; &nbsp; 1.59 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 100 EUR"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 113051 (v7), 175363 (v8)\n\nGeekBench: 5401 (v4.4), 1294 (v5.1)\n\nGFXBench: 5.6fps (ES 3.1 onscreen)",
+        "Display": "<a class=\"noUnd\" href=\"samsung_galaxy_a51-review-2057p3.php\">636 nits max brightness (measured)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=9963&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=9963&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"samsung_galaxy_a51-review-2057p3.php#lt\">-28.6 LUFS (Average)</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"samsung_galaxy_a51-review-2057p3.php#aq\">Noise -93.1dB / Crosstalk -87.3dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 9963); \">Endurance rating 86h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a51-sm-a515-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a51-sm-a515-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_a51-pictures-9963.php"
+    }
+  }
+}

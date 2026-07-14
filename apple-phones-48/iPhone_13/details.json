@@ -1,0 +1,116 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Apple iPhone 13",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-13-01.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/apple_iphone_13-review-2325.php",
+    "siblingDeviceSlugs": [
+      "apple_iphone_13_pro-11102"
+    ],
+    "release_date": "Released 2021, September 24",
+    "dimensions": "174g, 7.7mm thickness",
+    "os": "iOS 15, up to iOS 26.5",
+    "storage": "128GB/256GB/512GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / EVDO / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 30, 32, 34, 38, 39, 40, 41, 42, 46, 48, 66 - A2633, A2634, A2635",
+        "5G bands": "1, 2, 3, 5, 7, 8, 12, 20, 25, 28, 29, 30, 38, 40, 41, 48, 66, 71, 77, 78, 79 Sub6/mmWave - A2633",
+        "Speed": "HSPA, LTE, 5G, EV-DO Rev.A 3.1 Mbps",
+        "Features": "CDMA 800 / 1900\nCDMA2000 1xEV-DO\n1, 2, 3, 4, 5, 7, 8, 11, 12, 13, 14, 17, 18, 19, 20, 21, 25, 26, 28, 29, 30, 32, 34, 38, 39, 40, 41, 42, 46, 48, 66, 71 - A2482, A2631\n1, 2, 3, 5, 7, 8, 12, 20, 25, 28, 29, 30, 38, 40, 41, 48, 66, 71, 77, 78, 79, 258, 260, 261 SA/NSA/Sub6/mmWave - A2482\n1, 2, 3, 5, 7, 8, 12, 20, 25, 28, 29, 30, 38, 40, 41, 48, 66, 71, 77, 78, 79 SA/NSA/Sub6 - A2631\n1, 2, 3, 5, 7, 8, 12, 20, 25, 28, 30, 38, 40, 41, 48, 66, 77, 78, 79 SA/NSA/Sub6 - A2634, A2635"
+      },
+      "Launch": {
+        "Announced": "2021, September 14",
+        "Status": "Available. Released 2021, September 24"
+      },
+      "Body": {
+        "Dimensions": "146.7 x 71.5 x 7.7 mm (5.78 x 2.81 x 0.30 in)",
+        "Weight": "174 g (6.14 oz)",
+        "Build": "Glass front, glass back, aluminum frame",
+        "SIM": "· Nano-SIM + <a href=\"glossary.php3?term=esim\">eSIM</a>\n· Nano-SIM + Nano-SIM",
+        "Features": "IP68 dust tight and water resistant (immersible up to 6m for 30 min)\n\nApple Pay (Visa, MasterCard, AMEX certified)"
+      },
+      "Display": {
+        "Type": "Super Retina XDR OLED, HDR10, Dolby Vision, 800 nits (HBM), 1200 nits (peak)",
+        "Size": "6.1 inches, 90.2 cm<sup>2</sup> (~86.0% screen-to-body ratio)",
+        "Resolution": "1170 x 2532 pixels, 19.5:9 ratio (~460 ppi density)",
+        "Protection": "Ceramic Shield glass"
+      },
+      "Platform": {
+        "OS": "iOS 15, upgradable to iOS 26.5",
+        "Chipset": "Apple A15 Bionic (5 nm)",
+        "CPU": "Hexa-core (2x3.23 GHz Avalanche + 4x1.82 GHz Blizzard)",
+        "GPU": "Apple GPU (4-core graphics)"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 4GB RAM, 256GB 4GB RAM, 512GB 4GB RAM",
+        "Features": "NVMe"
+      },
+      "Main Camera": {
+        "Dual": "12 MP, f/1.6, 26mm (wide), 1/1.9\", 1.7µm, dual pixel PDAF, sensor-shift OIS\n\n12 MP, f/2.4, 120˚, 13mm (ultrawide), 1/3.4\", 1.0µm",
+        "Features": "Dual-LED dual-tone flash, HDR (photo/panorama)",
+        "Video": "4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec."
+      },
+      "Selfie camera": {
+        "Single": "12 MP, f/2.2, 23mm (wide), 1/3.6\", 1.0µm\n\nSL 3D, (depth/biometrics sensor)",
+        "Features": "HDR",
+        "Video": "4K@24/25/30/60fps, 1080p@25/30/60/120fps, gyro-EIS"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS, QZSS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "Lightning, USB 2.0"
+      },
+      "Features": {
+        "Sensors": "Face ID, accelerometer, gyro, proximity, compass, barometer",
+        "Features": "Ultra Wideband (UWB) support"
+      },
+      "Battery": {
+        "Type": "Li-Ion 3240 mAh (12.41 Wh)",
+        "Charging": "Wired, PD2.0, 50% in 30 min\n\n15W wireless (MagSafe)\n\n15W wireless (Qi2) - requires iOS 17.2 update"
+      },
+      "Misc": {
+        "Colors": "Starlight, Midnight, Blue, Pink, Red, Green",
+        "Models": "A2633, A2482, A2631, A2634, A2635, iphone14,5",
+        "SAR": "1.18 W/kg (head) &nbsp; &nbsp; 1.19 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.99 W/kg (head) &nbsp; &nbsp; 0.98 W/kg (body) &nbsp; &nbsp;",
+        "Price": "<a href=\"apple_iphone_13-price-11103.php\">₹ 79,900 / $ 248.46 / £ 214.00 / € 297.00</a>"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 775519 (v9)\n\nGeekBench: 4645 (v5.1)\n\nGFXBench: 59fps (ES 3.1 onscreen)",
+        "Display": "<a class=\"noUnd\" href=\"apple_iphone_13-review-2325p3.php#dt\">802 nits max brightness (measured)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=11103&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=11103&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"apple_iphone_13-review-2325p3.php#lt\">-25.5 LUFS (Very good)</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 11103); \">Endurance rating 89h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-13-01.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-13-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-13-5.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-13-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-13-4.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/apple_iphone_13-pictures-11103.php"
+    }
+  }
+}

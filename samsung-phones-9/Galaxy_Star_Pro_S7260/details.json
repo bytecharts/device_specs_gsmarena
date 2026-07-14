@@ -1,0 +1,93 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy Star Pro S7260",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/Samsung-Galaxy-Star-Pro-s7262.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/Samsung-Galaxy-Star-Pro-s7262.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2013, October",
+    "dimensions": "121g, 10.6mm thickness",
+    "os": "Android 4.1.2",
+    "storage": "4GB 512MB RAM storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - S7260",
+        "Speed": "No",
+        "GPRS": "Yes",
+        "EDGE": "Yes",
+        "Features": "GSM 850 / 900 / 1800 / 1900 - SIM 1 &amp; SIM 2 - S7262"
+      },
+      "Launch": {
+        "Announced": "2013, October. Released 2013, October",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "121.2 x 62.7 x 10.6 mm (4.77 x 2.47 x 0.42 in)",
+        "Weight": "121 g (4.27 oz)",
+        "SIM": "Single SIM (Micro-SIM) or Dual SIM (Micro-SIM, dual stand-by)"
+      },
+      "Display": {
+        "Type": "TFT",
+        "Size": "4.0 inches, 45.5 cm<sup>2</sup> (~59.9% screen-to-body ratio)",
+        "Resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 4.1.2 (Jelly Bean)",
+        "CPU": "1.0 GHz Cortex-A5"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Internal": "4GB 512MB RAM"
+      },
+      "Main Camera": {
+        "Single": "2 MP",
+        "Video": "240p@15fps"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+        "Bluetooth": "4.0, A2DP",
+        "Positioning": "No",
+        "NFC": "No",
+        "Radio": "Stereo FM radio, RDS, recording",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer"
+      },
+      "Battery": {
+        "Type": "Li-Ion 1500 mAh, removable",
+        "Stand-by": "Up to 370 h",
+        "Talk time": "Up to 15 h",
+        "Music play": "Up to 26 h"
+      },
+      "Misc": {
+        "Colors": "Black, White, Green, Orange, Red",
+        "Models": "GT-S7262",
+        "SAR EU": "0.50 W/kg (head) &nbsp; &nbsp; 0.31 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 90 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/Samsung-Galaxy-Star-Pro-s7262.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/Samsung-Galaxy-Star-Pro-s7262-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_star_pro_s7260-pictures-5749.php"
+    }
+  }
+}

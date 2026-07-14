@@ -1,0 +1,102 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy Tab S3 9.7",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-tab-s3-97-sm-t825-0.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-tab-s3-97-sm-t825.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_galaxy_tab_s3_9_7_hands_on-review-1573.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2017, April",
+    "dimensions": "429g (Wi-Fi)/ 434g (LTE), 6mm thickness",
+    "os": "Android 7.0, up to Android 9.0, One UI",
+    "storage": "32GB/128GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 17, 20, 28, 40",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE (2CA) Cat6 300/50 Mbps - cellular model only"
+      },
+      "Launch": {
+        "Announced": "2017, February. Released 2017, April",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "237.3 x 169 x 6 mm (9.34 x 6.65 x 0.24 in)",
+        "Weight": "429 g (Wi-Fi)/ 434 g (LTE) (15.13 oz)",
+        "Build": "Glass front, glass back, aluminum frame",
+        "SIM": "Nano-SIM (cellular model only)",
+        "Features": "Stylus"
+      },
+      "Display": {
+        "Type": "Super AMOLED",
+        "Size": "9.7 inches, 291.4 cm<sup>2</sup> (~72.7% screen-to-body ratio)",
+        "Resolution": "1536 x 2048 pixels, 4:3 ratio (~264 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 7.0 (Nougat), upgradable to Android 9.0 (Pie), One UI",
+        "Chipset": "Qualcomm MSM8996 Snapdragon 820 (14 nm)",
+        "CPU": "Quad-core (2x2.15 GHz Kryo &amp; 2x1.6 GHz Kryo)",
+        "GPU": "Adreno 530"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "32GB 4GB RAM, 128GB 4GB RAM"
+      },
+      "Main Camera": {
+        "Single": "13 MP, f/1.9, 27mm (wide), AF",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "4K@30fps"
+      },
+      "Selfie camera": {
+        "Single": "5 MP, f/2.2, 23mm (wide)",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers (4 speakers)",
+        "3.5mm jack": "Yes",
+        "Features": "Tuned by AKG/HARMAN"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "4.2, A2DP, LE",
+        "Positioning": "GPS, GLONASS, BDS, GALILEO - cellular model only",
+        "NFC": "No",
+        "Radio": "No",
+        "USB": "USB Type-C 3.1, magnetic connector"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (front-mounted), accelerometer, gyro, compass",
+        "Features": "ANT+"
+      },
+      "Battery": {
+        "Type": "Li-Po 6000 mAh, non-removable",
+        "Charging": "18W wired"
+      },
+      "Misc": {
+        "Colors": "White, black",
+        "Models": "SM-T820, SM-T825, SM-T825Y",
+        "SAR EU": "0.99 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 380 EUR"
+      },
+      "Our Tests": {
+        "Performance": "GFXBench: 13fps (ES 3.1 onscreen)"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-tab-s3-97-sm-t825-0.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-tab-s3-97-sm-t825-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_tab_s3_9_7-pictures-8554.php"
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy Watch Ultra",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-watch-ultra-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-watch-ultra.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_galaxy_watch_ultra-review-2737.php",
+    "siblingDeviceSlugs": [
+      "samsung_galaxy_watch8-13997",
+      "samsung_galaxy_watch8_classic-13998",
+      "samsung_galaxy_watch7-13128",
+      "samsung_galaxy_watch5_pro-11749"
+    ],
+    "release_date": "Released 2024, July 24",
+    "dimensions": "60.5g, 12.1mm thickness",
+    "os": "Android Wear OS 5, up to 6.0, One UI Watch 8",
+    "storage": "32GB/64GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 18, 19, 20, 25, 26, 28, 40, 66, 71",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2024, July 10",
+        "Status": "Available. Released 2024, July 24"
+      },
+      "Body": {
+        "Dimensions": "47.4 x 47.4 x 12.1 mm (1.87 x 1.87 x 0.48 in)",
+        "Weight": "60.5 g (2.15 oz)",
+        "Build": "Sapphire crystal front, ceramic/sapphire crystal back, titanium frame (grade 4)",
+        "SIM": "<a href=\"glossary.php3?term=esim\">eSIM</a>",
+        "Features": "IP68 dust tight and water resistant (immersible up to 100m/10ATM for 10 min)\n\nMIL-STD-810H compliant\n\nECG certified"
+      },
+      "Display": {
+        "Type": "Super AMOLED",
+        "Size": "1.5 inches",
+        "Resolution": "480 x 480 pixels (~327 ppi density)",
+        "Protection": "Sapphire crystal glass"
+      },
+      "Platform": {
+        "OS": "Android Wear OS 5, upgradable to 6.0, One UI Watch 8",
+        "Chipset": "Exynos W1000 (3 nm)",
+        "CPU": "Penta-core",
+        "GPU": "Mali-G68"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "32GB 2GB RAM, 64GB 2GB RAM"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band",
+        "Bluetooth": "5.3, A2DP, LE",
+        "Positioning": "GPS (L1+L5), GLONASS, GALILEO, BDS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, heart rate, barometer, altimeter, compass, SpO2, temperature (body), temperature (water), BioActive"
+      },
+      "Battery": {
+        "Type": "Li-Ion 590 mAh",
+        "Charging": "10W wireless"
+      },
+      "Misc": {
+        "Colors": "Titanium Sliver, Titanium Gray, Titanium White, Titanium Blue",
+        "Models": "SM-L705F, SM-L705N, SM-L705U",
+        "SAR EU": "0.11 W/kg (head) &nbsp; &nbsp; 0.36 W/kg (body) &nbsp; &nbsp;",
+        "Price": "<a href=\"samsung_galaxy_watch_ultra-price-13127.php\">€ 365.90</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-watch-ultra-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-watch-ultra-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-watch-ultra-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-watch-ultra-4.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-watch-ultra-5.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_watch_ultra-pictures-13127.php"
+    }
+  }
+}

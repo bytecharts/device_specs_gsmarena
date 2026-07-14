@@ -1,0 +1,96 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy Grand Prime Duos TV",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-gran-prime-duos-tv-sm-g530bt-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-gran-prime-duos-tv-sm-g530bt.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2014, October",
+    "dimensions": "152g, 8.6mm thickness",
+    "os": "Android 4.4.2",
+    "storage": "8GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 &amp; SIM 2",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "Speed": "HSPA"
+      },
+      "Launch": {
+        "Announced": "2014, October. Released 2014, October",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "144.7 x 72.4 x 8.6 mm (5.70 x 2.85 x 0.34 in)",
+        "Weight": "152 g (5.36 oz)",
+        "SIM": "Dual SIM (Micro-SIM, dual stand-by)"
+      },
+      "Display": {
+        "Type": "TFT",
+        "Size": "5.0 inches, 68.9 cm<sup>2</sup> (~65.8% screen-to-body ratio)",
+        "Resolution": "540 x 960 pixels, 16:9 ratio (~220 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 4.4.2 (KitKat)",
+        "Chipset": "Qualcomm MSM8916 Snapdragon 410 (28 nm)",
+        "CPU": "Quad-core 1.2 GHz Cortex-A53",
+        "GPU": "Adreno 306"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "8GB 1GB RAM",
+        "Features": "eMMC 4.5"
+      },
+      "Main Camera": {
+        "Single": "8 MP, AF",
+        "Features": "LED flash",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "5 MP",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+        "Bluetooth": "4.0, A2DP",
+        "Positioning": "GPS",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity, compass",
+        "Features": "TV tuner"
+      },
+      "Battery": {
+        "Type": "Li-Ion 2600 mAh, removable",
+        "Talk time": "Up to 17 h (3G)"
+      },
+      "Misc": {
+        "Colors": "Black, White",
+        "Models": "SM-G530BT",
+        "SAR": "0.56 W/kg (head) &nbsp; &nbsp; 1.02 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.53 W/kg (head) &nbsp; &nbsp; 0.37 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 150 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-gran-prime-duos-tv-sm-g530bt-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-gran-prime-duos-tv-sm-g530bt-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_grand_prime_duos_tv-pictures-6790.php"
+    }
+  }
+}

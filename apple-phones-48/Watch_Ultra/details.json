@@ -1,0 +1,103 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Apple Watch Ultra",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/apple/apple-watch-ultra-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/apple-watch-ultra.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "apple_watch_ultra_2-12560",
+      "apple_watch_ultra_3-14130",
+      "apple_watch_series_8-11866",
+      "apple_watch_series_7-11146",
+      "apple_watch_series_11-14131",
+      "apple_watch_series_10-13318"
+    ],
+    "release_date": "Released 2022, September 23",
+    "dimensions": "61.3g, 14.4mm thickness",
+    "os": "watchOS 9.0, up to watchOS 26.5",
+    "storage": "32GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - International, China, HK",
+        "4G bands": "1, 2, 3, 4, 5, 6, 7, 8, 18, 19, 20, 25, 26, 28, 39, 40, 41, 66 - International, China, HK",
+        "Speed": "HSPA, LTE",
+        "Features": "HSDPA 850 / 1700(AWS) / 1900 / 2100 - USA, LATAM, Canada\n1, 2, 3, 4, 5, 6, 7, 12, 13, 14, 17, 18, 19, 25, 26, 39, 40, 41, 66 - USA, LATAM, Canada"
+      },
+      "Launch": {
+        "Announced": "2022, September 07",
+        "Status": "Available. Released 2022, September 23"
+      },
+      "Body": {
+        "Dimensions": "49 x 44 x 14.4 mm (1.93 x 1.73 x 0.57 in)",
+        "Weight": "61.3 g (2.15 oz)",
+        "Build": "Sapphire crystal front, ceramic/sapphire crystal back, titanium frame",
+        "SIM": "<a href=\"glossary.php3?term=esim\">eSIM</a>",
+        "Features": "IP6X certified \n\n100m water resistant (WR100)\n\n40m swimproof/diving (EN13319)\n\nMIL-STD-810H compliant\n\nECG certified (region dependent SW application; HW available on all models)"
+      },
+      "Display": {
+        "Type": "Retina LTPO OLED, 2000 nits (peak)",
+        "Size": "1.92 inches",
+        "Resolution": "502 x 410 pixels (~338 ppi density)",
+        "Protection": "Sapphire crystal glass"
+      },
+      "Platform": {
+        "OS": "watchOS 9.0, upgradable to watchOS 26.5",
+        "Chipset": "Apple S8",
+        "CPU": "Dual-core",
+        "GPU": "PowerVR"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "32GB"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with dual speakers (86-decibel)",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, dual-band",
+        "Bluetooth": "5.3, A2DP, LE",
+        "Positioning": "GPS (L1+L5), GLONASS, GALILEO, BDS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, heart rate, barometer, always-on altimeter, compass, SpO2, VO2max, temperature (body), temperature (water)",
+        "Features": "Temperature sensing (0.01˚ accuracy)\n\nDepth gauge (±1m accuracy)\n\nUltra Wideband (UWB) support"
+      },
+      "Battery": {
+        "Type": "Li-Ion 542 mAh",
+        "Charging": "Wireless, 0-80% in 60 min"
+      },
+      "Misc": {
+        "Colors": "Titanium",
+        "Models": "A2684, A2622, A2859, watch6,18",
+        "SAR EU": "0.35 W/kg (head) &nbsp; &nbsp; 0.60 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 550 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-watch-ultra-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-watch-ultra-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-watch-ultra-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-watch-ultra-4.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-watch-ultra-5.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/apple_watch_ultra-pictures-11827.php"
+    }
+  }
+}

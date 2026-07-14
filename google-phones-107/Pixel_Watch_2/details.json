@@ -1,0 +1,98 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Google Pixel Watch 2",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-watch-2-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-watch-2.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "google_pixel_watch_3-13253",
+      "google_pixel_watch-11546",
+      "google_pixel_watch_4-14088"
+    ],
+    "release_date": "Released 2023, October 12",
+    "dimensions": "31g, 12.3mm thickness",
+    "os": "Android Wear OS 4, up to 7.0",
+    "storage": "32GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "LTE",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2023, October 04",
+        "Status": "Available. Released 2023, October 12"
+      },
+      "Body": {
+        "Dimensions": "41 x 41 x 12.3 mm (1.61 x 1.61 x 0.48 in)",
+        "Weight": "31 g (1.09 oz)",
+        "Build": "Glass front (Gorilla Glass 5), aluminum frame",
+        "SIM": "<a href=\"glossary.php3?term=esim\">eSIM</a>",
+        "Features": "IP68 dust tight and water resistant (immersible up to 50m/5ATM)\n\nECG certified"
+      },
+      "Display": {
+        "Type": "AMOLED, 1000 nits (peak)",
+        "Size": "1.2 inches",
+        "Resolution": "450 x 450 pixels (~320 ppi density)",
+        "Protection": "Corning Gorilla Glass 5"
+      },
+      "Platform": {
+        "OS": "Android Wear OS 4, up to 7.0",
+        "Chipset": "Qualcomm 5100"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "32GB 2GB RAM",
+        "Features": "eMMC"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS, QZSS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, heart rate, altimeter, compass, SpO2, thermometer (skin temperature), skin conductance",
+        "Features": "Ultra Wideband (UWB) support"
+      },
+      "Battery": {
+        "Type": "Li-Ion 306 mAh",
+        "Charging": "Wired, 80% in 45 min"
+      },
+      "Misc": {
+        "Colors": "Polished Silver, Matte Black, Champagne Gold",
+        "Models": "G4TSL, GC3G8, GD2WG",
+        "Price": "About 160 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-watch-2-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-watch-2-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-watch-2-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-watch-2-4.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-watch-2-5.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-watch-2-6.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/google_pixel_watch_2-pictures-12547.php"
+    }
+  }
+}

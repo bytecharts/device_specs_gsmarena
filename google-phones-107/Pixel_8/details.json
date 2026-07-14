@@ -1,0 +1,119 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Google Pixel 8",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-8-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-8.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/google_pixel_8-review-2628.php",
+    "siblingDeviceSlugs": [
+      "google_pixel_8a-12937",
+      "google_pixel_8_pro-12545",
+      "google_pixel_7-11903",
+      "google_pixel_9-13219",
+      "google_pixel_7_pro-11908",
+      "google_pixel_10_5g-13979",
+      "google_pixel_10_pro_5g-13987",
+      "google_pixel_10a_5g-14474",
+      "google_pixel_10_pro_xl_5g-13988"
+    ],
+    "release_date": "Released 2023, October 12",
+    "dimensions": "187g, 8.9mm thickness",
+    "os": "Android 14, up to 16",
+    "storage": "128GB/256GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 17, 18, 19, 20, 25, 26, 28, 29, 30, 38, 40, 41, 46, 48, 66, 71 - GKWS6, G9BQD",
+        "5G bands": "1, 2, 3, 5, 7, 8, 12, 20, 25, 26, 28, 29, 30, 38, 40, 41, 48, 66, 70, 71, 77, 78, 258, 260, 261 SA/NSA/Sub6/mmWave - GKWS6",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "1, 2, 3, 5, 7, 8, 12, 20, 25, 26, 28, 29, 30, 38, 40, 41, 48, 66, 70, 71, 77, 78 SA/NSA/Sub6 - G9BQD"
+      },
+      "Launch": {
+        "Announced": "2023, October 04",
+        "Status": "Available. Released 2023, October 12"
+      },
+      "Body": {
+        "Dimensions": "150.5 x 70.8 x 8.9 mm (5.93 x 2.79 x 0.35 in)",
+        "Weight": "187 g (6.60 oz)",
+        "Build": "Glass front (Gorilla Glass Victus), glass back (Gorilla Glass Victus), aluminum frame",
+        "SIM": "Nano-SIM + <a href=\"glossary.php3?term=esim\">eSIM</a>",
+        "Features": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)"
+      },
+      "Display": {
+        "Type": "OLED, 120Hz, HDR10+, 1400 nits (HBM), 2000 nits (peak)",
+        "Size": "6.2 inches, 91.1 cm<sup>2</sup> (~85.5% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~428 ppi density)",
+        "Protection": "Corning Gorilla Glass Victus"
+      },
+      "Platform": {
+        "OS": "Android 14, upgradable to Android 16, up to 7 major Android upgrades",
+        "Chipset": "Google Tensor G3 (4 nm)",
+        "CPU": "Nona-core (1x2.91 GHz Cortex-X3 &amp; 4x2.37 GHz Cortex-A715 &amp; 4x1.70 GHz Cortex-A510)",
+        "GPU": "Mali-G715 MP7"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 8GB RAM, 256GB 8GB RAM",
+        "Features": "UFS 3.1"
+      },
+      "Main Camera": {
+        "Dual": "50 MP (12 MP eff.), f/1.7, 25mm (wide), 1/1.31\", 1.2µm, dual pixel PDAF, OIS\n\n12 MP, f/2.2, 126˚ (ultrawide), 1/2.9\", 1.25µm, AF",
+        "Features": "Laser AF, Dual-LED flash, Pixel Shift, Ultra HDR, panorama, Best Take",
+        "Video": "4K@24/30/60fps, 1080p@30/60/120/240fps; gyro-EIS, OIS, 10-bit HDR"
+      },
+      "Selfie camera": {
+        "Single": "10.5 MP, f/2.2, 20mm (ultrawide), 1/3.1\", 1.22µm",
+        "Features": "HDR, panorama",
+        "Video": "4K@24/30/60fps, 1080p@30/60fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct",
+        "Bluetooth": "5.3, A2DP, LE, aptX HD",
+        "Positioning": "GPS (L1+L5), GLONASS (G1), GALILEO (E1+E5a), QZSS (L1+L5)",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 3.2"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, barometer"
+      },
+      "Battery": {
+        "Type": "Li-Ion 4575 mAh",
+        "Charging": "27W wired, PD3.0, PPS, 50% in 30 min\n\n18W wireless\n\nReverse wireless\n\nBypass charging"
+      },
+      "Misc": {
+        "Colors": "Obsidian, Hazel, Rose, Mint",
+        "Models": "GKWS6, G9BQD, GA04851-US, GZPFO, GPJ41",
+        "Price": "<a href=\"google_pixel_8-price-12546.php\">₹ 37,999 / $ 251.99 / £ 228.99 / € 249.99</a>"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 926801 (v9), 1158631 (v10)\n\nGeekBench: 3526 (v5), 4404 (v6)\n\nGFXBench: 73fps (ES 3.1 onscreen)",
+        "Display": "<a class=\"noUnd\" href=\"google_pixel_8-review-2628p3.php\">1446 nits max brightness (measured)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=12546&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=12546&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"google_pixel_8-review-2628p3.php#lt\">-26.0 LUFS (Very good)</a>",
+        "Battery": "<div style=\"position:relative;\">\n<a href=\"google_pixel_8-review-2628p3.php#bt\" data-battery2=\"22:36_9:55_13:56_7:09\" onclick=\"showBatteryPopup(event, 12546); \" class=\"v2\">Active use score 11:17h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 12546); \">Endurance rating 83h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-8-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-8-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/google_pixel_8-pictures-12546.php"
+    }
+  }
+}

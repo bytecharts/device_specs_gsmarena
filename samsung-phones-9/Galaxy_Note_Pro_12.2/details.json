@@ -1,0 +1,106 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy Note Pro 12.2",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-note-pro-122-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-note-pro-122.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_galaxy_note_pro_12_2-review-1041.php",
+    "siblingDeviceSlugs": [
+      "samsung_galaxy_tab_pro_12_2-6212"
+    ],
+    "release_date": "Released 2014, February",
+    "dimensions": "750g, 8mm thickness",
+    "os": "Android 4.4, TouchWiz UI",
+    "storage": "32GB/64GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">No cellular connectivity</a>",
+        "2G bands": "N/A",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2014, January. Released 2014, February",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "295.6 x 203.9 x 8 mm (11.64 x 8.03 x 0.31 in)",
+        "Weight": "750 g (1.65 lb)",
+        "SIM": "No",
+        "Features": "Stylus"
+      },
+      "Display": {
+        "Type": "Super clear LCD",
+        "Size": "12.2 inches, 431.6 cm<sup>2</sup> (~71.6% screen-to-body ratio)",
+        "Resolution": "2560 x 1600 pixels, 16:10 ratio (~247 ppi density)",
+        "Protection": "Corning Gorilla Glass 3"
+      },
+      "Platform": {
+        "OS": "Android 4.4 (KitKat), TouchWiz UI",
+        "Chipset": "Exynos 5420 Octa (28 nm)",
+        "CPU": "Octa-core (4x1.9 GHz Cortex-A15 &amp; 4x1.3 GHz Cortex-A7)",
+        "GPU": "Mali-T628 MP6"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "32GB 3GB RAM, 64GB 3GB RAM"
+      },
+      "Main Camera": {
+        "Single": "8 MP, AF",
+        "Features": "LED flash",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "2 MP",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+        "Bluetooth": "4.0, A2DP",
+        "Positioning": "GPS, GLONASS",
+        "NFC": "No",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "microUSB 3.0 (MHL TV-out), OTG"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, compass"
+      },
+      "Battery": {
+        "Type": "Li-Ion 9500 mAh, non-removable",
+        "Talk time": "Up to 12 h (multimedia)",
+        "Music play": "Up to 131 h"
+      },
+      "Misc": {
+        "Colors": "Black, White",
+        "Models": "SM-P900",
+        "SAR": "1.01 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 540 EUR"
+      },
+      "Our Tests": {
+        "Performance": "Basemark X: 855",
+        "Display": "<a class=\"noUnd\" href=\"samsung_galaxy_note_pro_12_2-review-1041p2.php\">Contrast ratio: 911:1 (nominal)</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"samsung_galaxy_note_pro_12_2-review-1041p8.php\">Voice 73dB / Noise 66dB / Ring 75dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"samsung_galaxy_note_pro_12_2-review-1041p8.php#aq\">Noise -95.1dB / Crosstalk -92.4dB</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-note-pro-122-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-note-pro-122.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_note_pro_12_2-pictures-6048.php"
+    }
+  }
+}

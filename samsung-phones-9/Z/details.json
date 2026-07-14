@@ -1,0 +1,101 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Z",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/Samsung-Z.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/Samsung-Z.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "samsung_galaxy_a57_5g-14379",
+      "samsung_galaxy_s26_ultra_5g-14320",
+      "samsung_galaxy_a17_5g-14041",
+      "samsung_galaxy_a27_5g-14606",
+      "samsung_galaxy_m47_5g-14749",
+      "samsung_galaxy_a07-14066"
+    ],
+    "release_date": "Released 2014, Q3",
+    "dimensions": "136g, 8.5mm thickness",
+    "os": "Tizen 2.2.1",
+    "storage": "16GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA",
+        "4G bands": "LTE",
+        "Speed": "HSPA, LTE Cat4 150/50 Mbps",
+        "GPRS": "Yes",
+        "EDGE": "Yes"
+      },
+      "Launch": {
+        "Announced": "2014, June. Released 2014, Q3",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "138.2 x 69.8 x 8.5 mm (5.44 x 2.75 x 0.33 in)",
+        "Weight": "136 g (4.80 oz)",
+        "SIM": "Micro-SIM"
+      },
+      "Display": {
+        "Type": "Super AMOLED",
+        "Size": "4.8 inches, 63.5 cm<sup>2</sup> (~65.8% screen-to-body ratio)",
+        "Resolution": "720 x 1280 pixels, 16:9 ratio (~306 ppi density)"
+      },
+      "Platform": {
+        "OS": "Tizen 2.2.1",
+        "CPU": "Quad-core 2.3 GHz"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "16GB 2GB RAM"
+      },
+      "Main Camera": {
+        "Single": "8 MP, AF",
+        "Features": "LED flash",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Single": "2.1 MP",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, hotspot",
+        "Bluetooth": "4.0, A2DP, EDR, LE",
+        "Positioning": "GPS, GLONASS",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (front-mounted), accelerometer, gyro, proximity, compass, barometer, heart rate",
+        "Features": "SNS integration\n\nMP4/WMV/H.264 player\n\nMP3/WAV/eAAC+/WMA/FLAC player\n\nOrganizer\n\nPhoto viewer\n\nDocument viewer\n\nVoice memo/dial\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Li-Ion 2600 mAh, removable"
+      },
+      "Misc": {
+        "Colors": "Black, Black/brown",
+        "Models": "SM-Z910F",
+        "SAR": "0.96 W/kg (head) &nbsp; &nbsp; 1.33 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.73 W/kg (head) &nbsp; &nbsp; 0.30 W/kg (body) &nbsp; &nbsp;"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/Samsung-Z.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_z-pictures-6403.php"
+    }
+  }
+}

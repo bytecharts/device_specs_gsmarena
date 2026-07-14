@@ -1,0 +1,101 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Apple iPad 3 Wi-Fi",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/apple/ipad-3-001.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/apple-ipad-3-new.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/apple_ipad_3-review-739.php",
+    "siblingDeviceSlugs": [
+      "apple_ipad_2_wi_fi-3847",
+      "apple_ipad_4_wi_fi-5072"
+    ],
+    "release_date": "Released 2012, March 16",
+    "dimensions": "652g, 9.4mm thickness",
+    "os": "iOS 5.1, up to iOS 9.3.5",
+    "storage": "16GB/32GB/64GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">No cellular connectivity</a>",
+        "2G bands": "N/A",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2012, March. Released 2012, March 16",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "241.2 x 185.7 x 9.4 mm (9.50 x 7.31 x 0.37 in)",
+        "Weight": "652 g (1.44 lb)",
+        "SIM": "No"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "9.7 inches, 291.4 cm<sup>2</sup> (~65.1% screen-to-body ratio)",
+        "Resolution": "1536 x 2048 pixels, 4:3 ratio (~264 ppi density)",
+        "Protection": "Scratch-resistant glass, oleophobic coating"
+      },
+      "Platform": {
+        "OS": "iOS 5.1, upgradable to iOS 9.3.5",
+        "Chipset": "Apple A5X (45 nm)",
+        "CPU": "Dual-core 1.0 GHz Cortex-A9",
+        "GPU": "PowerVR SGX543MP4 (quad-core graphics)"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "16GB 1GB RAM, 32GB 1GB RAM, 64GB 1GB RAM"
+      },
+      "Main Camera": {
+        "Single": "5 MP, AF",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "VGA, videocalling over Wi-Fi only",
+        "Video": "480p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band",
+        "Bluetooth": "4.0, A2DP",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": "2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, compass"
+      },
+      "Battery": {
+        "Type": "Non-removable Li-Po 11560 mAh battery (42.5 Wh)",
+        "Stand-by": "Up to 720 h",
+        "Talk time": "Up to 10 h"
+      },
+      "Misc": {
+        "Colors": "Black, White",
+        "Models": "A1416, iPad3,1",
+        "Price": "About 290 EUR"
+      },
+      "Our Tests": {
+        "Display": "<a class=\"noUnd\" href=\"apple_ipad_3-review-739p3.php\">Contrast ratio: 779:1 (nominal)</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"apple_ipad_3-review-739p5.php\">Voice 66dB / Noise 66dB / Ring 77dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"apple_ipad_3-review-739p6.php\">Noise -90.9dB / Crosstalk -92.7dB</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/apple/ipad-3-001.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/apple/ipad-3-000.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/apple_ipad_3_wi_fi-pictures-4621.php"
+    }
+  }
+}

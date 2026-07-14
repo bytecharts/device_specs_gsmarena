@@ -1,0 +1,98 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy Tab 3 Lite 7.0",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-tab-3-lite-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-tab-3-lite.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_galaxy_tab_3_lite_70-review-1046.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2014, February",
+    "dimensions": "310g, 9.7mm thickness",
+    "os": "Android 4.2",
+    "storage": "8GB storage, microSDHC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">No cellular connectivity</a>",
+        "2G bands": "",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2014, January. Released 2014, February",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "193.4 x 116.4 x 9.7 mm (7.61 x 4.58 x 0.38 in)",
+        "Weight": "310 g (10.93 oz)",
+        "SIM": "No"
+      },
+      "Display": {
+        "Type": "TFT",
+        "Size": "7.0 inches, 137.9 cm<sup>2</sup> (~61.3% screen-to-body ratio)",
+        "Resolution": "600 x 1024 pixels, 16:9 ratio (~170 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 4.2 (Jelly Bean)",
+        "Chipset": "Marvell PXA986",
+        "CPU": "Dual-core 1.2 GHz",
+        "GPU": "Vivante GC1000"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Internal": "8GB 1GB RAM"
+      },
+      "Main Camera": {
+        "Single": "2 MP",
+        "Video": "480p@24fps"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+        "Bluetooth": "4.0, LE",
+        "Positioning": "GPS, GLONASS",
+        "NFC": "No",
+        "Radio": "No",
+        "USB": "2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer"
+      },
+      "Battery": {
+        "Type": "Li-Ion 3600 mAh, non-removable",
+        "Talk time": "Up to 8 h (multimedia)",
+        "Music play": "Up to 200 h"
+      },
+      "Misc": {
+        "Colors": "White, Black, Green, Pink, Yellow",
+        "Models": "SM-T110",
+        "SAR": "1.10 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.83 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 150 EUR"
+      },
+      "Our Tests": {
+        "Display": "<a class=\"noUnd\" href=\"samsung_galaxy_tab_3_lite_70-review-1046p2.php\">Contrast ratio: 574 (nominal)</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"samsung_galaxy_tab_3_lite_70-review-1046p6.php#aq\">Noise -93.7dB / Crosstalk -93.9dB</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-tab-3-lite-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-tab-3-lite-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_tab_3_lite_7_0-pictures-5969.php"
+    }
+  }
+}

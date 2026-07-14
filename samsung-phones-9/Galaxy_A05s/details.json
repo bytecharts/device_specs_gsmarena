@@ -1,0 +1,104 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy A05s",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a05s-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a05s.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_galaxy_a05s-review-2646.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2023, October 18",
+    "dimensions": "194g, 8.8mm thickness",
+    "os": "Android 13, up to 2 major upgrades, One UI 7",
+    "storage": "64GB/128GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "1, 3, 5, 7, 8, 20, 28, 38, 40, 41",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2023, September 25",
+        "Status": "Available. Released 2023, October 18"
+      },
+      "Body": {
+        "Dimensions": "168 x 77.8 x 8.8 mm (6.61 x 3.06 x 0.35 in)",
+        "Weight": "194 g (6.84 oz)",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "· Nano-SIM\n· Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "PLS LCD, 90Hz",
+        "Size": "6.7 inches, 108.4 cm<sup>2</sup> (~82.9% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~393 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 13, up to 2 major Android upgrades, One UI 7",
+        "Chipset": "Qualcomm SM6225 Snapdragon 680 4G (6 nm)",
+        "CPU": "Octa-core (4x2.4 GHz Kryo 265 Gold &amp; 4x1.9 GHz Kryo 265 Silver)",
+        "GPU": "Adreno 610"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "64GB 4GB RAM, 128GB 4GB RAM, 128GB 6GB RAM",
+        "Features": "eMMC 5.1"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, f/1.8, (wide), 1/2.8\", 0.64µm, AF\n\n2 MP (macro)\n\nAuxiliary lens",
+        "Features": "LED flash",
+        "Video": "1080p@30/60fps"
+      },
+      "Selfie camera": {
+        "Single": "13 MP, f/2.0, (wide), 1/3.X\", 1.12µm",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.1, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS, QZSS",
+        "NFC": "Yes (market/region dependent)",
+        "Radio": "Unspecified",
+        "USB": "USB Type-C 2.0"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, proximity"
+      },
+      "Battery": {
+        "Type": "Li-Po 5000 mAh",
+        "Charging": "25W wired"
+      },
+      "Misc": {
+        "Colors": "Black, Silver, Light Green, Violet",
+        "Models": "SM-A057F, SM-A057F/DS, SM-A057M, SM-A057M/DS, SM-A057G/DSN, SM-A057G",
+        "SAR EU": "0.58 W/kg (head) &nbsp; &nbsp; 1.31 W/kg (body) &nbsp; &nbsp;",
+        "Price": "<a href=\"samsung_galaxy_a05s-price-12584.php\">₹ 13,990 / £ 94.99 / € 129.80</a>"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 264654 (v9), 316956 (v10)\n\nGeekBench: 1457 (v5), 1449 (v6)\n\nGFXBench: 7fps (ES 3.1 onscreen)",
+        "Display": "<a class=\"noUnd\" href=\"samsung_galaxy_a05s-review-2646p3.php#dt\">1418:1 contrast ratio, 468 nits max brightness (measured)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=12584&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=12584&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"samsung_galaxy_a05s-review-2646p3.php#lt\">-30.0 LUFS (Average)</a>",
+        "Battery": "<div style=\"position:relative;\">\n<a href=\"samsung_galaxy_a05s-review-2646p3.php#bt\" data-battery2=\"38:02_10:06_12:17_7:19\" onclick=\"showBatteryPopup(event, 12584); \" class=\"v2\">Active use score 11:32h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a05s-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a05s-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_a05s-pictures-12584.php"
+    }
+  }
+}

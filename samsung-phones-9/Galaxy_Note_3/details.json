@@ -1,0 +1,124 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy Note 3",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-note-3-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-note-3.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_galaxy_note_3-review-996.php",
+    "siblingDeviceSlugs": [
+      "samsung_galaxy_note_4-6434",
+      "samsung_galaxy_note_3_neo-5961",
+      "samsung_galaxy_note5-7431",
+      "samsung_galaxy_note_ii_n7100-4854",
+      "samsung_galaxy_s5-6033",
+      "samsung_galaxy_a57_5g-14379",
+      "samsung_galaxy_s26_ultra_5g-14320",
+      "samsung_galaxy_a17_5g-14041",
+      "samsung_galaxy_a27_5g-14606",
+      "samsung_galaxy_m47_5g-14749",
+      "samsung_galaxy_a07-14066"
+    ],
+    "release_date": "Released 2013, September",
+    "dimensions": "168g, 8.3mm thickness",
+    "os": "Android 4.3, up to 4.4.2, up to 5.0",
+    "storage": "16GB/32GB/64GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / EVDO / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - all models",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100 - N9005, N9002, N9006",
+        "4G bands": "1, 3, 5, 7, 8, 20 - N9005",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+        "Features": "CDMA 800 / 1900 - N9009\nCDMA2000 1xEV-DO - N9009\nHSDPA 850 / 1900 / 2100 - N900W8\n2, 4 - N900W8"
+      },
+      "Launch": {
+        "Announced": "2013, September 04. Released 2013, September",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "151.2 x 79.2 x 8.3 mm (5.95 x 3.12 x 0.33 in)",
+        "Weight": "168 g (5.93 oz)",
+        "Build": "Glass front (Gorilla Glass 3), plastic back, plastic frame",
+        "SIM": "Micro-SIM",
+        "Features": "Stylus"
+      },
+      "Display": {
+        "Type": "Super AMOLED",
+        "Size": "5.7 inches, 89.6 cm<sup>2</sup> (~74.8% screen-to-body ratio)",
+        "Resolution": "1080 x 1920 pixels, 16:9 ratio (~386 ppi density)",
+        "Protection": "Corning Gorilla Glass 3"
+      },
+      "Platform": {
+        "OS": "Android 4.3 (Jelly Bean), upgradable to 4.4.2 (KitKat), upgradable to 5.0 (Lollipop)",
+        "Chipset": "Qualcomm Snapdragon 800 (28 nm) - N9005, N9002\nExynos 5420 Octa (28 nm) - N9000",
+        "CPU": "Quad-core 2.3 GHz Krait 400 - N9005, N9002\nOcta-core (4x1.9 GHz Cortex-A15 &amp; 4x1.3 GHz Cortex-A7) - N9000",
+        "GPU": "Adreno 330 - N9005, N9002\nMali-T628 MP6 - N9000"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "16GB 3GB RAM, 32GB 3GB RAM, 64GB 3GB RAM",
+        "Features": "eMMC 4.5"
+      },
+      "Main Camera": {
+        "Single": "13 MP, f/2.2, 31mm (standard), 1/3.1\", 1.12µm, AF",
+        "Features": "LED flash, panorama, HDR",
+        "Video": "4K@30fps, 1080p@60fps (N9005, N9002)/ 1080p (N9000)"
+      },
+      "Selfie camera": {
+        "Single": "2 MP, f/2.4, 27mm (wide)",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes",
+        "Features": "24-bit/192kHz audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA, hotspot",
+        "Bluetooth": "4.0, A2DP, EDR, LE",
+        "Positioning": "GPS, GLONASS",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "microUSB 3.0 (MHL 2 TV-out), OTG"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, proximity, compass, barometer, temperature, humidity, gesture",
+        "Features": "ANT+\n\nS-Voice natural language commands and dictation\n\nAir gestures\n\nDropbox (50 GB cloud storage)"
+      },
+      "Battery": {
+        "Type": "Li-Ion 3200 mAh, removable",
+        "Stand-by": "Up to 420 h (3G)",
+        "Talk time": "Up to 21 h (3G)"
+      },
+      "Misc": {
+        "Colors": "Black, White, Pink, Merlot Red, Rose Gold Black, Rose Gold White",
+        "Models": "SM-N900, SM-N9002, SM-N9005, SM-N9007, SM-N9008, SM-N9008S, SM-N9008V, SM-N9009, SM-N9009V, SM-N900A, SM-N900K, SM-N900L, SM-N900P, SM-N900R4, SM-N900S, SM-N900T, SM-N900U, SM-N900V, SM-N900W8, SM-N900X, SM-N9000Q, SM-N9006, SM-9005",
+        "SAR EU": "0.29 W/kg (head) &nbsp; &nbsp; 0.36 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 420 EUR"
+      },
+      "Our Tests": {
+        "Display": "<a class=\"noUnd\" href=\"samsung_galaxy_note_3-review-996p3.php\">Contrast ratio: Infinite (nominal) / 3.997:1 (sunlight)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=5665&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=5665&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"samsung_galaxy_note_3-review-996p7.php#lt\">-31.7 LUFS (Below average)</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"samsung_galaxy_note_3-review-996p8.php#aq\">Noise -96.5dB / Crosstalk -96.3dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 5665); \">Endurance rating 75h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-note-3-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-note-3-all-colors.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-note-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_note_3-pictures-5665.php"
+    }
+  }
+}

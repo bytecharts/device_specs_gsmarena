@@ -1,0 +1,95 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Google Pixel Watch 3",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-watch3-11.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-watch3-.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "google_pixel_watch_4-14088",
+      "google_pixel_watch_2-12547",
+      "google_pixel_watch-11546"
+    ],
+    "release_date": "Released 2024, September 10",
+    "dimensions": "37g, 12.3mm thickness",
+    "os": "Android Wear OS 5, up to 7.0",
+    "storage": "32GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "LTE",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2024, August 13",
+        "Status": "Available. Released 2024, September 10"
+      },
+      "Body": {
+        "Dimensions": "45 x 45 x 12.3 mm (1.77 x 1.77 x 0.48 in)",
+        "Weight": "37 g (1.31 oz)",
+        "Build": "Glass front (Gorilla Glass 5), aluminum frame",
+        "SIM": "<a href=\"glossary.php3?term=esim\">eSIM</a>",
+        "Features": "IP68 dust tight and water resistant (immersible up to 50m/5ATM)\n\nECG certified"
+      },
+      "Display": {
+        "Type": "LTPO AMOLED, 2000 nits (peak)",
+        "Size": "1.4 inches",
+        "Resolution": "456 x 456 pixels (~320 ppi density)",
+        "Protection": "Corning Gorilla Glass 5"
+      },
+      "Platform": {
+        "OS": "Android Wear OS 5, up to 7.0",
+        "Chipset": "Qualcomm SW5100"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "32GB 2GB RAM",
+        "Features": "eMMC"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+        "Bluetooth": "5.3, A2DP",
+        "Positioning": "GPS, GLONASS, GALILEO",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, heart rate, altimeter, compass, SpO2, thermometer (skin temperature), skin conductance",
+        "Features": "Ultra Wideband (UWB) support"
+      },
+      "Battery": {
+        "Type": "Li-Ion 420 mAh",
+        "Charging": "Wired, 50% in 28 min, 80% in 50 min - 45mm model\n\nWired, 50% in 24 min, 80% in 35 min - 41mm model"
+      },
+      "Misc": {
+        "Colors": "Matte Black, Polished Silver, Champagne Gold, Matte Hazel",
+        "Price": "About 170 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-watch3-11.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-watch3-12.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-watch3-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-watch3-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/google_pixel_watch_3-pictures-13253.php"
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Apple iPhone 3GS",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-3gs-00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-3gs-ofic.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/apple_iphone_3gs-review-369.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2009, June",
+    "dimensions": "135g, 12.3mm thickness",
+    "os": "iOS 3, up to iOS 6.1.6",
+    "storage": "8GB/16GB/32GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 1900 / 2100",
+        "Speed": "HSPA 7.2/0.384 Mbps"
+      },
+      "Launch": {
+        "Announced": "2009, June. Released 2009, June",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "115.5 x 62.1 x 12.3 mm (4.55 x 2.44 x 0.48 in)",
+        "Weight": "135 g (4.76 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT",
+        "Size": "3.5 inches, 36.5 cm<sup>2</sup> (~50.9% screen-to-body ratio)",
+        "Resolution": "320 x 480 pixels, 3:2 ratio (~165 ppi density)",
+        "Protection": "Corning Gorilla Glass, oleophobic coating"
+      },
+      "Platform": {
+        "OS": "iOS 3, upgradable to iOS 6.1.6",
+        "CPU": "600 MHz Cortex-A8",
+        "GPU": "PowerVR SGX535"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "8GB 256MB RAM, 16GB 256MB RAM, 32GB 256MB RAM"
+      },
+      "Main Camera": {
+        "Single": "3.15 MP, f/2.8, AF",
+        "Video": "480p@30fps"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g",
+        "Bluetooth": "2.1, A2DP (headset support only)",
+        "Positioning": "GPS, A-GPS",
+        "Radio": "No",
+        "USB": "2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity, compass",
+        "Browser": "HTML (Safari)",
+        "Features": "iCloud cloud service\n\nMaps\n\nOrganizer\n\nTV-out\n\nAudio/video player/editor\n\nPhoto viewer/editor\n\nVoice command/dial\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Li-Ion 1400 mAh, non-removable",
+        "Talk time": "Up to 5 h (3G)"
+      },
+      "Misc": {
+        "Colors": "Black, White",
+        "Models": "A1325, A1303, iPhone2,1",
+        "SAR": "0.26 W/kg (head) &nbsp; &nbsp; 0.79 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.45 W/kg (head) &nbsp; &nbsp; 0.40 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 110 EUR"
+      },
+      "Our Tests": {
+        "Display": "<a class=\"noUnd\" href=\"apple_iphone_3gs-review-369p2.php\">Contrast ratio: 201:1 (nominal)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=2826&amp;nSuggest=1\">Photo</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"apple_iphone_3gs-review-369p5.php\">Voice 69dB / Noise 69dB / Ring 71dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"apple_iphone_3gs-review-369p6.php#aq\">Noise -92.1dB / Crosstalk -95.0dB</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-3gs-00.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-3gs-01.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/apple_iphone_3gs-pictures-2826.php"
+    }
+  }
+}

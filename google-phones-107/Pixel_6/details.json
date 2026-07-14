@@ -1,0 +1,120 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Google Pixel 6",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-6-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-6.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/google_pixel_6-review-2350.php",
+    "siblingDeviceSlugs": [
+      "google_pixel_6a-11229",
+      "google_pixel_7-11903",
+      "google_pixel_6_pro-10918",
+      "google_pixel_7a-12170",
+      "google_pixel_8-12546",
+      "google_pixel_10_5g-13979",
+      "google_pixel_10_pro_5g-13987",
+      "google_pixel_10a_5g-14474",
+      "google_pixel_7_pro-11908",
+      "google_pixel_10_pro_xl_5g-13988"
+    ],
+    "release_date": "Released 2021, October 28",
+    "dimensions": "207g, 8.9mm thickness",
+    "os": "Android 12, up to 16",
+    "storage": "128GB/256GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / EVDO / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 17, 18, 19, 20, 25, 26, 28, 29, 30, 32, 38, 39, 40, 41, 42, 46, 48, 66, 71 - GB7N6, G9S9B16",
+        "5G bands": "1, 2, 3, 5, 7, 8, 12, 14, 20, 25, 28, 30, 38, 40, 41, 48, 66, 71, 77, 78, 257, 258, 260, 261 SA/NSA/Sub6/mmWave - G9S9B",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "CDMA 800 / 1700 / 1900\nCDMA2000 1xEV-DO\n1, 2, 3, 5, 7, 8, 12, 14, 20, 25, 28, 30, 38, 40, 41, 48, 66, 71, 77, 78 SA/NSA/Sub6 - GB7N6"
+      },
+      "Launch": {
+        "Announced": "2021, October 19",
+        "Status": "Available. Released 2021, October 28"
+      },
+      "Body": {
+        "Dimensions": "158.6 x 74.8 x 8.9 mm (6.24 x 2.94 x 0.35 in)",
+        "Weight": "207 g (7.30 oz)",
+        "Build": "Glass front (Gorilla Glass Victus), glass back (Gorilla Glass 6), aluminum frame",
+        "SIM": "Nano-SIM + <a href=\"glossary.php3?term=esim\">eSIM</a>",
+        "Features": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)"
+      },
+      "Display": {
+        "Type": "AMOLED, 90Hz, HDR10+",
+        "Size": "6.4 inches, 98.9 cm<sup>2</sup> (~83.4% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~411 ppi density)",
+        "Protection": "Corning Gorilla Glass Victus"
+      },
+      "Platform": {
+        "OS": "Android 12, upgradable to Android 16, up to 5 major Android upgrades",
+        "Chipset": "Google Tensor (5 nm)",
+        "CPU": "Octa-core (2x2.80 GHz Cortex-X1 &amp; 2x2.25 GHz Cortex-A76 &amp; 4x1.80 GHz Cortex-A55)",
+        "GPU": "Mali-G78 MP20"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 8GB RAM, 256GB 8GB RAM",
+        "Features": "UFS 3.1"
+      },
+      "Main Camera": {
+        "Dual": "50 MP, f/1.9, 25mm (wide), 1/1.31\", 1.2µm, dual pixel PDAF, OIS\n\n12 MP, f/2.2, 17mm, 114˚ (ultrawide), 1.25µm",
+        "Features": "Laser AF, Dual-LED flash, Pixel Shift, Auto-HDR, panorama",
+        "Video": "4K@30/60fps, 1080p@30/60/120/240fps; gyro-EIS, OIS"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, f/2.0, 24mm (wide), 1.12µm",
+        "Features": "HDR, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.2, A2DP, LE, aptX HD",
+        "Positioning": "GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5)",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 3.1"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, barometer"
+      },
+      "Battery": {
+        "Type": "Li-Ion 4614 mAh",
+        "Charging": "Wired (based on 30W charger), PD3.0, 50% in 30 min\n\n21W wireless\n\nReverse wireless"
+      },
+      "Misc": {
+        "Colors": "Sorta Seafoam, Kinda Coral, Stormy Black",
+        "Models": "GB7N6, G9S9B16, G9S9B, GR1YH",
+        "Price": "<a href=\"google_pixel_6-price-11037.php\">₹ 25,499 / $ 164.99 / £ 119.99 / € 245.89</a>"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 676831 (v9)\n\nGeekBench: 2899 (v5.1)\n\nGFXBench: 57fps (ES 3.1 onscreen)",
+        "Display": "<a class=\"noUnd\" href=\"google_pixel_6-review-2350p3.php\">Contrast ratio: Infinite (nominal)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=11037&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=11037&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"google_pixel_6-review-2350p3.php#lt\">-26.9 LUFS (Good)</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 11037); \">Endurance rating 86h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-6-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-6-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-6-4.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/google_pixel_6-pictures-11037.php"
+    }
+  }
+}

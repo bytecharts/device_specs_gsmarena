@@ -1,0 +1,105 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy Note5 (USA)",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-note5-5.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-note5.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2015, August",
+    "dimensions": "171g, 7.6mm thickness",
+    "os": "Android 5.1.1, up to 7.0",
+    "storage": "32GB/64GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100 - N920V, N920R",
+        "4G bands": "2, 3, 4, 7, 13 - N920V",
+        "Speed": "HSPA, LTE (3CA), EV-DO Rev.A 3.1 Mbps",
+        "Features": "CDMA 800 / 1900 - N920V, N920R\nHSDPA 850 / 1900 / 2100 - N920P\n1, 2, 3, 4, 5, 7, 8, 17, 20 - N920P\n2, 4, 5, 12, 25 - N920R"
+      },
+      "Launch": {
+        "Announced": "2015, August. Released 2015, August",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "153.2 x 76.1 x 7.6 mm (6.03 x 3.00 x 0.30 in)",
+        "Weight": "171 g (6.03 oz)",
+        "SIM": "Nano-SIM",
+        "Features": "Stylus"
+      },
+      "Display": {
+        "Type": "Super AMOLED",
+        "Size": "5.7 inches, 89.6 cm<sup>2</sup> (~76.8% screen-to-body ratio)",
+        "Resolution": "1440 x 2560 pixels, 16:9 ratio (~515 ppi density)",
+        "Protection": "Corning Gorilla Glass 4"
+      },
+      "Platform": {
+        "OS": "Android 5.1.1 (Lollipop), upgradable to 7.0 (Nougat)",
+        "Chipset": "Exynos 7420 Octa (14 nm)",
+        "CPU": "Octa-core (4x2.1 GHz Cortex-A57 &amp; 4x1.5 GHz Cortex-A53)",
+        "GPU": "Mali-T760MP8"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "32GB 4GB RAM, 64GB 4GB RAM",
+        "Features": "UFS 2.0"
+      },
+      "Main Camera": {
+        "Single": "16 MP, f/1.9, 28mm (wide), 1/2.6\", 1.12µm, AF, OIS",
+        "Features": "LED flash, panorama, HDR",
+        "Video": "4K@30fps, 1080p@30/60fps, stereo sound rec., gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "5 MP, f/1.9, 22mm (wide)",
+        "Features": "HDR",
+        "Video": "1440p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes",
+        "Features": "24-bit/192kHz audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+        "Bluetooth": "4.2, A2DP, EDR, LE",
+        "Positioning": "GPS, GLONASS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "microUSB 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (front-mounted), accelerometer, gyro, proximity, compass, barometer, heart rate, SpO2",
+        "Features": "ANT+\n\nS-Voice natural language commands and dictation"
+      },
+      "Battery": {
+        "Type": "Li-Ion 3000 mAh, non-removable",
+        "Charging": "15W wired, QC2\n\nWireless",
+        "Talk time": "Up to 28 h (3G)",
+        "Music play": "Up to 57 h"
+      },
+      "Misc": {
+        "Colors": "Black Sapphire, White Pearl",
+        "Models": "SM-N920, SM-N920P, SM-N920V, SM-N920R, SM-N920W8, SM-N920R4",
+        "SAR": "1.16 W/kg (head) &nbsp; &nbsp; 1.48 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.51 W/kg (head) &nbsp; &nbsp; 0.56 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 450 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-note5-5.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-note5-6.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-note5-7.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_note5_(usa)-pictures-7504.php"
+    }
+  }
+}

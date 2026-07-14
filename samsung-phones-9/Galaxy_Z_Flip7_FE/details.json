@@ -1,0 +1,117 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy Z Flip7 FE",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-z-flip7-fe-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-z-flip7-fe-.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_galaxy_z_flip7_fe-review-2861.php",
+    "siblingDeviceSlugs": [
+      "samsung_galaxy_z_flip7-13712"
+    ],
+    "release_date": "Released 2025, July 25",
+    "dimensions": "187g, 6.9mm thickness",
+    "os": "Android 16, up to 7 major upgrades, One UI 8",
+    "storage": "128GB/256GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / EVDO / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 38, 39, 40, 41, 66 - International",
+        "5G bands": "1, 2, 3, 5, 7, 8, 12, 20, 25, 26, 28, 38, 39, 40, 41, 66, 71, 77, 78 SA/NSA/Sub6 - International",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "CDMA 800 / 1900\nHSDPA 850 / 900 / 1900 / 2100\nCDMA2000 1xEV-DO\n1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 18, 19, 20, 25, 26, 28, 29, 30, 38, 39, 40, 41, 48, 66, 71 - USA\n1, 2, 3, 5, 7, 8, 12, 20, 25, 28, 38, 41, 66, 71, 78 SA/NSA/Sub6 - USA"
+      },
+      "Launch": {
+        "Announced": "2025, July 09",
+        "Status": "Available. Released 2025, July 25"
+      },
+      "Body": {
+        "Dimensions": "Unfolded: 165.1 x 71.9 x 6.9 mm\nFolded: 85.1 x 71.9 x 14.9 mm",
+        "Weight": "187 g (6.60 oz)",
+        "Build": "Plastic front (unfolded), glass back (Gorilla Glass Victus 2), aluminum frame",
+        "SIM": "· Nano-SIM + <a href=\"glossary.php3?term=esim\">eSIM</a> + eSIM (max 2 at a time)\n· Nano-SIM + multiple eSIM (max 2 at a time)",
+        "Features": "IP48 dust and water resistant (dust &gt; 1mm; immersible up to 1.5m for 30 min)\n\nArmor aluminum frame"
+      },
+      "Display": {
+        "Type": "Foldable Dynamic LTPO AMOLED 2X, 120Hz, HDR10+, 2600 nits (peak)",
+        "Size": "6.7 inches, 101.5 cm<sup>2</sup> (~85.5% screen-to-body ratio)",
+        "Resolution": "1080 x 2640 pixels (~426 ppi density)",
+        "Protection": "Mohs level 1",
+        "Features": "Cover display:\n\nSuper AMOLED, 60Hz, 2600 nits (peak), 3.4 inches, 720 x 748 pixels (Gorilla Glass Victus 2), 306 ppi"
+      },
+      "Platform": {
+        "OS": "Android 16, up to 7 major Android upgrades, One UI 8",
+        "Chipset": "Exynos 2400 (4 nm)",
+        "CPU": "10-core (1x3.2GHz Cortex-X4 &amp; 2x2.9GHz Cortex-A720 &amp; 3x2.6GHz Cortex-A720 &amp; 4x1.95GHz Cortex-A520)",
+        "GPU": "Xclipse 940"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 8GB RAM, 256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Dual": "50 MP, f/1.8, 23mm (wide), 1/1.57\", 1.0µm, dual pixel PDAF, OIS\n\n12 MP, f/2.2, 13mm, 123˚ (ultrawide), 1/3.2\", 1.12µm",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "4K@30/60fps, 1080p@60/120/240fps, HDR10+"
+      },
+      "Selfie camera": {
+        "Single": "10 MP, f/2.2, 23mm (wide), 1/3.0\", 1.22µm",
+        "Features": "HDR",
+        "Video": "4K@30/60fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e, tri-band, Wi-Fi Direct",
+        "Bluetooth": "5.4, A2DP, LE",
+        "Positioning": "GPS, GALILEO, GLONASS, BDS, QZSS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 3.2"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer"
+      },
+      "Battery": {
+        "Type": "4000 mAh",
+        "Charging": "25W wired, QC2.0, 50% in 30 min\n\n15W wireless\n\n4.5W reverse wireless"
+      },
+      "Misc": {
+        "Colors": "Black, White",
+        "Models": "SM-F761B, SM-F761B/DS, SM-F761U1, SM-F761U",
+        "SAR": "0.84 W/kg (head) &nbsp; &nbsp; 1.10 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.84 W/kg (head) &nbsp; &nbsp; 1.54 W/kg (body) &nbsp; &nbsp;",
+        "Price": "<a href=\"samsung_galaxy_z_flip7_fe_5g-price-13844.php\">$ 429.99 / £ 480.00 / € 704.00</a>"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 1355845 (v10)\n\nGeekBench: 6108 (v6)\n\n3DMark: 4036 (Wild Life Extreme)",
+        "Display": "<a class=\"noUnd\" href=\"samsung_galaxy_z_flip7_fe-review-2861p3.php#dt\">1444 nits max brightness (measured)</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"samsung_galaxy_z_flip7_fe-review-2861p3.php#lt\">-26.9 LUFS (Good)</a>",
+        "Battery": "<div style=\"position:relative;\">\n<a href=\"samsung_galaxy_z_flip7_fe-review-2861p3.php#bt\" data-battery2=\"18:06_8:46_15:10_5:59\" onclick=\"showBatteryPopup(event, 13844); \" class=\"v2\">Active use score 10:09h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      },
+      "EU LABEL": {
+        "Energy": "Class B",
+        "Battery": "37:03h endurance, 1700 cycles",
+        "Free fall": "Class A (210 falls)",
+        "Repairability": "Class C"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-z-flip7-fe-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-z-flip7-fe-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_z_flip7_fe_5g-pictures-13844.php"
+    }
+  }
+}

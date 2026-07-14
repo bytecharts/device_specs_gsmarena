@@ -1,0 +1,110 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy A3 (2017)",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a3-2017-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a3-2017.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_galaxy_a3_2017-review-1554.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2017, January",
+    "dimensions": "138g, 7.9mm thickness",
+    "os": "Android 6.0.1, up to Android 8.0",
+    "storage": "16GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 &amp; SIM 2 (dual-SIM model only)",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4G bands": "1, 2, 3, 5, 7, 8, 20, 40",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE (2CA) Cat6 300/50 Mbps"
+      },
+      "Launch": {
+        "Announced": "2017, January. Released 2017, January",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "135.4 x 66.2 x 7.9 mm (5.33 x 2.61 x 0.31 in)",
+        "Weight": "138 g (4.87 oz)",
+        "Build": "Glass front (Gorilla Glass 4), glass back (Gorilla Glass 4), aluminum frame",
+        "SIM": "· Nano-SIM\n· Nano-SIM + Nano-SIM",
+        "Features": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)"
+      },
+      "Display": {
+        "Type": "Super AMOLED",
+        "Size": "4.7 inches, 60.9 cm<sup>2</sup> (~67.9% screen-to-body ratio)",
+        "Resolution": "720 x 1280 pixels, 16:9 ratio (~312 ppi density)",
+        "Protection": "Corning Gorilla Glass 4"
+      },
+      "Platform": {
+        "OS": "Android 6.0.1 (Marshmallow), upgradable to Android 8.0 (Oreo)",
+        "Chipset": "Exynos 7870 Octa (14 nm)",
+        "CPU": "Octa-core 1.6 GHz Cortex-A53",
+        "GPU": "Mali-T830 MP1"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (uses shared SIM slot) - dual SIM model only",
+        "Internal": "16GB 2GB RAM",
+        "Features": "eMMC 5.1"
+      },
+      "Main Camera": {
+        "Single": "13 MP, f/1.9, 27mm (wide), AF",
+        "Features": "LED flash, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, f/1.9, 24mm (wide)",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "4.2, A2DP, LE",
+        "Positioning": "GPS, GLONASS",
+        "NFC": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (front-mounted), accelerometer, gyro, proximity, compass, barometer",
+        "Features": "ANT+\n\nSamsung Pay"
+      },
+      "Battery": {
+        "Type": "Li-Ion 2350 mAh, non-removable",
+        "Talk time": "Up to 17 h (3G)",
+        "Music play": "Up to 55 h"
+      },
+      "Misc": {
+        "Colors": "Black Sky, Gold Sand, Blue Mist, Peach Cloud",
+        "Models": "SM-A320F, SM-A320Y, SM-A320FL",
+        "SAR EU": "0.35 W/kg (head) &nbsp; &nbsp; 1.38 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 220 EUR"
+      },
+      "Our Tests": {
+        "Performance": "GFXBench: 3.9fps (ES 3.1 onscreen)",
+        "Display": "<a class=\"noUnd\" href=\"samsung_galaxy_a3_2017-review-1554p3.php#dt\">Contrast ratio: Infinite (nominal),  3.688 (sunlight)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=8336&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=8336&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"samsung_galaxy_a3_2017-review-1554p6.php\">Voice 66dB / Noise 66dB / Ring 75dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"samsung_galaxy_a3_2017-review-1554p7.php#aq\">Noise -94.7dB / Crosstalk -92.3dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 8336); \">Endurance rating 93h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a3-2017-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a3-2017-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a3-2017-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_a3_(2017)-pictures-8336.php"
+    }
+  }
+}

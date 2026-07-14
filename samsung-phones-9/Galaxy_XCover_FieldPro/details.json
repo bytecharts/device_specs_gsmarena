@@ -1,0 +1,97 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy XCover FieldPro",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-xcover-fieldpro-sm-g889f.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-xcover-fieldpro-sm-g889f.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2020, April 06",
+    "dimensions": "256g, 14.2mm thickness",
+    "os": "Android 8.0",
+    "storage": "64GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - USA",
+        "4G bands": "1, 2, 3, 4, 5, 7, 12, 14, 20, 29, 30, 38, 39, 40, 41, 66 - USA",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE (3CA) Cat11 600/75 Mbps"
+      },
+      "Launch": {
+        "Announced": "2019, October. Released 2020, April 06",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "158.5 x 80.7 x 14.2 mm (6.24 x 3.18 x 0.56 in)",
+        "Weight": "256 g (9.03 oz)",
+        "SIM": "Single SIM (Micro-SIM) or Dual SIM (Micro-SIM, dual stand-by)",
+        "Features": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)\n\nMIL-STD-810G compliant\n\nDGUV112-139 certified\n\nEmergency PTT key"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "5.1 inches, 71.7 cm<sup>2</sup> (~56.1% screen-to-body ratio)",
+        "Resolution": "1440 x 2560 pixels, 16:9 ratio (~576 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 8.0 (Oreo)",
+        "Chipset": "Exynos 9810 (10 nm)",
+        "CPU": "Octa-core (4x2.7 GHz Mongoose M3 &amp; 4x1.8 GHz Cortex-A55)",
+        "GPU": "Mali-G72 MP18"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "64GB 4GB RAM",
+        "Features": "UFS 2.1"
+      },
+      "Main Camera": {
+        "Single": "12 MP, f/1.5-2.4, (wide), 1/2.55\", 1.4µm, PDAF",
+        "Features": "Triple-LED flash, HDR, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, f/1.7",
+        "Features": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with dual speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/i/r, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO",
+        "NFC": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass, barometer"
+      },
+      "Battery": {
+        "Type": "Li-Po 4500 mAh, removable"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "Models": "SM-G889F, SM-G889A",
+        "SAR": "1.20 W/kg (head) &nbsp; &nbsp; 0.67 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.80 W/kg (head) &nbsp; &nbsp; 1.37 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 1020 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-xcover-fieldpro-sm-g889f.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-xcover-fieldpro-sm-g889f-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_xcover_fieldpro-pictures-9937.php"
+    }
+  }
+}

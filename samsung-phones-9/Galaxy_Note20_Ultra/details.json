@@ -1,0 +1,110 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy Note20 Ultra",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-note20-ultra-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-note20-ultra-.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_galaxy_note20_ultra_5g-review-2149.php",
+    "siblingDeviceSlugs": [
+      "samsung_galaxy_note20_ultra_5g-10261",
+      "samsung_galaxy_note20-10338"
+    ],
+    "release_date": "Released 2020, August 21",
+    "dimensions": "208g, 8.1mm thickness",
+    "os": "Android 10, up to Android 13, One UI 5",
+    "storage": "256GB/512GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / EVDO / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 32, 38, 39, 40, 41, 66",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE (7CA) Cat20 2000/200 Mbps",
+        "Features": "CDMA 800 / 1900\nCDMA2000 1xEV-DO"
+      },
+      "Launch": {
+        "Announced": "2020, August 05",
+        "Status": "Available. Released 2020, August 21"
+      },
+      "Body": {
+        "Dimensions": "164.8 x 77.2 x 8.1 mm (6.49 x 3.04 x 0.32 in)",
+        "Weight": "208 g (7.34 oz)",
+        "Build": "Glass front (Gorilla Glass Victus), glass back (Gorilla Glass Victus), stainless steel frame",
+        "SIM": "· Nano-SIM + <a href=\"glossary.php3?term=esim\">eSIM</a>\n· Nano-SIM + Nano-SIM",
+        "Features": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)\n\nStylus, 9ms latency (Bluetooth integration, accelerometer, gyro)"
+      },
+      "Display": {
+        "Type": "Dynamic AMOLED 2X, 120Hz, HDR10+",
+        "Size": "6.9 inches, 116.7 cm<sup>2</sup> (~91.7% screen-to-body ratio)",
+        "Resolution": "1440 x 3088 pixels, 19.3:9 ratio (~496 ppi density)",
+        "Protection": "Corning Gorilla Glass Victus",
+        "Features": "120Hz@FHD/60Hz@QHD refresh rate"
+      },
+      "Platform": {
+        "OS": "Android 10, upgradable to Android 13, One UI 5",
+        "Chipset": "Exynos 990 (7 nm+) - Global\nQualcomm SM8250 Snapdragon 865 5G+ (7 nm+) - USA",
+        "CPU": "Octa-core (2x2.73 GHz Mongoose M5 &amp; 2x2.50 GHz Cortex-A76 &amp; 4x2.0 GHz Cortex-A55) - Global\nOcta-core (1x3.0 GHz Kryo 585 &amp; 3x2.42 GHz Cortex-A77 &amp; 4x1.80 GHz Cortex-A55) - USA",
+        "GPU": "Mali-G77 MP11 - Global\nAdreno 650 - USA"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (uses shared SIM slot)",
+        "Internal": "256GB 8GB RAM, 256GB 12GB RAM, 512GB 8GB RAM, 512GB 12GB RAM",
+        "Features": "UFS 3.0"
+      },
+      "Main Camera": {
+        "Triple": "108 MP, f/1.8, 26mm (wide), 1/1.33\", 0.8µm, PDAF, OIS\n\n12 MP, f/3.0, 120mm (periscope telephoto), 1.0µm, PDAF, OIS, 5x optical zoom, 50x hybrid zoom\n\n12 MP, f/2.2, 120˚, 13mm (ultrawide), 1/2.55\", 1.4µm",
+        "Features": "Laser AF, LED flash, auto-HDR, panorama",
+        "Video": "8K@24fps, 4K@30/60fps, 1080p@30/60/240fps, 720p@960fps, HDR10+, stereo sound rec., gyro-EIS &amp; OIS"
+      },
+      "Selfie camera": {
+        "Single": "10 MP, f/2.2, 26mm (wide), 1/3.2\", 1.22µm, dual pixel PDAF",
+        "Features": "HDR",
+        "Video": "4K@30/60fps, 1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No",
+        "Features": "High-bitrate audio support\n\nTuned by AKG"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.0, A2DP, LE, aptX",
+        "Positioning": "GPS, GLONASS, BDS, GALILEO",
+        "NFC": "Yes",
+        "Radio": "FM radio (Snapdragon model only; market/operator dependent)",
+        "USB": "USB Type-C 3.2, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer",
+        "Features": "Samsung Wireless DeX (desktop experience support)\n\nANT+\n\nUltra Wideband (UWB) support"
+      },
+      "Battery": {
+        "Type": "Li-Ion 4500 mAh",
+        "Charging": "25W wired, PD3.0\n\n15W wireless (Qi)\n\n4.5W reverse wireless"
+      },
+      "Misc": {
+        "Colors": "Mystic Bronze, Mystic Black, Mystic White",
+        "Models": "SM-N985F, SM-N985F/DS",
+        "SAR": "0.57 W/kg (head) &nbsp; &nbsp; 1.02 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.32 W/kg (head) &nbsp; &nbsp; 1.47 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 1250 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-note20-ultra-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-note20-ultra-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-note20-ultra-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-note20ultra-mystic-white.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_note20_ultra-pictures-10355.php"
+    }
+  }
+}

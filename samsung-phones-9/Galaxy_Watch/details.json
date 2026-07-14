@@ -1,0 +1,104 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy Watch",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-watch-r-0.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-watch-.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_galaxy_watch-review-1820.php",
+    "siblingDeviceSlugs": [
+      "samsung_galaxy_watch_ultra-13127",
+      "samsung_galaxy_watch8-13997",
+      "samsung_galaxy_watch_active2-9784",
+      "samsung_galaxy_watch3-10315"
+    ],
+    "release_date": "Released 2018, August",
+    "dimensions": "63g, 13mm thickness",
+    "os": "Tizen OS 5.5",
+    "storage": "4GB 768MB RAM storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100 - Global",
+        "4G bands": "1, 3, 5, 7, 8, 20 - Global",
+        "Speed": "HSPA, LTE",
+        "Features": "HSDPA 850 / 1700(AWS) / 1900 - USA/Canada\nHSDPA 2100 - China\n2, 4, 5, 12, 13, 25, 26, 66 - USA/Canada\n1, 3, 5, 38, 39, 40, 41 - China"
+      },
+      "Launch": {
+        "Announced": "2018, August. Released 2018, August",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "49 x 46 x 13 mm (1.93 x 1.81 x 0.51 in)",
+        "Weight": "63 g (2.22 oz)",
+        "Build": "Glass front (Gorilla Glass DX+), stainless steel frame 316L",
+        "SIM": "<a href=\"glossary.php3?term=esim\">eSIM</a>",
+        "Features": "MIL-STD-810G compliant*\n\nIP68 dust tight and water resistant (immersible up to 50m)\n\nCompatible with standard 22mm straps\n\nRotating bezel\n\n*does not guarantee ruggedness or use in extreme conditions"
+      },
+      "Display": {
+        "Type": "Super AMOLED",
+        "Size": "1.3 inches",
+        "Resolution": "360 x 360 pixels (~278 ppi density)",
+        "Protection": "Corning Gorilla Glass DX+",
+        "Features": "Rotating bezel"
+      },
+      "Platform": {
+        "OS": "Tizen OS 5.5",
+        "Chipset": "Exynos 9110 (10 nm)",
+        "CPU": "Dual-core 1.15 GHz Cortex-A53",
+        "GPU": "Mali-T720"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "4GB 768MB RAM, 4GB 1.5GB RAM",
+        "Features": "eMMC"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n",
+        "Bluetooth": "4.2, A2DP, LE",
+        "Positioning": "GPS, GLONASS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, heart rate, barometer",
+        "Features": "Natural language commands and dictation\n\nSamsung Pay"
+      },
+      "Battery": {
+        "Type": "Li-Ion 472 mAh, non-removable",
+        "Charging": "Wireless"
+      },
+      "Misc": {
+        "Colors": "Silver 46mm, Midnight Black 42mm, Rose Gold 42mm",
+        "Models": "SM-805U, SM-805W, SM-815U, SM-815W, SM-R805F, SM-R805N, SM-R815F, SM-R815N, SM-R8050, SM-R800",
+        "Price": "About 220 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-watch-r-0.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-watch-r-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-watch-r-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-watch-r-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-watch-r-4.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-watch-r-5.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_watch-pictures-9289.php"
+    }
+  }
+}

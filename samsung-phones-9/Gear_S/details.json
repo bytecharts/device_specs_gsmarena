@@ -1,0 +1,96 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Gear S",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-gear-s-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-gear-s-new.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_gear_s-review-1182.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2014, October",
+    "dimensions": "67g, 12.5mm thickness",
+    "os": "Tizen OS",
+    "storage": "4GB 512MB RAM storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 900 / 1800",
+        "3G bands": "HSDPA 900 / 2100",
+        "Speed": "HSPA",
+        "Features": "GSM 850 / 1900\nHSDPA 850 / 1900"
+      },
+      "Launch": {
+        "Announced": "2014, August. Released 2014, October",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "58.1 x 39.9 x 12.5 mm (2.29 x 1.57 x 0.49 in)",
+        "Weight": "67 g (2.36 oz)",
+        "SIM": "Nano-SIM",
+        "Features": "IP67 dust/water resistant (up to 1m for 30 min)\n\nNon-removable strap"
+      },
+      "Display": {
+        "Type": "Super AMOLED",
+        "Size": "2.0 inches",
+        "Resolution": "360 x 480 pixels (~300 ppi density)",
+        "Protection": "Corning Gorilla Glass 3"
+      },
+      "Platform": {
+        "OS": "Tizen OS",
+        "Chipset": "Qualcomm MSM8928 Snapdragon 400 (28 nm)",
+        "CPU": "Dual-core 1.0 GHz Cortex-A7",
+        "GPU": "Adreno 305"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "4GB 512MB RAM",
+        "Features": "eMMC 4.5"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n",
+        "Bluetooth": "4.1, A2DP, LE",
+        "Positioning": "GPS, GLONASS",
+        "NFC": "No",
+        "Radio": "No",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, proximity, compass, heart rate, barometer, UV light",
+        "Features": "S-Voice natural language commands and dictation\n\nMP3/M4A/AAC/WAV player\n\nPhoto/video viewer\n\nVoice memo/dial/commands"
+      },
+      "Battery": {
+        "Type": "Li-Ion 300 mAh, non-removable"
+      },
+      "Misc": {
+        "Colors": "Charcoal Black, Frost White",
+        "Models": "SM-R750, SM-R750A, SM-R750B, SM-R750C, SM-R750P, SM-R750R4, SM-R750T, SM-R750V, SM-R750W, SM-N910A, SM-N910V, SM-N915P, SM-N910T",
+        "SAR": "0.81 W/kg (head) &nbsp; &nbsp; 1.07 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.56 W/kg (head) &nbsp; &nbsp; 0.65 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 300 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-gear-s-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-gear-s-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-gear-s-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-gear-s-01.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-gear-s-02.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_gear_s-pictures-6620.php"
+    }
+  }
+}

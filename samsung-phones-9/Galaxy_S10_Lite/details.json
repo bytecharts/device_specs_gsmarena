@@ -1,0 +1,114 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy S10 Lite",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/sasmung-galaxy-s10-lite-2.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/sasmung-galaxy-s10-lite-.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_galaxy_s10_lite-review-2060.php",
+    "siblingDeviceSlugs": [
+      "samsung_galaxy_s10-9536",
+      "samsung_galaxy_s10e-9537",
+      "samsung_galaxy_tab_s10_fe-13761"
+    ],
+    "release_date": "Released 2020, February 03",
+    "dimensions": "186g, 8.1mm thickness",
+    "os": "Android 10, up to Android 13, One UI 5",
+    "storage": "128GB/512GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 20, 26, 28, 38, 40, 41, 66",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2020, January 03",
+        "Status": "Available. Released 2020, February 03"
+      },
+      "Body": {
+        "Dimensions": "162.5 x 75.6 x 8.1 mm (6.40 x 2.98 x 0.32 in)",
+        "Weight": "186 g (6.56 oz)",
+        "Build": "Glass front (Gorilla Glass 3+), aluminum frame, plastic back",
+        "SIM": "· Nano-SIM\n· Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "Super AMOLED Plus, HDR10+",
+        "Size": "6.7 inches, 107.8 cm<sup>2</sup> (~87.8% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~394 ppi density)",
+        "Protection": "Corning Gorilla Glass 3+"
+      },
+      "Platform": {
+        "OS": "Android 10, upgradable to Android 13, One UI 5",
+        "Chipset": "Qualcomm SM8150 Snapdragon 855 (7 nm)",
+        "CPU": "Octa-core (1x2.84 GHz Kryo 485 &amp; 3x2.42 GHz Kryo 485 &amp; 4x1.78 GHz Kryo 485)",
+        "GPU": "Adreno 640"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (uses shared SIM slot)",
+        "Internal": "128GB 6GB RAM, 128GB 8GB RAM, 512GB 8GB RAM",
+        "Features": "UFS 2.1"
+      },
+      "Main Camera": {
+        "Triple": "48 MP, f/2.0, 26mm (wide), 1/2.0\", 0.8µm, PDAF, Super Steady OIS\n\n12 MP, f/2.2, 12mm (ultrawide)\n\n5 MP (macro)",
+        "Features": "LED flash, panorama, HDR",
+        "Video": "4K@30/60fps, 1080p@30/60/240fps; gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.2, 25mm (wide), 1/2.8\", 0.8µm",
+        "Features": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS",
+        "NFC": "Yes",
+        "Radio": "FM radio (market/region dependent)",
+        "USB": "USB Type-C 2.0"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",
+        "Features": "ANT+"
+      },
+      "Battery": {
+        "Type": "Li-Po 4500 mAh, non-removable",
+        "Charging": "45W wired"
+      },
+      "Misc": {
+        "Colors": "Prism White, Prism Black, Prism Blue",
+        "Models": "SM-G770F, SM-G770F/DS, SM-G770F/DSM, SM-G770U1",
+        "SAR": "0.69 W/kg (head) &nbsp; &nbsp; 0.93 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.49 W/kg (head) &nbsp; &nbsp; 1.52 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 380 EUR"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 370751 (v7), 459497 (v8)\n\nGeekBench: 11151 (v4.4), 2732 (v5.1)\n\nGFXBench: 56fps (ES 3.1 onscreen)",
+        "Display": "<a class=\"noUnd\" href=\"samsung_galaxy_s10_lite-review-2060p3.php\">705 nits max brightness (measured)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=9917&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=9917&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"samsung_galaxy_s10_lite-review-2060p3.php#lt\">-27.2 LUFS (Good)</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"samsung_galaxy_s10_lite-review-2060p3.php#aq\">Noise -93.7dB / Crosstalk -94.7dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 9917); \">Endurance rating 110h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/sasmung-galaxy-s10-lite-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/sasmung-galaxy-s10-lite-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/sasmung-galaxy-s10-lite-4.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_s10_lite-pictures-9917.php"
+    }
+  }
+}

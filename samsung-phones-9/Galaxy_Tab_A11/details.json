@@ -1,0 +1,101 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy Tab A11",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-tab-a11-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-tab-a11.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2025, September",
+    "dimensions": "335g or 337g, 8mm thickness",
+    "os": "Android 15, up to 16, One UI 8",
+    "storage": "64GB/128GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - cellular model only",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - cellular model only",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 20, 26, 28, 38, 40, 41, 66 - cellular model only",
+        "Speed": "HSPA, LTE - cellular model only"
+      },
+      "Launch": {
+        "Announced": "2025, September 12",
+        "Status": "Available. Released 2025, September"
+      },
+      "Body": {
+        "Dimensions": "211 x 124.7 x 8 mm (8.31 x 4.91 x 0.31 in)",
+        "Weight": "335 g or 337 g (11.82 oz)",
+        "SIM": "Nano-SIM (cellular model only)"
+      },
+      "Display": {
+        "Type": "TFT LCD, 90Hz",
+        "Size": "8.7 inches, 214.9 cm<sup>2</sup> (~81.7% screen-to-body ratio)",
+        "Resolution": "800 x 1340 pixels, 5:3 ratio (~179 ppi density)",
+        "Protection": "Mohs level 5"
+      },
+      "Platform": {
+        "OS": "Android 15, upgradable to Android 16, One UI 8, up to 7 major Android upgrades",
+        "Chipset": "Mediatek Helio G99 (6 nm)",
+        "CPU": "Octa-core (2x2.2 GHz Cortex-A76 &amp; 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "64GB 4GB RAM, 128GB 4GB RAM, 128GB 6GB RAM, 128GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Single": "8 MP, AF",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "5 MP",
+        "Video": "Yes"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers (with Dolby Atmos)",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.3, A2DP, LE",
+        "Positioning": "GPS, GLONASS, BDS, GALILEO, QZSS - cellular model only",
+        "NFC": "No",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5100 mAh",
+        "Charging": "15W wired"
+      },
+      "Misc": {
+        "Colors": "Gray, Silver",
+        "Models": "SM-X133, SM-X135, SM-X135F",
+        "SAR": "0.60 W/kg (head) &nbsp; &nbsp; 1.37 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.29 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 180 EUR"
+      },
+      "EU LABEL": {
+        "Energy": "Class D",
+        "Battery": "93:40h endurance, 1200 cycles",
+        "Free fall": "Class C (104 falls)",
+        "Repairability": "Class C"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-tab-a11-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-tab-a11-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_tab_a11-pictures-14141.php"
+    }
+  }
+}

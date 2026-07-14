@@ -1,0 +1,110 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Apple iPhone SE (2020)",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-se-2020-2.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-se-2020.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/apple_iphone_se_2020-review-2108.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2020, April 24",
+    "dimensions": "148g, 7.3mm thickness",
+    "os": "iOS 13, up to iOS 26.5",
+    "storage": "64GB/128GB/256GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / EVDO / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 11, 12, 13, 17, 18, 19, 20, 21, 25, 26, 28, 29, 30, 32, 34, 38, 39, 40, 41, 42, 46, 48, 66 - A2296",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE (5CA) Cat16 1024/150 Mbps, EV-DO Rev.A 3.1 Mbps",
+        "Features": "CDMA 800 / 1900\nCDMA2000 1xEV-DO\n1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 17, 18, 19, 20, 25, 26, 29, 30, 34, 38, 39, 40, 41, 42, 46, 48, 66, 71 - A2275, A2298"
+      },
+      "Launch": {
+        "Announced": "2020, April 15",
+        "Status": "Available. Released 2020, April 24"
+      },
+      "Body": {
+        "Dimensions": "138.4 x 67.3 x 7.3 mm (5.45 x 2.65 x 0.29 in)",
+        "Weight": "148 g (5.22 oz)",
+        "Build": "Glass front, glass back, aluminum frame",
+        "SIM": "Nano-SIM + <a href=\"glossary.php3?term=esim\">eSIM</a>",
+        "Features": "IP67 dust/water resistant (up to 1m for 30 min)\n\nApple Pay (Visa, MasterCard, AMEX certified)"
+      },
+      "Display": {
+        "Type": "Retina IPS LCD, 625 nits (typ)",
+        "Size": "4.7 inches, 60.9 cm<sup>2</sup> (~65.4% screen-to-body ratio)",
+        "Resolution": "750 x 1334 pixels, 16:9 ratio (~326 ppi density)",
+        "Protection": "Ion-strengthened glass"
+      },
+      "Platform": {
+        "OS": "iOS 13, upgradable to iOS 26.5",
+        "Chipset": "Apple A13 Bionic (7 nm+)",
+        "CPU": "Hexa-core (2x2.65 GHz Lightning + 4x1.8 GHz Thunder)",
+        "GPU": "Apple GPU (4-core graphics)"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "64GB 3GB RAM, 128GB 3GB RAM, 256GB 3GB RAM",
+        "Features": "NVMe"
+      },
+      "Main Camera": {
+        "Single": "12 MP, f/1.8 (wide), PDAF, OIS",
+        "Features": "Quad-LED dual-tone flash, HDR, panorama",
+        "Video": "4K@24/30/60fps, 1080p@30/60/120/240fps, HDR, OIS, stereo sound rec."
+      },
+      "Selfie camera": {
+        "Single": "7 MP, f/2.2",
+        "Features": "HDR",
+        "Video": "1080p@30fps; gyro-EIS"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS, GLONASS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "Lightning, USB 2.0"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (front-mounted), accelerometer, proximity, gyro, compass, barometer"
+      },
+      "Battery": {
+        "Type": "Li-Ion 1821 mAh (6.91 Wh)",
+        "Charging": "18W wired, 50% in 30 min\n\n7.5W wireless (Qi)"
+      },
+      "Misc": {
+        "Colors": "Black, White, Red",
+        "Models": "A2275, A2296, A2298, iPhone12,8",
+        "SAR": "1.17 W/kg (head) &nbsp; &nbsp; 1.16 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.98 W/kg (head) &nbsp; &nbsp; 0.99 W/kg (body) &nbsp; &nbsp;",
+        "Price": "<a href=\"apple_iphone_se_(2020)-price-10170.php\">$ 88.49 / £ 89.99 / € 116.89</a>"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 462253 (v8)\n\nGeekBench: 3237 (v5.1)",
+        "Display": "<a class=\"noUnd\" href=\"apple_iphone_se_2020-review-2108p3.php#dt\">1544:1 contrast ratio, 670 nits max brightness (measured)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=10170&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=10170&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"apple_iphone_se_2020-review-2108p3.php#lt\">-24.1 LUFS (Very good)</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 10170); \">Endurance rating 59h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-se-2020-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-se-2020-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-se-2020-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/apple_iphone_se_(2020)-pictures-10170.php"
+    }
+  }
+}
