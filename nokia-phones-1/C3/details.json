@@ -1,0 +1,93 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia C3",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-c3-2020-3.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-c3-2020.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2020, August 13",
+    "dimensions": "184.5g, 8.7mm thickness",
+    "os": "Android 10",
+    "storage": "16GB/32GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4G bands": "LTE",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "Launch": {
+        "Announced": "2020, August 04. Released 2020, August 13",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "159.9 x 77 x 8.7 mm (6.30 x 3.03 x 0.34 in)",
+        "Weight": "184.5 g (6.53 oz)",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "5.99 inches, 92.6 cm<sup>2</sup> (~75.2% screen-to-body ratio)",
+        "Resolution": "720 x 1440 pixels, 18:9 ratio (~269 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 10",
+        "Chipset": "Unisoc SC9863A (28 nm)",
+        "CPU": "Octa-core (4x1.6 GHz Cortex-A55 &amp; 4x1.2 GHz Cortex-A55)",
+        "GPU": "IMG8322"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "16GB 2GB RAM, 32GB 2GB RAM, 32GB 3GB RAM",
+        "Features": "eMMC 5.1"
+      },
+      "Main Camera": {
+        "Single": "8 MP, f/2.0, AF",
+        "Features": "LED flash, HDR",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "5 MP, f/2.4",
+        "Video": "720p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n",
+        "Bluetooth": "4.2, A2DP, LE",
+        "Positioning": "GPS",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (rear-mounted), accelerometer, proximity"
+      },
+      "Battery": {
+        "Type": "Li-Ion 3040 mAh, removable"
+      },
+      "Misc": {
+        "Colors": "Nordic blue, Sand gold",
+        "Price": "About 130 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-c3-2020-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-c3-2020-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_c3-pictures-10351.php"
+    }
+  }
+}

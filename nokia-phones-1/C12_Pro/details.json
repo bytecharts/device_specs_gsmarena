@@ -1,0 +1,98 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia C12 Pro",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-c12-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-c12.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "nokia_c12-12085"
+    ],
+    "release_date": "Released 2023, March 21",
+    "dimensions": "177.4g, 8.8mm thickness",
+    "os": "Android 12",
+    "storage": "64GB storage, Unspecified",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4G bands": "LTE",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2023, March 21",
+        "Status": "Available. Released 2023, March 21"
+      },
+      "Body": {
+        "Dimensions": "160.6 x 74.3 x 8.8 mm (6.32 x 2.93 x 0.35 in)",
+        "Weight": "177.4 g (6.24 oz)",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "Splash resistant"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "6.3 inches, 95.8 cm<sup>2</sup> (~80.3% screen-to-body ratio)",
+        "Resolution": "720 x 1600 pixels, 20:9 ratio (~278 ppi density)",
+        "Protection": "Scratch-resistant glass"
+      },
+      "Platform": {
+        "OS": "Android 12 (Go edition)",
+        "Chipset": "Unisoc SC9863A1 (22 nm)",
+        "CPU": "Octa-core (4x1.6 GHz Cortex-A55 &amp; 4x1.2 GHz Cortex-A55)",
+        "GPU": "IMG8322"
+      },
+      "Memory": {
+        "Card slot": "Unspecified",
+        "Internal": "64GB 2GB RAM, 64GB 3GB RAM, 64GB 4GB RAM",
+        "Features": "eMMC 5.1"
+      },
+      "Main Camera": {
+        "Single": "8 MP, AF",
+        "Features": "LED flash, HDR",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Single": "5 MP",
+        "Video": "720p"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n",
+        "Bluetooth": "5.2, A2DP",
+        "Positioning": "GPS",
+        "NFC": "No",
+        "Radio": "Wireless FM radio",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity"
+      },
+      "Battery": {
+        "Type": "Li-Ion 4000 mAh, removable",
+        "Charging": "10W wired"
+      },
+      "Misc": {
+        "Colors": "Dark Cyan, Charcoal, Light Mint",
+        "Price": "About 80 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-c12-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-c12-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_c12_pro-pictures-12184.php"
+    }
+  }
+}

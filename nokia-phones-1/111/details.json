@@ -1,0 +1,92 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 111",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-111.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-111.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2012, September",
+    "dimensions": "77g, 14.8mm thickness",
+    "os": "Feature phone",
+    "storage": "10MB storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "Yes",
+        "EDGE": "Yes",
+        "Features": "GSM 850 / 1900"
+      },
+      "Launch": {
+        "Announced": "2012, May. Released 2012, September",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "110 x 46 x 14.8 mm, 63 cc (4.33 x 1.81 x 0.58 in)",
+        "Weight": "77 g (2.72 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 65K colors",
+        "Size": "1.8 inches, 10.2 cm<sup>2</sup> (~20.2% screen-to-body ratio)",
+        "Resolution": "128 x 160 pixels (~114 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Phonebook": "1000 entries",
+        "Call records": "Yes",
+        "Internal": "10MB"
+      },
+      "Main Camera": {
+        "Single": "VGA",
+        "Video": "176x144"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.1, EDR",
+        "Positioning": "No",
+        "Radio": "Stereo FM radio, RDS, recording",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS(threaded view), MMS, Email, IM",
+        "Games": "Yes",
+        "Java": "Yes",
+        "Features": "MP3/WMA/AAC player\n\nMP4/H.264 player\n\nOrganizer\n\nVoice memo"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 800 mAh battery (BL-5CB)",
+        "Stand-by": "Up to 792 h",
+        "Talk time": "Up to 7 h 50 min",
+        "Music play": "Up to 21 h"
+      },
+      "Misc": {
+        "Colors": "Black, Magenta, Lime Green, Cyan",
+        "SAR": "1.10 W/kg (head) &nbsp; &nbsp; 0.64 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.78 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 50 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-111.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_111-pictures-4756.php"
+    }
+  }
+}

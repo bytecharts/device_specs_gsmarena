@@ -1,0 +1,102 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia Asha 302",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-asha-302-ofic.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-asha-302-ofic.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/nokia_asha_302-review-758.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2012, March",
+    "dimensions": "106g, 13.5mm thickness",
+    "os": "Feature phone",
+    "storage": "100MB 256MB ROM 128MB RAM storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700 / 1900 / 2100",
+        "Speed": "HSPA 14.4/5.76 Mbps"
+      },
+      "Launch": {
+        "Announced": "2012, February. Released 2012, March",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "115.2 x 58.9 x 13.5 mm, 77 cc (4.54 x 2.32 x 0.53 in)",
+        "Weight": "106 g (3.74 oz)",
+        "Keyboard": "QWERTY",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "2.4 inches, 17.8 cm<sup>2</sup> (~26.3% screen-to-body ratio)",
+        "Resolution": "320 x 240 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "Platform": {
+        "CPU": "1.0 GHz"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Phonebook": "Yes, Photocall",
+        "Call records": "20 dialed, 20 received, 20 missed calls",
+        "Internal": "100MB 256MB ROM 128MB RAM"
+      },
+      "Main Camera": {
+        "Single": "3.15 MP",
+        "Video": "480p@15fps"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n",
+        "Bluetooth": "2.1, A2DP, EDR",
+        "Positioning": "No",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": "microUSB 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS, Email, Push Email, IM",
+        "Games": "Yes",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "SNS integration\n\nMP4/H.264/WMV player\n\nMP3/WAV/WMA/AAC player\n\nOrganizer\n\nVoice memo\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1320 mAh battery (BL-5J)",
+        "Stand-by": "Up to 707 h (2G) / Up to 830 h (3G)",
+        "Talk time": "Up to 9 h (2G) / Up to 5 h 50 min (3G)",
+        "Music play": "Up to 50 h"
+      },
+      "Misc": {
+        "Colors": "Dark Grey, Mid Blue, Plum Red, White, Golden Light",
+        "SAR": "1.27 W/kg (head) &nbsp; &nbsp; 1.01 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "1.11 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 80 EUR"
+      },
+      "Our Tests": {
+        "Display": "<a class=\"noUnd\" href=\"nokia_asha_302-review-758p2.php\">Contrast ratio: 602 (nominal) / 1.537:1 (sunlight)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=4546&amp;nSuggest=1\">Photo</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"nokia_asha_302-review-758p3.php\">Voice 77dB / Noise 75dB / Ring 83dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"nokia_asha_302-review-758p4.php#aq\">Noise -87.5dB / Crosstalk -88.3dB</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-asha-302-ofic.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_asha_302-pictures-4546.php"
+    }
+  }
+}

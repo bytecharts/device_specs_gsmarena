@@ -1,0 +1,89 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 1650",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-1650-00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-1650.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2008, January",
+    "dimensions": "80g, 17.8mm thickness",
+    "os": "Feature phone",
+    "storage": "8MB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2007, May. Released 2008, January",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "104.2 x 43.8 x 17.8 mm, 69 cc (4.10 x 1.72 x 0.70 in)",
+        "Weight": "80 g (2.82 oz)",
+        "SIM": "Mini-SIM",
+        "Features": "Flashlight"
+      },
+      "Display": {
+        "Type": "CSTN, 65K colors",
+        "Size": "1.8 inches, 35 x 28 mm, 10.2 cm<sup>2</sup> (~22.3% screen-to-body ratio)",
+        "Resolution": "128 x 160 pixels (~114 ppi density)",
+        "Features": "Themes and wallpapers"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "500 entries",
+        "Call records": "20 dialed, 20 received, 20 missed calls",
+        "Internal": "8MB"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Radio": "FM radio",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS(up to 250), EMS, Instant Messaging",
+        "Browser": "No",
+        "Games": "Snake Xenzia, Beach Rally, Soccer League",
+        "Java": "No",
+        "Features": "Predictive text input\n\nOrganizer\n\nPersonal budget manager\n\nVoice memo"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1020 mAh battery (BL-5C)",
+        "Stand-by": "Up to 420 h",
+        "Talk time": "Up to 8 h"
+      },
+      "Misc": {
+        "Colors": "Metallic Red, Metallic Black",
+        "SAR EU": "0.98 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 40 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-1650-00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_1650-pictures-1978.php"
+    }
+  }
+}

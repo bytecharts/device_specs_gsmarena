@@ -1,0 +1,84 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 105 (2023)",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-105-2023-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-105-2023.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2023, May 18",
+    "dimensions": "78.7g, 14.5mm thickness",
+    "os": "Feature phone",
+    "storage": "Unspecified storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "Yes",
+        "EDGE": "Yes"
+      },
+      "Launch": {
+        "Announced": "2023, May 18",
+        "Status": "Available. Released 2023, May 18"
+      },
+      "Body": {
+        "Dimensions": "115.1 x 49.4 x 14.5 mm (4.53 x 1.94 x 0.57 in)",
+        "Weight": "78.7 g (2.75 oz)",
+        "SIM": "Single SIM (Mini-SIM) or Dual SIM (Mini-SIM, dual stand-by)",
+        "Features": "Flashlight\n\nSplash resistant"
+      },
+      "Display": {
+        "Type": "TFT LCD, 65K colors",
+        "Size": "1.8 inches, 10.0 cm<sup>2</sup> (~17.6% screen-to-body ratio)",
+        "Resolution": "120 x 160 pixels, 4:3 ratio (~111 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "Yes",
+        "Call records": "Yes",
+        "Internal": "Unspecified"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "NFC": "No",
+        "Radio": "Wireless FM radio",
+        "USB": "microUSB 1.1"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS",
+        "Games": "Yes",
+        "Java": "No"
+      },
+      "Battery": {
+        "Type": "Li-Ion 1000 mAh"
+      },
+      "Misc": {
+        "Colors": "Red Terracotta, Cyan, Charcoal",
+        "Price": "About 50 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-105-2023-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-105-2023-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_105_(2023)-pictures-12281.php"
+    }
+  }
+}

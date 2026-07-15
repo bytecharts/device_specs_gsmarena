@@ -1,0 +1,93 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia C5 Endi",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-c5-endi-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-c5-endi.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2020, June 05",
+    "dimensions": "200g, 8.9mm thickness",
+    "os": "Android 10",
+    "storage": "64GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 1700(AWS) / 1900",
+        "4G bands": "LTE",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE (2CA) Cat6 300/50 Mbps"
+      },
+      "Launch": {
+        "Announced": "2020, May 29. Released 2020, June 05",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "171.7 x 76.7 x 8.9 mm (6.76 x 3.02 x 0.35 in)",
+        "Weight": "200 g (7.05 oz)",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "6.52 inches, 102.6 cm<sup>2</sup> (~77.9% screen-to-body ratio)",
+        "Resolution": "720 x 1600 pixels, 20:9 ratio (~269 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 10",
+        "Chipset": "Mediatek MT6762 Helio P22 (12 nm)",
+        "CPU": "Octa-core 2.0 GHz Cortex-A53",
+        "GPU": "PowerVR GE8320"
+      },
+      "Memory": {
+        "Card slot": "microSDXC",
+        "Internal": "64GB 3GB RAM",
+        "Features": "eMMC 5.1"
+      },
+      "Main Camera": {
+        "Triple": "13 MP, (wide), PDAF\n\n5 MP, (ultrawide)\n\nAuxiliary lens",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, (wide)",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (rear-mounted), accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Po 4000 mAh",
+        "Charging": "10W wired"
+      },
+      "Misc": {
+        "Colors": "Midnight Blue",
+        "Price": "About 150 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-c5-endi-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_c5_endi-pictures-10273.php"
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 3310 3G",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-3310-3g-4.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-3310-2017-1.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2017, October",
+    "dimensions": "88.2 (DS)/ 84.9 (SS), 13.4mm thickness",
+    "os": "Feature phone",
+    "storage": "64MB storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 900 / 1800 - SIM 1 &amp; SIM 2 (dual-SIM model only)",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100 - Single SIM",
+        "Speed": "HSPA",
+        "Features": "GSM 850 / 900 / 1800 / 1900 - Single SIM\nHSDPA 900 / 2100 - Dual SIM"
+      },
+      "Launch": {
+        "Announced": "2017, September. Released 2017, October",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "117 x 52.4 x 13.4 mm (4.61 x 2.06 x 0.53 in)",
+        "Weight": "88.2 (DS)/ 84.9 (SS) (3.10 oz)",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "Single SIM (Micro-SIM) or Dual SIM (Micro-SIM, dual stand-by)",
+        "Features": "Flashlight"
+      },
+      "Display": {
+        "Type": "TFT",
+        "Size": "2.4 inches, 17.8 cm<sup>2</sup> (~29.1% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Phonebook": "Yes",
+        "Call records": "Yes",
+        "Internal": "64MB"
+      },
+      "Main Camera": {
+        "Single": "2 MP",
+        "Features": "LED flash",
+        "Video": "288p"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.1, A2DP",
+        "Positioning": "No",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS",
+        "Games": "Yes",
+        "Java": "No",
+        "Features": "Audio/Video player"
+      },
+      "Battery": {
+        "Type": "Dual-SIM model",
+        "Stand-by": "Up to 576 h",
+        "Talk time": "Up to 6 h 30 min",
+        "Music play": "Up to 40 h"
+      },
+      "Misc": {
+        "Colors": "Azure, Yellow, Warm Red, Charcoa",
+        "Models": "TA-1022, TA-1006, TA-1036",
+        "SAR EU": "0.82 W/kg (head) &nbsp; &nbsp; 1.57 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 70 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-3310-3g-4.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-3310-3g-5.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-3310-3g-6.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_3310_3g-pictures-8876.php"
+    }
+  }
+}

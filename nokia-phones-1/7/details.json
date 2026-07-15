@@ -1,0 +1,108 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 7",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-7-4.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-7-.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "nokia_235_4g_2nd_edition-14773",
+      "nokia_210_4g-14775",
+      "nokia_215_4g_2nd_edition-14774",
+      "nokia_200_4g-14776",
+      "nokia_g42-12381"
+    ],
+    "release_date": "Released 2017, October",
+    "dimensions": "153g, 7.9mm thickness",
+    "os": "Android 7.1.1, up to Android 9.0",
+    "storage": "64GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / EVDO / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 &amp; SIM 2",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4G bands": "1, 3, 5, 8, 34, 38, 39, 40, 41",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE (2CA) Cat6 300/50 Mbps",
+        "Features": "CDMA 800 &amp; TD-SCDMA\nCDMA2000 1xEV-DO"
+      },
+      "Launch": {
+        "Announced": "2017, October. Released 2017, October",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "141.2 x 71.5 x 7.9 mm (5.56 x 2.81 x 0.31 in)",
+        "Weight": "153 g (5.40 oz)",
+        "Build": "Glass front (Gorilla Glass 3), glass back, aluminum frame (7000 series)",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "IP54 dust protected and water resistant (water splashes)"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "5.2 inches, 74.5 cm<sup>2</sup> (~73.8% screen-to-body ratio)",
+        "Resolution": "1080 x 1920 pixels, 16:9 ratio (~424 ppi density)",
+        "Protection": "Corning Gorilla Glass 3"
+      },
+      "Platform": {
+        "OS": "Android 7.1.1 (Nougat), upgradable to Android 9.0 (Pie)",
+        "Chipset": "Qualcomm SDM630 Snapdragon 630 (14 nm)",
+        "CPU": "Octa-core 2.2 GHz Cortex-A53",
+        "GPU": "Adreno 508"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (uses shared SIM slot)",
+        "Internal": "64GB 4GB RAM, 64GB 6GB RAM"
+      },
+      "Main Camera": {
+        "Single": "16 MP, f/1.8, 1.12µm, PDAF",
+        "Features": "Zeiss optics, dual-LED dual-tone flash, panorama, HDR",
+        "Video": "4K@30fps, 1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "5 MP, f/2.0, 1/4.0\", 1.4µm, AF",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS, GLONASS, BDS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Ion 3000 mAh, non-removable",
+        "Charging": "18W wired",
+        "Stand-by": "Up to 340 h (3G)",
+        "Talk time": "Up to 15 h (3G)",
+        "Music play": "Up to 85 h"
+      },
+      "Misc": {
+        "Colors": "Gloss Black, Matt White",
+        "Models": "TA-1041",
+        "Price": "About 220 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-7-4.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-7-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-7-5.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-7-6.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_7-pictures-8907.php"
+    }
+  }
+}

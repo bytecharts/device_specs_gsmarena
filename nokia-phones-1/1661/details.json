@@ -1,0 +1,91 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 1661",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-1661-00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-1661.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2009, Q2",
+    "dimensions": "82g, 13.8mm thickness",
+    "os": "Feature phone",
+    "storage": "8MB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "No",
+        "EDGE": "No",
+        "Features": "GSM 850 / 1900"
+      },
+      "Launch": {
+        "Announced": "2008, November. Released 2009, Q2",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "108 x 45 x 13.8 mm, 65.9 cc (4.25 x 1.77 x 0.54 in)",
+        "Weight": "82 g (2.89 oz)",
+        "SIM": "Mini-SIM",
+        "Features": "Flashlight"
+      },
+      "Display": {
+        "Type": "TFT, 65K colors",
+        "Size": "1.8 inches, 10.2 cm<sup>2</sup> (~21.0% screen-to-body ratio)",
+        "Resolution": "128 x 160 pixels (~114 ppi density)",
+        "Features": "Themes and wallpapers"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "Up to 500 entries",
+        "Call records": "20 dialed, 20 received, 20 missed calls",
+        "Internal": "8MB"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No",
+        "Features": "2.5 mm audio jack"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Radio": "FM radio",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS(up to 250)",
+        "Browser": "No",
+        "Games": "Yes",
+        "Java": "No",
+        "Features": "Predictive text input\n\nOrganizer"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 860 mAh battery (BL-4C)",
+        "Stand-by": "Up to 475 h",
+        "Talk time": "Up to 4 h 10 min"
+      },
+      "Misc": {
+        "Colors": "Black, Grey",
+        "SAR": "1.31 W/kg (head) &nbsp; &nbsp; 0.60 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.91 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 30 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-1661-00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_1661-pictures-2572.php"
+    }
+  }
+}

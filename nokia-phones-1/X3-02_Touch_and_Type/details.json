@@ -1,0 +1,103 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia X3-02 Touch and Type",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/Nokia_X3_touch-and-type.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/Nokia-X3-02.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/nokia_x3_02-review-528.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2010, September",
+    "dimensions": "77.4g, 9.6mm thickness",
+    "os": "Feature phone",
+    "storage": "256MB ROM storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "Speed": "HSPA 10.2/2 Mbps"
+      },
+      "Launch": {
+        "Announced": "2010, August. Released 2010, September",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "106.2 x 48.4 x 9.6 mm, 45.3 cc (4.18 x 1.91 x 0.38 in)",
+        "Weight": "77.4 g (2.72 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT resistive touchscreen, 256K colors",
+        "Size": "2.4 inches, 17.8 cm<sup>2</sup> (~34.7% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "Platform": {
+        "CPU": "1.0 GHz (RM-775) / 680 MHz (RM-639)"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Phonebook": "Yes, Photocall",
+        "Call records": "Yes",
+        "Internal": "256MB ROM, 128MB RAM (RM-775), 128MB ROM, 64MB RAM (RM-639)"
+      },
+      "Main Camera": {
+        "Single": "5 MP",
+        "Video": "480p@30fps (RM-775 model)"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes",
+        "Features": "Dedicated music key"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n",
+        "Bluetooth": "2.1, A2DP, EDR",
+        "Positioning": "No",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": "microUSB 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS, Email, IM",
+        "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash Lite",
+        "Games": "Yes + downloadable",
+        "Java": "Yes, MIDP 2.1",
+        "Features": "Facebook, Twitter applications\n\nXviD/MP4/H.264/WMV player\n\nMP3/WAV/WMA/eAAC+ player\n\nOrganizer\n\nVoice memo\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 860 mAh battery (BL-4S)",
+        "Stand-by": "Up to 408 h (2G) / Up to 408 h (3G)",
+        "Talk time": "Up to 5 h 20 min (2G) / Up to 3 h 30 min (3G)",
+        "Music play": "Up to 28 h"
+      },
+      "Misc": {
+        "Colors": "White Silver, Dark Metal, Petrol Blue, Pink, Lilac",
+        "SAR": "0.90 W/kg (head) &nbsp; &nbsp; 0.52 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.98 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 80 EUR"
+      },
+      "Our Tests": {
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=3479&amp;nSuggest=1\">Photo</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"nokia_x3_02-review-528p4.php\">Voice 75dB / Noise 66dB / Ring 75dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"nokia_x3_02-review-528p6.php#aq\">Noise -63.2dB / Crosstalk -61.0dB</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/Nokia_X3_touch-and-type.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/Nokia_X3_touch-and-type-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_x3_02_touch_and_type-pictures-3479.php"
+    }
+  }
+}

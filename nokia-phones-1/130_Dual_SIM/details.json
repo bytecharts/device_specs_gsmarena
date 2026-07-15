@@ -1,0 +1,89 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 130 Dual SIM",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/Nokia-130-Dual-SIM.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/Nokia-130-Dual-SIM.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2014, September",
+    "dimensions": "67.9g, 13.9mm thickness",
+    "os": "Feature phone",
+    "storage": "4MB RAM storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 - SIM 1 &amp; SIM 2",
+        "GPRS": "No",
+        "EDGE": ""
+      },
+      "Launch": {
+        "Announced": "2014, August. Released 2014, September",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "106 x 45.5 x 13.9 mm (4.17 x 1.79 x 0.55 in)",
+        "Weight": "67.9 g (2.40 oz)",
+        "SIM": "Dual SIM (Mini-SIM, dual stand-by)",
+        "Features": "Flashlight"
+      },
+      "Display": {
+        "Type": "TFT, 65K colors",
+        "Size": "1.8 inches, 10.2 cm<sup>2</sup> (~21.1% screen-to-body ratio)",
+        "Resolution": "128 x 160 pixels (~114 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Phonebook": "500 entries",
+        "Call records": "Yes",
+        "Internal": "4MB RAM"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "3.0",
+        "Positioning": "No",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS",
+        "Games": "Yes",
+        "Java": "",
+        "Features": "MP3/WAV/AAC player\n\nMP4/H.263 player\n\nVideo viewer\n\nOrganizer"
+      },
+      "Battery": {
+        "Type": "Li-Ion 1020 mAh, removable (BL-5C)",
+        "Stand-by": "Up to 624 h",
+        "Talk time": "Up to 13 h",
+        "Music play": "Up to 46 h"
+      },
+      "Misc": {
+        "Colors": "Red, black, white",
+        "SAR EU": "1.45 W/kg (head) &nbsp; &nbsp; 1.41 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 20 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/Nokia-130-Dual-SIM.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/Nokia-130-Dual-SIM-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_130_dual_sim-pictures-6571.php"
+    }
+  }
+}

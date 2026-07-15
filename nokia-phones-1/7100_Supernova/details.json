@@ -1,0 +1,93 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 7100 Supernova",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-7110-supernova-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-7110-supernova.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2009, January",
+    "dimensions": "103.5g, 15mm thickness",
+    "os": "Feature phone",
+    "storage": "4MB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "Class 10",
+        "EDGE": "Class 10",
+        "Features": "GSM 850 / 1900 - US version"
+      },
+      "Launch": {
+        "Announced": "2008, November. Released 2009, January",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "98 x 48.4 x 15 mm, 73.9 cc (3.86 x 1.91 x 0.59 in)",
+        "Weight": "103.5 g (3.63 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 65K colors",
+        "Size": "2.0 inches, 12.4 cm<sup>2</sup> (~26.1% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~200 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "1000 entries , Photocall",
+        "Call records": "20 dialed, 20 received, 20 missed calls",
+        "Internal": "4MB"
+      },
+      "Main Camera": {
+        "Single": "1.3 MP",
+        "Video": "128x96@7fps"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No",
+        "Features": "2.5mm audio jack"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.0",
+        "Positioning": "No",
+        "Radio": "Stereo FM radio, RDS, recording",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS, Email",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "Yes",
+        "Java": "Yes, MIDP 2.1",
+        "Features": "MP3/WAV/AAC player\n\nMP4/H.263 player\n\nOrganizer\n\nVoice memo\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 860 mAh battery (BL-4S)",
+        "Stand-by": "Up to 360 h",
+        "Talk time": "Up to 3 h 30 min"
+      },
+      "Misc": {
+        "Colors": "Jelly red, Fresh blue, Black",
+        "SAR": "0.81 W/kg (head) &nbsp; &nbsp; 0.42 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.53 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 70 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-7110-supernova-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_7100_supernova-pictures-2568.php"
+    }
+  }
+}

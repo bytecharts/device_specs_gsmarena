@@ -1,0 +1,87 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 215 4G (2024)",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-215-4g-2024-0.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-215-4g-2024.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2024, May",
+    "dimensions": "11.6mm thickness",
+    "os": "Feature phone",
+    "storage": "128MB 64MB RAM storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "1, 3, 5, 7, 8, 20, 28, 38, 40, 41 - EU, EMEA, APAC",
+        "Speed": "HSPA, LTE",
+        "Features": "1, 3, 5, 8, 38, 39, 40, 41 - IN, CN\n1, 3, 5, 8 - VN, MM, NP"
+      },
+      "Launch": {
+        "Announced": "2024, April 30",
+        "Status": "Available. Released 2024, May"
+      },
+      "Body": {
+        "Dimensions": "127.3 x 54.2 x 11.6 mm (5.01 x 2.13 x 0.46 in)",
+        "Weight": "-",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "Flashlight"
+      },
+      "Display": {
+        "Type": "TFT LCD",
+        "Size": "2.8 inches, 24.3 cm<sup>2</sup> (~35.2% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)"
+      },
+      "Platform": {
+        "Chipset": "Unisoc T107 (22 nm)",
+        "CPU": "1.0 GHz Cortex-A7"
+      },
+      "Memory": {
+        "Card slot": "microSDHC",
+        "Phonebook": "Yes",
+        "Call records": "Yes",
+        "Internal": "128MB 64MB RAM"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "No",
+        "NFC": "No",
+        "Radio": "Wireless FM radio",
+        "USB": "USB Type-C"
+      },
+      "Features": {
+        "Sensors": "No",
+        "Messaging": "SMS",
+        "Games": "Yes",
+        "Java": "No",
+        "Features": "MP3 player\n\nCloud Apps portal"
+      },
+      "Battery": {
+        "Type": "Li-Ion 1450 mAh, removable"
+      },
+      "Misc": {
+        "Colors": "Peach, Black, Dark Blue"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-215-4g-2024-0.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-215-4g-2024-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_215_4g_(2024)-pictures-12969.php"
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 5310 (2020)",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-5310-2.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-5310.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2020, April 02",
+    "dimensions": "88.2g, 13.1mm thickness",
+    "os": "Feature phone",
+    "storage": "16MB 8MB RAM storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "Speed": "No",
+        "GPRS": "Yes",
+        "EDGE": "Yes"
+      },
+      "Launch": {
+        "Announced": "2020, March 19. Released 2020, April 02",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "123.7 x 52.4 x 13.1 mm, 44.8 cc (4.87 x 2.06 x 0.52 in)",
+        "Weight": "88.2 g (3.10 oz)",
+        "SIM": "Single SIM (Mini-SIM) or Dual SIM (Mini-SIM, dual stand-by)",
+        "Features": "Dedicated hardware music keys"
+      },
+      "Display": {
+        "Type": "TFT LCD",
+        "Size": "2.4 inches, 17.8 cm<sup>2</sup> (~27.5% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "Platform": {
+        "Chipset": "Mediatek MT6260A"
+      },
+      "Memory": {
+        "Card slot": "microSDHC",
+        "Phonebook": "Yes",
+        "Call records": "Yes",
+        "Internal": "16MB 8MB RAM"
+      },
+      "Main Camera": {
+        "Single": "VGA",
+        "Features": "LED flash",
+        "Video": ""
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with dual speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "3.0, A2DP",
+        "Positioning": "No",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "microUSB 1.1"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS, Email, IM",
+        "Games": "Yes",
+        "Java": "No",
+        "Features": "MP3 player"
+      },
+      "Battery": {
+        "Type": "Li-Ion 1200 mAh, removable"
+      },
+      "Misc": {
+        "Colors": "White/Red, Black/Red",
+        "Models": "TA-1230, TA-1212",
+        "SAR EU": "1.13 W/kg (head) &nbsp; &nbsp; 1.57 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 70 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-5310-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-5310-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_5310_(2020)-pictures-10144.php"
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 5800 XpressMusic",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-5800-xpressmusic-2.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-5800-xpressmusic.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/nokia_5800_xpressmusic-review-308.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2008, November",
+    "dimensions": "109g, 15.5mm thickness",
+    "os": "Symbian 9.4, Series 60 rel. 5",
+    "storage": "81MB 128MB RAM storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 900 / 2100",
+        "Speed": "HSPA 3.6/0.384 Mbps",
+        "Features": "HSDPA 850 / 1900 - American version"
+      },
+      "Launch": {
+        "Announced": "2008, October. Released 2008, November",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "111 x 51.7 x 15.5 mm, 83 cc (4.37 x 2.04 x 0.61 in)",
+        "Weight": "109 g (3.84 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT resistive touchscreen, 16M colors",
+        "Size": "3.2 inches, 28.2 cm<sup>2</sup> (~49.2% screen-to-body ratio)",
+        "Resolution": "360 x 640 pixels, 16:9 ratio (~229 ppi density)",
+        "Features": "Handwriting recognition"
+      },
+      "Platform": {
+        "OS": "Symbian 9.4, Series 60 rel. 5",
+        "CPU": "434 MHz ARM 11"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot), 8 GB included",
+        "Internal": "81MB 128MB RAM"
+      },
+      "Main Camera": {
+        "Single": "3.15 MP, AF",
+        "Features": "Carl Zeiss optics, dual-LED flash",
+        "Video": "480p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "QVGA videocall camera",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g, UPnP technology",
+        "Bluetooth": "2.0, A2DP",
+        "Positioning": "GPS, A-GPS; Nokia Maps 2.0 Touch",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity",
+        "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash Lite",
+        "Features": "MP4/H.264/WMV player\n\nMP3/WAV/еAAC+/WMA player\n\nPhoto editor\n\nOrganizer\n\nVoice command/dial\n\nTV-out\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1320 mAh battery (BL-5J)",
+        "Stand-by": "Up to 406 h (2G) / Up to 406 h (3G)",
+        "Talk time": "Up to 8 h 45 min (2G) / Up to 5 h (3G)",
+        "Music play": "Up to 35 h"
+      },
+      "Misc": {
+        "Colors": "Black, Red, Blue",
+        "SAR": "1.11 W/kg (head) &nbsp; &nbsp; 0.90 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.97 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 130 EUR"
+      },
+      "Our Tests": {
+        "Loudspeaker": "<a class=\"noUnd\" href=\"nokia_5800_xpressmusic-review-308p5.php\">Voice 75dB / Noise 66dB / Ring 68dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"nokia_5800_xpressmusic-review-308p6.php#aq\">Noise -92.2dB / Crosstalk -75.0dB</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-5800-xpressmusic-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-5800-xpressmusic-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-5800-xpressmusic-4.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_5800_xpressmusic-pictures-2537.php"
+    }
+  }
+}

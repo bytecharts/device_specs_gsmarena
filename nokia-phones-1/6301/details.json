@@ -1,0 +1,94 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 6301",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-6301_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-6301.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2008, March",
+    "dimensions": "93g, 13.1mm thickness",
+    "os": "Feature phone",
+    "storage": "30MB storage, microSD slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "GPRS": "Class 10",
+        "EDGE": "Class 10"
+      },
+      "Launch": {
+        "Announced": "2007, September. Released 2008, March",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "106.8 x 43.8 x 13.1 mm, 55.6 cc (4.20 x 1.72 x 0.52 in)",
+        "Weight": "93 g (3.28 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 16M colors",
+        "Size": "2.0 inches, 12.4 cm<sup>2</sup> (~26.5% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~200 ppi density)",
+        "Features": "Downloadable wallpapers, screensavers"
+      },
+      "Memory": {
+        "Card slot": "microSD (dedicated slot)",
+        "Phonebook": "1000 entries, Photocall",
+        "Call records": "20 dialed, 20 received, 20 missed calls",
+        "Internal": "30MB"
+      },
+      "Main Camera": {
+        "Single": "2 MP",
+        "Video": "QCIF"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g, UMA technology",
+        "Bluetooth": "2.0",
+        "Positioning": "No",
+        "Radio": "Stereo FM radio",
+        "USB": "miniUSB"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS, Email, Instant Messaging",
+        "Browser": "WAP 2.0/xHTML, Adobe Flash Lite",
+        "Games": "Yes  + Downloadable",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "Push to talk\n\nMP3/MP4/AAC/AAC+/eAAC+ player \n\nVoice memo\n\nVoice command\n\nPredictive text input\n\nOrganizer"
+      },
+      "Battery": {
+        "Type": "manual",
+        "Stand-by": "",
+        "Talk time": ""
+      },
+      "Misc": {
+        "Colors": "Cocoa",
+        "SAR": "0.71 W/kg (head) &nbsp; &nbsp; 0.55 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.51 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 130 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-6301_00.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-6301_01.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_6301-pictures-2108.php"
+    }
+  }
+}

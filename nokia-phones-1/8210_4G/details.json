@@ -1,0 +1,100 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 8210 4G",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-8210-4g-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-8210-4g.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "nokia_8210-19"
+    ],
+    "release_date": "Released 2022, July 28",
+    "dimensions": "107g, 13.8mm thickness",
+    "os": "Feature phone",
+    "storage": "128MB 48MB RAM storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100 - International",
+        "4G bands": "1, 3, 5, 7, 8, 20 - APAC, EU, RUCIS",
+        "Speed": "HSPA, LTE",
+        "Features": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - LATAM\n1, 3, 5, 7, 8, 20, 28, 38, 40, 41 - MENA, SSA\n1, 3, 5, 8, 38, 39, 40, 41 - IN, CN\n1, 2, 3, 4, 5, 7, 8, 28, 40 - LATAM"
+      },
+      "Launch": {
+        "Announced": "2022, July 12",
+        "Status": "Available. Released 2022, July 28"
+      },
+      "Body": {
+        "Dimensions": "131.3 x 56.2 x 13.8 mm (5.17 x 2.21 x 0.54 in)",
+        "Weight": "107 g (3.77 oz)",
+        "SIM": "· Nano-SIM\n· Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "TFT LCD",
+        "Size": "2.8 inches, 24.3 cm<sup>2</sup> (~32.9% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)"
+      },
+      "Platform": {
+        "Chipset": "Unisoc T107 (22 nm)",
+        "CPU": "1.0 GHz Cortex-A7"
+      },
+      "Memory": {
+        "Card slot": "microSDHC",
+        "Phonebook": "Yes",
+        "Call records": "Yes",
+        "Internal": "128MB 48MB RAM"
+      },
+      "Main Camera": {
+        "Single": "0.3 MP",
+        "Features": "LED flash",
+        "Video": "Unspecified"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "No",
+        "NFC": "No",
+        "Radio": "Wireless FM radio",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS",
+        "Games": "Yes",
+        "Java": "No"
+      },
+      "Battery": {
+        "Type": "Li-Ion 1450 mAh, removable"
+      },
+      "Misc": {
+        "Colors": "Sand, Blue, Red",
+        "Models": "TA-1507, TA-1494, TA-1489, TA-1485, TA-1483",
+        "SAR": "0.98 W/kg (head) &nbsp; &nbsp; 1.34 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.98 W/kg (head) &nbsp; &nbsp; 1.43 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 170 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-8210-4g-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-8210-4g-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-8210-4g-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_8210_4g-pictures-11666.php"
+    }
+  }
+}

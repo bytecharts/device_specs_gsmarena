@@ -1,0 +1,92 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia N75",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/nokia-n75.gif",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-n75.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2006, September",
+    "dimensions": "123.5g, 20mm thickness",
+    "os": "Symbian OS 9.1, S60 rel. 3.0u",
+    "storage": "40MB 64MB RAM storage, microSD slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / UMTS</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "UMTS 850 / 1900",
+        "Speed": "Yes, 384 kbps"
+      },
+      "Launch": {
+        "Announced": "2006, September",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "95 x 52 x 20 mm, 93 cc (3.74 x 2.05 x 0.79 in)",
+        "Weight": "123.5 g (4.34 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 16M colors",
+        "Size": "2.4 inches, 17.8 cm<sup>2</sup> (~36.1% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)",
+        "Features": "Second external 256K colors display (160 x 128 pixels)\n\nDownloadable themes"
+      },
+      "Platform": {
+        "OS": "Symbian OS 9.1, S60 rel. 3.0u",
+        "CPU": "220 MHz Dual ARM 9"
+      },
+      "Memory": {
+        "Card slot": "microSD (dedicated slot)",
+        "Internal": "40MB 64MB RAM"
+      },
+      "Main Camera": {
+        "Single": "2 MP",
+        "Features": "LED flash",
+        "Video": "CIF"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.0",
+        "Positioning": "No",
+        "Infrared port": "Yes",
+        "Radio": "Stereo FM radio",
+        "USB": "Pop-Port 2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Browser": "WAP 2.0/xHTML, HTML",
+        "Features": "WMV/RV/MP4/3GP player\n\nMP3/WMA/WAV/RA/AAC/M4A player\n\nPredictive text input\n\nVoice command/dial\n\nOrganizer\n\nPrinting\n\nDocument viewer (Word, Excel, PowerPoint, PDF)\n\nPhoto/video editor"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 800 mAh battery (BL-5BT)",
+        "Stand-by": "Up to 200 h (2G) / 192 h (3G)",
+        "Talk time": "Up to 4 h (2G) / 2 h 12 min (3G)"
+      },
+      "Misc": {
+        "Colors": "Chocolate Black",
+        "SAR": "0.43 W/kg (head) &nbsp; &nbsp; 0.78 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.68 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 260 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_n75-pictures-1715.php"
+    }
+  }
+}

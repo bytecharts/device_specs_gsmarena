@@ -1,0 +1,99 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 6600i slide",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-6600i-slide-01.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-6600i-slide.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/nokia_6600i_slide-review-400.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2009, July",
+    "dimensions": "110g, 14mm thickness",
+    "os": "Feature phone",
+    "storage": "20MB storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / UMTS</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "UMTS 850 / 2100",
+        "Speed": "Yes, 384 kbps"
+      },
+      "Launch": {
+        "Announced": "2009, May. Released 2009, July",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "93 x 45 x 14 mm, 52 cc (3.66 x 1.77 x 0.55 in)",
+        "Weight": "110 g (3.88 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 16M colors",
+        "Size": "2.2 inches, 15.0 cm<sup>2</sup> (~35.8% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~182 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot), 1 GB included",
+        "Phonebook": "Yes, up to 1000 entries, Photocall",
+        "Call records": "Yes",
+        "Internal": "20MB"
+      },
+      "Main Camera": {
+        "Single": "5 MP, AF",
+        "Features": "Dual-LED flash",
+        "Video": "480p@15fps"
+      },
+      "Selfie camera": {
+        "Single": "VGA",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.0, A2DP",
+        "Positioning": "No",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer",
+        "Messaging": "SMS, MMS, Email, Instant Messaging",
+        "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash Lite",
+        "Games": "Yes",
+        "Java": "Yes, MIDP 2.1",
+        "Features": "MP3/WAV/eAAC+/WMA player\n\nMP4/H.263 player\n\nOrganizer\n\nVoice memo/commands\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1000 mAh battery (BL-4U)",
+        "Stand-by": "Up to 348 h (2G) / Up to 300 h (3G)",
+        "Talk time": "Up to 4 h (2G) / Up to 3 h (3G)"
+      },
+      "Misc": {
+        "Colors": "Black, Silver",
+        "SAR": "0.41 W/kg (head) &nbsp; &nbsp; 0.29 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.35 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 120 EUR"
+      },
+      "Our Tests": {
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=2805&amp;nSuggest=1\">Photo</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"nokia_6600i_slide-review-400p4.php\">Voice 66dB / Noise 66dB / Ring 69dB</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-6600i-slide-01.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-6600i-slide-02.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_6600i_slide-pictures-2805.php"
+    }
+  }
+}

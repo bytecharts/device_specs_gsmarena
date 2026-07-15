@@ -1,0 +1,100 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 3.1 A",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-31-a.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-31-a.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "nokia_235_4g_2nd_edition-14773",
+      "nokia_210_4g-14775",
+      "nokia_215_4g_2nd_edition-14774",
+      "nokia_200_4g-14776",
+      "nokia_g42-12381"
+    ],
+    "release_date": "Released 2019, June",
+    "dimensions": "156g, 9.4mm thickness",
+    "os": "Android 9.0",
+    "storage": "32GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 1700(AWS) / 1900",
+        "4G bands": "2, 4, 5, 12, 14, 29, 30",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "Launch": {
+        "Announced": "2019, June. Released 2019, June",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "152.7 x 71.9 x 9.4 mm (6.01 x 2.83 x 0.37 in)",
+        "Weight": "156 g (5.50 oz)",
+        "SIM": "Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "5.45 inches, 76.7 cm<sup>2</sup> (~69.8% screen-to-body ratio)",
+        "Resolution": "720 x 1440 pixels, 18:9 ratio (~295 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 9.0 (Pie)",
+        "Chipset": "Qualcomm SDM429 Snapdragon 429 (12 nm)",
+        "CPU": "Quad-core 1.8 GHz Cortex-A53",
+        "GPU": "Adreno 504"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "32GB 2GB RAM",
+        "Features": "eMMC 5.1"
+      },
+      "Main Camera": {
+        "Single": "8 MP, f/2.0, AF",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "5 MP, f/2.2",
+        "Features": "HDR",
+        "Video": "720p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS, GLONASS, BDS",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, proximity"
+      },
+      "Battery": {
+        "Type": "Li-Ion 2990 mAh, non-removable",
+        "Charging": "10W wired"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "Models": "TA1140",
+        "SAR": "1.11 W/kg (head) &nbsp; &nbsp; 0.81 W/kg (body) &nbsp; &nbsp;"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-31-a.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_3_1_a-pictures-9736.php"
+    }
+  }
+}

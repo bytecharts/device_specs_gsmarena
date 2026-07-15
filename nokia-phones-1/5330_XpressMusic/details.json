@@ -1,0 +1,96 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 5330 XpressMusic",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-5330-00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-5330-xpressmusic.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2010, May",
+    "dimensions": "113g, 14mm thickness",
+    "os": "Feature phone",
+    "storage": "70MB storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / UMTS</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "UMTS 850 / 1900 / 2100",
+        "Speed": "Yes, 384 kbps",
+        "Features": "UMTS 900 / 1700 / 2100"
+      },
+      "Launch": {
+        "Announced": "2009, March. Released 2010, May",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "101 x 48 x 14 mm (3.98 x 1.89 x 0.55 in)",
+        "Weight": "113 g (3.99 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 16M colors",
+        "Size": "2.4 inches, 17.8 cm<sup>2</sup> (~36.8% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot), 2 GB included",
+        "Phonebook": "2000 entries, Photocall",
+        "Call records": "20 dialed, 20 received, 20 missed calls",
+        "Internal": "70MB"
+      },
+      "Main Camera": {
+        "Single": "3.15 MP",
+        "Features": "enhanced fixed focus",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes",
+        "Features": "Dedicated touch music keys"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.1, A2DP",
+        "Positioning": "GPS, A-GPS; Nokia Maps",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": "microUSB"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS, Email",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "Yes + downloadable",
+        "Java": "Yes",
+        "Features": "MP3/MP4/eAAC+/WMA player\n\nVoice memo\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1000 mAh battery (BL-4U)",
+        "Stand-by": "Up to 350 h",
+        "Talk time": "Up to 7 h 42 min",
+        "Music play": "Up to 26 h"
+      },
+      "Misc": {
+        "Colors": "Black/Red, Silver/Blue",
+        "SAR": "0.88 W/kg (head) &nbsp; &nbsp; 1.07 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "1.15 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 120 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-5330-00.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-5330-01.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_5330_xpressmusic-pictures-2744.php"
+    }
+  }
+}

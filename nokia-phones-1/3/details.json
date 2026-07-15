@@ -1,0 +1,114 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 3",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-3-2.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-3.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/nokia_3-review-1627.php",
+    "siblingDeviceSlugs": [
+      "nokia_6-6885",
+      "nokia_3_2-9604",
+      "nokia_5-8571",
+      "nokia_3_1-9215",
+      "nokia_235_4g_2nd_edition-14773",
+      "nokia_210_4g-14775",
+      "nokia_215_4g_2nd_edition-14774",
+      "nokia_200_4g-14776",
+      "nokia_g42-12381"
+    ],
+    "release_date": "Released 2017, June 17",
+    "dimensions": "140g, 8.5mm thickness",
+    "os": "Android 7.0, up to Android 9.0",
+    "storage": "16GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 &amp; SIM 2 (dual-SIM model only)",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4G bands": "1, 3, 5, 7, 8, 20, 28, 38, 40",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "Launch": {
+        "Announced": "2017, February 24. Released 2017, June 17",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "143.4 x 71.4 x 8.5 mm (5.65 x 2.81 x 0.33 in)",
+        "Weight": "140 g (4.94 oz)",
+        "Build": "Glass front (Gorilla Glass 3), plastic back, aluminum frame",
+        "SIM": "· Nano-SIM\n· Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "5.0 inches, 68.9 cm<sup>2</sup> (~67.3% screen-to-body ratio)",
+        "Resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)",
+        "Protection": "Corning Gorilla Glass 3"
+      },
+      "Platform": {
+        "OS": "Android 7.0 (Nougat), upgradable to Android 9.0 (Pie)",
+        "Chipset": "Mediatek MT6737 (28 nm)",
+        "CPU": "Quad-core 1.4 GHz Cortex-A53",
+        "GPU": "Mali-T720MP1"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "16GB 2GB RAM",
+        "Features": "eMMC 5.0"
+      },
+      "Main Camera": {
+        "Single": "8 MP, f/2.0, 1.12µm, AF",
+        "Features": "LED flash",
+        "Video": "720p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, f/2.0, AF",
+        "Video": "720p"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, dual-band, Wi-Fi Direct",
+        "Bluetooth": "4.0, A2DP, LE",
+        "Positioning": "GPS",
+        "NFC": "Yes",
+        "Radio": "FM radio with RDS",
+        "USB": "microUSB 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Ion 2630 mAh, non-removable"
+      },
+      "Misc": {
+        "Colors": "Silver White, Matte Black, Tempered Blue, Copper White",
+        "Models": "TA-1032, TA-1020, TA-1028, TA-1038",
+        "SAR EU": "0.48 W/kg (head) &nbsp; &nbsp; 1.85 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 100 EUR"
+      },
+      "Our Tests": {
+        "Performance": "GeekBench: 1529 (v4.4)",
+        "Display": "<a class=\"noUnd\" href=\"nokia_3-review-1627p2.php#dt\">Contrast ratio: 1351 (nominal), 2.871 (sunlight)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=8572&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=8572&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"nokia_3-review-1627p2.php#lt\">Voice 70dB / Noise 71dB / Ring 83dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"nokia_3-review-1627p4.php#aq\">Noise -91.9dB / Crosstalk -91.8dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 8572); \">Endurance rating 53h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-3-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_3-pictures-8572.php"
+    }
+  }
+}

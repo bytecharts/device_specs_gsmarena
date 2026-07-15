@@ -1,0 +1,95 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 5000",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-5000-00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-5000.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2008, June",
+    "dimensions": "74g, 11.1mm thickness",
+    "os": "Feature phone",
+    "storage": "12MB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "Class 10",
+        "EDGE": "Class 6 (downlink only)",
+        "Features": "GSM 850 / 1900 - American version"
+      },
+      "Launch": {
+        "Announced": "2008, April. Released 2008, June",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "106 x 46 x 11.1 mm, 54 cc (4.17 x 1.81 x 0.44 in)",
+        "Weight": "74 g (2.61 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 65K colors",
+        "Size": "2.0 inches, 12.4 cm<sup>2</sup> (~25.4% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~200 ppi density)",
+        "Features": "Downloadable wallpapers, screensavers"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "1000 entries, Photocall",
+        "Call records": "20 dialed, 20 received, 20 missed calls",
+        "Internal": "12MB"
+      },
+      "Main Camera": {
+        "Single": "1.3 MP",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.0",
+        "Positioning": "No",
+        "Radio": "FM radio",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS, Email",
+        "Browser": "WAP 2.0/xHTML, HTML (Opera mini 4)",
+        "Games": "Yes",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "MP3/AAC/WAV/ARM player \n\nNokia Xpress Audio Messaging\n\nAdvanced calculator\n\nOrganizer"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 700 mAh battery (BL-4B)",
+        "Stand-by": "Up to 336 h",
+        "Talk time": "Up to 4 h 45 min"
+      },
+      "Misc": {
+        "Colors": "Cyber Green, Neon Blue, Perfect Purple",
+        "SAR": "1.10 W/kg (head) &nbsp; &nbsp; 0.69 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.69 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 70 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-5000-00.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-5000-01.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_5000-pictures-2336.php"
+    }
+  }
+}

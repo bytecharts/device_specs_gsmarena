@@ -1,0 +1,95 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 6290",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-6290-00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-6290.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2006, November",
+    "dimensions": "115g, 20.8mm thickness",
+    "os": "Symbian OS 9.2, S60 rel. 3.1",
+    "storage": "45MB 64MB RAM storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / UMTS</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "UMTS 2100",
+        "Speed": "Yes, 384 kbps"
+      },
+      "Launch": {
+        "Announced": "2006, November",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "94 x 50 x 20.8 mm, 88 cc (3.70 x 1.97 x 0.82 in)",
+        "Weight": "115 g (4.06 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 16M colors",
+        "Size": "2.2 inches, 15.0 cm<sup>2</sup> (~31.9% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~182 ppi density)",
+        "Features": "Second external TFT display, 256K colors (128 x 160 pixels)\n\nDownloadable screensavers, \n\nwallpapers"
+      },
+      "Platform": {
+        "OS": "Symbian OS 9.2, S60 rel. 3.1",
+        "CPU": "369 MHz ARM 11"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Internal": "45MB 64MB RAM"
+      },
+      "Main Camera": {
+        "Single": "2 MP",
+        "Features": "LED flash",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Single": "CIF videocall camera",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.0",
+        "Positioning": "No",
+        "Infrared port": "Yes",
+        "Radio": "Stereo FM radio",
+        "USB": "miniUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Browser": "WAP 2.0/xHTML",
+        "Features": "Push to Talk\n\nWMV/RV/MP4/3GP player\n\nMP3/WMA/WAV/RA/AAC/M4A player\n\nPredictive text input\n\nOrganizer\n\nSyncML\n\nVoice dial/memo"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 950 mAh battery (BL-5F)",
+        "Stand-by": "Up to 264 h (2G) / 288 h (3G)",
+        "Talk time": "Up to 3 h 30 min (2G) / 2 h 30 min (3G)"
+      },
+      "Misc": {
+        "Colors": "Black, Light Blue",
+        "SAR": "0.33 W/kg (head) &nbsp; &nbsp; 0.54 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.47 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 190 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-6290-00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_6290-pictures-1799.php"
+    }
+  }
+}

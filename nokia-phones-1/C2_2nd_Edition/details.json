@@ -1,0 +1,95 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia C2 2nd Edition",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-c2-2nd-edition-blue.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-c2-2nd-edition-blue.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2022, April 19",
+    "dimensions": "180g, 10mm thickness",
+    "os": "Android 11",
+    "storage": "16GB/32GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "LTE",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "Launch": {
+        "Announced": "2022, February 28",
+        "Status": "Available. Released 2022, April 19"
+      },
+      "Body": {
+        "Dimensions": "154 x 75.9 x 10 mm (6.06 x 2.99 x 0.39 in)",
+        "Weight": "180 g (6.35 oz)",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "· Nano-SIM\n· Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "5.7 inches, 83.8 cm<sup>2</sup> (~71.7% screen-to-body ratio)",
+        "Resolution": "480 x 960 pixels, 18:9 ratio (~188 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 11 (Go edition)",
+        "CPU": "Quad-core 1.5 GHz"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "16GB 2GB RAM, 32GB 1GB RAM, 32GB 2GB RAM",
+        "Features": "eMMC 5.1"
+      },
+      "Main Camera": {
+        "Single": "5 MP",
+        "Features": "LED flash, panorama",
+        "Video": "720p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "2 MP",
+        "Features": "LED flash",
+        "Video": "720p"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS",
+        "NFC": "No",
+        "Radio": "Wireless FM radio",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer"
+      },
+      "Battery": {
+        "Type": "Li-Ion 2400 mAh, removable"
+      },
+      "Misc": {
+        "Colors": "Dark Blue, Warm Gray",
+        "Models": "TA-1468, TA-1454",
+        "SAR": "0.52 W/kg (head) &nbsp; &nbsp; 0.68 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.42 W/kg (head) &nbsp; &nbsp; 1.14 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 240 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-c2-2nd-edition-blue.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-c2-2nd-edition-all.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_c2_2nd_edition-pictures-11382.php"
+    }
+  }
+}

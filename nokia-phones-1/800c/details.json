@@ -1,0 +1,94 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 800c",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-800c-black.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-800c.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2012, September",
+    "dimensions": "142g, 12.1mm thickness",
+    "os": "Microsoft Windows Phone 7.5 Mango",
+    "storage": "16GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / EVDO</a>",
+        "2G bands": "CDMA 800 / 1900",
+        "3G bands": "CDMA2000 1xEV-DO",
+        "Speed": "EV-DO Rev.A 3.1 Mbps",
+        "Features": "GSM 850 / 900 / 1800 / 1900"
+      },
+      "Launch": {
+        "Announced": "2012, March. Released 2012, September",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "116.5 x 61.2 x 12.1 mm, 76 cc (4.59 x 2.41 x 0.48 in)",
+        "Weight": "142 g (5.01 oz)",
+        "SIM": "Micro-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED",
+        "Size": "3.7 inches, 39.0 cm<sup>2</sup> (~54.7% screen-to-body ratio)",
+        "Resolution": "480 x 800 pixels, 5:3 ratio (~252 ppi density)",
+        "Features": "Nokia ClearBlack display"
+      },
+      "Platform": {
+        "OS": "Microsoft Windows Phone 7.5 Mango",
+        "Chipset": "Qualcomm MSM8655T Snapdragon S2",
+        "CPU": "1.4 GHz Scorpion",
+        "GPU": "Adreno 205"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "16GB 512MB RAM"
+      },
+      "Main Camera": {
+        "Single": "8 MP, AF",
+        "Features": "Carl Zeiss optics, dual-LED flash",
+        "Video": "720p@30fps"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n",
+        "Bluetooth": "2.1, A2DP, EDR",
+        "Positioning": "GPS, A-GPS",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity, compass",
+        "Features": "MP3/WAV/eAAC+/WMA player\n\nMP4/H.264/WMV player\n\nDocument editor\n\nVideo/photo editor\n\nVoice memo/command/dial\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1450 mAh battery (BV-5JW)",
+        "Stand-by": "Up to 210 h (2G) / Up to 158 h (3G)",
+        "Talk time": "Up to 9 h (2G) / Up to 7 h (3G)",
+        "Music play": "Up to 55 h"
+      },
+      "Misc": {
+        "Colors": "Black, Cyan",
+        "Price": "About 170 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-800c-black.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-800c.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_800c-pictures-4662.php"
+    }
+  }
+}

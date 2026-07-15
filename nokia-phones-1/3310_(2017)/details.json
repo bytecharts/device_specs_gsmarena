@@ -1,0 +1,96 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 3310 (2017)",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-3310-2017-0.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-3310-2017-orig.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/mwc_2017_nokia_6_5_3_and_3310-review-1579.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2017, May",
+    "dimensions": "85g, 12.8mm thickness",
+    "os": "Feature phone",
+    "storage": "16MB storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 - SIM 1 &amp; SIM 2 (dual-SIM model only)",
+        "GPRS": "Yes",
+        "EDGE": "Yes"
+      },
+      "Launch": {
+        "Announced": "2017, February. Released 2017, May",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "115.6 x 51 x 12.8 mm (4.55 x 2.01 x 0.50 in)",
+        "Weight": "85 g (3.00 oz)",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "Single SIM (Micro-SIM) or Dual SIM (Micro-SIM, dual stand-by)",
+        "Features": "Flashlight"
+      },
+      "Display": {
+        "Type": "TFT",
+        "Size": "2.4 inches, 17.8 cm<sup>2</sup> (~30.3% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Phonebook": "Yes",
+        "Call records": "Yes",
+        "Internal": "16MB"
+      },
+      "Main Camera": {
+        "Single": "2 MP",
+        "Features": "LED flash",
+        "Video": "240p@8fps"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "3.0, A2DP",
+        "Positioning": "No",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS",
+        "Games": "Yes",
+        "Java": "No",
+        "Features": "Audio/Video player"
+      },
+      "Battery": {
+        "Type": "Dual-SIM model",
+        "Stand-by": "Up to 600 h",
+        "Talk time": "Up to 22 h",
+        "Music play": "Up to 51 h"
+      },
+      "Misc": {
+        "Colors": "Warm Red (Glossy), Dark Blue (Matte), Yellow (Glossy), Grey (Matte)",
+        "SAR EU": "0.71 W/kg (head) &nbsp; &nbsp; 1.49 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 60 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-3310-2017-0.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-3310-2017-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_3310_(2017)-pictures-8597.php"
+    }
+  }
+}

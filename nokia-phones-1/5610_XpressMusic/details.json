@@ -1,0 +1,98 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 5610 XpressMusic",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-5610_001.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-5610.gif"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/nokia_5610_xpressmusic-review-199.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2007, October",
+    "dimensions": "111g, 17mm thickness",
+    "os": "Feature phone",
+    "storage": "20MB storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / UMTS</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "UMTS 850 / 2100",
+        "Speed": "Yes, 384 kbps",
+        "Features": "UMTS 850 / 1900 - American version"
+      },
+      "Launch": {
+        "Announced": "2007, August. Released 2007, October",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "98.5 x 48.5 x 17 mm, 75 cc (3.88 x 1.91 x 0.67 in)",
+        "Weight": "111 g (3.92 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 16M colors",
+        "Size": "2.2 inches, 15.0 cm<sup>2</sup> (~31.4% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~182 ppi density)",
+        "Features": "NaviSlide navigation key\n\nDownloadable themes"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Phonebook": "2000 entries, Photocall",
+        "Call records": "Yes",
+        "Internal": "20MB"
+      },
+      "Main Camera": {
+        "Single": "3.15 MP, AF",
+        "Features": "LED flash",
+        "Video": "480p@15fps"
+      },
+      "Selfie camera": {
+        "Single": "VGA videocall camera",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "Alert types": "Vibration; Downloadable polyphonic, MP3, MP4, WMA, AAC, video tones ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.0, A2DP",
+        "Positioning": "No",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS, Email, Instant Messaging",
+        "Browser": "WAP 2.0/xHTML, HTML (Opera mini)",
+        "Games": "Snake II, Rally 3D, Music Guess, Towerbloxx",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "MP3/MP4/AAC/eAAc/WMA player\n\nNokia sensor\n\nWorld Clock II\n\nConverter II\n\nPredictive text input\n\nStopwatch\n\nVoice memo/commands"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 900 mAh battery (BP-5M)",
+        "Stand-by": "Up to 320h",
+        "Talk time": "Up to 6h"
+      },
+      "Misc": {
+        "Colors": "Red, Blue",
+        "SAR": "1.13 W/kg (head) &nbsp; &nbsp; 0.81 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "1.25 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 110 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-5610_001.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-5610_002.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_5610_xpressmusic-pictures-2086.php"
+    }
+  }
+}

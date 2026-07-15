@@ -1,0 +1,87 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 106 (2023)",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-106-2023-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-106-2023.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2023, May 22",
+    "dimensions": "79.4g, 14.5mm thickness",
+    "os": "Feature phone",
+    "storage": "Unspecified storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "Yes",
+        "EDGE": "Yes"
+      },
+      "Launch": {
+        "Announced": "2023, May 18",
+        "Status": "Available. Released 2023, May 22"
+      },
+      "Body": {
+        "Dimensions": "115.1 x 49.4 x 14.5 mm (4.53 x 1.94 x 0.57 in)",
+        "Weight": "79.4 g (2.79 oz)",
+        "SIM": "Single SIM (Mini-SIM) or Dual SIM (Mini-SIM, dual stand-by)",
+        "Features": "Flashlight\n\nSplash resistant"
+      },
+      "Display": {
+        "Type": "TFT LCD, 65K colors",
+        "Size": "1.8 inches, 10.0 cm<sup>2</sup> (~17.6% screen-to-body ratio)",
+        "Resolution": "120 x 160 pixels, 4:3 ratio (~111 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "microSDHC",
+        "Phonebook": "Yes",
+        "Call records": "Yes",
+        "Internal": "Unspecified"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "NFC": "No",
+        "Radio": "Wireless FM radio",
+        "USB": "microUSB 1.1"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS",
+        "Games": "Yes",
+        "Java": "No",
+        "Features": "MP3 player"
+      },
+      "Battery": {
+        "Type": "Li-Ion 1000 mAh"
+      },
+      "Misc": {
+        "Colors": "Red Terracotta, Emerald Green, Charcoal",
+        "Models": "TA-1553",
+        "Price": "About 80 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-106-2023-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-106-2023-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-106-2023-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_106_(2023)-pictures-12283.php"
+    }
+  }
+}

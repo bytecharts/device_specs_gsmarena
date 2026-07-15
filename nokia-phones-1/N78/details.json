@@ -1,0 +1,101 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia N78",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-n78-00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-n78.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/nokia_n78-review-255.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2008, May",
+    "dimensions": "101.8g, 15.1mm thickness",
+    "os": "Symbian, S60 rel. 3.2",
+    "storage": "76MB 96MB RAM storage, microSD slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 900 / 2100",
+        "Speed": "HSPA 3.6/0.384 Mbps",
+        "Features": "HSDPA 850 / 1900 - American version"
+      },
+      "Launch": {
+        "Announced": "2008, February. Released 2008, May",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "113 x 49 x 15.1 mm, 76.5 cc (4.45 x 1.93 x 0.59 in)",
+        "Weight": "101.8 g (3.56 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 16M colors",
+        "Size": "2.4 inches, 17.8 cm<sup>2</sup> (~32.2% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)",
+        "Features": "Touch-sensitive Navi wheel"
+      },
+      "Platform": {
+        "OS": "Symbian, S60 rel. 3.2",
+        "CPU": "369 MHz ARM 11"
+      },
+      "Memory": {
+        "Card slot": "microSD (dedicated slot)",
+        "Internal": "76MB 96MB RAM"
+      },
+      "Main Camera": {
+        "Single": "3.15 MP, AF",
+        "Features": "Carl Zeiss optics, LED flash",
+        "Video": "480p@15fps"
+      },
+      "Selfie camera": {
+        "Single": "CIF videocall camera",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g, UPnP technology",
+        "Bluetooth": "2.0, A2DP",
+        "Positioning": "GPS, A-GPS; Nokia Maps",
+        "Radio": "Stereo FM radio, RDS; FM transmitter",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Browser": "WAP 2.0/xHTML, HTML, RSS feeds",
+        "Features": "WMV/RV/MP4/3GP player\n\nMP3/WMA/WAV/RA/AAC/M4A player\n\nPush to Talk\n\nVoice command/dial\n\nOrganizer\n\nPrinting\n\nDocument viewer (Word, Excel, PowerPoint, PDF)\n\nPredictive text input\n\nPhoto/video editor"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1200 mAh battery (BL-6F)",
+        "Stand-by": "Up to 320 h (2G) / 312 h (3G)",
+        "Talk time": "Up to 4 h 20 min (2G) / 3 h 10 min (3G)"
+      },
+      "Misc": {
+        "Colors": "Brown, Blue, White",
+        "SAR": "1.26 W/kg (head) &nbsp; &nbsp; 1.04 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "1.00 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 170 EUR"
+      },
+      "Our Tests": {
+        "Loudspeaker": "<a class=\"noUnd\" href=\"nokia_n78-review-255p3.php\">Voice 70dB / Noise 66dB / Ring 75dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"nokia_n78-review-255p6.php#aq\">Noise -76.1dB / Crosstalk -72.37dB</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-n78-00.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-n78-01.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_n78-pictures-2254.php"
+    }
+  }
+}

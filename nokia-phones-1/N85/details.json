@@ -1,0 +1,103 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia N85",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-n85-00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-n85.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/nokia_n85-review-297.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2008, October",
+    "dimensions": "128g, 16mm thickness",
+    "os": "Symbian OS 9.3, S60 rel. 3.2",
+    "storage": "74MB storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 900 / 1900 / 2100",
+        "Speed": "HSPA 3.6/0.384 Mbps",
+        "Features": "HSDPA 850 / 1900 / 2100 - American version"
+      },
+      "Launch": {
+        "Announced": "2008, August. Released 2008, October",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "103 x 50 x 16 mm, 76 cc (4.06 x 1.97 x 0.63 in)",
+        "Weight": "128 g (4.52 oz)",
+        "SIM": "Mini-SIM",
+        "Features": "Dual slide design"
+      },
+      "Display": {
+        "Type": "AMOLED, 16M colors",
+        "Size": "2.6 inches, 20.9 cm<sup>2</sup> (~40.6% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~154 ppi density)",
+        "Features": "Touch-sensitive Navi wheel"
+      },
+      "Platform": {
+        "OS": "Symbian OS 9.3, S60 rel. 3.2",
+        "CPU": "369 MHz ARM 11"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot), 8 GB included",
+        "Internal": "74MB"
+      },
+      "Main Camera": {
+        "Single": "5 MP, AF",
+        "Features": "Carl Zeiss optics, LED flash",
+        "Video": "480p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "CIF videocall camera",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "Alert types": "Vibration; Downloadable polyphonic, monophonic, MP3 ringtones",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g, UPnP &amp; DLNA technology",
+        "Bluetooth": "2.0, A2DP",
+        "Positioning": "GPS, A-GPS; Nokia Maps 2.0",
+        "Radio": "Stereo FM radio, RDS; FM transmitter",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer",
+        "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash Lite",
+        "Features": "MP4/WMV/H.264 player\n\nMP3/WAV/eAAC+/WMA player\n\nOrganizer\n\nDocument viewer (Word, Excel, PowerPoint, PDF)\n\nVoice dial/memo\n\nPush to talk\n\nTV-out\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1200 mAh battery (BL-5K)",
+        "Stand-by": "Up to 363 h (2G) / Up to 363 h (3G)",
+        "Talk time": "Up to 6 h 50 min (2G) / Up to 4 h 30 min (3G)"
+      },
+      "Misc": {
+        "Colors": "Copper, Black",
+        "SAR": "1.03 W/kg (head) &nbsp; &nbsp; 0.79 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.81 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 250 EUR"
+      },
+      "Our Tests": {
+        "Loudspeaker": "<a class=\"noUnd\" href=\"nokia_n85-review-297p4.php\">Voice 67dB / Noise 65dB / Ring 71dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"nokia_n85-review-297p5.php#aq\">Noise -94.4dB / Crosstalk -88.1dB</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-n85-00.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-n85-01.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-n85-02.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_n85-pictures-2496.php"
+    }
+  }
+}

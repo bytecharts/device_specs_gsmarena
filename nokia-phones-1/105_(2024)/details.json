@@ -1,0 +1,80 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 105 (2024)",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-105-2024-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-105-2024.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2024, July",
+    "dimensions": "77.5g, 14mm thickness",
+    "os": "RTOS OS",
+    "storage": "4MB 4MB RAM storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "Yes",
+        "EDGE": "Yes"
+      },
+      "Launch": {
+        "Announced": "2024, July 03",
+        "Status": "Available. Released 2024, July"
+      },
+      "Body": {
+        "Dimensions": "115.5 x 49.5 x 14 mm (4.55 x 1.95 x 0.55 in)",
+        "Weight": "77.5 g (2.75 oz)",
+        "SIM": "Dual SIM (Mini-SIM, dual stand-by)",
+        "Features": "Splash resistant"
+      },
+      "Display": {
+        "Type": "TFT LCD, 65K colors",
+        "Size": "2.0 inches, 12.4 cm<sup>2</sup> (~21.7% screen-to-body ratio)",
+        "Resolution": "120 x 160 pixels, 4:3 ratio (~100 ppi density)"
+      },
+      "Platform": {
+        "OS": "RTOS OS"
+      },
+      "Memory": {
+        "Card slot": "microSDHC",
+        "Internal": "4 MB 4 MB RAM"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "NFC": "No",
+        "Radio": "Wireless FM radio",
+        "USB": "microUSB"
+      },
+      "Features": {
+        "Sensors": "",
+        "Features": "MP3 player"
+      },
+      "Battery": {
+        "Type": "1000 mAh, removable"
+      },
+      "Misc": {
+        "Colors": "Black, Blue, Purple"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-105-2024-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-105-2024-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-105-2024-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_105_(2024)-pictures-13188.php"
+    }
+  }
+}

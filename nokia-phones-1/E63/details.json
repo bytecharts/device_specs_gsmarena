@@ -1,0 +1,100 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia E63",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-e63-2.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-e63.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/nokia_e63-review-305.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2008, December",
+    "dimensions": "126g, 13mm thickness",
+    "os": "Symbian OS 9.2, Series 60 v3.1 UI",
+    "storage": "120MB storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / UMTS</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "UMTS 900 / 2100",
+        "Speed": "Yes, 384 kbps",
+        "Features": "UMTS 850 / 1900 - American version"
+      },
+      "Launch": {
+        "Announced": "2008, November. Released 2008, December",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "113 x 59 x 13 mm, 87 cc (4.45 x 2.32 x 0.51 in)",
+        "Weight": "126 g (4.44 oz)",
+        "Keyboard": "QWERTY",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 16M colors",
+        "Size": "2.36 inches, 17.2 cm<sup>2</sup> (~25.9% screen-to-body ratio)",
+        "Resolution": "320 x 240 pixels, 4:3 ratio (~169 ppi density)"
+      },
+      "Platform": {
+        "OS": "Symbian OS 9.2, Series 60 v3.1 UI",
+        "CPU": "ARM 11 369 MHz"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Internal": "120MB"
+      },
+      "Main Camera": {
+        "Single": "2 MP",
+        "Features": "LED flash",
+        "Video": "320p@15fps"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g",
+        "Bluetooth": "2.0, A2DP",
+        "Positioning": "No",
+        "Radio": "FM radio",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Browser": "WAP 2.0/xHTML, HTML",
+        "Features": "WMV/RV/MP4/3GP player\n\nMP3/WMA/WAV/RA/AAC/M4A player\n\nDocument editor (Word, Excel, PowerPoint, PDF) incl. MS Office 2007 support via free update\n\nPush to talk\n\nVoice command/dial\n\nOrganizer\n\nPrinting"
+      },
+      "Battery": {
+        "Type": "Removable Li-Po 1500 mAh battery (BP-4L)",
+        "Stand-by": "Up to 432 h (2G) / 480 h (3G)",
+        "Talk time": "Up to 11 h (2G) / 4 h 40 min (3G)",
+        "Music play": "Up to 18 h"
+      },
+      "Misc": {
+        "Colors": "Ultramarine Blue, Ruby Red, Black",
+        "SAR": "1.06 W/kg (head) &nbsp; &nbsp; 0.62 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "1.03 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 120 EUR"
+      },
+      "Our Tests": {
+        "Loudspeaker": "<a class=\"noUnd\" href=\"nokia_e63-review-305p4.php\">Voice 64dB / Noise 62dB / Ring 69dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"nokia_e63-review-305p5.php#aq\">Noise -75.0dB / Crosstalk -74.9dB</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-e63-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-e63-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_e63-pictures-2599.php"
+    }
+  }
+}

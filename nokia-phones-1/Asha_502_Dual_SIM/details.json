@@ -1,0 +1,91 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia Asha 502 Dual SIM",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-asha-502.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-asha-502-dual-sim.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/nokia_lumia_1320-review-1002.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2013, November",
+    "dimensions": "100g, 11.1mm thickness",
+    "os": "Nokia Asha software platform 1.1.1, up to 1.4",
+    "storage": "64MB RAM storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 - SIM 1 &amp; SIM 2",
+        "GPRS": "Up to 85.6 kbps",
+        "EDGE": "Up to 236.8 kbps"
+      },
+      "Launch": {
+        "Announced": "2013, October. Released 2013, November",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "99.6 x 59.5 x 11.1 mm, 62.5 cc (3.92 x 2.34 x 0.44 in)",
+        "Weight": "100 g (3.53 oz)",
+        "SIM": "Dual SIM (Micro-SIM, dual stand-by)"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "3.0 inches, 27.9 cm<sup>2</sup> (~47.0% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~133 ppi density)"
+      },
+      "Platform": {
+        "OS": "Nokia Asha software platform 1.1.1, upgradable to 1.4"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot), 4 GB included",
+        "Internal": "64MB RAM"
+      },
+      "Main Camera": {
+        "Single": "5 MP",
+        "Features": "LED flash",
+        "Video": "320p@15fps"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n",
+        "Bluetooth": "3.0, A2DP",
+        "Positioning": "No",
+        "NFC": "No",
+        "Radio": "Stereo FM radio",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity",
+        "Features": "SNS apps\n\nMP4/H.263 player\n\nMP3/WAV/AAC player\n\nPhoto editor\n\nOrganizer\n\nVoice memo\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Li-Ion 1010 mAh, removable (BL-5A)",
+        "Stand-by": "Up to 576 h",
+        "Talk time": "Up to 13 h 42 min",
+        "Music play": "Up to 42 h"
+      },
+      "Misc": {
+        "Colors": "Bright Red, Bright Green, Cyan, Yellow, White and Black",
+        "SAR EU": "0.89 W/kg (head) &nbsp; &nbsp; 0.51 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 80 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-asha-502.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_asha_502_dual_sim-pictures-5795.php"
+    }
+  }
+}

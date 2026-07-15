@@ -1,0 +1,86 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 105 Dual SIM (2015)",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-105-ds-2015.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-105-ds-2015.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2015, June",
+    "dimensions": "69.6g, 14.1mm thickness",
+    "os": "Feature phone",
+    "storage": "4MB RAM storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 - SIM 1 &amp; SIM 2",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2015, June. Released 2015, June",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "108.5 x 45.5 x 14.1 mm (4.27 x 1.79 x 0.56 in)",
+        "Weight": "69.6 g (2.47 oz)",
+        "SIM": "Dual SIM (Mini-SIM, dual stand-by)",
+        "Features": "Flashlight"
+      },
+      "Display": {
+        "Type": "TFT, 65K colors",
+        "Size": "1.4 inches, 6.3 cm<sup>2</sup> (~12.8% screen-to-body ratio)",
+        "Resolution": "128 x 128 pixels, 1:1 ratio (~129 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "2000 contacts",
+        "Call records": "Yes",
+        "Internal": "4MB RAM"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "microUSB 2.0 (charging only)"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS",
+        "Games": "Yes",
+        "Java": "No",
+        "Features": "Calculator\n\nReminders\n\nCalendar"
+      },
+      "Battery": {
+        "Type": "Li-Ion 800 mAh, removable",
+        "Stand-by": "Up to 600 h",
+        "Talk time": "Up to 15 h"
+      },
+      "Misc": {
+        "Colors": "Black, Cyan, White",
+        "Price": "About 20 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-105-ds-2015.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_105_dual_sim_(2015)-pictures-7272.php"
+    }
+  }
+}

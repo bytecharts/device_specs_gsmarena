@@ -1,0 +1,92 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 2780 Flip",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-2780-flip-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-2780-flip.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2022, November 15",
+    "dimensions": "131.2g, 11.5mm thickness",
+    "os": "KaiOS 3.1",
+    "storage": "4GB 512MB RAM storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 1700(AWS) / 1900",
+        "4G bands": "2, 4, 5, 7, 12, 13, 17, 25, 26, 41, 66, 71",
+        "Speed": "HSPA, LTE Cat4 150/50 Mbps"
+      },
+      "Launch": {
+        "Announced": "2022, November 03",
+        "Status": "Available. Released 2022, November 15"
+      },
+      "Body": {
+        "Dimensions": "202.1 x 58 x 11.5 mm (7.96 x 2.28 x 0.45 in)",
+        "Weight": "131.2 g (4.62 oz)",
+        "SIM": "Nano-SIM"
+      },
+      "Display": {
+        "Type": "TFT LCD",
+        "Size": "2.7 inches, 22.6 cm<sup>2</sup> (~19.3% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~148 ppi density)",
+        "Features": "Secondary external 1.77\" display"
+      },
+      "Platform": {
+        "OS": "KaiOS 3.1",
+        "Chipset": "Qualcomm QM215 Snapdragon 215 (28 nm)",
+        "CPU": "Quad-core 1.3 GHz Cortex-A53",
+        "GPU": "Adreno 308"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Internal": "4GB 512MB RAM"
+      },
+      "Main Camera": {
+        "Single": "5 MP",
+        "Features": "LED flash",
+        "Video": "Unspecified"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n",
+        "Bluetooth": "4.2, A2DP",
+        "Positioning": "GPS",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0"
+      },
+      "Features": {
+        "Sensors": ""
+      },
+      "Battery": {
+        "Type": "Li-Ion 1450 mAh, removable"
+      },
+      "Misc": {
+        "Colors": "Red, Blue",
+        "Price": "About 90 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-2780-flip-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-2780-flip-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-2780-flip-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_2780_flip-pictures-11973.php"
+    }
+  }
+}

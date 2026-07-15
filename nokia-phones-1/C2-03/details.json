@@ -1,0 +1,98 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia C2-03",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/Nokia_C2-03-all.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/Nokia-C2-03-white-light-gold.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/nokia_c2_03-review-646.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2011, September",
+    "dimensions": "115g, 17mm thickness",
+    "os": "Feature phone",
+    "storage": "10MB storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 - SIM1 &amp; SIM 2",
+        "GPRS": "Class 12",
+        "EDGE": "Class 12",
+        "Features": "GSM 850 / 1900 - SIM1 &amp; SIM 2"
+      },
+      "Launch": {
+        "Announced": "2011, June. Released 2011, September",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "103 x 51.4 x 17 mm (4.06 x 2.02 x 0.67 in)",
+        "Weight": "115 g (4.06 oz)",
+        "SIM": "Dual SIM (Mini-SIM)"
+      },
+      "Display": {
+        "Type": "TFT resistive touchscreen, 65K colors",
+        "Size": "2.6 inches, 20.9 cm<sup>2</sup> (~39.5% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~154 ppi density)",
+        "Features": "Handwriting recognition"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot), 2 GB included",
+        "Phonebook": "1000 entries, Photocall",
+        "Call records": "Yes",
+        "Internal": "10MB"
+      },
+      "Main Camera": {
+        "Single": "2 MP",
+        "Video": "QCIF@15fps"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.1",
+        "Positioning": "No",
+        "Radio": "FM radio, recording (selected markets)",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS, Email, Push Email",
+        "Browser": "WAP 2.0/xHTML, Adobe Flash Lite",
+        "Games": "Yes + downloadable",
+        "Java": "Yes, MIDP 2.1",
+        "Features": "MP4/H.264 player\n\nMP3/AAC/WAV player\n\nOrganizer\n\nVoice memo\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1020 mAh battery (BL-5C)",
+        "Stand-by": "Up to 400 h",
+        "Talk time": "Up to 5 h",
+        "Music play": "Up to 37 h"
+      },
+      "Misc": {
+        "Colors": "Chrome Black, Golden White",
+        "SAR EU": "0.61 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 70 EUR"
+      },
+      "Our Tests": {
+        "Loudspeaker": "<a class=\"noUnd\" href=\"nokia_c2_03-review-646p3.php\">Voice 74dB / Noise 72dB / Ring 75dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"nokia_c2_03-review-646p4.php#aq\">Noise -83.2dB / Crosstalk -80.1dB</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/Nokia_C2-03-all.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_c2_03-pictures-3995.php"
+    }
+  }
+}

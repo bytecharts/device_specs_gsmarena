@@ -1,0 +1,94 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia E73 Mode",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/Nokia_E73_Mode_T-Mobile_USA_Car_Holder.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/Nokia-E73-Mode-ofic.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2010, June",
+    "dimensions": "127.6g, 10.2mm thickness",
+    "os": "Symbian OS 9.3, Series 60 v3.2 UI",
+    "storage": "250MB storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 900 / 1700 / 2100",
+        "Speed": "HSPA 10.2/2 Mbps",
+        "Features": "HSDPA 2100"
+      },
+      "Launch": {
+        "Announced": "2010, June. Released 2010, June",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "113.8 x 58.4 x 10.2 mm (4.48 x 2.30 x 0.40 in)",
+        "Weight": "127.6 g (4.48 oz)",
+        "Keyboard": "QWERTY",
+        "SIM": "Mini-SIM",
+        "Features": "Optical trackpad"
+      },
+      "Display": {
+        "Type": "TFT, 16M colors",
+        "Size": "2.4 inches, 17.8 cm<sup>2</sup> (~26.8% screen-to-body ratio)",
+        "Resolution": "320 x 240 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "Platform": {
+        "OS": "Symbian OS 9.3, Series 60 v3.2 UI"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot), 4 GB included",
+        "Internal": "250MB"
+      },
+      "Main Camera": {
+        "Single": "5 MP, AF",
+        "Features": "LED flash",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Single": "VGA videocall camera",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g",
+        "Bluetooth": "2.0, A2DP",
+        "Positioning": "GPS, A-GPS",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, compass",
+        "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash Lite",
+        "Features": "MP4/H.263 player\n\nMP3/WMA/WAV/eAAC+ player\n\nDocument editor (Word, Excel, PowerPoint, PDF)\n\nPush to talk\n\nVoice command/dial\n\nOrganizer\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Po 1500 mAh battery (BP-4L)",
+        "Stand-by": "Up to 384 h (2G) / Up to 528 h (3G)",
+        "Talk time": "Up to 13 h (2G) / Up to 6 h (3G)"
+      },
+      "Misc": {
+        "Colors": "Titanium",
+        "SAR EU": "0.86 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 120 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/Nokia_E73_Mode_T-Mobile_USA_Car_Holder.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/Nokia_E73_Mode_T-Mobile_USA_04.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_e73_mode-pictures-3348.php"
+    }
+  }
+}

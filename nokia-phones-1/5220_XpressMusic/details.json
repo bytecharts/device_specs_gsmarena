@@ -1,0 +1,101 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 5220 XpressMusic",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-5220-00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-5220.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/nokia_5220_xpressmusic-review-291.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2008, July",
+    "dimensions": "78g, 10.5mm thickness",
+    "os": "Feature phone",
+    "storage": "30MB storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "GPRS": "Class 32",
+        "EDGE": "Class 32",
+        "Features": "GSM 850 / 1800 / 1900 - American version"
+      },
+      "Launch": {
+        "Announced": "2008, April. Released 2008, July",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "108 x 43.5 x 10.5 mm, 53 cc (4.25 x 1.71 x 0.41 in)",
+        "Weight": "78 g (2.75 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "2.0 inches, 12.4 cm<sup>2</sup> (~26.4% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~200 ppi density)",
+        "Features": "Wallpaper creator"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Phonebook": "2000 entries, Photocall",
+        "Call records": "20 dialed, 20 received, 20 missed calls",
+        "Internal": "30MB",
+        "Features": "Nokia 512 MB microSD card included"
+      },
+      "Main Camera": {
+        "Single": "2 MP",
+        "Video": "QCIF"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "Alert types": "Vibration; Downloadable polyphonic, MP3, AAC, 3D, video ringtones",
+        "3.5mm jack": "Yes",
+        "Features": "Dedicated music keys and rhythmic lights flash"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.0, A2DP",
+        "Positioning": "No",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": "microUSB"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS 1.3 (up to 600KB), Email, Push Email, IM",
+        "Browser": "WAP 2.0/xHTML, HTML, Opera Mini",
+        "Games": "Yes  + Downloadable",
+        "Java": "Yes, MIDP 2.1",
+        "Features": "MP3/MP4 player\n\nVoice memo\n\nVoice dial\n\nOrganizer\n\nUp to 24 h music time"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1020 mAh battery (BL-5CT)",
+        "Stand-by": "Up to 406 h",
+        "Talk time": "Up to 5 h 15 min"
+      },
+      "Misc": {
+        "Colors": "Blue, Red, Green",
+        "SAR": "0.92 W/kg (head) &nbsp; &nbsp; 0.85 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "1.01 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 110 EUR"
+      },
+      "Our Tests": {
+        "Loudspeaker": "<a class=\"noUnd\" href=\"nokia_5220_xpressmusic-review-291p3.php\">Voice 73dB / Noise 68dB / Ring 75dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"nokia_5220_xpressmusic-review-291p4.php#aq\">Noise -91.7dB / Crosstalk -73.1dB</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-5220-00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_5220_xpressmusic-pictures-2349.php"
+    }
+  }
+}

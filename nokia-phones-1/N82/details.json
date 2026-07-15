@@ -1,0 +1,100 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia N82",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-n82-05.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-n82.gif"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/nokia_n82-review-195.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2007, November",
+    "dimensions": "114g, 17.3mm thickness",
+    "os": "Symbian OS 9.2, S60 rel. 3.1",
+    "storage": "100MB 128MB RAM storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 2100",
+        "Speed": "HSPA"
+      },
+      "Launch": {
+        "Announced": "2007, November. Released 2007, November",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "112 x 50.2 x 17.3 mm, 90 cc (4.41 x 1.98 x 0.68 in)",
+        "Weight": "114 g (4.02 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 16M colors",
+        "Size": "2.4 inches, 17.8 cm<sup>2</sup> (~31.7% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "Platform": {
+        "OS": "Symbian OS 9.2, S60 rel. 3.1",
+        "CPU": "332 MHz Dual ARM 11",
+        "GPU": "3D Graphics HW Accelerator"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot), 2 GB included",
+        "Internal": "100MB 128MB RAM"
+      },
+      "Main Camera": {
+        "Single": "5 MP, AF",
+        "Features": "Carl Zeiss optics, xenon flash",
+        "Video": "480p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "CIF videocall camera",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "Alert types": "Vibration; Downloadable polyphonic, monophonic, MP3 ringtones",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g, UPnP technology",
+        "Bluetooth": "2.0, A2DP",
+        "Positioning": "GPS, A-GPS; Nokia Maps",
+        "Radio": "Stereo FM radio",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer",
+        "Browser": "WAP 2.0/xHTML, HTML",
+        "Features": "MP3/WMA/WAV/RA/AAC/M4A player\n\nMP4/H.264/RV/AVC player\n\nDocument viewer (Word, Excel, PowerPoint, PDF)\n\nOrganizer\n\nVoice dial/memo\n\nTV-out\n\nPush to talk\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1050 mAh battery (BP-6MT)",
+        "Stand-by": "Up to 225 h (2G) / 216 h (3G)",
+        "Talk time": "Up to 4 h 20 min (2G) / 3 h 10 min (3G)"
+      },
+      "Misc": {
+        "Colors": "Silver, Black",
+        "SAR": "1.16 W/kg (head) &nbsp; &nbsp; 1.20 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "1.07 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 170 EUR"
+      },
+      "Our Tests": {
+        "Loudspeaker": "<a class=\"noUnd\" href=\"nokia_n82-review-195p3.php\">Voice 70dB / Noise 61dB / Ring 65dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"nokia_n82-review-195p5.php#aq\">Noise -81.6dB / Crosstalk -69.3dB</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-n82-05.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-n82-04.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_n82-pictures-2177.php"
+    }
+  }
+}

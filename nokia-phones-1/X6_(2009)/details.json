@@ -1,0 +1,97 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia X6 (2009)",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-x6-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-x6.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/nokia_x6-review-439.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2009, December",
+    "dimensions": "122g, 13.8mm thickness",
+    "os": "Symbian 9.4, Series 60 rel. 5",
+    "storage": "32GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 900 / 1900 / 2100 - excl. Lat. America &amp; Brazil",
+        "Speed": "HSPA 3.6/0.384 Mbps"
+      },
+      "Launch": {
+        "Announced": "2009, September. Released 2009, December",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "111 x 51 x 13.8 mm (4.37 x 2.01 x 0.54 in)",
+        "Weight": "122 g (4.30 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT",
+        "Size": "3.2 inches, 28.2 cm<sup>2</sup> (~49.9% screen-to-body ratio)",
+        "Resolution": "360 x 640 pixels, 16:9 ratio (~229 ppi density)",
+        "Protection": "Corning Gorilla Glass"
+      },
+      "Platform": {
+        "OS": "Symbian 9.4, Series 60 rel. 5",
+        "CPU": "434 MHz ARM 11"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "32GB 128MB RAM"
+      },
+      "Main Camera": {
+        "Single": "5 MP, AF",
+        "Features": "Carl Zeiss optics, Dual-LED flash, video light",
+        "Video": "480p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g, UPnP",
+        "Bluetooth": "2.0, A2DP",
+        "Positioning": "GPS, A-GPS; Ovi Maps 3.0",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity",
+        "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash Lite",
+        "Features": "Nokia WH-500 stereo headset in the retail package\n\nWMV/RV/MP4/3GP player\n\nMP3/WMA/WAV/RA/AAC/M4A player\n\nOrganizer\n\nPhoto/video editor\n\nVoice command/dial\n\nTV-out\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1320 mAh battery (BL-5J)",
+        "Stand-by": "Up to 420 h (2G) / Up to 450 h (3G)",
+        "Talk time": "Up to 11 h 30 min (2G) / Up to 6 h (3G)",
+        "Music play": "Up to 35 h"
+      },
+      "Misc": {
+        "Colors": "Blue on White, Red on Black",
+        "SAR": "1.31 W/kg (head) &nbsp; &nbsp; 1.13 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "1.11 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 130 EUR"
+      },
+      "Our Tests": {
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=2922&amp;nSuggest=1\">Photo</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"nokia_x6-review-439p5.php\">Voice 69dB / Noise 66dB / Ring 72dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"nokia_x6-review-439p7.php#aq\">Noise -91.1dB / Crosstalk -89.3dB</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-x6-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-x6-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_x6_(2009)-pictures-2922.php"
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia X2-00",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-x2-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-x2.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/nokia_x2-review-524.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2010, July",
+    "dimensions": "81g, 13.3mm thickness",
+    "os": "Feature phone",
+    "storage": "48MB 128MB ROM 64MB RAM storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "GPRS": "Class 32",
+        "EDGE": "Class 32"
+      },
+      "Launch": {
+        "Announced": "2010, April. Released 2010, July",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "111 x 47 x 13.3 mm, 61 cc (4.37 x 1.85 x 0.52 in)",
+        "Weight": "81 g (2.86 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "2.2 inches, 15.0 cm<sup>2</sup> (~28.7% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~182 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot), 2 GB included",
+        "Phonebook": "1000 entries, Photocall",
+        "Call records": "Yes",
+        "Internal": "48MB 128MB ROM 64MB RAM"
+      },
+      "Main Camera": {
+        "Single": "5 MP",
+        "Features": "LED flash",
+        "Video": "320p@18fps"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes",
+        "Features": "Dedicated music keys"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.1, A2DP",
+        "Positioning": "No",
+        "Radio": "Stereo FM radio, RDS; built-in antenna",
+        "USB": "microUSB 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS, Email, Push Email, IM",
+        "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash Lite",
+        "Games": "Bounce Tales, City Bloxx, Snake III, Block'd, Diamond Rush, Rally 3D, Brain Champion, Sudoku",
+        "Java": "Yes, MIDP 2.1",
+        "Features": "MP4/H.263 player\n\nMP3/WMA/eAAC+ player\n\nOrganizer\n\nPhoto editor\n\nVoice memo\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 860 mAh battery (BL-4C)",
+        "Stand-by": "Up to 624 h",
+        "Talk time": "Up to 13 h 30 min",
+        "Music play": "Up to 27 h"
+      },
+      "Misc": {
+        "Colors": "Red on Black, Blue on SIlver",
+        "SAR": "1.28 W/kg (head) &nbsp; &nbsp; 0.89 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.82 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 40 EUR"
+      },
+      "Our Tests": {
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=3304&amp;nSuggest=1\">Photo</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"nokia_x2-review-524p3.php\">Voice 80dB / Noise 75dB / Ring 84dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"nokia_x2-review-524p4.php#aq\">Noise -85.7dB / Crosstalk -85.6dB</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-x2-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-x2-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_x2_00-pictures-3304.php"
+    }
+  }
+}

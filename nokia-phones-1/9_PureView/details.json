@@ -1,0 +1,112 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 9 PureView",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-9-pureview-4.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-9-pureview-.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/nokia_9_pureview-review-1916.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2019, March 15",
+    "dimensions": "172g, 8mm thickness",
+    "os": "Android 9.0, up to Android 10, Android One",
+    "storage": "128GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 &amp; SIM 2 (dual-SIM model only)",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 20, 28, 32, 38, 39, 40, 41, 66 - TA-1082",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE (5CA) Cat16 1024/150 Mbps"
+      },
+      "Launch": {
+        "Announced": "2019, February 24. Released 2019, March 15",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "155 x 75 x 8 mm (6.10 x 2.95 x 0.31 in)",
+        "Weight": "172 g (6.07 oz)",
+        "Build": "Glass front (Gorilla Glass 5), glass back, aluminum frame",
+        "SIM": "· Nano-SIM\n· Nano-SIM + Nano-SIM",
+        "Features": "IP67 dust/water resistant (up to 1m for 30 min)"
+      },
+      "Display": {
+        "Type": "P-OLED, HDR10",
+        "Size": "5.99 inches, 92.6 cm<sup>2</sup> (~79.7% screen-to-body ratio)",
+        "Resolution": "1440 x 2880 pixels, 18:9 ratio (~538 ppi density)",
+        "Protection": "Corning Gorilla Glass 5"
+      },
+      "Platform": {
+        "OS": "Android 9.0 (Pie), upgradable to Android 10, Android One",
+        "Chipset": "Qualcomm SDM845 Snapdragon 845 (10 nm)",
+        "CPU": "Octa-core (4x2.8 GHz Kryo 385 Gold &amp; 4x1.7 GHz Kryo 385 Silver)",
+        "GPU": "Adreno 630"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 6GB RAM",
+        "Features": "UFS 2.1"
+      },
+      "Main Camera": {
+        "Penta": "5x 12 MP, f/1.8, 28mm (wide), 1/2.9\", 1.25µm\n\n(2x RGB &amp; 3x B/W cameras, working simultaneously)\n\nTOF 3D, (depth)",
+        "Features": "Zeiss optics, dual-LED dual-tone flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@30fps, HDR"
+      },
+      "Selfie camera": {
+        "Single": "20 MP, f/2.0, (wide), 1/2.8\", 1.0µm",
+        "Features": "HDR",
+        "Video": "4K@30fps, 1080p@30fps, HDR"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No",
+        "Features": "24-bit/192kHz Hi-Res audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.0, A2DP, LE, aptX",
+        "Positioning": "GPS, GLONASS, BDS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 3.1"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, barometer",
+        "Features": "ANT+"
+      },
+      "Battery": {
+        "Type": "Li-Po 3320 mAh, non-removable",
+        "Charging": "18W wired, PD, QC3\n\n10W wireless (Qi)\n\n5W wireless"
+      },
+      "Misc": {
+        "Colors": "Midnight Blue",
+        "Models": "TA-1094, A-1087, TA-1082",
+        "SAR": "1.31 W/kg (head) &nbsp; &nbsp;",
+        "SAR EU": "0.88 W/kg (head) &nbsp; &nbsp; 0.86 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 210 EUR"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 288473 (v7)\n\nGeekBench: 8986 (v4.4)\n\nGFXBench: 19fps (ES 3.1 onscreen)",
+        "Display": "<a class=\"noUnd\" href=\"nokia_9_pureview-review-1916p3.php#dt\">Contrast ratio: Infinite (nominal), 5.981 (sunlight)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=8867&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=8867&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"nokia_9_pureview-review-1916p3.php#lt\">Voice 68dB / Noise 71dB / Ring 81dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"nokia_9_pureview-review-1916p3.php#aq\">Noise -94.0dB / Crosstalk -93.2dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 8867); \">Endurance rating 79h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-9-pureview-4.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-9-pureview-6.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-9-pureview-camera.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_9_pureview-pictures-8867.php"
+    }
+  }
+}

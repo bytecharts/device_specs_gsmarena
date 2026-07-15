@@ -1,0 +1,96 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 8 V 5G UW",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-8-v-5g-uw-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-8-v-5g-uw.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2020, November 12",
+    "dimensions": "230g, 9mm thickness",
+    "os": "Android 10",
+    "storage": "64GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 12, 13, 17, 20, 28, 46, 66",
+        "5G bands": "2, 5, 66, 260, 261 Sub6/mmWave",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE (4CA) Cat18 1200/150 Mbps, 5G 2.4/1.2 Gbps"
+      },
+      "Launch": {
+        "Announced": "2020, November 09. Released 2020, November 12",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "171.9 x 78.6 x 9 mm (6.77 x 3.09 x 0.35 in)",
+        "Weight": "230 g (8.11 oz)",
+        "SIM": "Nano-SIM (pre-installed)"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "6.81 inches, 112.0 cm<sup>2</sup> (~82.9% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~386 ppi density)",
+        "Protection": "Corning Gorilla Glass"
+      },
+      "Platform": {
+        "OS": "Android 10",
+        "Chipset": "Qualcomm SM7250 Snapdragon 765G 5G (7 nm)",
+        "CPU": "Octa-core (1x2.4 GHz Kryo 475 Prime &amp; 1x2.2 GHz Kryo 475 Gold &amp; 6x1.8 GHz Kryo 475 Silver)",
+        "GPU": "Adreno 620"
+      },
+      "Memory": {
+        "Card slot": "microSDXC",
+        "Internal": "64GB 6GB RAM",
+        "Features": "eMMC 5.1"
+      },
+      "Main Camera": {
+        "Quad": "64 MP, f/1.8, (wide), 1/1.72\", 0.8µm, PDAF\n\n12 MP, f/2.2, 120˚ (ultrawide), 1/2.43\", 1.4µm, AF\n\n2 MP (macro)\n\nAuxiliary lens",
+        "Features": "Zeiss optics, Dual-LED flash, panorama, HDR",
+        "Video": "4K@30/60fps, 1080p@30/240fps, 720p@960fps, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "24 MP, f/2.0, (wide), 1/2.8\", 0.9µm",
+        "Features": "Zeiss optics, HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.0, A2DP, EDR, LE",
+        "Positioning": "GPS, GLONASS, BDS",
+        "NFC": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Po 4500 mAh",
+        "Charging": "18W wired"
+      },
+      "Misc": {
+        "Colors": "Meteor Gray",
+        "Price": "About 590 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-8-v-5g-uw-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-8-v-5g-uw-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_8_v_5g_uw-pictures-10588.php"
+    }
+  }
+}

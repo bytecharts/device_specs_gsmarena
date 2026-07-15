@@ -1,0 +1,101 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 3720 classic",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-3720-classic-3.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-3720-classic.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/nokia_3720_classic-review-389.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2009, September",
+    "dimensions": "94g, 15.3mm thickness",
+    "os": "Feature phone",
+    "storage": "20MB storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "GPRS": "Class 11",
+        "EDGE": "Class 11"
+      },
+      "Launch": {
+        "Announced": "2009, July. Released 2009, September",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "115 x 47 x 15.3 mm, 69 cc (4.53 x 1.85 x 0.60 in)",
+        "Weight": "94 g (3.32 oz)",
+        "SIM": "Mini-SIM",
+        "Features": "IP54 dust protected and water resistant (water splashes)\n\nFlashlight"
+      },
+      "Display": {
+        "Type": "TFT, 16M colors",
+        "Size": "2.2 inches, 15.0 cm<sup>2</sup> (~27.7% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~182 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot), 1 GB included",
+        "Phonebook": "2000 entries, Photocall",
+        "Call records": "20 dialed, 20 received, 20 missed calls",
+        "Internal": "20MB"
+      },
+      "Main Camera": {
+        "Single": "2 MP",
+        "Features": "LED flash",
+        "Video": "QCIF@15fps"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No",
+        "Features": "2.5 mm audio jack"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.1, A2DP",
+        "Positioning": "No",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS, Email",
+        "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash Lite",
+        "Games": "Yes",
+        "Java": "Yes, MIDP 2.1",
+        "Features": "MP3/eAAC+/WAV/WMA player\n\nMP4/H.264 player\n\nVoice memo\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1050 mAh battery (BL-5CT)",
+        "Stand-by": "Up to 408 h",
+        "Talk time": "Up to 7 h",
+        "Music play": "Up to 14 h 30 min"
+      },
+      "Misc": {
+        "Colors": "Gray, Yellow",
+        "SAR": "0.40 W/kg (head) &nbsp; &nbsp; 0.41 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.48 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 110 EUR"
+      },
+      "Our Tests": {
+        "Loudspeaker": "<a class=\"noUnd\" href=\"nokia_3720_classic-review-389p3.php\">Voice 71dB / Noise 66dB / Ring 76dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"nokia_3720_classic-review-389p4.php#aq\">Noise -78.3dB / Crosstalk -73.7dB</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-3720-classic-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-3720-classic-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_3720_classic-pictures-2867.php"
+    }
+  }
+}

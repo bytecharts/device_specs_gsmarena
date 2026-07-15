@@ -1,0 +1,99 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia Lumia 822",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-lumia-822-new.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-lumia-822-new.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2012, November",
+    "dimensions": "141.6g, 11.2mm thickness",
+    "os": "Microsoft Windows Phone 8, up to 8.1",
+    "storage": "16GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / EVDO / LTE</a>",
+        "2G bands": "CDMA 800 / 1900",
+        "3G bands": "CDMA2000 1xEV-DO",
+        "4G bands": "13",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat3 100/50 Mbps, EV-DO Rev.A 3.1 Mbps",
+        "Features": "GSM 850 / 900 / 1800 / 1900\nHSDPA 850 / 900 / 1900 / 2100"
+      },
+      "Launch": {
+        "Announced": "2012, October. Released 2012, November",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "127.8 x 68.4 x 11.2 mm, 95 cc (5.03 x 2.69 x 0.44 in)",
+        "Weight": "141.6 g (4.97 oz)",
+        "SIM": "Micro-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED",
+        "Size": "4.3 inches, 52.6 cm<sup>2</sup> (~60.2% screen-to-body ratio)",
+        "Resolution": "480 x 800 pixels, 5:3 ratio (~217 ppi density)",
+        "Protection": "Corning Gorilla Glass 2",
+        "Features": "Nokia ClearBlack display"
+      },
+      "Platform": {
+        "OS": "Microsoft Windows Phone 8, upgradable to 8.1",
+        "Chipset": "Qualcomm MSM8960 Snapdragon S4 Plus",
+        "CPU": "Dual-core 1.5 GHz Krait",
+        "GPU": "Adreno 225"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "16GB 1GB RAM"
+      },
+      "Main Camera": {
+        "Single": "8 MP, AF",
+        "Features": "Carl Zeiss Tessar lens, F2.2, dual-LED flash",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "1.2 MP",
+        "Video": "720p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct",
+        "Bluetooth": "4.0, A2DP, EDR, LE/ aptX after WP8 Denim update",
+        "Positioning": "GPS, GLONASS",
+        "NFC": "Yes",
+        "Radio": "FM radio",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, proximity, compass",
+        "Features": "OneDrive (15 GB cloud storage)\n\nMP3/WAV/eAAC+/WMA player\n\nMP4/H.264/WMV player\n\nDocument viewer\n\nVideo/photo editor"
+      },
+      "Battery": {
+        "Type": "Li-Ion 1800 mAh, removable (BP-4W)",
+        "Stand-by": "Up to 254 h (2G) / Up to 400 h (3G)",
+        "Talk time": "Up to 10 h 20 min (2G) / Up to 11 h 40 min (3G)",
+        "Music play": "Up to 62.1 h"
+      },
+      "Misc": {
+        "Colors": "Black, Gray, White, Red",
+        "SAR": "0.79 W/kg (head) &nbsp; &nbsp;",
+        "SAR EU": "1.23 W/kg (head) &nbsp; &nbsp; 1.03 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 320 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-lumia-822-new.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_lumia_822-pictures-5090.php"
+    }
+  }
+}

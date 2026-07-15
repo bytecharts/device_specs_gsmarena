@@ -1,0 +1,97 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 8800 Carbon Arte",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-8800-carbon-arte-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-8800-carbon-arte.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/nokia_8800_carbon_arte-review-284.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2008, September",
+    "dimensions": "150g, 14.6mm thickness",
+    "os": "Feature phone",
+    "storage": "4GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / UMTS</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "3G bands": "UMTS 2100",
+        "Speed": "Yes, 384 kbps"
+      },
+      "Launch": {
+        "Announced": "2008, August. Released 2008, September",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "109 x 45.6 x 14.6 mm, 65 cc (4.29 x 1.80 x 0.57 in)",
+        "Weight": "150 g (5.29 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "OLED, 16M colors",
+        "Size": "2.0 inches, 12.4 cm<sup>2</sup> (~24.9% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~200 ppi density)",
+        "Protection": "Scratch-resistant glass"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "1000 entries, Photocall",
+        "Call records": "20 dialed, 20 received, 20 missed calls",
+        "Internal": "4GB"
+      },
+      "Main Camera": {
+        "Single": "3.15 MP, AF",
+        "Video": "480p@15fps"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "Alert types": "Vibration; Downloadable polyphonic, MP3, video ringtones ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.0, A2DP",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer",
+        "Messaging": "SMS, MMS, Email, IM",
+        "Browser": "WAP 2.0/xHTML, Adobe Flash Lite",
+        "Games": "Yes  + Downloadable",
+        "Java": "Yes, MIDP 2.1",
+        "Features": "Carbon fiber and titanium body\n\nMP4/WMV/H.264 player\n\nMP3/WMA/WAV/eAAC+ player\n\nOrganizer\n\nPhoto editor\n\nVoice memo\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1000 mAh battery (BL-4U)",
+        "Stand-by": "Up to 300 h (2G) / Up to 288 h (3G)",
+        "Talk time": "Up to 3 h (2G) / Up to 2 h 45 min (3G)"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "Price": "About 840 EUR"
+      },
+      "Our Tests": {
+        "Loudspeaker": "<a class=\"noUnd\" href=\"nokia_8800_carbon_arte-review-284p4.php\">Voice 66dB / Noise 66dB / Ring 66dB</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-8800-carbon-arte-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-8800-carbon-arte-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-8800-carbon-arte-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_8800_carbon_arte-pictures-2493.php"
+    }
+  }
+}

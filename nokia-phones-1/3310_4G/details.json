@@ -1,0 +1,98 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 3310 4G",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-3310-4g-5.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-3310-2017-4g.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "nokia_3310_3g-8876",
+      "nokia_3310-192"
+    ],
+    "release_date": "Released 2018, February",
+    "dimensions": "88.1g, 13.4mm thickness",
+    "os": "Feature phone",
+    "storage": "512MB 256MB RAM storage, microSDXC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4G bands": "38, 39, 40, 41",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "Launch": {
+        "Announced": "2018, January. Released 2018, February",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "117 x 52.4 x 13.4 mm (4.61 x 2.06 x 0.53 in)",
+        "Weight": "88.1 g (3.10 oz)",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "Micro-SIM",
+        "Features": "Flashlight"
+      },
+      "Display": {
+        "Type": "TFT",
+        "Size": "2.4 inches, 17.8 cm<sup>2</sup> (~29.1% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Phonebook": "Yes",
+        "Call records": "Yes",
+        "Internal": "512MB 256MB RAM"
+      },
+      "Main Camera": {
+        "Single": "2 MP",
+        "Features": "LED flash",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n",
+        "Bluetooth": "4.0, A2DP, LE",
+        "Positioning": "No",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS",
+        "Games": "Yes",
+        "Java": "No",
+        "Features": "Audio/Video player"
+      },
+      "Battery": {
+        "Type": "Li-Ion 1200 mAh, removable (BL-4UL)",
+        "Stand-by": "Up to 360 h (3G)",
+        "Talk time": "Up to 8 h (3G)",
+        "Music play": "Up to 31 h"
+      },
+      "Misc": {
+        "Colors": "Azure, Yellow, Warm Red, Charcoa",
+        "Price": "About 100 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-3310-4g-5.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-3310-4g-6.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_3310_4g-pictures-9046.php"
+    }
+  }
+}

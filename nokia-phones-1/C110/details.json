@@ -1,0 +1,96 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia C110",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/c110-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-c110.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2023, June 14",
+    "dimensions": "172g, 8.5mm thickness",
+    "os": "Android 12",
+    "storage": "32GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 1900",
+        "3G bands": "HSDPA 850 / 1700 / 1900",
+        "4G bands": "2, 4, 5, 12, 13, 41, 66, 71",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2023, June 02",
+        "Status": "Available. Released 2023, June 14"
+      },
+      "Body": {
+        "Dimensions": "160.8 x 74 x 8.5 mm (6.33 x 2.91 x 0.33 in)",
+        "Weight": "172 g (6.07 oz)",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "Nano-SIM",
+        "Features": "Splash and dust resistant"
+      },
+      "Display": {
+        "Type": "IPS LCD, 400 nits (typ)",
+        "Size": "6.3 inches, 97.4 cm<sup>2</sup> (~81.9% screen-to-body ratio)",
+        "Resolution": "720 x 1560 pixels, 19.5:9 ratio (~273 ppi density)",
+        "Protection": "Scratch-resistant glass"
+      },
+      "Platform": {
+        "OS": "Android 12",
+        "Chipset": "Mediatek MT6762 Helio P22 (12 nm)",
+        "CPU": "Octa-core (4x2.0 GHz Cortex-A53 &amp; 4x1.5 GHz Cortex-A53)",
+        "GPU": "PowerVR GE8320"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "32GB 3GB RAM",
+        "Features": "eMMC 5.1"
+      },
+      "Main Camera": {
+        "Single": "13 MP, (wide), AF",
+        "Features": "LED flash, HDR",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "5 MP",
+        "Video": "Yes"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n/ac, dual-band, hotspot",
+        "Bluetooth": "5.0, A2DP",
+        "Positioning": "GPS",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity, barometer"
+      },
+      "Battery": {
+        "Type": "Li-Po 3000 mAh",
+        "Charging": "5W wired"
+      },
+      "Misc": {
+        "Colors": "Gray",
+        "Models": "N156DL",
+        "Price": "About 100 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/c110-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_c110-pictures-12321.php"
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia Lumia 630 Dual SIM",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-lumia-630-dual-sim-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-lumia-630-new.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/nokia_lumia_630-review-1080.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2014, May",
+    "dimensions": "134g, 9.2mm thickness",
+    "os": "Microsoft Windows Phone 8.1",
+    "storage": "8GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 &amp; SIM 2",
+        "3G bands": "HSDPA 900 / 2100",
+        "Speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "Launch": {
+        "Announced": "2014, April. Released 2014, May",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "129.5 x 66.7 x 9.2 mm, 78.5 cc (5.10 x 2.63 x 0.36 in)",
+        "Weight": "134 g (4.73 oz)",
+        "SIM": "Dual SIM (Micro-SIM, dual stand-by)"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "4.5 inches, 54.3 cm<sup>2</sup> (~62.9% screen-to-body ratio)",
+        "Resolution": "480 x 854 pixels, 16:9 ratio (~221 ppi density)",
+        "Protection": "Corning Gorilla Glass 3",
+        "Features": "ClearBlack display"
+      },
+      "Platform": {
+        "OS": "Microsoft Windows Phone 8.1",
+        "Chipset": "Qualcomm Snapdragon 400 (28 nm)",
+        "CPU": "Quad-core 1.2 GHz Cortex-A7",
+        "GPU": "Adreno 305"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "8GB 512MB RAM",
+        "Features": "eMMC 4.5"
+      },
+      "Main Camera": {
+        "Single": "5 MP, 1/4.0\", AF",
+        "Features": "Panorama",
+        "Video": "720p@30fps"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, DLNA, hotspot",
+        "Bluetooth": "4.0, A2DP, LE/ aptX after WP8 Denim update",
+        "Positioning": "GPS, GLONASS",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, sensor core"
+      },
+      "Battery": {
+        "Type": "Li-Ion 1830 mAh, removable (BL-5H)",
+        "Stand-by": "Up to 648 h",
+        "Talk time": "Up to 16 h 20 min (2G) / Up to 13 h 10 min (3G)",
+        "Music play": "Up to 58 h"
+      },
+      "Misc": {
+        "Colors": "Bright Orange, bright green, bright yellow, white, black",
+        "SAR": "1.23 W/kg (head) &nbsp; &nbsp; 1.13 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "1.51 W/kg (head) &nbsp; &nbsp; 1.52 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 140 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-lumia-630-dual-sim-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-lumia-630-dual-sim-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_lumia_630_dual_sim-pictures-6255.php"
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 5030 XpressRadio",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-5030-00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-5030-xpressradio.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2009, June",
+    "dimensions": "82g, 15mm thickness",
+    "os": "Feature phone",
+    "storage": "8MB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "No",
+        "EDGE": "No",
+        "Features": "GSM 850 / 1900"
+      },
+      "Launch": {
+        "Announced": "2009, March. Released 2009, June",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "108 x 45 x 15 mm, 62 cc (4.25 x 1.77 x 0.59 in)",
+        "Weight": "82 g (2.89 oz)",
+        "SIM": "Mini-SIM",
+        "Features": "Flashlight"
+      },
+      "Display": {
+        "Type": "TFT, 65K colors",
+        "Size": "1.8 inches, 10.2 cm<sup>2</sup> (~21.0% screen-to-body ratio)",
+        "Resolution": "128 x 160 pixels (~114 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "500 entries",
+        "Call records": "20 dialed, 20 received, 20 missed calls",
+        "Internal": "8MB"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No",
+        "Features": "Dedicated radio keys\n\n2.5 mm audio jack"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Radio": "FM radio; built-in antenna",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS",
+        "Browser": "No",
+        "Games": "Yes",
+        "Java": "No",
+        "Features": "Predictive text input"
+      },
+      "Battery": {
+        "Type": "Li-Ion 700 mAh (BL-5CA) (for China)",
+        "Stand-by": "",
+        "Talk time": ""
+      },
+      "Misc": {
+        "Colors": "Red, Graphite",
+        "SAR": "1.10 W/kg (head) &nbsp; &nbsp; 0.47 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.78 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 60 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-5030-00.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-5030-01.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_5030_xpressradio-pictures-2745.php"
+    }
+  }
+}

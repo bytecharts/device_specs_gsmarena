@@ -1,0 +1,98 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 5710 XpressAudio",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-5710-xpressaudio-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-5710-xpressaudio.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2022, July 28",
+    "dimensions": "129.1g, 16.2mm thickness",
+    "os": "Feature phone",
+    "storage": "128MB 48MB RAM storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100 - International",
+        "4G bands": "1, 3, 5, 7, 8, 20 - APAC, EU, RUCIS",
+        "Speed": "HSPA, LTE",
+        "Features": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - LATAM\n1, 3, 5, 7, 8, 20, 28, 38, 40, 41 - MENA, SSA, TW\n1, 3, 5, 8, 38, 39, 40, 41 - IN, CN\n1, 2, 3, 4, 5, 7, 8, 28, 40 - LATAM"
+      },
+      "Launch": {
+        "Announced": "2022, July 12",
+        "Status": "Available. Released 2022, July 28"
+      },
+      "Body": {
+        "Dimensions": "138.9 x 57.7 x 16.2 mm (5.47 x 2.27 x 0.64 in)",
+        "Weight": "129.1 g (4.55 oz)",
+        "SIM": "· Nano-SIM\n· Nano-SIM + Nano-SIM",
+        "Features": "Built-in wireless earbuds housed beneath a slider; charging from the phone"
+      },
+      "Display": {
+        "Type": "TFT LCD",
+        "Size": "2.4 inches, 17.8 cm<sup>2</sup> (~22.3% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "Platform": {
+        "Chipset": "Unisoc T107 (22 nm)",
+        "CPU": "1.0 GHz Cortex-A7"
+      },
+      "Memory": {
+        "Card slot": "microSDHC",
+        "Phonebook": "Yes",
+        "Call records": "Yes",
+        "Internal": "128MB 48MB RAM"
+      },
+      "Main Camera": {
+        "Single": "0.3 MP",
+        "Features": "LED flash",
+        "Video": "Unspecified"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with dual speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "No",
+        "NFC": "No",
+        "Radio": "Wireless FM radio",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS",
+        "Games": "Yes",
+        "Java": "No"
+      },
+      "Battery": {
+        "Type": "Li-Ion 1450 mAh, removable"
+      },
+      "Misc": {
+        "Colors": "Black/White, Red/White",
+        "Models": "TA-1504, TA-1498, TA-1496, TA-1488",
+        "SAR": "0.88 W/kg (head) &nbsp; &nbsp; 0.64 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "1.28 W/kg (head) &nbsp; &nbsp; 1.41 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 70 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-5710-xpressaudio-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-5710-xpressaudio-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_5710_xpressaudio-pictures-11667.php"
+    }
+  }
+}

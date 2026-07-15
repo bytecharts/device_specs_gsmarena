@@ -1,0 +1,94 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 3610 fold",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-3610fold-00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-3610fold.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2008, November",
+    "dimensions": "97g, 19.6mm thickness",
+    "os": "Feature phone",
+    "storage": "30MB storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "GPRS": "Class 10",
+        "EDGE": "Class 32"
+      },
+      "Launch": {
+        "Announced": "2008, August. Released 2008, November",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "99.6 x 44.3 x 19.6 mm, 67 cc (3.92 x 1.74 x 0.77 in)",
+        "Weight": "97 g (3.42 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "2.0 inches, 12.4 cm<sup>2</sup> (~28.1% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~200 ppi density)",
+        "Features": "Second external TFT display (128 x 160 pixels), 1.36 inches, 256K colors"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Phonebook": "1000 entries, Photocall",
+        "Call records": "30 received, dialed and missed calls",
+        "Internal": "30MB"
+      },
+      "Main Camera": {
+        "Single": "1.3 MP",
+        "Video": "QCIF"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "3.5mm jack": "No",
+        "Features": "2.5 mm audio jack"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.0, A2DP",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS, Email, IM",
+        "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash Lite",
+        "Games": "4  + downloadable",
+        "Java": "Yes, MIDP 2.1",
+        "Features": "MP4/H.264 player\n\nMP3/eAAC+/WMV/WMA player\n\nOrganizer\n\nPush to talk\n\nVoice memo\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1020 mAh battery (BL-5C)",
+        "Stand-by": "Up to 457 h",
+        "Talk time": "Up to 4 h 38 min"
+      },
+      "Misc": {
+        "Colors": "Blue, Red, Green, Rose",
+        "SAR": "0.83 W/kg (head) &nbsp; &nbsp; 0.83 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.95 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 100 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-3610fold-00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_3610_fold-pictures-2482.php"
+    }
+  }
+}

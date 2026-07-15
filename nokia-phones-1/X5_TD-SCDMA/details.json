@@ -1,0 +1,93 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia X5 TD-SCDMA",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-x5-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-x5.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2010, July",
+    "dimensions": "120g, 14.7mm thickness",
+    "os": "Symbian 9.3, Series 60 rel. 3.2",
+    "storage": "256MB storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "TD-SCDMA",
+        "Speed": "TD-SCDMA",
+        "GPRS": "Yes",
+        "EDGE": "Yes"
+      },
+      "Launch": {
+        "Announced": "2010, April. Released 2010, July",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "113 x 49.8 x 14.7 mm (4.45 x 1.96 x 0.58 in)",
+        "Weight": "120 g (4.23 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 16M colors",
+        "Size": "2.4 inches, 17.8 cm<sup>2</sup> (~31.7% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)",
+        "Protection": "Scratch-resistant glass"
+      },
+      "Platform": {
+        "OS": "Symbian 9.3, Series 60 rel. 3.2"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Internal": "256MB"
+      },
+      "Main Camera": {
+        "Single": "5 MP, AF",
+        "Features": "Dual-LED flash",
+        "Video": "480p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "VGA videocall camera",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.0, A2DP",
+        "Positioning": "GPS, A-GPS",
+        "Radio": "No",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer",
+        "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash Lite",
+        "Features": "MP4/H.263/WMV player\n\nMP3/WMA/WAV/eAAC+ player\n\nOrganizer\n\nVoice memo\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 950 mAh battery (BL-5F)",
+        "Stand-by": "Up to 165 h (2G) / Up to 190 h (3G)",
+        "Talk time": "Up to 7 h 40 min (2G) / Up to 4 h 40 min (3G)"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "SAR": "0.73 W/kg (head) &nbsp; &nbsp; 0.80 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.73 W/kg (head) &nbsp; &nbsp;"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-x5-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_x5_td_scdma-pictures-3286.php"
+    }
+  }
+}

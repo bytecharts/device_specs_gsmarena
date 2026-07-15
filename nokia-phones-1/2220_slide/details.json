@@ -1,0 +1,92 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 2220 slide",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-2220.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-2220.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2010, February",
+    "dimensions": "93.5g, 15.9mm thickness",
+    "os": "Feature phone",
+    "storage": "32MB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "Class 10",
+        "EDGE": "Class 10",
+        "Features": "GSM 850 / 1900 - American version"
+      },
+      "Launch": {
+        "Announced": "2009, November. Released 2010, February",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "97.4 x 47 x 15.9 mm, 75 cc (3.83 x 1.85 x 0.63 in)",
+        "Weight": "93.5 g (3.28 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 65K colors",
+        "Size": "1.8 inches, 10.2 cm<sup>2</sup> (~22.3% screen-to-body ratio)",
+        "Resolution": "128 x 160 pixels (~114 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "1000 entries, Photocall",
+        "Call records": "20 dialed, 20 received, 20 missed calls",
+        "Internal": "32MB"
+      },
+      "Main Camera": {
+        "Single": "VGA",
+        "Video": "SQCIF@10fps"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Radio": "Stereo FM radio, recording",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS, Email",
+        "Browser": "WAP 2.0/xHTML, HTML",
+        "Games": "Yes",
+        "Java": "Yes, MIDP 2.1",
+        "Features": "MP4/H.263 player\n\nMP3/AAC player\n\nNokia XpressAudio messaging\n\nOrganizer\n\nVoice memo\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 860 mAh battery (BL-4C)",
+        "Stand-by": "Up to 480 h",
+        "Talk time": "Up to 5 h 20 min"
+      },
+      "Misc": {
+        "Colors": "Hot Pink, Graphite, Turquoise, Warm Silver, Purple, Blue",
+        "SAR": "0.61 W/kg (head) &nbsp; &nbsp; 0.46 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.39 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 50 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-2220.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_2220_slide-pictures-3005.php"
+    }
+  }
+}

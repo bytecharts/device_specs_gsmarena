@@ -1,0 +1,104 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia Asha 303",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-asha-303.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-asha-303.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/nokia_asha_303-review-700.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2011, December",
+    "dimensions": "99g, 13.9mm thickness",
+    "os": "Feature phone",
+    "storage": "170MB storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700 / 1900 / 2100",
+        "Speed": "HSPA 10.2/2 Mbps"
+      },
+      "Launch": {
+        "Announced": "2011, October. Released 2011, December",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "116.5 x 55.7 x 13.9 mm, 72 cc (4.59 x 2.19 x 0.55 in)",
+        "Weight": "99 g (3.49 oz)",
+        "Keyboard": "QWERTY",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "2.6 inches, 20.9 cm<sup>2</sup> (~32.3% screen-to-body ratio)",
+        "Resolution": "320 x 240 pixels, 4:3 ratio (~154 ppi density)"
+      },
+      "Platform": {
+        "CPU": "1.0 GHz"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Phonebook": "Yes, Photocall",
+        "Call records": "Yes",
+        "Internal": "170MB (100MB user available), 256MB ROM, 128MB RAM"
+      },
+      "Main Camera": {
+        "Single": "3.2 MP",
+        "Features": "fixed focus",
+        "Video": "480p@15fps"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n",
+        "Bluetooth": "2.1, A2DP, EDR",
+        "Positioning": "No",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": "microUSB 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+        "Games": "Yes + downloadable",
+        "Java": "Yes, MIDP 2.1",
+        "Features": "SNS integration\n\nMP4/H.264/WMV player\n\nMP3/WAV/WMA/AAC player\n\nOrganizer\n\nVoice memo\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1300 mAh battery (BP-3L)",
+        "Stand-by": "Up to 720 h (2G) / Up to 840 h (3G)",
+        "Talk time": "Up to 8 h 10 min (2G) / Up to 7 h 10 min (3G)",
+        "Music play": "Up to 47 h"
+      },
+      "Misc": {
+        "Colors": "Red, Graphite, Silver White, Aqua, Green, Purple",
+        "SAR": "1.16 W/kg (head) &nbsp; &nbsp; 1.10 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.79 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 110 EUR"
+      },
+      "Our Tests": {
+        "Display": "<a class=\"noUnd\" href=\"nokia_asha_303-review-700p2.php\">Contrast ratio: 498:1 (nominal)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=4278&amp;nSuggest=1\">Photo</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"nokia_asha_303-review-700p4.php\">Voice 77dB / Noise 72dB / Ring 78dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"nokia_asha_303-review-700p5.php#aq\">Noise -87.5dB / Crosstalk -73.3dB</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-asha-303.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-asha-303-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_asha_303-pictures-4278.php"
+    }
+  }
+}

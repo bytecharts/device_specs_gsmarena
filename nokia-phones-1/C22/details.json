@@ -1,0 +1,97 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia C22",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-c22-2023-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-c22-2023.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/handson_nokia_c32_nokia_c22_nokia_g22_at_mwc_2023-news-57738.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2023, February 25",
+    "dimensions": "190g, 8.6mm thickness",
+    "os": "Android 13",
+    "storage": "64GB/128GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "LTE",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2023, February 25",
+        "Status": "Available. Released 2023, February 25"
+      },
+      "Body": {
+        "Dimensions": "164.6 x 75.9 x 8.6 mm (6.48 x 2.99 x 0.34 in)",
+        "Weight": "190 g (6.70 oz)",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "· Nano-SIM\n· Nano-SIM + Nano-SIM",
+        "Features": "Splash and dust resistant"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "6.5 inches, 102.0 cm<sup>2</sup> (~81.6% screen-to-body ratio)",
+        "Resolution": "720 x 1600 pixels, 20:9 ratio (~270 ppi density)",
+        "Protection": "Scratch-resistant glass"
+      },
+      "Platform": {
+        "OS": "Android 13 (Go edition)",
+        "Chipset": "Unisoc SC9863A (28 nm)",
+        "CPU": "Octa-core (4x1.6 GHz Cortex-A55 &amp; 4x1.2 GHz Cortex-A55)",
+        "GPU": "IMG8322"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "64GB 2GB RAM, 64GB 3GB RAM, 128GB 4GB RAM",
+        "Features": "eMMC 5.1"
+      },
+      "Main Camera": {
+        "Dual": "13 MP, (wide), AF\n\n2 MP (macro)",
+        "Features": "LED flash, HDR",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP",
+        "Video": "Yes"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n",
+        "Bluetooth": "5.2, A2DP",
+        "Positioning": "GPS",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (rear-mounted), accelerometer, proximity"
+      },
+      "Battery": {
+        "Type": "Li-Po 5000 mAh",
+        "Charging": "10W wired"
+      },
+      "Misc": {
+        "Colors": "Sand, Midnight Black",
+        "Price": "About 90 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-c22-2023-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-c22-2023-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_c22-pictures-12138.php"
+    }
+  }
+}

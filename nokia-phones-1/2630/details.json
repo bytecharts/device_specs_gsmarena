@@ -1,0 +1,94 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 2630",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-2630_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-2630.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2007, May",
+    "dimensions": "66g, 9.9mm thickness",
+    "os": "Feature phone",
+    "storage": "11MB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "Class 10",
+        "EDGE": "Class 6",
+        "Features": "GSM 850 / 1900 - US version"
+      },
+      "Launch": {
+        "Announced": "2007, May",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "105 x 45 x 9.9 mm, 45 cc (4.13 x 1.77 x 0.39 in)",
+        "Weight": "66 g (2.33 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 65K colors",
+        "Size": "1.8 inches, 10.2 cm<sup>2</sup> (~21.6% screen-to-body ratio)",
+        "Resolution": "128 x 160 pixels (~114 ppi density)",
+        "Features": "4-way scrolling\n\nScreensavers, themes and wallpapers"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "1000 entries, Photocall",
+        "Call records": "20 dialed, 20 received, 20 missed calls",
+        "Internal": "11MB"
+      },
+      "Main Camera": {
+        "Single": "VGA",
+        "Video": "SQCIF"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.0",
+        "Positioning": "No",
+        "Radio": "FM radio",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS, Email, Instant Messaging",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "Yes + downloadable",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "Predictive text input\n\nOrganizer\n\nVoice memo"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 700 mAh battery (BL-4B)",
+        "Stand-by": "Up to 310 h",
+        "Talk time": "Up to 6 h"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "SAR": "1.04 W/kg (head) &nbsp; &nbsp; 0.60 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.63 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 60 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-2630_00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_2630-pictures-1973.php"
+    }
+  }
+}

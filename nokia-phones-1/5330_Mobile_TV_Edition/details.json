@@ -1,0 +1,102 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 5330 Mobile TV Edition",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-5330-mtve-000.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-5330-mobile-tv.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/nokia_5330_mobile_tv_edition-review-485.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2010, May",
+    "dimensions": "113g, 14mm thickness",
+    "os": "Feature phone",
+    "storage": "70MB storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / UMTS</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "UMTS 850 / 1900 / 2100",
+        "Speed": "Yes, 384 kbps",
+        "Features": "UMTS 900 / 1700 / 2100"
+      },
+      "Launch": {
+        "Announced": "2009, November. Released 2010, May",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "101 x 48 x 14 mm (3.98 x 1.89 x 0.55 in)",
+        "Weight": "113 g (3.99 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 16M colors",
+        "Size": "2.4 inches, 17.8 cm<sup>2</sup> (~36.8% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot), 1 GB included",
+        "Phonebook": "2000 entries, Photocall",
+        "Call records": "20 dialed, 20 received, 20 missed calls",
+        "Internal": "70MB"
+      },
+      "Main Camera": {
+        "Single": "3.15 MP",
+        "Features": "LED flash",
+        "Video": "320p@15fps"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes",
+        "Features": "Dedicated touch music keys"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.1, A2DP",
+        "Positioning": "No",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": "microUSB"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS, Email",
+        "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash Lite",
+        "Games": "Yes + downloadable",
+        "Java": "Yes, MIDP 2.1",
+        "Features": "DVB-H broadcast receiver\n\nMP4/H.264/WMV player\n\nMP3/eAAC+/WAV/WMA player\n\nVoice memo\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1000 mAh battery (BL-4U)",
+        "Stand-by": "Up to 350 h",
+        "Talk time": "Up to 7 h 42 min",
+        "Music play": "Up to 26 h"
+      },
+      "Misc": {
+        "Colors": "Glossy Black, Glossy White",
+        "SAR": "0.96 W/kg (head) &nbsp; &nbsp; 0.84 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.89 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 140 EUR"
+      },
+      "Our Tests": {
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=3020&amp;nSuggest=1\">Photo</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"nokia_5330_mobile_tv_edition-review-485p3.php\">Voice 75dB / Noise 75dB / Ring 75dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"nokia_5330_mobile_tv_edition-review-485p4.php#aq\">Noise -90.0dB / Crosstalk -90.6dB</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-5330-mtve-000.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-5330-mtve-001.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_5330_mobile_tv_edition-pictures-3020.php"
+    }
+  }
+}

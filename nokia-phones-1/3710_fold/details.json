@@ -1,0 +1,97 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 3710 fold",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-3710-fold-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-3710-fold.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2009, December",
+    "dimensions": "94g, 15.2mm thickness",
+    "os": "Feature phone",
+    "storage": "70MB storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / UMTS</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "UMTS 850 / 1900 / 2100",
+        "Speed": "Yes, 384 kbps"
+      },
+      "Launch": {
+        "Announced": "2009, June. Released 2009, December",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "89 x 47 x 15.2 mm, 54 cc (3.50 x 1.85 x 0.60 in)",
+        "Weight": "94 g (3.32 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 16M colors",
+        "Size": "2.2 inches, 15.0 cm<sup>2</sup> (~35.8% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~182 ppi density)",
+        "Features": "Second external monochrome TFT display, 128 x 160 pixels"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Phonebook": "2000 entries, Photocall",
+        "Call records": "20 dialed, 20 received, 20 missed calls",
+        "Internal": "70MB"
+      },
+      "Main Camera": {
+        "Single": "3.2 MP",
+        "Features": "LED flash",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Single": "VGA videocall camera",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No",
+        "Features": "2.5 mm audio jack"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.1, A2DP",
+        "Positioning": "GPS, A-GPS",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS, Email, IM",
+        "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash Lite",
+        "Games": "Yes",
+        "Java": "Yes, MIDP 2.1",
+        "Features": "MP3/eAAC+/WAV/WMA player\n\nMP4/WMV/H.264 player\n\nOrganizer\n\nVoice command/dial/memo\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 860 mAh battery (BL-4S)",
+        "Stand-by": "Up to 288 h (2G) / Up to 288 h (3G)",
+        "Talk time": "Up to 4 h (2G) / Up to 3 h 20 min (3G)",
+        "Music play": "Up to 24 h"
+      },
+      "Misc": {
+        "Colors": "Pink, Plum, Black",
+        "SAR": "1.28 W/kg (head) &nbsp; &nbsp; 0.57 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.95 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 80 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-3710-fold-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-3710-fold-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_3710_fold-pictures-2833.php"
+    }
+  }
+}

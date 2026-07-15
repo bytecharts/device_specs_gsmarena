@@ -1,0 +1,91 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia Asha 500 Dual SIM",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-asha-500-ds.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-asha-500-dual-sim.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/nokia_lumia_1320-review-1002.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2013, December",
+    "dimensions": "101.3g, 12.8mm thickness",
+    "os": "Nokia Asha software platform 1.1.1",
+    "storage": "64MB RAM storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 - SIM 1 &amp; SIM 2",
+        "GPRS": "Up to 42.8 kbps",
+        "EDGE": "Up to 236.8 kbps"
+      },
+      "Launch": {
+        "Announced": "2013, October. Released 2013, December",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "100.3 x 58.1 x 12.8 mm, 70.9 cc (3.95 x 2.29 x 0.50 in)",
+        "Weight": "101.3 g (3.56 oz)",
+        "SIM": "Dual SIM (Micro-SIM, dual stand-by)"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "2.8 inches, 24.3 cm<sup>2</sup> (~41.7% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)"
+      },
+      "Platform": {
+        "OS": "Nokia Asha software platform 1.1.1"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot), 4 GB included",
+        "Internal": "64MB RAM"
+      },
+      "Main Camera": {
+        "Single": "2 MP, 1/5.0\"",
+        "Video": "320p@13fps"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n",
+        "Bluetooth": "3.0, A2DP",
+        "Positioning": "No",
+        "NFC": "No",
+        "Radio": "Stereo FM radio",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity",
+        "Features": "SNS apps\n\nMP4/H.263 player\n\nMP3/WAV/AAC player\n\nPhoto editor\n\nOrganizer\n\nVoice memo\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Li-Ion 1200 mAh, removable (BL-4U)",
+        "Stand-by": "Up to 528 h",
+        "Talk time": "Up to 14 h",
+        "Music play": "Up to 46 h"
+      },
+      "Misc": {
+        "Colors": "Bright Red, Bright Green, Cyan, Yellow, White and Black",
+        "SAR": "1.11 W/kg (head) &nbsp; &nbsp;",
+        "SAR EU": "0.64 W/kg (head) &nbsp; &nbsp; 0.60 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 60 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-asha-500-ds.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_asha_500_dual_sim-pictures-5793.php"
+    }
+  }
+}

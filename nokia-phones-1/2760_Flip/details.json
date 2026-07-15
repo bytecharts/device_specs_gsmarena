@@ -1,0 +1,91 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 2760 Flip",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-2660-flip-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-2660-flip.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2022, March 03",
+    "dimensions": "11.5mm thickness",
+    "os": "KaiOS 3.1",
+    "storage": "4GB 512MB RAM storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 1700(AWS) / 1900",
+        "4G bands": "2, 4, 5, 7, 12, 13, 17, 41, 66, 71",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2022, March 03",
+        "Status": "Available. Released 2022, March 03"
+      },
+      "Body": {
+        "Dimensions": "202.1 x 58 x 11.5 mm (7.96 x 2.28 x 0.45 in)",
+        "Weight": "-",
+        "SIM": "Nano-SIM"
+      },
+      "Display": {
+        "Type": "TFT LCD",
+        "Size": "2.8 inches, 24.3 cm<sup>2</sup> (~20.7% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)",
+        "Features": "Secondary external 1.77\" display"
+      },
+      "Platform": {
+        "OS": "KaiOS 3.1",
+        "CPU": "Quad-core 1.3 GHz Cortex-A7"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "4GB 512MB RAM"
+      },
+      "Main Camera": {
+        "Single": "5 MP",
+        "Features": "LED flash",
+        "Video": "Unspecified"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n (operator dependent)",
+        "Bluetooth": "4.2, A2DP",
+        "Positioning": "GPS",
+        "NFC": "No",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0"
+      },
+      "Features": {
+        "Sensors": ""
+      },
+      "Battery": {
+        "Type": "Li-Ion 1450 mAh, removable"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "Models": "TA-1398, TA-1451",
+        "SAR": "0.72 W/kg (head) &nbsp; &nbsp; 1.32 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 60 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-2660-flip-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-2660-flip-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_2760_flip-pictures-11670.php"
+    }
+  }
+}

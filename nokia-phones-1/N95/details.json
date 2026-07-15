@@ -1,0 +1,102 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia N95",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-n95-00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-n95.gif"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/nokia_n95-review-141.php",
+    "siblingDeviceSlugs": [
+      "nokia_n95_8gb-2088"
+    ],
+    "release_date": "Released 2007, March",
+    "dimensions": "120g, 21mm thickness",
+    "os": "Symbian OS 9.2, S60 rel. 3.1",
+    "storage": "160MB 64MB RAM storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 2100",
+        "Speed": "HSPA",
+        "Features": "HSDPA 850 / 1900 - American version"
+      },
+      "Launch": {
+        "Announced": "2006, September. Released 2007, March",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "99 x 53 x 21 mm, 90 cc (3.90 x 2.09 x 0.83 in)",
+        "Weight": "120 g (4.23 oz)",
+        "SIM": "Mini-SIM",
+        "Features": "Dual slide design"
+      },
+      "Display": {
+        "Type": "TFT, 16M colors",
+        "Size": "2.6 inches, 40 x 53 mm, 20.9 cm<sup>2</sup> (~39.9% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~154 ppi density)"
+      },
+      "Platform": {
+        "OS": "Symbian OS 9.2, S60 rel. 3.1",
+        "CPU": "332 MHz Dual ARM 11",
+        "GPU": "3D Graphics HW Accelerator"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot), 128 MB included",
+        "Internal": "160MB 64MB RAM"
+      },
+      "Main Camera": {
+        "Single": "5 MP, AF",
+        "Features": "Carl Zeiss optics, LED flash",
+        "Video": "480p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "QVGA videocall camera",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "Alert types": "Vibration; Downloadable polyphonic, monophonic MP3 ringtones",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g, UPnP technology",
+        "Bluetooth": "2.0, A2DP",
+        "Positioning": "GPS, A-GPS; Nokia Maps",
+        "Infrared port": "Yes",
+        "Radio": "Stereo FM radio",
+        "USB": "miniUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Browser": "WAP 2.0/xHTML, HTML",
+        "Features": "WMV/RV/MP4/3GP player\n\nMP3/WMA/WAV/RA/AAC/M4A player\n\nTV-out\n\nOrganizer\n\nDocument viewer (Word, Excel, PowerPoint, PDF)\n\nPredictive text input\n\nPush to talk \n\nVoice dial/memo"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 950 mAh battery (BL-5F)",
+        "Stand-by": "Up to 220 h (2G) / 192 h (3G)",
+        "Talk time": "Up to 6 h 30 min (2G) / 2 h 42 min (3G)"
+      },
+      "Misc": {
+        "Colors": "Silver,  Plum, Black, Pink, Red",
+        "SAR": "0.79 W/kg (head) &nbsp; &nbsp; 0.76 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.50 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 210 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-n95-00.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-n95-01.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-n95-02.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_n95-pictures-1716.php"
+    }
+  }
+}

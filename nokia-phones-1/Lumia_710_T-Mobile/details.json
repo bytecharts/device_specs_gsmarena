@@ -1,0 +1,94 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia Lumia 710 T-Mobile",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-lumia-710-t-mobile.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-lumia-710-t-mobile.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2012, January",
+    "dimensions": "125.5g, 12.5mm thickness",
+    "os": "Microsoft Windows Phone 7.5 Mango",
+    "storage": "8GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 1700 / 1900 / 2100",
+        "Speed": "HSPA 14.4/5.76 Mbps"
+      },
+      "Launch": {
+        "Announced": "2011, December. Released 2012, January",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "119 x 62.4 x 12.5 mm, 81.1 cc (4.69 x 2.46 x 0.49 in)",
+        "Weight": "125.5 g (4.41 oz)",
+        "SIM": "Micro-SIM"
+      },
+      "Display": {
+        "Type": "TFT",
+        "Size": "3.7 inches, 39.0 cm<sup>2</sup> (~52.5% screen-to-body ratio)",
+        "Resolution": "480 x 800 pixels, 5:3 ratio (~252 ppi density)",
+        "Protection": "Corning Gorilla Glass",
+        "Features": "Nokia ClearBlack display"
+      },
+      "Platform": {
+        "OS": "Microsoft Windows Phone 7.5 Mango",
+        "Chipset": "Qualcomm MSM8255 Snapdragon S2",
+        "CPU": "1.4 GHz Scorpion",
+        "GPU": "Adreno 205"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "8GB 512MB RAM"
+      },
+      "Main Camera": {
+        "Single": "5 MP, AF",
+        "Features": "LED flash",
+        "Video": "720p@30fps"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n",
+        "Bluetooth": "2.1, A2DP, EDR",
+        "Positioning": "GPS, A-GPS",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity, compass",
+        "Features": "MP3/WAV/eAAC+/WMA player\n\nMP4/H.264/WMV player\n\nDocument viewer/editor\n\nVideo/photo editor"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1300 mAh battery (BP-3L)",
+        "Stand-by": "Up to 396 h",
+        "Talk time": "Up to 7 h"
+      },
+      "Misc": {
+        "Colors": "Black, white/black",
+        "SAR": "1.06 W/kg (head) &nbsp; &nbsp; 0.94 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "1.30 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 130 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-lumia-710-t-mobile.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_lumia_710_t_mobile-pictures-4372.php"
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia C12 Plus",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-c12-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-c12.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Cancelled",
+    "dimensions": "8.8mm thickness",
+    "os": "Android 12",
+    "storage": "32GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4G bands": "LTE",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2023, April 01",
+        "Status": "Cancelled"
+      },
+      "Body": {
+        "Dimensions": "-",
+        "Weight": "-",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "6.3 inches, 99.1 cm<sup>2</sup> (~83.0% screen-to-body ratio)",
+        "Resolution": "720 x 1520 pixels, 19:9 ratio (~267 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 12 (Go edition)",
+        "Chipset": "Unisoc SC9863A1 (22 nm)",
+        "CPU": "Octa-core (4x1.6 GHz Cortex-A55 &amp; 4x1.2 GHz Cortex-A55)",
+        "GPU": "IMG8322"
+      },
+      "Memory": {
+        "Card slot": "microSDXC",
+        "Internal": "32GB 2GB RAM",
+        "Features": "eMMC 5.1"
+      },
+      "Main Camera": {
+        "Single": "8 MP, AF",
+        "Features": "LED flash, HDR",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Single": "5 MP",
+        "Video": "720p"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n",
+        "Bluetooth": "5.2, A2DP",
+        "Positioning": "GPS",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity"
+      },
+      "Battery": {
+        "Type": "Li-Ion 4000 mAh, removable"
+      },
+      "Misc": {
+        "Colors": "Dark Cyan, Charcoal, Light Mint",
+        "Price": "About 90 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-c12-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-c12-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_c12_plus-pictures-12210.php"
+    }
+  }
+}

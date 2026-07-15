@@ -1,0 +1,101 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia N79",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-n79-00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-n79.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/nokia_n79-review-299.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2008, October",
+    "dimensions": "97g, 15mm thickness",
+    "os": "Symbian OS 9.3, Series 60 v3.2 UI",
+    "storage": "50MB storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 900 / 2100",
+        "Speed": "HSPA 3.6/0.384 Mbps"
+      },
+      "Launch": {
+        "Announced": "2008, August. Released 2008, October",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "110 x 49 x 15 mm, 74 cc (4.33 x 1.93 x 0.59 in)",
+        "Weight": "97 g (3.42 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 16M colors",
+        "Size": "2.4 inches, 17.8 cm<sup>2</sup> (~33.1% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)",
+        "Features": "Touch-sensitive Navi wheel"
+      },
+      "Platform": {
+        "OS": "Symbian OS 9.3, Series 60 v3.2 UI",
+        "CPU": "369 MHz ARM 11"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot), 4 GB included",
+        "Internal": "50MB"
+      },
+      "Main Camera": {
+        "Single": "5 MP, AF",
+        "Features": "Carl Zeiss optics, LED flash",
+        "Video": "480p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "VGA videocall camera",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g, UPnP &amp; DLNA technology",
+        "Bluetooth": "2.0, A2DP",
+        "Positioning": "GPS, A-GPS; Nokia Maps",
+        "Radio": "Stereo FM radio, RDS; FM transmitter",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer",
+        "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash Lite",
+        "Features": "MP4/WMV/H.264 player\n\nMP3/WMA/WAV/eAAC+ player\n\nPhoto/video editor\n\nOrganizer\n\nDocument viewer (Word, Excel, PowerPoint, PDF)\n\nVoice command/dial\n\nPush to Talk\n\nTV-out\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1200 mAh battery (BL-6F)",
+        "Stand-by": "Up to 372 h (2G) / Up to 305 h (3G)",
+        "Talk time": "Up to 5 h 30 min (2G) / Up to 3 h 30 min (3G)"
+      },
+      "Misc": {
+        "Colors": "Canvas white, Seal grey, Petrol black",
+        "SAR": "1.42 W/kg (head) &nbsp; &nbsp; 1.10 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "1.17 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 180 EUR"
+      },
+      "Our Tests": {
+        "Loudspeaker": "<a class=\"noUnd\" href=\"nokia_n79-review-299p4.php\">Voice 66dB / Noise 65dB / Ring 71dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"nokia_n79-review-299p5.php#aq\">Noise -91.8dB / Crosstalk -73.5dB</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-n79-00.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-n79-01.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-n79-02.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_n79-pictures-2497.php"
+    }
+  }
+}

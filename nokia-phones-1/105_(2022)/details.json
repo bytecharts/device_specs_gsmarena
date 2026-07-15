@@ -1,0 +1,89 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 105 (2022)",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-105-2022-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-105-2022.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2022, April 26",
+    "dimensions": "70g, 14.3mm thickness",
+    "os": "Feature phone",
+    "storage": "4MB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2022, April 26",
+        "Status": "Available. Released 2022, April 26"
+      },
+      "Body": {
+        "Dimensions": "115.2 x 49.9 x 14.3 mm (4.54 x 1.96 x 0.56 in)",
+        "Weight": "70 g (2.47 oz)",
+        "SIM": "Single SIM (Mini-SIM) or Dual SIM (Mini-SIM, dual stand-by)",
+        "Features": "Flashlight"
+      },
+      "Display": {
+        "Type": "TFT LCD, 65K colors",
+        "Size": "1.77 inches, 9.7 cm<sup>2</sup> (~16.9% screen-to-body ratio)",
+        "Resolution": "120 x 160 pixels, 4:3 ratio (~113 ppi density)"
+      },
+      "Platform": {
+        "Chipset": "Mediatek MT6261D"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "Yes",
+        "Call records": "Yes",
+        "Internal": "4MB, 4MB RAM"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "NFC": "No",
+        "Radio": "Wireless FM radio",
+        "USB": "microUSB 1.1"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS",
+        "Games": "Yes",
+        "Java": "No"
+      },
+      "Battery": {
+        "Type": "Li-Ion 800 mAh, removable"
+      },
+      "Misc": {
+        "Colors": "Blue, Charcoal",
+        "Models": "TA-1464, TA-1435, TA-1203, TA-1174, TA-1037, TA-1010",
+        "SAR": "1.20 W/kg (head) &nbsp; &nbsp; 0.79 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "1.50 W/kg (head) &nbsp; &nbsp; 1.38 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 20 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-105-2022-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_105_(2022)-pictures-11739.php"
+    }
+  }
+}

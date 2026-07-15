@@ -1,0 +1,98 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia XR21",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-xr21-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-xr21.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "hmd_xr21-13004"
+    ],
+    "release_date": "Released 2023, June 11",
+    "dimensions": "231g, 10.5mm thickness",
+    "os": "Android 12",
+    "storage": "128GB storage, Unspecified",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 20, 25, 26, 28, 32, 38, 39, 40, 41, 42, 43, 48, 66, 71",
+        "5G bands": "1, 2, 3, 5, 7, 20, 25, 28, 40, 41, 66, 71, 77, 78, 79 SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2023, May 03",
+        "Status": "Available. Released 2023, June 11"
+      },
+      "Body": {
+        "Dimensions": "168 x 78.6 x 10.5 mm (6.61 x 3.09 x 0.41 in)",
+        "Weight": "231 g (8.15 oz)",
+        "Build": "Glass front (Gorilla Glass Victus), plastic back, plastic frame",
+        "SIM": "Nano-SIM + Nano-SIM + <a href=\"glossary.php3?term=esim\">eSIM</a> (max 2 at a time)",
+        "Features": "IP68/IP69K dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 60 min)\n\nDrop resistant up to 1.8m\n\nMIL-STD-810H compliant"
+      },
+      "Display": {
+        "Type": "IPS LCD, 120Hz, 450 nits (typ), 550 nits (HBM)",
+        "Size": "6.49 inches, 101.7 cm<sup>2</sup> (~77.0% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~406 ppi density)",
+        "Protection": "Corning Gorilla Glass Victus"
+      },
+      "Platform": {
+        "OS": "Android 12",
+        "Chipset": "Qualcomm SM6375 Snapdragon 695 5G (6 nm)",
+        "CPU": "Octa-core (2x2.2 GHz Kryo 660 Gold &amp; 6x1.7 GHz Kryo 660 Silver)",
+        "GPU": "Adreno 619"
+      },
+      "Memory": {
+        "Card slot": "Unspecified",
+        "Internal": "128GB 6GB RAM"
+      },
+      "Main Camera": {
+        "Dual": "64 MP, f/1.8, (wide), 1/2.0\", PDAF\n\n8 MP, f/2.2, (ultrawide), 1/4.0\", 1.12µm",
+        "Features": "Dual-LED dual-tone flash, second LED flash, HDR, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "16 MP, f/2.4 (wide)",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+        "Bluetooth": "5.1, A2DP, LE, aptX Adaptive",
+        "Positioning": "GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5)",
+        "NFC": "Yes (market/region dependent)",
+        "Radio": "Unspecified",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer"
+      },
+      "Battery": {
+        "Type": "Li-Po 4800 mAh",
+        "Charging": "33W wired, PD2.0, QC3"
+      },
+      "Misc": {
+        "Colors": "Midnight Black, Pine Green",
+        "Price": "About 570 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-xr21-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-xr30-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_xr21-pictures-12244.php"
+    }
+  }
+}

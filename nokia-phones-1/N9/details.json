@@ -1,0 +1,110 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia N9",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-n9-all-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/Nokia-N9-00-cyan.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/nokia_n9-review-659.php",
+    "siblingDeviceSlugs": [
+      "nokia_n900-2917"
+    ],
+    "release_date": "Released 2011, September",
+    "dimensions": "135g, 12.1mm thickness",
+    "os": "MeeGo 1.2 Harmattan",
+    "storage": "16GB/64GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700 / 1900 / 2100",
+        "Speed": "HSPA 14.4/5.76 Mbps"
+      },
+      "Launch": {
+        "Announced": "2011, June. Released 2011, September",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "116.5 x 61.2 x 12.1 mm, 76 cc (4.59 x 2.41 x 0.48 in)",
+        "Weight": "135 g (4.76 oz)",
+        "SIM": "Micro-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED",
+        "Size": "3.9 inches, 41.9 cm<sup>2</sup> (~58.8% screen-to-body ratio)",
+        "Resolution": "480 x 854 pixels, 16:9 ratio (~251 ppi density)",
+        "Protection": "Corning Gorilla Glass",
+        "Features": "Anti-glare polariser"
+      },
+      "Platform": {
+        "OS": "MeeGo 1.2 Harmattan",
+        "Chipset": "TI OMAP 3630",
+        "CPU": "1.0 GHz Cortex A8",
+        "GPU": "PowerVR SGX530"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "16GB 1GB RAM, 64GB 1GB RAM"
+      },
+      "Main Camera": {
+        "Single": "8 MP, AF",
+        "Features": "Carl Zeiss optics, dual-LED flash",
+        "Video": "720p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "VGA",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct",
+        "Bluetooth": "2.1, A2DP, EDR",
+        "Positioning": "GPS, A-GPS; Ovi Maps",
+        "NFC": "Yes",
+        "Radio": "FM radio (via third party software)",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity, compass",
+        "Browser": "WAP 2.0/xHTML, HTML5, RSS feeds",
+        "Features": "SNS integration\n\nTV-out \n\nDolby Digital Plus"
+      },
+      "Battery": {
+        "Type": "Non-removable Li-Ion 1450 mAh battery (BV-5JW)",
+        "Stand-by": "Up to 380 h (2G) / Up to 450 h (3G)",
+        "Talk time": "Up to 11 h (2G) / Up to 7 h (3G)",
+        "Music play": "Up to 50 h"
+      },
+      "Misc": {
+        "Colors": "Black, Cyan, Magenta, Glossy white",
+        "SAR": "1.18 W/kg (head) &nbsp; &nbsp; 1.18 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "1.16 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 140 EUR"
+      },
+      "Our Tests": {
+        "Display": "<a class=\"noUnd\" href=\"nokia_n9-review-659p2.php\">Contrast ratio: Infinite (nominal) / 3.069:1 (sunlight)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=3398&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=3398&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"nokia_n9-review-659p5.php\">Voice 61dB / Noise 58dB / Ring 66dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"nokia_n9-review-659p6.php#aq\">Noise -90.9dB / Crosstalk -83.6dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 3398); \">Endurance rating 39h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-n9-all-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-n9-all-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-n9-glossy-white.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_n9-pictures-3398.php"
+    }
+  }
+}

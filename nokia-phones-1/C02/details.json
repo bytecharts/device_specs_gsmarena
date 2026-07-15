@@ -1,0 +1,91 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia C02",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-c02-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-c02.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2023, May",
+    "dimensions": "191g, 10mm thickness",
+    "os": "Android 12",
+    "storage": "32GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "LTE",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2023, February 23",
+        "Status": "Available. Released 2023, May"
+      },
+      "Body": {
+        "Dimensions": "148.7 x 71.2 x 10 mm (5.85 x 2.80 x 0.39 in)",
+        "Weight": "191 g (6.74 oz)",
+        "Build": "Plastic back, plastic frame",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "Splash and dust resistant"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "5.45 inches, 76.7 cm<sup>2</sup> (~72.4% screen-to-body ratio)",
+        "Resolution": "720 x 1440 pixels, 18:9 ratio (~295 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 12 (Go edition)",
+        "CPU": "Quad-core 1.4 GHz"
+      },
+      "Memory": {
+        "Card slot": "microSDXC",
+        "Internal": "32GB 2GB RAM",
+        "Features": "eMMC 5.1"
+      },
+      "Main Camera": {
+        "Single": "5 MP",
+        "Features": "LED flash, HDR",
+        "Video": "720p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "2 MP",
+        "Video": "720p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n",
+        "Bluetooth": "4.2, A2DP, LE",
+        "Positioning": "GPS",
+        "NFC": "No",
+        "Radio": "Unspecified",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer"
+      },
+      "Battery": {
+        "Type": "Li-Ion 3000 mAh, removable"
+      },
+      "Misc": {
+        "Colors": "Dark Cyan, Charcoal"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-c02-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-c02-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_c02-pictures-12136.php"
+    }
+  }
+}

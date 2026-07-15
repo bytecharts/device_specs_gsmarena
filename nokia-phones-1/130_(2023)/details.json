@@ -1,0 +1,85 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 130 (2023)",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-130-music-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-130-music.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2023, August 10",
+    "dimensions": "98.2g, 14mm thickness",
+    "os": "Feature phone",
+    "storage": "4MB storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2023, August 10",
+        "Status": "Available. Released 2023, August 10"
+      },
+      "Body": {
+        "Dimensions": "130.9 x 50.6 x 14 mm (5.15 x 1.99 x 0.55 in)",
+        "Weight": "98.2 g (3.46 oz)",
+        "SIM": "Dual SIM (Mini-SIM, dual stand-by)",
+        "Features": "Flashlight"
+      },
+      "Display": {
+        "Type": "TFT LCD, 65K colors",
+        "Size": "2.4 inches, 17.8 cm<sup>2</sup> (~26.9% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "microSDHC",
+        "Phonebook": "2000 entries",
+        "Call records": "Yes",
+        "Internal": "4MB"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "NFC": "No",
+        "Radio": "FM radio; built-in antenna",
+        "USB": "microUSB 1.1"
+      },
+      "Features": {
+        "Sensors": "No",
+        "Messaging": "SMS",
+        "Games": "Yes",
+        "Java": "No",
+        "Features": "MP3 player"
+      },
+      "Battery": {
+        "Type": "Li-Ion 1450 mAh, removable"
+      },
+      "Misc": {
+        "Colors": "Dark Blue, Purple, Light Gold",
+        "Price": "About 20 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-130-music-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-130-music-4.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_130_(2023)-pictures-12464.php"
+    }
+  }
+}

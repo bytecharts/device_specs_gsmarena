@@ -1,0 +1,91 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 600",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-600-00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-600.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Cancelled",
+    "dimensions": "100g, 13mm thickness",
+    "os": "Symbian Belle OS",
+    "storage": "2GB storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700 / 1900 / 2100",
+        "Speed": "HSPA 14.4/5.76 Mbps"
+      },
+      "Launch": {
+        "Announced": "2011, August",
+        "Status": "Cancelled"
+      },
+      "Body": {
+        "Dimensions": "111 x 53 x 13 mm, 72 cc (4.37 x 2.09 x 0.51 in)",
+        "Weight": "100 g (3.53 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT",
+        "Size": "3.2 inches, 28.2 cm<sup>2</sup> (~48.0% screen-to-body ratio)",
+        "Resolution": "360 x 640 pixels, 16:9 ratio (~229 ppi density)"
+      },
+      "Platform": {
+        "OS": "Symbian Belle OS",
+        "CPU": "1.0 GHz"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot), 2 GB included",
+        "Internal": "2GB"
+      },
+      "Main Camera": {
+        "Single": "5 MP",
+        "Features": "LED flash",
+        "Video": "720p@30fps"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g",
+        "Bluetooth": "3.0, A2DP, EDR",
+        "Positioning": "GPS, A-GPS",
+        "NFC": "Yes",
+        "Radio": "Stereo FM radio, RDS; FM transmitter; built-in antenna",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity, compass",
+        "Features": "SNS integration\n\nMP4/H.264 player\n\nMP3/WAV/еAAC+/WMA player\n\nPhoto editor\n\nOrganizer\n\nVoice command/dial\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1200 mAh battery (BL-4J)",
+        "Stand-by": "Up to 540 h (2G) / Up to 600 h (3G)",
+        "Talk time": "Up to 15 h (2G) / Up to 6 h 30 min (3G)",
+        "Music play": "Up to 60 h"
+      },
+      "Misc": {
+        "Colors": "Black, White, Pink and Lime",
+        "Price": "About 240 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-600-00.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-600-01.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_600-pictures-4118.php"
+    }
+  }
+}

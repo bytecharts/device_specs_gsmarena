@@ -1,0 +1,101 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 3120 classic",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-3120-classic-03.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-3120cl.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/nokia_3120_classic-review-261.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2008, April",
+    "dimensions": "85g, 13mm thickness",
+    "os": "Feature phone",
+    "storage": "24MB storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / UMTS</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "UMTS 850 / 2100",
+        "Speed": "Yes, 384 kbps",
+        "Features": "UMTS 850 / 1900 - American version"
+      },
+      "Launch": {
+        "Announced": "2008, February. Released 2008, April",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "111 x 45 x 13 mm, 60 cc (4.37 x 1.77 x 0.51 in)",
+        "Weight": "85 g (3.00 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 16M colors",
+        "Size": "2.0 inches, 12.4 cm<sup>2</sup> (~24.8% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~200 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Phonebook": "Yes, 2000 entries",
+        "Call records": "20 dialed, 20 received, 20 missed calls",
+        "Internal": "24MB"
+      },
+      "Main Camera": {
+        "Single": "2 MP",
+        "Features": "LED flash",
+        "Video": "480p (newest firmware only)"
+      },
+      "Selfie camera": {
+        "Single": "VGA videocall camera",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.0",
+        "Positioning": "No",
+        "Radio": "Stereo FM radio",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS 1.2, Email, Push Email, IM",
+        "Browser": "WAP 2.0/xHTML, HTML",
+        "Games": "Yes",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "MP3/MP4/AAC/AAC+/eAAC+ player\n\nOrganizer\n\nVoice memo\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1000 mAh battery (BL-4U)",
+        "Stand-by": "Up to 290 h (2G) / 288 h (3G)",
+        "Talk time": "Up to 3 h 30 min (2G) / 2 h 45 min (3G)"
+      },
+      "Misc": {
+        "Colors": "Graphite, Plum/Powder White, Deep Red, Chestnut Brown",
+        "SAR": "1.18 W/kg (head) &nbsp; &nbsp; 1.11 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.69 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 100 EUR"
+      },
+      "Our Tests": {
+        "Loudspeaker": "<a class=\"noUnd\" href=\"nokia_3120_classic-review-261p3.php\">Voice 69dB / Noise 69dB / Ring 71dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"nokia_3120_classic-review-261p5.php#aq\">Noise -76.6dB / Crosstalk -73.9dB</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-3120-classic-03.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-3120-classic-02.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_3120_classic-pictures-2240.php"
+    }
+  }
+}

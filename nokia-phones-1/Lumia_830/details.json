@@ -1,0 +1,110 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia Lumia 830",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-lumia-830-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-lumia-830.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/nokia_lumia_830-review-1168.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2014, September",
+    "dimensions": "150g, 8.5mm thickness",
+    "os": "Microsoft Windows Phone 8.1",
+    "storage": "16GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4G bands": "1, 3, 7, 8, 20",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+        "Features": "2, 4, 5, 17 - AT&amp;T"
+      },
+      "Launch": {
+        "Announced": "2014, September. Released 2014, September",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "139.4 x 70.7 x 8.5 mm (5.49 x 2.78 x 0.33 in)",
+        "Weight": "150 g (5.29 oz)",
+        "SIM": "Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "5.0 inches, 68.9 cm<sup>2</sup> (~69.9% screen-to-body ratio)",
+        "Resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)",
+        "Protection": "Corning Gorilla Glass 3",
+        "Features": "ClearBlack display"
+      },
+      "Platform": {
+        "OS": "Microsoft Windows Phone 8.1, upgradable to Microsoft Windows 10",
+        "Chipset": "Qualcomm Snapdragon 400 (28 nm)",
+        "CPU": "Quad-core 1.2 GHz Cortex-A7",
+        "GPU": "Adreno 305"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "16GB 1GB RAM",
+        "Features": "eMMC 4.5"
+      },
+      "Main Camera": {
+        "Single": "10 MP, f/2.2, 26mm (wide), 1/3.4\", AF, OIS",
+        "Features": "Zeiss optics, LED flash, panorama",
+        "Video": "1080p@30fps, stereo sound rec."
+      },
+      "Selfie camera": {
+        "Single": "0.9 MP",
+        "Video": "720p"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, DLNA, hotspot",
+        "Bluetooth": "4.0, A2DP, EDR, LE, aptX",
+        "Positioning": "GPS, GLONASS, BDS",
+        "NFC": "Yes",
+        "Radio": "FM radio",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Ion 2200 mAh, removable (BV-L4A)",
+        "Charging": "Wireless (Qi)",
+        "Stand-by": "Up to 528 h",
+        "Talk time": "Up to 12 h 54 min (2G) / Up to 14 h 48 min (3G)",
+        "Music play": "Up to 78 h"
+      },
+      "Misc": {
+        "Colors": "Orange, green, white, black, gold",
+        "SAR": "0.87 W/kg (head) &nbsp; &nbsp; 0.83 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.46 W/kg (head) &nbsp; &nbsp; 0.59 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 330 EUR"
+      },
+      "Our Tests": {
+        "Display": "<a class=\"noUnd\" href=\"nokia_lumia_830-review-1168p3.php\">Contrast ratio: 1078 (nominal), 1887 (sunlight)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=6638&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=6638&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"nokia_lumia_830-review-1168p6.php\">Voice 65dB / Noise 66dB / Ring 78dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"nokia_lumia_830-review-1168p7.php#aq\">Noise -89.7dB / Crosstalk -91.6dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 6638); \">Endurance rating 68h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-lumia-830-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-lumia-830-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-lumia-830-gold.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_lumia_830-pictures-6638.php"
+    }
+  }
+}

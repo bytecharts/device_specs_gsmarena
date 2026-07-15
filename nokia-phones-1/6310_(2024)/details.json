@@ -1,0 +1,92 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 6310 (2024)",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-6310-2024-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-6310-2024-new.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2024, April 26",
+    "dimensions": "14.1mm thickness",
+    "os": "Feature phone",
+    "storage": "16MB 8MB RAM storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "Yes",
+        "EDGE": "Yes"
+      },
+      "Launch": {
+        "Announced": "2024, April 11",
+        "Status": "Available. Released 2024, April 26"
+      },
+      "Body": {
+        "Dimensions": "135.5 x 56 x 14.1 mm, 44.8 cc (5.33 x 2.20 x 0.56 in)",
+        "Weight": "-",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "TFT LCD",
+        "Size": "2.8 inches, 24.3 cm<sup>2</sup> (~32.0% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)"
+      },
+      "Platform": {
+        "Chipset": "Unisoc 6531F"
+      },
+      "Memory": {
+        "Card slot": "microSDHC",
+        "Phonebook": "Yes",
+        "Call records": "Yes",
+        "Internal": "16MB 8MB RAM"
+      },
+      "Main Camera": {
+        "Single": "VGA",
+        "Features": "LED flash",
+        "Video": "Unspecified"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "No",
+        "NFC": "No",
+        "Radio": "Wireless FM radio",
+        "USB": "USB Type-C"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS",
+        "Games": "Yes",
+        "Java": "No"
+      },
+      "Battery": {
+        "Type": "Li-Ion 1450 mAh, removable"
+      },
+      "Misc": {
+        "Colors": "Black, Green",
+        "Price": "About 70 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-6310-2024-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-6310-2024-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-6310-2024-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_6310_(2024)-pictures-12926.php"
+    }
+  }
+}

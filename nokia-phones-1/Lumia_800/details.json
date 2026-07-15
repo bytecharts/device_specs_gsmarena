@@ -1,0 +1,105 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia Lumia 800",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-lumia-800.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-800-ofic.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/nokia_lumia_800-review-686.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2011, November",
+    "dimensions": "142g, 12.1mm thickness",
+    "os": "Microsoft Windows Phone 7.5 Mango, up to 7.8",
+    "storage": "16GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100 - RM-819",
+        "Speed": "HSPA 14.4/5.76 Mbps",
+        "Features": "HSDPA 900 / 1900 / 2100 - RM-801 CV\nHSDPA 850 / 1900 / 2100 - for Canada"
+      },
+      "Launch": {
+        "Announced": "2011, October. Released 2011, November",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "116.5 x 61.2 x 12.1 mm, 76.1 cc (4.59 x 2.41 x 0.48 in)",
+        "Weight": "142 g (5.01 oz)",
+        "SIM": "Micro-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED",
+        "Size": "3.7 inches, 39.0 cm<sup>2</sup> (~54.7% screen-to-body ratio)",
+        "Resolution": "480 x 800 pixels, 5:3 ratio (~252 ppi density)",
+        "Protection": "Corning Gorilla Glass",
+        "Features": "Nokia ClearBlack display"
+      },
+      "Platform": {
+        "OS": "Microsoft Windows Phone 7.5 Mango, upgradable to 7.8",
+        "Chipset": "Qualcomm MSM8255 Snapdragon S2",
+        "CPU": "1.4 GHz Scorpion",
+        "GPU": "Adreno 205"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "16GB 512MB RAM"
+      },
+      "Main Camera": {
+        "Single": "8 MP, AF",
+        "Features": "Carl Zeiss optics, dual-LED flash",
+        "Video": "720p@30fps"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n",
+        "Bluetooth": "2.1, A2DP, EDR",
+        "Positioning": "GPS, A-GPS",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity, compass",
+        "Features": "MP3/WAV/eAAC+/WMA player\n\nMP4/H.264/WMV player\n\nDocument viewer/editor\n\nVideo/photo editor"
+      },
+      "Battery": {
+        "Type": "Non-removable Li-Ion 1450 mAh battery (BV-5JW)",
+        "Stand-by": "Up to 265 h (2G) / Up to 335 h (3G)",
+        "Talk time": "Up to 13 h (2G) / Up to 9 h 30 min (3G)",
+        "Music play": "Up to 55 h"
+      },
+      "Misc": {
+        "Colors": "Black, Cyan, Magenta, White",
+        "SAR": "1.27 W/kg (head) &nbsp; &nbsp; 1.08 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.94 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 140 EUR"
+      },
+      "Our Tests": {
+        "Display": "<a class=\"noUnd\" href=\"nokia_lumia_800-review-686p2.php\">Contrast ratio: Infinite (nominal)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=4240&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=4240&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"nokia_lumia_800-review-686p4.php\">Voice 60dB / Noise 59dB / Ring 61dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"nokia_lumia_800-review-686p5.php#aq\">Noise -87.3dB / Crosstalk -87.8dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 4240); \">Endurance rating 35h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-lumia-800.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-lumia-800-glossy-white.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_lumia_800-pictures-4240.php"
+    }
+  }
+}

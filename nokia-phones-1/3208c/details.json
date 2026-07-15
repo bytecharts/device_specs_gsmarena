@@ -1,0 +1,93 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 3208c",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-3208c-00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-3208c.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2009, Q4",
+    "dimensions": "90g, 13.2mm thickness",
+    "os": "Feature phone",
+    "storage": "13MB storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "GPRS": "Class 32",
+        "EDGE": "Class 32"
+      },
+      "Launch": {
+        "Announced": "2009, August. Released 2009, Q4",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "108.5 x 48.6 x 13.2 mm, 62.3 cc (4.27 x 1.91 x 0.52 in)",
+        "Weight": "90 g (3.17 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT resistive touchscreen, 256K colors",
+        "Size": "2.4 inches, 17.8 cm<sup>2</sup> (~33.8% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)",
+        "Features": "Handwriting recognition"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot), 1 GB included",
+        "Phonebook": "1000 entries, Photocall",
+        "Call records": "20 dialed, 20 received, 20 missed calls",
+        "Internal": "13MB"
+      },
+      "Main Camera": {
+        "Single": "2 MP",
+        "Video": "QCIF@10fps"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.0, A2DP",
+        "Positioning": "No",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS, Email, IM",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "2  + Downloadable",
+        "Java": "Yes, MIDP 2.1",
+        "Features": "MP3/AAC/eAAC player\n\nVoice memo\n\nOrganizer"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1020 mAh battery (BL-5C)",
+        "Stand-by": "Up to 350 h",
+        "Talk time": "Up to 7 h",
+        "Music play": "Up to 11 h"
+      },
+      "Misc": {
+        "Colors": "Pearl White, Graphite Black",
+        "SAR": "0.99 W/kg (head) &nbsp; &nbsp; 0.27 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "1.08 W/kg (head) &nbsp; &nbsp;"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-3208c-00.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-3208c-01.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_3208c-pictures-2920.php"
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 220",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-220-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-220.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/nokia_mwc_2014-review-1052.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2014, February",
+    "dimensions": "83.6, 13.2mm thickness",
+    "os": "Feature phone",
+    "storage": "microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 - SIM 1 &amp; SIM 2 (dual-SIM model only)",
+        "GPRS": "Up to 85.6 kbps",
+        "EDGE": "No",
+        "Features": "GSM 900 / 1800"
+      },
+      "Launch": {
+        "Announced": "2014, February. Released 2014, February",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "116.4 x 50.3 x 13.2 mm (4.58 x 1.98 x 0.52 in)",
+        "Weight": "83.6 (2.93 oz)",
+        "SIM": "Single SIM (Mini-SIM) or Dual SIM (Mini-SIM, dual stand-by)"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "2.4 inches, 17.8 cm<sup>2</sup> (~30.5% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Phonebook": "500 entries",
+        "Call records": "Yes"
+      },
+      "Main Camera": {
+        "Single": "2 MP, 1/5.0\"",
+        "Video": "320p@15fps"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "3.0",
+        "Positioning": "No",
+        "NFC": "No",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": "microUSB 1.1"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS(threaded view), MMS, IM",
+        "Games": "Yes",
+        "Java": "",
+        "Features": "SNS applications\n\nMP4/H.264 player\n\nMP3/WAV/AAC player\n\nOrganizer\n\nVoice memo\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Li-Ion 1100 mAh battery (BL-5C) - Dual SIM",
+        "Stand-by": "Up to 576 h",
+        "Talk time": "Up to 15 h",
+        "Music play": "Up to 51 h 30 min"
+      },
+      "Misc": {
+        "Colors": "Red, black, white, yellow, cyan",
+        "SAR": "1.13 W/kg (head) &nbsp; &nbsp; 0.54 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "1.14 W/kg (head) &nbsp; &nbsp; 0.79 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 40 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-220-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-220-ds-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-220-ds-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_220-pictures-6150.php"
+    }
+  }
+}

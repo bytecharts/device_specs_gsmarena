@@ -1,0 +1,94 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia Lumia 610 NFC",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-lumia-610-nfc-with-orange.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-lumia-610-nfc.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2012, September",
+    "dimensions": "135g, 12mm thickness",
+    "os": "Microsoft Windows Phone 7.5 Mango",
+    "storage": "8GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "Speed": "HSPA 7.2/5.76 Mbps"
+      },
+      "Launch": {
+        "Announced": "2012, April. Released 2012, September",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "119 x 62 x 12 mm, 77.6 cc (4.69 x 2.44 x 0.47 in)",
+        "Weight": "135 g (4.62 oz)",
+        "SIM": "Micro-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 65K colors",
+        "Size": "3.7 inches, 39.0 cm<sup>2</sup> (~52.8% screen-to-body ratio)",
+        "Resolution": "480 x 800 pixels, 5:3 ratio (~252 ppi density)",
+        "Protection": "Corning Gorilla Glass"
+      },
+      "Platform": {
+        "OS": "Microsoft Windows Phone 7.5 Mango",
+        "Chipset": "Qualcomm MSM7227A Snapdragon S1",
+        "CPU": "800 MHz ARM Cortex-A5",
+        "GPU": "Adreno 200"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "8GB 256MB RAM"
+      },
+      "Main Camera": {
+        "Single": "5 MP, AF",
+        "Features": "LED flash",
+        "Video": "480p@30fps"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n",
+        "Bluetooth": "2.1, A2DP, EDR",
+        "Positioning": "GPS, A-GPS",
+        "NFC": "Yes",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity, compass",
+        "Features": "MP3/WAV/eAAC+/WMA player\n\nMP4/H.264/WMV player\n\nDocument viewer\n\nVideo/photo editor"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1300 mAh battery (BP-3L)",
+        "Stand-by": "Up to 670 h (2G) / Up to 720 h (3G)",
+        "Talk time": "Up to 10 h 30 min (2G) / Up to 9 h 30 min (3G)",
+        "Music play": "Up to 35 h"
+      },
+      "Misc": {
+        "Colors": "Black, white",
+        "SAR EU": "0.75 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 110 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-lumia-610-nfc-with-orange.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_lumia_610_nfc-pictures-4695.php"
+    }
+  }
+}

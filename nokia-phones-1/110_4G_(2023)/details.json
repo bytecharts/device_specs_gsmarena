@@ -1,0 +1,91 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 110 4G (2023)",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-110-4g-2023-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-110-4g-2023.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2023, June",
+    "dimensions": "94.5g, 14.4mm thickness",
+    "os": "Feature phone",
+    "storage": "Unspecified storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 900 / 1800",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "LTE",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2023, May 18",
+        "Status": "Available. Released 2023, June"
+      },
+      "Body": {
+        "Dimensions": "121.5 x 50 x 14.4 mm (4.78 x 1.97 x 0.57 in)",
+        "Weight": "94.5 g (3.35 oz)",
+        "SIM": "· Nano-SIM\n· Nano-SIM + Nano-SIM",
+        "Features": "Flashlight\n\nSplash resistant"
+      },
+      "Display": {
+        "Type": "TFT LCD, 65K colors",
+        "Size": "1.8 inches, 10.0 cm<sup>2</sup> (~16.5% screen-to-body ratio)",
+        "Resolution": "120 x 160 pixels, 4:3 ratio (~111 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "microSDHC",
+        "Phonebook": "Yes",
+        "Call records": "Yes",
+        "Internal": "Unspecified"
+      },
+      "Main Camera": {
+        "Single": "QVGA",
+        "Video": ""
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "5.0, A2DP",
+        "Positioning": "No",
+        "NFC": "No",
+        "Radio": "Wireless FM radio",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS",
+        "Games": "Yes",
+        "Java": "No",
+        "Features": "MP3 player"
+      },
+      "Battery": {
+        "Type": "Li-Ion 1450 mAh"
+      },
+      "Misc": {
+        "Colors": "Midnight Blue, Arctic Purple",
+        "Price": "About 40 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-110-4g-2023-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-110-4g-2023-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-110-4g-2023-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_110_4g_(2023)-pictures-12285.php"
+    }
+  }
+}

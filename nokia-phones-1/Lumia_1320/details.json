@@ -1,0 +1,107 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia Lumia 1320",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-lumia-1320.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-lumia-1320.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/nokia_lumia_1320-review-1039.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2014, January",
+    "dimensions": "220g, 9.8mm thickness",
+    "os": "Microsoft Windows Phone 8, up to 8.1",
+    "storage": "8GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - all versions",
+        "3G bands": "HSDPA 850 / 900 / 2100 - RM-994",
+        "4G bands": "3, 7, 20 - RM-994",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat3 100/50 Mbps",
+        "Features": "HSDPA 850 / 1700 / 1900 / 2100 - RM-995\nHSDPA 900 / 2100 - RM-996\n2, 4, 5, 17 - RM-995"
+      },
+      "Launch": {
+        "Announced": "2013, October. Released 2014, January",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "164.2 x 85.9 x 9.8 mm, 125 cc (6.46 x 3.38 x 0.39 in)",
+        "Weight": "220 g (7.76 oz)",
+        "SIM": "Micro-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "6.0 inches, 99.2 cm<sup>2</sup> (~70.4% screen-to-body ratio)",
+        "Resolution": "720 x 1280 pixels, 16:9 ratio (~245 ppi density)",
+        "Protection": "Corning Gorilla Glass 3",
+        "Features": "ClearBlack display"
+      },
+      "Platform": {
+        "OS": "Microsoft Windows Phone 8, upgradable to 8.1",
+        "Chipset": "Qualcomm MSM8230AB Snapdragon 400 (28 nm) (3G model)/ MSM8930AB Snapdragon 400 (28 nm) (LTE model)",
+        "CPU": "Dual-core 1.7 GHz Krait 300",
+        "GPU": "Adreno 305"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "8GB 1GB RAM",
+        "Features": "eMMC 4.5"
+      },
+      "Main Camera": {
+        "Single": "5 MP, f/2.4, 28mm (wide), 1/4.0\", AF",
+        "Features": "LED flash",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "VGA",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+        "Bluetooth": "4.0, A2DP, EDR, LE/ aptX after WP8 Denim update",
+        "Positioning": "GPS, GLONASS",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Ion 3400 mAh, non-removable (BV-4BW)",
+        "Stand-by": "Up to 672 h (2G) / Up to 672 h (3G)",
+        "Talk time": "Up to 25 h (2G) / Up to 21 h (3G)",
+        "Music play": "Up to 98 h"
+      },
+      "Misc": {
+        "Colors": "Yellow, white, black, red",
+        "SAR": "0.47 W/kg (head) &nbsp; &nbsp; 0.29 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.46 W/kg (head) &nbsp; &nbsp; 0.44 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 210 EUR"
+      },
+      "Our Tests": {
+        "Display": "<a class=\"noUnd\" href=\"nokia_lumia_1320-review-1039p3.php\">Contrast ratio: 1089:1 (nominal), 1.941 (sunlight)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=5791&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=5791&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"nokia_lumia_1320-review-1039p5.php\">Voice 61dB / Noise 60dB / Ring 66dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"nokia_lumia_1320-review-1039p6.php#aq\">Noise -89.1dB / Crosstalk -88.6dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 5791); \">Endurance rating 75h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-lumia-1320.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_lumia_1320-pictures-5791.php"
+    }
+  }
+}

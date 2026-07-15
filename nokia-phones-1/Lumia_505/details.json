@@ -1,0 +1,94 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia Lumia 505",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-lumia-505-ofic1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-lumia-505.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2013, January",
+    "dimensions": "131g, 11.3mm thickness",
+    "os": "Microsoft Windows Phone 7.8",
+    "storage": "4GB 256MB RAM storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 1900",
+        "Speed": "HSPA 7.2/0.384 Mbps"
+      },
+      "Launch": {
+        "Announced": "2012, December. Released 2013, January",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "118.1 x 61.2 x 11.3 mm, 76 cc (4.65 x 2.41 x 0.44 in)",
+        "Weight": "131 g (4.62 oz)",
+        "SIM": "Micro-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED, 65K colors",
+        "Size": "3.7 inches, 39.0 cm<sup>2</sup> (~53.9% screen-to-body ratio)",
+        "Resolution": "480 x 800 pixels, 5:3 ratio (~252 ppi density)",
+        "Protection": "Corning Gorilla Glass"
+      },
+      "Platform": {
+        "OS": "Microsoft Windows Phone 7.8",
+        "Chipset": "Qualcomm MSM7227A Snapdragon S1",
+        "CPU": "800 MHz Cortex-A5",
+        "GPU": "Adreno 200"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "4GB 256MB RAM"
+      },
+      "Main Camera": {
+        "Single": "8 MP",
+        "Video": "480p@30fps"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n",
+        "Bluetooth": "2.1, EDR",
+        "Positioning": "GPS",
+        "NFC": "No",
+        "Radio": "Stereo FM radio",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity"
+      },
+      "Battery": {
+        "Type": "Li-Ion 1300 mAh, removable (BP-3L)",
+        "Stand-by": "Up to 670 h (2G) / Up to 600 h (3G)",
+        "Talk time": "Up to 7 h 30 min (2G) / Up to 7 h 15 min (3G)",
+        "Music play": "Up to 36 h"
+      },
+      "Misc": {
+        "Colors": "Black, White, Red, Pink",
+        "SAR": "0.91 W/kg (head) &nbsp; &nbsp; 0.79 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.89 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 140 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-lumia-505-ofic1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-lumia-505-ofic.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_lumia_505-pictures-5150.php"
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 3500 classic",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-3500classic-00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-3500classic.gif"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/nokia_3500_classic-review-238.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2007, October",
+    "dimensions": "81g, 13.1mm thickness",
+    "os": "Feature phone",
+    "storage": "8.5MB storage, microSD slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "GPRS": "Class 10",
+        "EDGE": "Class 10",
+        "Features": "GSM 850 / 1800 / 1900 - US version"
+      },
+      "Launch": {
+        "Announced": "2007, June. Released 2007, October",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "107 x 45 x 13.1 mm, 59 cc (4.21 x 1.77 x 0.52 in)",
+        "Weight": "81 g (2.86 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "1.8 inches, 10.2 cm<sup>2</sup> (~21.2% screen-to-body ratio)",
+        "Resolution": "128 x 160 pixels (~114 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "microSD (dedicated slot)",
+        "Phonebook": "2000 entries",
+        "Call records": "20 dialed, 20 received, 20 missed calls",
+        "Internal": "8.5MB"
+      },
+      "Main Camera": {
+        "Single": "2 MP",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.0, A2DP",
+        "Positioning": "No",
+        "Radio": "Stereo FM radio",
+        "USB": "miniUSB"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS, Email, Instant Messaging",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "Yes  + downloadable",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "MP3/MP4/AAC/AAC+ player\n\nPredictive text input\n\nOrganizer\n\nVoice memo"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 820 mAh battery (BL-4C)",
+        "Stand-by": "Up to 280 h",
+        "Talk time": "Up to 3 h"
+      },
+      "Misc": {
+        "Colors": "Grey, Pink, Mandarine, Azure Blue",
+        "SAR": "0.49 W/kg (head) &nbsp; &nbsp; 0.59 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.39 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 70 EUR"
+      },
+      "Our Tests": {
+        "Loudspeaker": "<a class=\"noUnd\" href=\"nokia_3500_classic-review-238p3.php\">Voice 65dB / Noise 65dB / Ring 75dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"nokia_3500_classic-review-238p5.php#aq\">Noise -69.4dB / Crosstalk -68.4dB</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-3500classic-00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_3500_classic-pictures-2012.php"
+    }
+  }
+}

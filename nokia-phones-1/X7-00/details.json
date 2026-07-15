@@ -1,0 +1,100 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia X7-00",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-x7-silver.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-x7-ofic.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/nokia_x7_00-review-613.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2011, June",
+    "dimensions": "146g, 11.9mm thickness",
+    "os": "Symbian Anna, up to Nokia Belle OS",
+    "storage": "256MB RAM storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700 / 1900 / 2100",
+        "Speed": "HSPA 10.2/2 Mbps"
+      },
+      "Launch": {
+        "Announced": "2011, April. Released 2011, June",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "119.7 x 62.8 x 11.9 mm, 85 cc (4.71 x 2.47 x 0.47 in)",
+        "Weight": "146 g (5.15 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED",
+        "Size": "4.0 inches, 44.1 cm<sup>2</sup> (~58.7% screen-to-body ratio)",
+        "Resolution": "360 x 640 pixels, 16:9 ratio (~184 ppi density)",
+        "Protection": "Corning Gorilla Glass"
+      },
+      "Platform": {
+        "OS": "Symbian Anna, upgradable to Nokia Belle OS",
+        "CPU": "680 MHz ARM 11",
+        "GPU": "Broadcom BCM2727"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot), 8 GB included",
+        "Internal": "256MB RAM, 1GB ROM"
+      },
+      "Main Camera": {
+        "Single": "8 MP",
+        "Features": "Dual-LED flash",
+        "Video": "720p@25fps"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n",
+        "Bluetooth": "3.0, A2DP",
+        "Positioning": "GPS, A-GPS",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": "microUSB 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity",
+        "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash Lite",
+        "Features": "Stainless steel panels\n\nMP3/WMA/WAV/eAAC+ player\n\nDivX/XviD/MP4/H.264/WMV player\n\nQuickoffice document viewer (Word, Excel, PowerPoint, PDF)\n\nAdobe Reader\n\nVoice memo/dial/command\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1200 mAh battery (BL-5K)",
+        "Stand-by": "Up to 450 h (2G) / Up to 450 h (3G)",
+        "Talk time": "Up to 6 h 30 min (2G) / Up to 4 h 30 min (3G)",
+        "Music play": "Up to 50 h"
+      },
+      "Misc": {
+        "Colors": "Dark steel, Silver steel",
+        "SAR EU": "0.61 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 180 EUR"
+      },
+      "Our Tests": {
+        "Display": "<a class=\"noUnd\" href=\"nokia_x7_00-review-613p2.php\">Contrast ratio: Infinite (nominal)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=3664&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=3664&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"nokia_x7_00-review-613p3.php\">Voice 66dB / Noise 61dB / Ring 80dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"nokia_x7_00-review-613p4.php#aq\">Noise -88.9dB / Crosstalk -89.1dB</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-x7-silver.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_x7_00-pictures-3664.php"
+    }
+  }
+}

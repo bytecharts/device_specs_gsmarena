@@ -1,0 +1,98 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 6555",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-6555-00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-6555.gif"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/nokia_6555-review-207.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2007, August",
+    "dimensions": "97g, 19.6mm thickness",
+    "os": "Feature phone",
+    "storage": "30MB storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / UMTS</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "UMTS 850 / 2100",
+        "Speed": "Yes, 384 kbps",
+        "Features": "UMTS 850 / 1900 - American version"
+      },
+      "Launch": {
+        "Announced": "2007, August",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "99.6 x 44.3 x 19.6 mm, 67.6 cc (3.92 x 1.74 x 0.77 in)",
+        "Weight": "97 g (3.42 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 16M colors",
+        "Size": "2.0 inches, 12.4 cm<sup>2</sup> (~28.1% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~200 ppi density)",
+        "Features": "Second external display 256K colors (128 x 160 pixels)"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Phonebook": "1000 entries",
+        "Call records": "20 dialed, 20 received, 20 missed calls",
+        "Internal": "30MB"
+      },
+      "Main Camera": {
+        "Single": "1.23 MP",
+        "Video": "QCIF@15fps"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "3.5mm jack": "No",
+        "Features": "2.5 mm audio jack"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.0, A2DP",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS, Email",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "Yes  + downloadable",
+        "Java": "Yes, MIDP 2.1",
+        "Features": "MP3/AAC/eAAC+/WMA player\n\nVideo player\n\nPredictive text input\n\nOrganizer\n\nVoice memo\n\nFlight mode"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1020 mAh battery (BL-5C)",
+        "Stand-by": "Up to 300 h (2G) / 264 h (3G)",
+        "Talk time": "Up to 6 h 30 min (2G) / 3 h 14 min (3G)"
+      },
+      "Misc": {
+        "Colors": "Black, Red, Silver, Beige",
+        "SAR": "1.25 W/kg (head) &nbsp; &nbsp; 0.88 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.81 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 80 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-6555-00.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-6555-02.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-6555-01.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_6555-pictures-2071.php"
+    }
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 130 (2017)",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-130-2017-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-130-2017.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2017, August",
+    "dimensions": "74g, 14.2mm thickness",
+    "os": "Feature phone",
+    "storage": "8MB 4MB RAM storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 - SIM 1 &amp; SIM 2 (dual-SIM model only)",
+        "GPRS": "Yes",
+        "EDGE": "Yes"
+      },
+      "Launch": {
+        "Announced": "2017, July. Released 2017, August",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "111.5 x 48.4 x 14.2 mm (4.39 x 1.91 x 0.56 in)",
+        "Weight": "74 g (2.61 oz)",
+        "SIM": "Single SIM (Mini-SIM) or Dual SIM (Mini-SIM)",
+        "Features": "Flashlight"
+      },
+      "Display": {
+        "Type": "TFT, 65K colors",
+        "Size": "1.8 inches, 10.0 cm<sup>2</sup> (~18.6% screen-to-body ratio)",
+        "Resolution": "120 x 160 pixels, 4:3 ratio (~111 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Phonebook": "Yes",
+        "Call records": "Yes",
+        "Internal": "8MB 4MB RAM"
+      },
+      "Main Camera": {
+        "Single": "VGA",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "3.0",
+        "Positioning": "No",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS",
+        "Games": "Yes",
+        "Java": "No"
+      },
+      "Battery": {
+        "Type": "Li-Ion 1020 mAh, removable (BL-5C)"
+      },
+      "Misc": {
+        "Colors": "Red, Grey, Black",
+        "SAR EU": "1.45 W/kg (head) &nbsp; &nbsp; 1.41 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 30 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-130-2017-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-130-2017-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_130_(2017)-pictures-8769.php"
+    }
+  }
+}

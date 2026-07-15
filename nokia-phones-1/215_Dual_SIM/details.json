@@ -1,0 +1,95 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 215 Dual SIM",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/microsoft/nokia-215-ds-3.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-215-ds.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/ces_2015_various-review-1191.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2015, February",
+    "dimensions": "78.6g, 12.9mm thickness",
+    "os": "Feature phone",
+    "storage": "8MB RAM storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 - SIM 1 &amp; SIM 2 - RM-1110",
+        "GPRS": "Yes",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2015, January. Released 2015, February",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "116 x 50 x 12.9 mm (4.57 x 1.97 x 0.51 in)",
+        "Weight": "78.6 g (2.75 oz)",
+        "SIM": "Dual SIM (Mini-SIM)",
+        "Features": "Flashlight"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "2.4 inches, 17.8 cm<sup>2</sup> (~30.8% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Phonebook": "1000 entries",
+        "Call records": "Yes",
+        "Internal": "8MB RAM"
+      },
+      "Main Camera": {
+        "Single": "VGA",
+        "Video": "240p@15fps"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "3.0",
+        "Positioning": "No",
+        "NFC": "No",
+        "Radio": "Stereo FM radio",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS",
+        "Games": "Yes",
+        "Java": "",
+        "Features": "SNS applications\n\nMP4/H.264 player\n\nMP3/WAV/AAC player\n\nOrganizer\n\nVoice memo\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Li-Ion 1100 mAh, removable",
+        "Stand-by": "Up to 504 h",
+        "Talk time": "Up to 20 h",
+        "Music play": "Up to 50 h"
+      },
+      "Misc": {
+        "Colors": "Black, White, Green",
+        "SAR EU": "1.11 W/kg (head) &nbsp; &nbsp; 0.62 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 30 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/microsoft/nokia-215-ds-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/microsoft/nokia-215-ds-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/microsoft/nokia-215-ds-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_215_dual_sim-pictures-6911.php"
+    }
+  }
+}

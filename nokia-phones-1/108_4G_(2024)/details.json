@@ -1,0 +1,84 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 108 4G (2024)",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-108-4g-2024-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-108-4g-2024.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2024, November",
+    "dimensions": "93 g",
+    "os": "Feature phone",
+    "storage": "microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 900 / 1800",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "LTE",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2024, October 27",
+        "Status": "Available. Released 2024, November"
+      },
+      "Body": {
+        "Dimensions": "126.1 x 50.5 x X.X mm",
+        "Weight": "93 g (3.28 oz)",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "Flashlight"
+      },
+      "Display": {
+        "Type": "TFT LCD, 65K colors",
+        "Size": "2.0 inches, 12.4 cm<sup>2</sup> (~19.5% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~200 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "microSDHC",
+        "Phonebook": "Yes",
+        "Call records": "Yes"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "Yes",
+        "Positioning": "No",
+        "NFC": "No",
+        "Radio": "Wireless FM radio",
+        "USB": "USB Type-C"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS",
+        "Games": "Yes",
+        "Java": "No",
+        "Features": "MP3 player"
+      },
+      "Battery": {
+        "Type": "Li-Ion 1450 mAh, removable"
+      },
+      "Misc": {
+        "Colors": "Blue, Cyan, Pink"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-108-4g-2024-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-108-4g-2024-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_108_4g_(2024)-pictures-13482.php"
+    }
+  }
+}

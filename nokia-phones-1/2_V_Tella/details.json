@@ -1,0 +1,93 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 2 V Tella",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-2-v-tella.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-2-v-tella.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2020, October 21",
+    "dimensions": "180g, 9.1mm thickness",
+    "os": "Android 10",
+    "storage": "16GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 1700(AWS) / 1900",
+        "4G bands": "LTE",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat6 300/50 Mbps"
+      },
+      "Launch": {
+        "Announced": "2020, October 21. Released 2020, October 21",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "150.6 x 71.6 x 9.1 mm (5.93 x 2.82 x 0.36 in)",
+        "Weight": "180 g (6.35 oz)",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "5.45 inches, 76.7 cm<sup>2</sup> (~71.1% screen-to-body ratio)",
+        "Resolution": "720 x 1440 pixels, 18:9 ratio (~295 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 10",
+        "Chipset": "Mediatek MT6761 Helio A22 (16 nm)",
+        "CPU": "Quad-core 2.0 GHz Cortex-A53",
+        "GPU": "PowerVR GE8320"
+      },
+      "Memory": {
+        "Card slot": "microSDXC",
+        "Internal": "16GB 2GB RAM",
+        "Features": "eMMC 5.1"
+      },
+      "Main Camera": {
+        "Dual": "8 MP, AF\n\n2 MP",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "5 MP",
+        "Video": "720p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n",
+        "Bluetooth": "4.2, A2DP, LE",
+        "Positioning": "GPS",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity"
+      },
+      "Battery": {
+        "Type": "Li-Po 3000 mAh, removable",
+        "Charging": "10W wired"
+      },
+      "Misc": {
+        "Colors": "Blue",
+        "Price": "About 140 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-2-v-tella.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_2_v_tella-pictures-10547.php"
+    }
+  }
+}

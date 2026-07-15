@@ -1,0 +1,92 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia X6 8GB (2010)",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-x6-8gb-all.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-x6-8gb.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/nokia_x6-review-439.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2010, July",
+    "dimensions": "122g, 13.8mm thickness",
+    "os": "Symbian 9.4, Series 60 rel. 5",
+    "storage": "8GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 900 / 1900 / 2100",
+        "Speed": "HSPA 3.6/0.384 Mbps"
+      },
+      "Launch": {
+        "Announced": "2010, June. Released 2010, July",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "111 x 51 x 13.8 mm (4.37 x 2.01 x 0.54 in)",
+        "Weight": "122 g (4.30 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT",
+        "Size": "3.2 inches, 28.2 cm<sup>2</sup> (~49.9% screen-to-body ratio)",
+        "Resolution": "360 x 640 pixels, 16:9 ratio (~229 ppi density)",
+        "Protection": "Corning Gorilla Glass"
+      },
+      "Platform": {
+        "OS": "Symbian 9.4, Series 60 rel. 5",
+        "CPU": "434 MHz ARM 11"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "8GB 128MB RAM"
+      },
+      "Main Camera": {
+        "Single": "5 MP, AF",
+        "Features": "Carl Zeiss optics, Dual-LED flash, video light",
+        "Video": "480p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g, UPnP",
+        "Bluetooth": "2.1, A2DP",
+        "Positioning": "GPS, A-GPS; Ovi Maps 3.0",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity",
+        "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash Lite",
+        "Features": "WMV/RV/MP4/3GP player\n\nMP3/WMA/WAV/RA/AAC/M4A player\n\nOrganizer\n\nPhoto/video editor\n\nVoice command/dial\n\nTV-out\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1320 mAh battery (BL-5J)",
+        "Stand-by": "Up to 420 h (2G) / Up to 450 h (3G)",
+        "Talk time": "Up to 11 h 30 min (2G) / Up to 6 h (3G)",
+        "Music play": "Up to 35 h"
+      },
+      "Misc": {
+        "Colors": "Azure, Black,  Amethyst",
+        "SAR": "1.31 W/kg (head) &nbsp; &nbsp; 1.13 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "1.11 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 70 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-x6-8gb-all.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-x6-black.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_x6_8gb_(2010)-pictures-3397.php"
+    }
+  }
+}

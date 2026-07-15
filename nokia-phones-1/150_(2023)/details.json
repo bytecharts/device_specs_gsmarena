@@ -1,0 +1,91 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 150 (2023)",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-150-2023-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-150-2023.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2023, September",
+    "dimensions": "106.3g, 15.2mm thickness",
+    "os": "Feature phone",
+    "storage": "4MB storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2023, August 10",
+        "Status": "Available. Released 2023, September"
+      },
+      "Body": {
+        "Dimensions": "131 x 50.6 x 15.2 mm (5.16 x 1.99 x 0.60 in)",
+        "Weight": "106.3 g (3.63 oz)",
+        "SIM": "Dual SIM (Mini-SIM, dual stand-by)",
+        "Features": "Flashlight\n\nSplash &amp; dust resistant"
+      },
+      "Display": {
+        "Type": "TFT LCD, 65K colors",
+        "Size": "2.4 inches, 17.8 cm<sup>2</sup> (~26.9% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "microSDHC",
+        "Phonebook": "2000 entries",
+        "Call records": "Yes",
+        "Internal": "4MB"
+      },
+      "Main Camera": {
+        "Single": "VGA",
+        "Features": "LED flash",
+        "Video": ""
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "NFC": "No",
+        "Radio": "FM radio; built-in antenna",
+        "USB": "microUSB 1.1"
+      },
+      "Features": {
+        "Sensors": "No",
+        "Messaging": "SMS",
+        "Games": "Yes",
+        "Java": "No",
+        "Features": "MP3 player"
+      },
+      "Battery": {
+        "Type": "Li-Ion 1450 mAh, removable"
+      },
+      "Misc": {
+        "Colors": "Black, Cyan, Red",
+        "Price": "About 60 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-150-2023-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-150-2023-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-150-2023-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_150_(2023)-pictures-12465.php"
+    }
+  }
+}

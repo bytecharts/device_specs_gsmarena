@@ -1,0 +1,95 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia E61i",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-e61i-00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-e61i.gif"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/nokia_e61i-review-142.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2007, February",
+    "dimensions": "150g, 13.9mm thickness",
+    "os": "Symbian OS 9.1, Series 60 v3.0 UI",
+    "storage": "60MB 64MB RAM storage, microSD slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / UMTS</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "UMTS 2100",
+        "Speed": "Yes, 384 kbps"
+      },
+      "Launch": {
+        "Announced": "2007, February",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "117 x 70 x 13.9 mm, 97 cc (4.61 x 2.76 x 0.55 in)",
+        "Weight": "150 g (5.29 oz)",
+        "Keyboard": "QWERTY",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 16M colors",
+        "Size": "2.8 inches, 24.3 cm<sup>2</sup> (~29.6% screen-to-body ratio)",
+        "Resolution": "320 x 240 pixels, 4:3 ratio (~143 ppi density)",
+        "Features": "Five-way scroll key"
+      },
+      "Platform": {
+        "OS": "Symbian OS 9.1, Series 60 v3.0 UI",
+        "CPU": "220 MHz Dual ARM 9"
+      },
+      "Memory": {
+        "Card slot": "microSD (dedicated slot)",
+        "Internal": "60MB 64MB RAM"
+      },
+      "Main Camera": {
+        "Single": "2 MP",
+        "Video": "CIF"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "Alert types": "Vibration; Downloadable polyphonic, monophonic, MP3 ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11b/g",
+        "Bluetooth": "1.2",
+        "Positioning": "No",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "Pop-Port 2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Browser": "WAP 2.0/xHTML, HTML",
+        "Features": "MP3/AAC/MP4 player\n\nDocument viewer (Word, Excel, PowerPoint, PDF)\n\nBlackberry connectivity\n\nPush to talk\n\nVoice command/dial\n\nOrganizer\n\nPrinting"
+      },
+      "Battery": {
+        "Type": "Removable Li-Po 1500 mAh battery (BP-4L)",
+        "Stand-by": "Up to 400 h (2G) / 456 h (3G)",
+        "Talk time": "Up to 9 h (2G) / 5 h (3G)"
+      },
+      "Misc": {
+        "Colors": "Silver, Mocca",
+        "SAR": "1.12 W/kg (head) &nbsp; &nbsp; 0.81 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.57 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 200 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-e61i-00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_e61i-pictures-1858.php"
+    }
+  }
+}

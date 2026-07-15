@@ -1,0 +1,99 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia G22",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-g22-2023-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-g22-2023.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/handson_nokia_c32_nokia_c22_nokia_g22_at_mwc_2023-news-57738.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2023, February 25",
+    "dimensions": "196.2g, 8.5mm thickness",
+    "os": "Android 12",
+    "storage": "64GB/128GB/256GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "1, 3, 5, 7, 8, 20, 28, 38, 39, 40, 41",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2023, February 25",
+        "Status": "Available. Released 2023, February 25"
+      },
+      "Body": {
+        "Dimensions": "165 x 76.2 x 8.5 mm (6.50 x 3.00 x 0.33 in)",
+        "Weight": "196.2 g (6.91 oz)",
+        "Build": "Glass front (Gorilla Glass 3), plastic frame, plastic back",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "Dust and splash resistant\n\nQuickFix user-reparable design"
+      },
+      "Display": {
+        "Type": "IPS LCD, 90Hz, 500 nits (typ)",
+        "Size": "6.5 inches, 102.0 cm<sup>2</sup> (~81.1% screen-to-body ratio)",
+        "Resolution": "720 x 1600 pixels, 20:9 ratio (~270 ppi density)",
+        "Protection": "Corning Gorilla Glass 3"
+      },
+      "Platform": {
+        "OS": "Android 12",
+        "Chipset": "Unisoc T606 (12 nm)",
+        "CPU": "Octa-core (2x1.6 GHz Cortex-A75 &amp; 6x1.6 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MP1"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (uses shared SIM slot)",
+        "Internal": "64GB 4GB RAM, 128GB 4GB RAM, 256GB 6GB RAM",
+        "Features": "UFS 2.2"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, f/1.8, (wide), 1/2.76\", 0.64µm, PDAF\n\n2 MP (macro)\n\nAuxiliary lens",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, f/2.0, (wide)",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO",
+        "NFC": "Yes (market/region dependent)",
+        "Radio": "FM radio, RDS",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, proximity"
+      },
+      "Battery": {
+        "Type": "Li-Po 5050 mAh",
+        "Charging": "20W wired, PD3.0"
+      },
+      "Misc": {
+        "Colors": "Lagoon Blue, Meteor Gray, So Peach",
+        "Price": "About 120 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-g22-2023-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-g22-2023-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-g22-2024-so-orange.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-g22-2023-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_g22-pictures-12137.php"
+    }
+  }
+}

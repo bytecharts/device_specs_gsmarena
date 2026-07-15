@@ -1,0 +1,102 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia N96",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia_n96_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-n96.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/nokia_n96-review-286.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2008, September",
+    "dimensions": "125g, 18mm thickness",
+    "os": "Symbian OS 9.3, S60 rel. 3.2",
+    "storage": "16GB storage, microSDHC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 900 / 2100",
+        "Speed": "HSPA 3.6/0.384 Mbps",
+        "Features": "HSDPA 850 / 1900 - American version"
+      },
+      "Launch": {
+        "Announced": "2008, February. Released 2008, September",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "103 x 55 x 18 mm, 92 cc (4.06 x 2.17 x 0.71 in)",
+        "Weight": "125 g (4.41 oz)",
+        "SIM": "Mini-SIM",
+        "Features": "Dual slide design\n\nBuilt-in kickstand"
+      },
+      "Display": {
+        "Type": "TFT, 16M colors",
+        "Size": "2.8 inches, 24.3 cm<sup>2</sup> (~42.9% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)"
+      },
+      "Platform": {
+        "OS": "Symbian OS 9.3, S60 rel. 3.2",
+        "CPU": "264 MHz Dual ARM 9"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Internal": "16GB 128MB RAM"
+      },
+      "Main Camera": {
+        "Single": "5 MP, AF",
+        "Features": "Carl Zeiss optics, LED flash",
+        "Video": "480p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "VGA videocall camera",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "Alert types": "Vibration, MP3, WAV ringtones",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g, UPnP technology",
+        "Bluetooth": "2.0, A2DP",
+        "Positioning": "GPS, A-GPS; Nokia Maps",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer",
+        "Browser": "WAP 2.0/xHTML, HTML, RSS reader",
+        "Features": "DVB-H TV broadcast receiver\n\nWMV/RV/MP4/3GP player\n\nMP3/WMA/WAV/RA/AAC/M4A player\n\nTV-out\n\nOrganizer\n\nDocument viewer (Word, Excel, PowerPoint, PDF)\n\nPredictive text input\n\nPush to talk \n\nVoice dial/memo"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 950 mAh battery (BL-5F)",
+        "Stand-by": "Up to 220 h (2G) / 192 h (3G)",
+        "Talk time": "Up to 3 h 40 min (2G) / 2 h 36 min (3G)",
+        "Music play": "Up to 14 h"
+      },
+      "Misc": {
+        "Colors": "Black, Silver, Quartz",
+        "SAR": "0.68 W/kg (head) &nbsp; &nbsp; 0.89 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.82 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 220 EUR"
+      },
+      "Our Tests": {
+        "Loudspeaker": "<a class=\"noUnd\" href=\"nokia_n96-review-286p4.php\">Voice 73dB / Noise 76dB / Ring 78dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"nokia_n96-review-286p5.php#aq\">Noise -90.6dB / Crosstalk -73.5dB</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia_n96_00.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-n96-10.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_n96-pictures-2253.php"
+    }
+  }
+}

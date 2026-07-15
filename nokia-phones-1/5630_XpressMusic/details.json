@@ -1,0 +1,101 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 5630 XpressMusic",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-5630-e-2.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-5630-e.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/nokia_5630_xpressmusic-review-370.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2009, June",
+    "dimensions": "83g, 12mm thickness",
+    "os": "Symbian, S60 rel. 3.2",
+    "storage": "60MB 128MB RAM storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 2100 / 900",
+        "Speed": "HSPA 10.2/2 Mbps"
+      },
+      "Launch": {
+        "Announced": "2009, February. Released 2009, June",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "112 x 46 x 12 mm (4.41 x 1.81 x 0.47 in)",
+        "Weight": "83 g (2.93 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 16M colors",
+        "Size": "2.2 inches, 15.0 cm<sup>2</sup> (~29.1% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~182 ppi density)"
+      },
+      "Platform": {
+        "OS": "Symbian, S60 rel. 3.2",
+        "CPU": "600 MHz ARM 11"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot), 4 GB included",
+        "Internal": "60MB 128MB RAM"
+      },
+      "Main Camera": {
+        "Single": "3.15 MP",
+        "Features": "LED flash",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Single": "VGA videocall camera",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes",
+        "Features": "Dedicated music keys"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g, UPnP technology",
+        "Bluetooth": "2.0, A2DP",
+        "Positioning": "No",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Browser": "WAP 2.0/xHTML",
+        "Features": "WMV/RV/MP4/3GP player\n\nMP3/WMA/WAV/RA/AAC/M4A player\n\nVoice memo\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 860 mAh battery (BL-4CT)",
+        "Stand-by": "Up to 400 h (2G) / 408 h (3G)",
+        "Talk time": "Up to 7 h (2G) / 4 h (3G)",
+        "Music play": "Up to 25 h"
+      },
+      "Misc": {
+        "Colors": "Red on black, Blue on grey, Chrome on grey",
+        "SAR": "1.17 W/kg (head) &nbsp; &nbsp; 0.56 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "1.17 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 120 EUR"
+      },
+      "Our Tests": {
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=2670&amp;nSuggest=1\">Photo</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"nokia_5630_xpressmusic-review-370p3.php\">Voice 68dB / Noise 65dB / Ring 76dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"nokia_5630_xpressmusic-review-370p5.php#aq\">Noise -94.0dB / Crosstalk -97.3dB</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-5630-e-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-5630-e-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_5630_xpressmusic-pictures-2670.php"
+    }
+  }
+}

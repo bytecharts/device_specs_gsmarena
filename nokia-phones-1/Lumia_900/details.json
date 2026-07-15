@@ -1,0 +1,103 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia Lumia 900",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-lumia-900-white.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-lumia-900-white.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/nokia_lumia_900-review-782.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2012, May",
+    "dimensions": "160g, 11.5mm thickness",
+    "os": "Microsoft Windows Phone 7.5 Mango",
+    "storage": "16GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "Speed": "HSPA 42.2/5.76 Mbps"
+      },
+      "Launch": {
+        "Announced": "2012, February. Released 2012, May",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "127.8 x 68.5 x 11.5 mm, 90 cc (5.03 x 2.70 x 0.45 in)",
+        "Weight": "160 g (5.64 oz)",
+        "SIM": "Micro-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED",
+        "Size": "4.3 inches, 52.6 cm<sup>2</sup> (~60.1% screen-to-body ratio)",
+        "Resolution": "480 x 800 pixels, 5:3 ratio (~217 ppi density)",
+        "Protection": "Corning Gorilla Glass",
+        "Features": "Nokia ClearBlack display"
+      },
+      "Platform": {
+        "OS": "Microsoft Windows Phone 7.5 Mango",
+        "Chipset": "Qualcomm APQ8055 Snapdragon S2",
+        "CPU": "1.4 GHz Scorpion",
+        "GPU": "Adreno 205"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "16GB 512MB RAM"
+      },
+      "Main Camera": {
+        "Single": "8 MP, AF",
+        "Features": "Carl Zeiss optics, dual-LED flash",
+        "Video": "720p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "1 MP",
+        "Video": "VGA@15fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n",
+        "Bluetooth": "2.1, A2DP, EDR",
+        "Positioning": "GPS, A-GPS, GLONASS",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, proximity, compass",
+        "Features": "MP3/WAV/eAAC+/WMA player\n\nMP4/H.264/WMV player\n\nDocument viewer/editor\n\nVideo/photo editor"
+      },
+      "Battery": {
+        "Type": "Non-removable Li-Ion 1830 mAh battery (BP-6EW)",
+        "Stand-by": "Up to 300 h (2G) / Up to 300 h (3G)",
+        "Talk time": "Up to 7 h (2G) / Up to 7 h (3G)",
+        "Music play": "Up to 60 h"
+      },
+      "Misc": {
+        "Colors": "Black, cyan, white, magenta",
+        "SAR": "1.29 W/kg (head) &nbsp; &nbsp; 0.95 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "1.33 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 160 EUR"
+      },
+      "Our Tests": {
+        "Display": "<a class=\"noUnd\" href=\"nokia_lumia_900-review-782p2.php\">Contrast ratio: Infinite (nominal) / 2.562:1 (sunlight)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=4578&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=4578&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"nokia_lumia_900-review-782p4.php\">Voice 70dB / Noise 68dB / Ring 75dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 4578); \">Endurance rating 38h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-lumia-900-white.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_lumia_900-pictures-4578.php"
+    }
+  }
+}
