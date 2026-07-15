@@ -1,0 +1,89 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 110 Power",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-110-power-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-110-power.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2026, February",
+    "dimensions": "88g, 14.2mm thickness",
+    "os": "Feature phone",
+    "storage": "4MB 4MB RAM storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "Yes",
+        "EDGE": "Yes"
+      },
+      "Launch": {
+        "Announced": "2026, February",
+        "Status": "Available. Released 2026, February"
+      },
+      "Body": {
+        "Dimensions": "117.7 x 50 x 14.2 mm (4.63 x 1.97 x 0.56 in)",
+        "Weight": "88 g (3.10 oz)",
+        "SIM": "Dual SIM (Mini-SIM, dual stand-by)"
+      },
+      "Display": {
+        "Type": "TFT",
+        "Size": "2.0 inches, 12.4 cm<sup>2</sup> (~21.0% screen-to-body ratio)",
+        "Resolution": "120 x 160 pixels, 4:3 ratio (~100 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "microSDHC",
+        "Phonebook": "Yes",
+        "Call records": "Yes",
+        "Internal": "4 MB 4 MB RAM"
+      },
+      "Main Camera": {
+        "No": "QVGA",
+        "Video": "No"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "NFC": "No",
+        "Radio": "Wireless FM radio",
+        "USB": "microUSB"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS",
+        "Games": "Yes",
+        "Java": "No",
+        "Features": "MP3 player"
+      },
+      "Battery": {
+        "Type": "1750 mAh, removable"
+      },
+      "Misc": {
+        "Colors": "Gray, Blue, Purple",
+        "Price": "About 20 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-110-power-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-110-power-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-110-power-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_110_power-pictures-14481.php"
+    }
+  }
+}

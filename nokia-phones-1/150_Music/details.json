@@ -1,0 +1,91 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 150 Music",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-150-music-2025-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-150-music-2025.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2025, March",
+    "dimensions": "83.1g, 14.8mm thickness",
+    "os": "Feature phone",
+    "storage": "8MB 8MB RAM storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2025, March 02",
+        "Status": "Available. Released 2025, March"
+      },
+      "Body": {
+        "Dimensions": "130.5 x 52.9 x 14.8 mm (5.14 x 2.08 x 0.58 in)",
+        "Weight": "83.1 g (2.93 oz)",
+        "SIM": "Dual SIM (Mini-SIM, dual stand-by)",
+        "Features": "IP54 dust protected and water resistant (water splashes) - EU only"
+      },
+      "Display": {
+        "Type": "TN TFT",
+        "Size": "2.4 inches, 17.8 cm<sup>2</sup> (~25.8% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "Platform": {
+        "Chipset": "Unisoc 6531F"
+      },
+      "Memory": {
+        "Card slot": "microSDHC",
+        "Phonebook": "Yes",
+        "Call records": "Yes",
+        "Internal": "8MB 8MB RAM"
+      },
+      "Main Camera": {
+        "Single": "QVGA",
+        "Features": "LED flash",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "5.0, A2DP",
+        "Positioning": "No",
+        "NFC": "No",
+        "Radio": "Unspecified",
+        "USB": "USB Type-C 1.1"
+      },
+      "Features": {
+        "Sensors": "No",
+        "Messaging": "SMS",
+        "Games": "Yes",
+        "Java": "No",
+        "Features": "MP3 player"
+      },
+      "Battery": {
+        "Type": "2500 mAh, removable"
+      },
+      "Misc": {
+        "Colors": "Blue, Gray, Violet"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-150-music-2025-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_150_music-pictures-13688.php"
+    }
+  }
+}
