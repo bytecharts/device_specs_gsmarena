@@ -1,0 +1,94 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung C3322",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-c3322-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-c3322.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2011, April",
+    "dimensions": "89g, 13.9mm thickness",
+    "os": "Feature phone",
+    "storage": "45MB storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1",
+        "GPRS": "Class 10",
+        "EDGE": "Class 10",
+        "Features": "GSM 850 / 900 / 1800 / 1900 - SIM 2"
+      },
+      "Launch": {
+        "Announced": "2011, April. Released 2011, April",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "114 x 48 x 13.9 mm (4.49 x 1.89 x 0.55 in)",
+        "Weight": "89 g (3.14 oz)",
+        "SIM": "Dual SIM (Mini-SIM, dual stand-by)"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "2.2 inches, 15.0 cm<sup>2</sup> (~27.4% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~182 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Phonebook": "Yes, up to 1000 entries",
+        "Call records": "Yes",
+        "Internal": "45MB"
+      },
+      "Main Camera": {
+        "Single": "2 MP",
+        "Video": "QCIF@15fps"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.1, A2DP, EDR",
+        "Positioning": "No",
+        "Radio": "FM radio, recording",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS, Email, Push Email",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "Yes",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "SNS integration\n\nMP3/AAC+ player\n\nMP4/H.263 player\n\nOrganizer\n\nVoice memo\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1000 mAh battery",
+        "Stand-by": "Up to 660 h",
+        "Talk time": "Up to 12 h"
+      },
+      "Misc": {
+        "Colors": "Black, La Fleur",
+        "SAR": "0.50 W/kg (head) &nbsp; &nbsp; 0.57 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.91 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 70 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-c3322-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/Samsung-La-Fleur-C3322.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-c3322-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_c3322-pictures-3941.php"
+    }
+  }
+}

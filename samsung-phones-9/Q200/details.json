@@ -1,0 +1,80 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Q200",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ssq200.gif",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/ssq200.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2002",
+    "dimensions": "90g, 20mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "Class 8",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2002",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "85 x 48 x 20 mm (3.35 x 1.89 x 0.79 in)",
+        "Weight": "90 g (3.17 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "Grayscale graphic, 4 shades",
+        "Size": "",
+        "Resolution": "128 x 128 pixels, 1:1 ratio",
+        "Features": "Second external display 3 lines\n\nFour way navigation keys \n\nDynamic font size\n\nSoftkeys"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "100 entries, contact groups",
+        "Call records": "10 dialed, 10 received, 10 missed calls",
+        "Features": "20 voice dial items\n\nMessage templates"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Monophonic ringtones, composer",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS",
+        "Browser": "WAP 1.1",
+        "Clock": "Yes",
+        "Alarm": "Yes",
+        "Games": "Yes",
+        "Java": "No",
+        "Features": "Voice commands and dial\n\nOrganizer\n\nSpeed dial\n\nMenu shortcuts\n\nWorld clock"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 650 mAh battery"
+      },
+      "Misc": {
+        "Colors": ""
+      }
+    }
+  }
+}

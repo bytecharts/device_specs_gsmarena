@@ -1,0 +1,88 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung U320 Haven",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-u320-heaven-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-u320-heaven.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2010, July",
+    "dimensions": "99g, 18mm thickness",
+    "os": "Feature phone",
+    "storage": "24MB 16MB RAM 64MB ROM storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">CDMA / CDMA2000</a>",
+        "2G bands": "CDMA 800 / 1900",
+        "3G bands": "CDMA2000 1x",
+        "Speed": "Yes, 384 kbps"
+      },
+      "Launch": {
+        "Announced": "2010, July. Released 2010, July",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "100 x 51 x 18 mm (3.94 x 2.01 x 0.71 in)",
+        "Weight": "99 g (3.49 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 65K colors",
+        "Size": "2.2 inches, 15.2 cm<sup>2</sup> (~29.9% screen-to-body ratio)",
+        "Resolution": "176 x 220 pixels (~128 ppi density)",
+        "Features": "External 1\" 56K display (CSTN, 96x96 pixels)"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "500 entries",
+        "Call records": "Yes",
+        "Internal": "24MB 16MB RAM 64MB ROM"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No",
+        "Features": "2.5 mm audio jack"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "E911 call only",
+        "Radio": "No",
+        "USB": "microUSB"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS",
+        "Browser": "WAP 2.0/xHTML, HTML",
+        "Games": "Yes",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "MP3/AAC player\n\nMP4/H.263 player\n\nOrganizer\n\nVoice memo/dial\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1000 mAh battery",
+        "Stand-by": "Up to 336 h",
+        "Talk time": "Up to 5 h"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "SAR": "0.41 W/kg (head) &nbsp; &nbsp; 0.67 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 90 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-u320-heaven-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_u320_haven-pictures-3433.php"
+    }
+  }
+}

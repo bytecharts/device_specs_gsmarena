@@ -1,0 +1,91 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung S730i",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-s730i-01.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-s730.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2007, October",
+    "dimensions": "83g, 14.8mm thickness",
+    "os": "Feature phone",
+    "storage": "80MB storage, microSD slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "GPRS": "Yes",
+        "EDGE": "Yes"
+      },
+      "Launch": {
+        "Announced": "2007, July. Released 2007, October",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "100 x 50 x 14.8 mm (3.94 x 1.97 x 0.58 in)",
+        "Weight": "83 g (2.93 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "2.0 inches, 12.6 cm<sup>2</sup> (~25.2% screen-to-body ratio)",
+        "Resolution": "176 x 220 pixels (~141 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "microSD (dedicated slot)",
+        "Phonebook": "1000 entries, Photocall",
+        "Call records": "30 dialed, 30 received, 30 missed calls",
+        "Internal": "80MB"
+      },
+      "Main Camera": {
+        "Single": "2 MP",
+        "Features": "LED flash",
+        "Video": "320p"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.0, A2DP",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": "2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, EMS, MMS, Email",
+        "Browser": "i-mode",
+        "Games": "Yes + downloadable",
+        "Java": "Yes, DoJa 2.5",
+        "Features": "MP3/AAC/ACC+ player\n\nPredictive text input\n\nPhoto editor\n\nOrganizer\n\nVoice memo"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 800 mAh battery",
+        "Stand-by": "Up to 200 h",
+        "Talk time": "Up to 6 h"
+      },
+      "Misc": {
+        "Colors": "Silver",
+        "SAR EU": "0.47 W/kg (head) &nbsp; &nbsp;"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-s730i-01.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_s730i-pictures-2034.php"
+    }
+  }
+}

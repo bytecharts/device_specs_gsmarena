@@ -1,0 +1,91 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Focus Flash I677",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-focus-flash.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-focus-flash.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_focus_flash-review-674.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2011, November",
+    "dimensions": "116.2g, 11mm thickness",
+    "os": "Microsoft Windows Phone 7.5 Mango",
+    "storage": "8GB 512MB RAM storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 1900 / 2100",
+        "Speed": "HSPA 14.4/5.76 Mbps"
+      },
+      "Launch": {
+        "Announced": "2011, September. Released 2011, November",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "116.1 x 58.7 x 11 mm (4.57 x 2.31 x 0.43 in)",
+        "Weight": "116.2 g (4.09 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "Super AMOLED",
+        "Size": "3.7 inches, 39.0 cm<sup>2</sup> (~57.2% screen-to-body ratio)",
+        "Resolution": "480 x 800 pixels, 5:3 ratio (~252 ppi density)"
+      },
+      "Platform": {
+        "OS": "Microsoft Windows Phone 7.5 Mango",
+        "CPU": "1.4 GHz Scorpion"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "8GB 512MB RAM"
+      },
+      "Main Camera": {
+        "Single": "5 MP, AF",
+        "Features": "LED flash",
+        "Video": "720p"
+      },
+      "Selfie camera": {
+        "Single": "Yes",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n",
+        "Bluetooth": "2.1, A2DP, EDR",
+        "Positioning": "GPS, A-GPS",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity, compass",
+        "Features": "Document viewer/editor\n\nMP4/H.264/WMV player\n\nMP3/WAV/WMA/eAAC+ player"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1500 mAh battery",
+        "Stand-by": "Up to 250 h",
+        "Talk time": "Up to 6 h 30 min"
+      },
+      "Misc": {
+        "Colors": "Dark Gray",
+        "SAR": "0.35 W/kg (head) &nbsp; &nbsp; 0.93 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 80 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-focus-flash.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_focus_flash_i677-pictures-4159.php"
+    }
+  }
+}

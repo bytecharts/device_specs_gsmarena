@@ -1,0 +1,113 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Sony Xperia Z3 Compact",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/sony/sony-xperia-z3-compact-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/sony-xperia-z3-compact.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/sony_xperia_z3_compact-review-1135.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2014, September",
+    "dimensions": "129g, 8.6mm thickness",
+    "os": "Android 4.4.4, up to 6.0",
+    "storage": "16GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700 / 1900 / 2100 - D5803",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 13, 17, 20 - D5803",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+        "Features": "HSDPA 850 / 900 / 1900 / 2100 - D5833\n1, 3, 5, 7, 8, 28, 40 - D5833"
+      },
+      "Launch": {
+        "Announced": "2014, September. Released 2014, September",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "127.3 x 64.9 x 8.6 mm (5.01 x 2.56 x 0.34 in)",
+        "Weight": "129 g (4.55 oz)",
+        "Build": "Glass front, glass back, plastic frame",
+        "SIM": "Nano-SIM",
+        "Features": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "4.6 inches, 58.3 cm<sup>2</sup> (~70.6% screen-to-body ratio)",
+        "Resolution": "720 x 1280 pixels, 16:9 ratio (~319 ppi density)",
+        "Protection": "Shatter proof glass",
+        "Features": "Triluminos display\n\nX-Reality Engine"
+      },
+      "Platform": {
+        "OS": "Android 4.4.4 (KitKat), upgradable to 6.0 (Marshmallow)",
+        "Chipset": "Qualcomm MSM8974AC Snapdragon 801 (28 nm)",
+        "CPU": "Quad-core 2.5 GHz Krait 400",
+        "GPU": "Adreno 330"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "16GB 2GB RAM",
+        "Features": "eMMC 5.0"
+      },
+      "Main Camera": {
+        "Single": "20.7 MP, f/2.0, 25mm (wide), 1/2.3\", 1.12µm, AF",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "4K@30fps,1080p@60fps, 720p@120fps, HDR"
+      },
+      "Selfie camera": {
+        "Single": "2.2 MP, f/2.8",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA, hotspot",
+        "Bluetooth": "4.0, A2DP, LE, aptX",
+        "Positioning": "GPS, GLONASS",
+        "NFC": "Yes",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": "microUSB 2.0 (MHL TV-out), OTG, magnetic connector"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, proximity, compass, barometer",
+        "Features": "ANT+"
+      },
+      "Battery": {
+        "Type": "Li-Ion 2600 mAh, non-removable",
+        "Charging": "18W wired, QC2",
+        "Stand-by": "Up to 880 h (2G) / Up to 920 h (3G)",
+        "Talk time": "Up to 12 h (2G) / Up to 14 h (3G)",
+        "Music play": "Up to 110 h"
+      },
+      "Misc": {
+        "Colors": "Black, White, Green, Orange",
+        "Models": "D5803, D5833, SO-02G",
+        "SAR": "0.95 W/kg (head) &nbsp; &nbsp; 1.10 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.69 W/kg (head) &nbsp; &nbsp; 0.90 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 300 EUR"
+      },
+      "Our Tests": {
+        "Performance": "Basemark X: 12080",
+        "Display": "<a class=\"noUnd\" href=\"sony_xperia_z3_compact-review-1135p3.php\">Contrast ratio: 942:1 (nominal), 2.616 (sunlight)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=6538&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=6538&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"sony_xperia_z3_compact-review-1135p6.php\">Voice 65dB / Noise 62dB / Ring 73dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"sony_xperia_z3_compact-review-1135p7.php\">Noise -85.2dB / Crosstalk -85.3dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 6538); \">Endurance rating 101h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/sony/sony-xperia-z3-compact-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/sony_xperia_z3_compact-pictures-6538.php"
+    }
+  }
+}

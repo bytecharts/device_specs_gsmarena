@@ -1,0 +1,93 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung A837 Rugby",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-a837-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-a837.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2008, September",
+    "dimensions": "132g, 23mm thickness",
+    "os": "Feature phone",
+    "storage": "128MB storage, microSD slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 1900",
+        "Speed": "HSPA"
+      },
+      "Launch": {
+        "Announced": "2008, September. Released 2008, September",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "100 x 52 x 23 mm (3.94 x 2.05 x 0.91 in)",
+        "Weight": "132 g (4.66 oz)",
+        "SIM": "Mini-SIM",
+        "Features": "MIL-STD-810F compliant salt, dust, humidity, rain, vibration, solar radiation, transport and thermal shock resistant"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "2.0 inches, 12.6 cm<sup>2</sup> (~24.2% screen-to-body ratio)",
+        "Resolution": "176 x 220 pixels (~141 ppi density)",
+        "Features": "External 1\" monochrome display"
+      },
+      "Memory": {
+        "Card slot": "microSD (dedicated slot)",
+        "Phonebook": "1000 entries, Photocall",
+        "Call records": "30 received, dialed and missed calls",
+        "Internal": "128MB"
+      },
+      "Main Camera": {
+        "Single": "1.3 MP",
+        "Video": "176x144@15fps"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.0, A2DP",
+        "Positioning": "A-GPS only; AT&amp;T Navigator",
+        "Radio": "No",
+        "USB": "2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, AMS, MMS, Email, Push Email, IM",
+        "Browser": "WAP/xHTML",
+        "Games": "Yes",
+        "Java": "Yes, MIDP 2.1",
+        "Features": "MP3/WAV/AAC+ player\n\nMP4/H.263 player\n\nOrganizer\n\nPush to Talk\n\nVoice memo\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1000 mAh battery",
+        "Stand-by": "Up to 250 h",
+        "Talk time": "Up to 5 h"
+      },
+      "Misc": {
+        "Colors": "Red on Black, Yellow on Black",
+        "SAR": "0.24 W/kg (head) &nbsp; &nbsp; 0.40 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 130 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-a837-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-a837-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_a837_rugby-pictures-2530.php"
+    }
+  }
+}

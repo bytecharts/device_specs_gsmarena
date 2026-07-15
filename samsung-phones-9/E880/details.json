@@ -1,0 +1,91 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung E880",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-e880-00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-e880.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2005, Q1",
+    "dimensions": "88g, 23mm thickness",
+    "os": "Feature phone",
+    "storage": "80MB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "GPRS": "Class 10",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2005, Q1",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "87 x 43 x 23 mm (3.43 x 1.69 x 0.91 in)",
+        "Weight": "88 g (3.10 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "1.7 inches, 9.1 cm<sup>2</sup> (~24.3% screen-to-body ratio)",
+        "Resolution": "176 x 220 pixels, 9 lines (~166 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "1000 entries, Photo call",
+        "Call records": "20 dialed, 20 received, 20 missed calls",
+        "Internal": "80MB"
+      },
+      "Main Camera": {
+        "Single": "1 MP",
+        "Features": "LED flash",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "1.1",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": "Proprietary"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS, Email",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "Bobby Carrot, Airship Racing, ArchAngel, Freekick + downloadable",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "MP3/AAC player\n\nPredictive text input\n\nSyncML\n\nOrganizer\n\nVoice memo"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 800 mAh battery",
+        "Stand-by": "Up to 200 h",
+        "Talk time": "Up to 5 h"
+      },
+      "Misc": {
+        "Colors": "",
+        "SAR EU": "0.40 W/kg (head) &nbsp; &nbsp;"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-e880-00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_e880-pictures-1143.php"
+    }
+  }
+}

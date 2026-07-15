@@ -1,0 +1,90 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung E3213 Hero",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-hero-e3213.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-hero-e3213.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2011",
+    "dimensions": "80.6g, 13.2mm thickness",
+    "os": "Feature phone",
+    "storage": "36MB storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 900 / 2100",
+        "Speed": "HSPA 3.6/0.384 Mbps"
+      },
+      "Launch": {
+        "Announced": "2011. Released 2011",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "112.8 x 46.4 x 13.2 mm (4.44 x 1.83 x 0.52 in)",
+        "Weight": "80.6 g (2.82 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "2.0 inches, 12.6 cm<sup>2</sup> (~24.1% screen-to-body ratio)",
+        "Resolution": "128 x 160 pixels (~102 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Phonebook": "1000 contacts, Photocall",
+        "Call records": "Yes",
+        "Internal": "36MB"
+      },
+      "Main Camera": {
+        "Single": "VGA",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Single": "Yes",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.1, A2DP",
+        "Positioning": "No",
+        "Radio": "Stereo FM radio, recording",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS, Email, IM",
+        "Games": "Yes + downloadable",
+        "Java": "",
+        "Features": "Mobile TV\n\nSNS applications\n\nMP3/WMA/eAAC+ player\n\nMP4/H.263 player\n\nOrganizer\n\nVoice memo\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 800 mAh battery",
+        "Stand-by": "Up to 550 h (2G) / Up to 330 h (3G)",
+        "Talk time": "Up to 8 h 20 min (2G) / Up to 3 h 20 min (3G)"
+      },
+      "Misc": {
+        "Colors": "Red, Black",
+        "SAR EU": "0.71 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 40 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-hero-e3213.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_e3213_hero-pictures-4030.php"
+    }
+  }
+}

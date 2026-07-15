@@ -1,0 +1,93 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung E850",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/sse850_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/sse850.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2004, Q4",
+    "dimensions": "85g, 23mm thickness",
+    "os": "Feature phone",
+    "storage": "9MB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "Class 8",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2004, Q4",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "90 x 44 x 23 mm (3.54 x 1.73 x 0.91 in)",
+        "Weight": "85 g (3.00 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 65K colors",
+        "Size": "1.7 inches, 9.1 cm<sup>2</sup> (~23.0% screen-to-body ratio)",
+        "Resolution": "128 x 160 pixels, 10 lines (~121 ppi density)",
+        "Features": "Four way navigation keys\n\nWallpapers"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "2000 entries, Photo call",
+        "Call records": "20 dialed, 20 received, 20 missed calls",
+        "Internal": "9MB",
+        "Features": "java: 512 KB \n\ntones and pictures: 716 KB \n\nphoto: 4096 KB \n\nvideo: 2048 KB"
+      },
+      "Main Camera": {
+        "Single": "VGA, pop-out rotating lens",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Downloadable polyphonic ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "4 + downloadable",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "Predictive text input\n\nOrganizer\n\nStopwatch\n\nVoice memo"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 800 mAh battery",
+        "Stand-by": "Up to 220 h",
+        "Talk time": "Up to 4 h 30 min"
+      },
+      "Misc": {
+        "Colors": "Dark blue",
+        "SAR EU": "0.48 W/kg (head) &nbsp; &nbsp;"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/sse850_00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_e850-pictures-964.php"
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy Note I717",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-note-i717-ofic.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-note-lte-new.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_galaxy_note_i717-review-718.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2012, January",
+    "dimensions": "178g, 9.7mm thickness",
+    "os": "Android 2.3, up to 4.0, TouchWiz UI",
+    "storage": "16GB storage, microSDHC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 1900 / 2100",
+        "4G bands": "4, 17",
+        "Speed": "HSPA 21.1/5.76 Mbps, LTE"
+      },
+      "Launch": {
+        "Announced": "2012, January. Released 2012, January",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "146.8 x 83 x 9.7 mm (5.78 x 3.27 x 0.38 in)",
+        "Weight": "178 g (6.28 oz)",
+        "SIM": "Mini-SIM",
+        "Features": "Stylus"
+      },
+      "Display": {
+        "Type": "Super AMOLED",
+        "Size": "5.3 inches, 81.4 cm<sup>2</sup> (~66.8% screen-to-body ratio)",
+        "Resolution": "800 x 1280 pixels, 16:10 ratio (~285 ppi density)",
+        "Protection": "Corning Gorilla Glass"
+      },
+      "Platform": {
+        "OS": "Android 2.3 (Gingerbread), upgradable to 4.0 (Ice Cream Sandwich), TouchWiz UI",
+        "Chipset": "Qualcomm MSM8660 Snapdragon S3",
+        "CPU": "Dual-core 1.5 GHz Scorpion",
+        "GPU": "Adreno 220"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Internal": "16GB 1GB RAM"
+      },
+      "Main Camera": {
+        "Single": "8 MP, AF",
+        "Features": "LED flash",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "2 MP",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, DLNA, hotspot",
+        "Bluetooth": "3.0, A2DP, EDR",
+        "Positioning": "GPS, A-GPS, GLONASS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "microUSB 2.0 (MHL TV-out), OTG"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, proximity, compass, barometer",
+        "Features": "MP4/DivX/XviD/WMV/H.264 player\n\nMP3/WAV/eAAC+/AC3/FLAC player\n\nPhoto/video editor\n\nDocument editor"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 2500 mAh battery",
+        "Stand-by": "Up to 252 h",
+        "Talk time": "10 h"
+      },
+      "Misc": {
+        "Colors": "Carbon Blue, Ceramic White",
+        "SAR": "0.41 W/kg (head) &nbsp; &nbsp; 1.43 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.16 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 350 EUR"
+      },
+      "Our Tests": {
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 4374); \">Endurance rating 40h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-note-i717-ofic.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_note_i717-pictures-4374.php"
+    }
+  }
+}

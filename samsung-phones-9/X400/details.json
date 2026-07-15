@@ -1,0 +1,90 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung X400",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/sax400_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/ssx400.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2003, Q2",
+    "dimensions": "90g, 20mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "GPRS": "Class 8",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2003, Q2",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "86 x 46 x 20 mm (3.39 x 1.81 x 0.79 in)",
+        "Weight": "90 g (3.17 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 65K colors",
+        "Size": "",
+        "Resolution": "128 x 160 pixels, 7 lines",
+        "Features": "Second external monochrome display  (96 x 64 pixels)\n\nTwo four way navigation keys"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "500 x 6 fields, contact groups",
+        "Call records": "10 dialed, 10 received, 10 missed calls",
+        "Features": "50 short messages\n\nMessage templates"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Downloadable polyphonic ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Infrared port": "Yes",
+        "Radio": "FM radio",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, EMS",
+        "Browser": "WAP 1.2.1",
+        "Clock": "Yes",
+        "Alarm": "Yes",
+        "Games": "4 - BubbleSmile, Fun2Link, Golf, MobileChess + Java",
+        "Java": "Yes",
+        "Features": "Predictive text input\n\nOrganizer\n\nSpeed dial\n\nMenu shortcuts\n\nWorld clock"
+      },
+      "Battery": {
+        "Type": "Standard battery, Li-Ion 900 mAh",
+        "Stand-by": "Up to 380 h",
+        "Talk time": "Up to 5 h"
+      },
+      "Misc": {
+        "Colors": "4 -Deep Blue, Yellow Green, Dark Violet, Caramel Orange",
+        "SAR EU": "0.60 W/kg (head) &nbsp; &nbsp;"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/sax400_00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_x400-pictures-436.php"
+    }
+  }
+}

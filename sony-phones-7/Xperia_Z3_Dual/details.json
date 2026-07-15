@@ -1,0 +1,101 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Sony Xperia Z3 Dual",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/sony/sony-xperia-z3-01.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/sony-xperia-z3.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/sony_ifa_2014-review-1127.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2014, September",
+    "dimensions": "152g, 7.3mm thickness",
+    "os": "Android 4.4.4, up to 6.0",
+    "storage": "16GB/32GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700 / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 17, 20",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "Launch": {
+        "Announced": "2014, September. Released 2014, September",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "146 x 72 x 7.3 mm (5.75 x 2.83 x 0.29 in)",
+        "Weight": "152 g (5.36 oz)",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "5.2 inches, 74.5 cm<sup>2</sup> (~70.9% screen-to-body ratio)",
+        "Resolution": "1080 x 1920 pixels, 16:9 ratio (~424 ppi density)",
+        "Protection": "Shatter proof glass",
+        "Features": "Triluminos display\n\nX-Reality Engine"
+      },
+      "Platform": {
+        "OS": "Android 4.4.4 (KitKat), upgradable to 6.0 (Marshmallow)",
+        "Chipset": "Qualcomm MSM8974AC Snapdragon 801 (28 nm)",
+        "CPU": "Quad-core 2.5 GHz Krait 400",
+        "GPU": "Adreno 330"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "16GB 3GB RAM, 32GB 3GB RAM",
+        "Features": "eMMC 5.0"
+      },
+      "Main Camera": {
+        "Single": "20.7 MP, f/2.0, 25mm (wide), 1/2.3\", AF",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@60fps, 720p@120fps, HDR"
+      },
+      "Selfie camera": {
+        "Single": "2.2 MP, f/2.8",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA, hotspot",
+        "Bluetooth": "4.0, A2DP, aptX",
+        "Positioning": "GPS, GLONASS, BDS",
+        "NFC": "Yes",
+        "Radio": "FM radio, RDS",
+        "USB": "microUSB 2.0 (MHL 3 TV-out), OTG, magnetic connector"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, proximity, compass, barometer"
+      },
+      "Battery": {
+        "Type": "Li-Ion 3100 mAh, non-removable",
+        "Stand-by": "Up to 510 h (2G) / Up to 480 h (3G)",
+        "Talk time": "Up to 14 h (2G) / Up to 16 h (3G)",
+        "Music play": "Up to 130 h"
+      },
+      "Misc": {
+        "Colors": "Black, White, Copper, Silver Green",
+        "Models": "D6633, D6603, D6643, D6653, D6616, D6683",
+        "SAR": "0.79 W/kg (head) &nbsp; &nbsp; 0.72 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.46 W/kg (head) &nbsp; &nbsp; 1.50 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 400 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/sony/sony-xperia-z3-01.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/sony_xperia_z3_dual-pictures-6632.php"
+    }
+  }
+}

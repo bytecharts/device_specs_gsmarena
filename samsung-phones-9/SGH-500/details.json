@@ -1,0 +1,83 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung SGH-500",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ss500b.gif",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/ss500b.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 1998",
+    "dimensions": "115g with slim battery, 19mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "1998",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "112 x 48 x 19 mm (4.41 x 1.89 x 0.75 in)",
+        "Weight": "115g with slim battery (4.06 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "Monochrome graphic",
+        "Size": "",
+        "Resolution": "78 x 42 pixels, 4 lines, 17:9 ratio",
+        "Features": "Fixed icons\n\nDynamic font size \n\nSoftkey"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "100",
+        "Call records": "11 dialed, 10 received, 10 missed calls",
+        "Features": "5 message templates\n\n20 voice dial numbers"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Monophonic ringtones",
+        "3.5mm jack": "No",
+        "Features": "6 voice languages"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS",
+        "Browser": "",
+        "Clock": "Yes",
+        "Alarm": "Yes",
+        "Games": "No",
+        "Languages": "20",
+        "Java": "No",
+        "Features": "Voice dial\n\nSpeed dial\n\nMenu shortcuts\n\nWorld clock"
+      },
+      "Battery": {
+        "Type": "Middle Li-Ion",
+        "Stand-by": "60 h",
+        "Talk time": "2 h 30 min"
+      },
+      "Misc": {
+        "Colors": "3"
+      }
+    }
+  }
+}

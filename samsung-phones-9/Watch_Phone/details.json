@@ -1,0 +1,85 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Watch Phone",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/sswatch_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/sswatch.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Cancelled",
+    "dimensions": "80g, 17mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "Class 10",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2003, Q4",
+        "Status": "Cancelled"
+      },
+      "Body": {
+        "Dimensions": "38 x 64 x 17 mm (1.50 x 2.52 x 0.67 in)",
+        "Weight": "80 g (2.82 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "OLED, 256 colors",
+        "Size": "",
+        "Resolution": "94 x 64 pixels",
+        "Features": "Four way navigation keys"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "Yes",
+        "Call records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Polyphonic ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "Yes",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS",
+        "Browser": "WAP 1.2",
+        "Clock": "Yes",
+        "Alarm": "Yes",
+        "Games": "",
+        "Java": "No",
+        "Features": "Voice dial\n\nSpeakerphone"
+      },
+      "Battery": {
+        "Type": "Li-Ion 400 mAh, non-removable"
+      },
+      "Misc": {
+        "Colors": ""
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/sswatch_00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_watch_phone-pictures-418.php"
+    }
+  }
+}

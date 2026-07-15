@@ -1,0 +1,92 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung M2510",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-m2510-disco.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-m2510.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2009, July",
+    "dimensions": "90.5g, 15.7mm thickness",
+    "os": "Feature phone",
+    "storage": "15MB storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "GPRS": "Class 10",
+        "EDGE": "Class 10"
+      },
+      "Launch": {
+        "Announced": "2009, June. Released 2009, July",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "99.5 x 46.5 x 15.7 mm (3.92 x 1.83 x 0.62 in)",
+        "Weight": "90.5 g (3.17 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "2.2 inches, 15.2 cm<sup>2</sup> (~32.9% screen-to-body ratio)",
+        "Resolution": "176 x 220 pixels (~128 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Phonebook": "1000 contacts, Photo call",
+        "Call records": "Yes",
+        "Internal": "15MB"
+      },
+      "Main Camera": {
+        "Single": "1.3 MP",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes",
+        "Features": "Dedicated music keys"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.0, A2DP",
+        "Positioning": "No",
+        "Radio": "Stereo FM radio, RDS, recording",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS, Email",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "Yes + downloadable",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "Auto EQ automatic equalizer\n\nFind Music recognition service\n\nMP3/e-AAC+/WMA player\n\nMP4/3GP player\n\nOrganizer\n\nMobile Tracker\n\nVoice memo\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 800 mAh battery",
+        "Stand-by": "Up to 360 h",
+        "Talk time": "Up to 8 h"
+      },
+      "Misc": {
+        "Colors": "Blue",
+        "SAR": "0.98 W/kg (head) &nbsp; &nbsp; 1.25 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.40 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 120 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-m2510-disco.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_m2510-pictures-2854.php"
+    }
+  }
+}

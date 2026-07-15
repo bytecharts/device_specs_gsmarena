@@ -1,0 +1,92 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy Player 70 Plus",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-player-70-plus-YP-GB70ED.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-player-70-plus-YP-GB70ED.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2012, Q2",
+    "dimensions": "186g, 11.9mm thickness",
+    "os": "Android 2.3",
+    "storage": "32GB storage, microSDHC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">No cellular connectivity</a>",
+        "2G bands": "N/A",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2012, March. Released 2012, Q2",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "141.3 x 78.2 x 11.9 mm (5.56 x 3.08 x 0.47 in)",
+        "Weight": "186 g (6.56 oz)",
+        "SIM": "No"
+      },
+      "Display": {
+        "Type": "LCD",
+        "Size": "5.0 inches, 71.2 cm<sup>2</sup> (~64.4% screen-to-body ratio)",
+        "Resolution": "480 x 800 pixels, 5:3 ratio (~187 ppi density)",
+        "Features": "TouchWiz UI"
+      },
+      "Platform": {
+        "OS": "Android 2.3 (Gingerbread)",
+        "CPU": "Dual-core 1.0 GHz"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Internal": "16/32GB"
+      },
+      "Main Camera": {
+        "Single": "5 MP, AF",
+        "Features": "LED flash",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Single": "VGA",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes",
+        "Features": "SoundAlive"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, hotspot",
+        "Bluetooth": "3.0",
+        "Positioning": "GPS",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": "microUSB 2.0 (MHL TV-out)"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, compass",
+        "Features": "T-DMB TV tuner, recording\n\nMP4/DivX/XviD/WMV/H.264 player\n\nMP3/WAV/WMA/eAAC+/FLAC player\n\nPhoto/video editor\n\nDocument editor"
+      },
+      "Battery": {
+        "Type": "Removable Li-Po 2500 mAh battery",
+        "Talk time": "Up to 7 h (multimedia)",
+        "Music play": "Up to 70 h"
+      },
+      "Misc": {
+        "Colors": "White",
+        "Price": "About 180 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-player-70-plus-YP-GB70ED.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-player-70-plus-YP-GB70ED-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_player_70_plus-pictures-4633.php"
+    }
+  }
+}

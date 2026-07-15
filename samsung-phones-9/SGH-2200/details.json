@@ -1,0 +1,82 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung SGH-2200",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ss2200b.gif",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/ss2200b.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 1999",
+    "dimensions": "111g with slim battery, 22mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "1999",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "98 x 44 x 22 mm (3.86 x 1.73 x 0.87 in)",
+        "Weight": "111 g with slim battery (3.92 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "Monochrome graphic",
+        "Size": "",
+        "Resolution": "115 x 60 pixels, 4 lines, 19:10 ratio",
+        "Features": "Fixed icons\n\nDynamic font size \n\nSoftkey"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "100",
+        "Call records": "10 dialed, 10 received, 10 missed calls",
+        "Features": "5 message templates\n\n20 voice dial numbers\n\n140 sec voice memo"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Monophonic ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS",
+        "Browser": "",
+        "Clock": "Yes",
+        "Alarm": "Yes",
+        "Games": "No",
+        "Languages": "14",
+        "Java": "No",
+        "Features": "Voice dial\n\nVoice memo\n\nSpeed dial\n\nManner Function\n\nBuilt-in type ear microphone\n\nMenu shortcuts\n\nWorld clock"
+      },
+      "Battery": {
+        "Type": "Standard Li-Ion",
+        "Stand-by": "125 h",
+        "Talk time": "3.5 h"
+      },
+      "Misc": {
+        "Colors": "3"
+      }
+    }
+  }
+}

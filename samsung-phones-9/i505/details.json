@@ -1,0 +1,92 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung i505",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/sai505_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/ssi505.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Cancelled",
+    "dimensions": "147g, 23mm thickness",
+    "os": "Palm 5.2.1",
+    "storage": "32MB RAM storage, SD slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "GPRS": "Class 8",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2004, Q1",
+        "Status": "Cancelled"
+      },
+      "Body": {
+        "Dimensions": "91 x 54 x 23 mm (3.58 x 2.13 x 0.91 in)",
+        "Weight": "147 g (5.19 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT resistive  touchscreen, 65K colors",
+        "Size": "",
+        "Resolution": "162 x 176 pixels (324 x 352 support), 14 lines",
+        "Features": "Second external OLED 256 color display"
+      },
+      "Platform": {
+        "OS": "Palm 5.2.1",
+        "CPU": "Motorola MX1 200 MHz"
+      },
+      "Memory": {
+        "Card slot": "SD",
+        "Internal": "32MB RAM, 32MB ROM",
+        "Features": "18 voice dial numbers"
+      },
+      "Main Camera": {
+        "Single": "VGA",
+        "Features": "LED flash",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Downloadable polyphonic ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "Proprietary"
+      },
+      "Features": {
+        "Sensors": "",
+        "Browser": "WAP 2.0/xHTML",
+        "Features": "Predictive text input\n\nVoice commands and dial\n\nVoice memo\n\nOrganizer"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion battery",
+        "Stand-by": "Up to 96 h",
+        "Talk time": "Up to 2 h 30 min"
+      },
+      "Misc": {
+        "Colors": ""
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/sai505_00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_i505-pictures-643.php"
+    }
+  }
+}

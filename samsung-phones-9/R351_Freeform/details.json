@@ -1,0 +1,92 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung R351 Freeform",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-r351-freeform-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-r351-freeform.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2009, August",
+    "dimensions": "103g, 13mm thickness",
+    "os": "Feature phone",
+    "storage": "55MB storage, microSD slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">CDMA / CDMA2000</a>",
+        "2G bands": "CDMA 800 / 1900",
+        "3G bands": "CDMA2000 1x",
+        "Speed": "Yes, 384 kbps"
+      },
+      "Launch": {
+        "Announced": "2009, August. Released 2009, August",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "112 x 61 x 13 mm (4.41 x 2.40 x 0.51 in)",
+        "Weight": "103 g (3.63 oz)",
+        "Keyboard": "QWERTY",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "2.2 inches, 15.2 cm<sup>2</sup> (~22.3% screen-to-body ratio)",
+        "Resolution": "220 x 176 pixels (~128 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "microSD (dedicated slot)",
+        "Phonebook": "1000 entries, Photocall",
+        "Call records": "Yes",
+        "Internal": "55MB"
+      },
+      "Main Camera": {
+        "Single": "1.3 MP",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No",
+        "Features": "2.5 mm audio jack"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.0, A2DP",
+        "Positioning": "GPS, A-GPS",
+        "Radio": "No",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS, Email",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "Yes",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "MP4/H.263 player\n\nMP3/AAC+ player\n\nOrganizer\n\nVoice memo/dial\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1000 mAh battery",
+        "Stand-by": "Up to 200 h",
+        "Talk time": "Up to 6 h"
+      },
+      "Misc": {
+        "Colors": "Black, Red",
+        "SAR": "1.01 W/kg (head) &nbsp; &nbsp; 0.53 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 110 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-r351-freeform-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_r351_freeform-pictures-3439.php"
+    }
+  }
+}

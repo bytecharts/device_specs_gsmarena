@@ -1,0 +1,89 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung M150",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-m150-2.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-m150.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2008, December",
+    "dimensions": "12.7mm thickness",
+    "os": "Feature phone",
+    "storage": "20MB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "Class 10",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2008, July. Released 2008, December",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "106.5 x 45.4 x 12.7 mm (4.19 x 1.79 x 0.5 in)",
+        "Weight": "",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "1.77 inches, 9.9 cm<sup>2</sup> (~20.4% screen-to-body ratio)",
+        "Resolution": "128 x 160 pixels (~116 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "Yes",
+        "Call records": "30 dialed, 30 received, 30 missed calls",
+        "Internal": "20MB"
+      },
+      "Main Camera": {
+        "Single": "VGA",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.0",
+        "Positioning": "No",
+        "Radio": "FM radio, recording",
+        "USB": "2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "Yes",
+        "Java": "Yes",
+        "Features": "MP3/e-AAC+/WMA player\n\nOrganizer\n\nVoice memo\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 800 mAh battery"
+      },
+      "Misc": {
+        "Colors": "Light Gray, Charcoal Gray, Pure White, Lavender Pink, Ice Blue",
+        "SAR EU": "0.84 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 90 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-m150-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_m150-pictures-2466.php"
+    }
+  }
+}

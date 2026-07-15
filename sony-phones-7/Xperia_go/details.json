@@ -1,0 +1,104 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Sony Xperia go",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/sony/sony-xperia-go.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/sony-xperia-go.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/sony_xperia_go-review-791.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2012, July",
+    "dimensions": "110g, 9.8mm thickness",
+    "os": "Android 2.3, up to 4.1.2",
+    "storage": "8GB storage, microSDHC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 900 / 2100 - ST27i",
+        "Speed": "HSPA 14.4/5.76 Mbps",
+        "Features": "HSDPA 850 / 1900 / 2100 - ST27a"
+      },
+      "Launch": {
+        "Announced": "2012, May. Released 2012, July",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "111 x 60.3 x 9.8 mm (4.37 x 2.37 x 0.39 in)",
+        "Weight": "110 g (3.88 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "LED-backlit LCD,",
+        "Size": "3.5 inches, 36.5 cm<sup>2</sup> (~54.5% screen-to-body ratio)",
+        "Resolution": "320 x 480 pixels, 3:2 ratio (~165 ppi density)",
+        "Protection": "Scratch-resistant glass",
+        "Features": "IP67 dust and water proof (up to 1m for 30 mins)"
+      },
+      "Platform": {
+        "OS": "Android 2.3 (Gingerbread), upgradable to 4.1.2 (Jelly Bean)",
+        "Chipset": "NovaThor U8500",
+        "CPU": "Dual-core 1.0 GHz Cortex-A9",
+        "GPU": "Mali-400"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Internal": "8GB (4GB user available), 512MB RAM"
+      },
+      "Main Camera": {
+        "Single": "5 MP, AF",
+        "Features": "LED flash, panorama",
+        "Video": "720p@30fps"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, DLNA, hotspot",
+        "Bluetooth": "3.0, A2DP, EDR",
+        "Positioning": "GPS, A-GPS",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": "microUSB 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity, compass",
+        "Features": "MP4/H.264/WMV player\n\nMP3/eAAC+/WMA/WAV player\n\nTrackID music recognition\n\nDocument viewer\n\nVoice memo/dial/commands\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Non-removable Li-Ion 1305 mAh battery",
+        "Stand-by": "Up to 520 h (2G) / Up to 460 h (3G)",
+        "Talk time": "Up to 6 h 30 min (2G) / Up to 5 h 30 min (3G)",
+        "Music play": "Up to 45 h"
+      },
+      "Misc": {
+        "Colors": "White, Black, Yellow",
+        "SAR": "1.12 W/kg (head) &nbsp; &nbsp; 0.96 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.89 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 160 EUR"
+      },
+      "Our Tests": {
+        "Display": "<a class=\"noUnd\" href=\"sony_xperia_go-review-791p2.php\">Contrast ratio: 859 (nominal) / 1.577:1 (sunlight)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=4782&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=4782&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"sony_xperia_go-review-791p4.php\">Voice 65dB / Noise 65dB / Ring 76dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"sony_xperia_go-review-791p5.php#aq\">Noise -86.7dB / Crosstalk -87.3dB</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/sony/sony-xperia-go.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/sony/sony-xperia-go-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/sony_xperia_go-pictures-4782.php"
+    }
+  }
+}

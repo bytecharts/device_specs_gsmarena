@@ -1,0 +1,79 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Sony CM-DX 2000",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sox2000b.gif",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/sox2000b.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 1997",
+    "dimensions": "185g, 27mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "1997",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "147 x 46 x 27 mm, 155 cc (5.79 x 1.81 x 1.06 in)",
+        "Weight": "185 g (6.53 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "Monochrome graphic",
+        "Size": "",
+        "Resolution": "97 x 33 pixels, 4 x 16 chars",
+        "Features": "Fixed icons\n\nDynamic font size\n\nJog Dial"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "50",
+        "Call records": ""
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Monophonic ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS",
+        "Browser": "",
+        "Clock": "No",
+        "Alarm": "No",
+        "Games": "No",
+        "Java": "No"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1800 mAh battery",
+        "Stand-by": "100 h",
+        "Talk time": "10 h"
+      },
+      "Misc": {
+        "Colors": ""
+      }
+    }
+  }
+}

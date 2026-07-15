@@ -1,0 +1,86 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung X210",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-x210-00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-x210.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2006, May",
+    "dimensions": "76g, 19.7mm thickness",
+    "os": "Feature phone",
+    "storage": "1.8MB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "GPRS": "Class 10",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2006, May",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "86.2 x 43.9 x 19.7 mm (3.39 x 1.73 x 0.78 in)",
+        "Weight": "76 g (2.68 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 65K colors",
+        "Size": "",
+        "Resolution": "128 x 160 pixels, 8 lines",
+        "Features": "Embedded wallpapers"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "1000 entries",
+        "Call records": "20 dialed, 20 received, 20 missed calls",
+        "Internal": "1.8MB"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "Alert types": "Vibration; Downloadable polyphonic ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Infrared port": "Yes",
+        "Radio": "FM radio",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, EMS, MMS",
+        "Browser": "WAP 1.2",
+        "Games": "No",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "Organizer\n\nVoice memo"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion battery"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "SAR EU": "0.47 W/kg (head) &nbsp; &nbsp;"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-x210-00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_x210-pictures-1579.php"
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung A127",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-a127.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-a127.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2007, October",
+    "dimensions": "81g, 19mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 850 / 1900",
+        "GPRS": "Yes",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2007, October",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "86 x 42.5 x 19 mm (3.39 x 1.67 x 0.75 in)",
+        "Weight": "81 g (2.86 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "CSTN, 65K colors",
+        "Size": "",
+        "Resolution": "128 x 160 pixels",
+        "Features": "External monochrome display(96 x 96 pixels)"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "300 entries",
+        "Call records": "20 dialed, received, missed calls"
+      },
+      "Main Camera": {
+        "Single": "VGA",
+        "Video": "No"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Downloadable polyphonic ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, EMS, MMS",
+        "Browser": "No",
+        "Games": "Yes",
+        "Java": "No",
+        "Features": "Converter\n\nCalculator\n\nBuilt-in speakerphone\n\nPredictive text input\n\nVoice memo"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 800 mAh battery",
+        "Stand-by": "Up to 250 h",
+        "Talk time": "Up to 5 h"
+      },
+      "Misc": {
+        "Colors": "Black, Red",
+        "SAR": "1.17 W/kg (head) &nbsp; &nbsp; 0.42 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 50 EUR"
+      }
+    }
+  }
+}

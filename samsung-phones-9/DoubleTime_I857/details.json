@@ -1,0 +1,92 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung DoubleTime I857",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-doubletime.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-doubletime.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2011, November",
+    "dimensions": "148g, 15mm thickness",
+    "os": "Android 2.2",
+    "storage": "260MB 256MB RAM storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 1900 / 2100",
+        "Speed": "HSPA 7.2/2 Mbps"
+      },
+      "Launch": {
+        "Announced": "2011, October. Released 2011, November",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "113 x 62 x 15 mm (4.45 x 2.44 x 0.59 in)",
+        "Weight": "148 g (5.22 oz)",
+        "Keyboard": "QWERTY",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "3.2 inches, 30.5 cm<sup>2</sup> (~43.5% screen-to-body ratio)",
+        "Resolution": "320 x 480 pixels, 3:2 ratio (~180 ppi density)",
+        "Features": "Secondary TFT capacitive touchscreen (with multitouch), 320 x 480 pixels, 3.2 inches,  \n\nTouchWiz UI"
+      },
+      "Platform": {
+        "OS": "Android 2.2 (Froyo)",
+        "Chipset": "Qualcomm MSM7230",
+        "CPU": "800 MHz Scorpion",
+        "GPU": "Adreno 205"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Internal": "260MB 256MB RAM"
+      },
+      "Main Camera": {
+        "Single": "3.15 MP, AF",
+        "Video": "320p"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "3.0, A2DP",
+        "Positioning": "GPS, A-GPS",
+        "Radio": "No",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity, compass",
+        "Features": "MP4/H.264 player\n\nMP3/WAV/eAAC+ player\n\nOrganizer\n\nPhoto/video editor\n\nDocument viewer\n\nVoice memo/dial/commands\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1200 mAh battery",
+        "Stand-by": "Up to 250 h",
+        "Talk time": "Up to 6 h"
+      },
+      "Misc": {
+        "Colors": "Black/white",
+        "SAR": "0.54 W/kg (head) &nbsp; &nbsp; 0.97 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 70 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-doubletime.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_doubletime_i857-pictures-4239.php"
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung P6810 Galaxy Tab 7.7",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-tab-7-7-000.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-p6810-galaxy-tab-77.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2011",
+    "dimensions": "340g, 7.9mm thickness",
+    "os": "Android 3.2",
+    "storage": "16GB/32GB/64GB storage, microSDHC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">No cellular connectivity</a>",
+        "2G bands": "N/A",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2011",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "196.7 x 133 x 7.9 mm (7.74 x 5.24 x 0.31 in)",
+        "Weight": "340 g (11.99 oz)",
+        "SIM": "No"
+      },
+      "Display": {
+        "Type": "Super AMOLED Plus",
+        "Size": "7.7 inches, 171.9 cm<sup>2</sup> (~65.7% screen-to-body ratio)",
+        "Resolution": "800 x 1280 pixels, 16:10 ratio (~196 ppi density)",
+        "Features": "TouchWiz UX UI"
+      },
+      "Platform": {
+        "OS": "Android 3.2 (Honeycomb)",
+        "Chipset": "Exynos",
+        "CPU": "Dual-core 1.4 GHz Cortex-A9",
+        "GPU": "Mali-400"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Internal": "16GB 1GB RAM, 32GB 1GB RAM, 64GB 1GB RAM"
+      },
+      "Main Camera": {
+        "Single": "3.15 MP, AF",
+        "Features": "LED flash",
+        "Video": "720p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "2 MP",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, hotspot",
+        "Bluetooth": "3.0, A2DP",
+        "Positioning": "GPS",
+        "Radio": "No",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, compass",
+        "Features": "HDMI port\n\nMP4/DivX/Xvid/H.264 player\n\nMP3/WAV/eAAC+/Flac player\n\nPhoto/video editor\n\nQuickoffice HD editor/viewer"
+      },
+      "Battery": {
+        "Type": "Non-removable Li-Po 5100 mAh battery",
+        "Stand-by": "Up to 1070 h"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "SAR": "0.43 W/kg (head) &nbsp; &nbsp; 0.76 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.28 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 280 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-tab-7-7-000.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-tab-7-7-001.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_p6810_galaxy_tab_7_7-pictures-4668.php"
+    }
+  }
+}

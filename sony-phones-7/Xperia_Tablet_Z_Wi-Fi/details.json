@@ -1,0 +1,106 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Sony Xperia Tablet Z Wi-Fi",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/sony/Xperia_Tablet_Z_Xperia_Z.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/sony-xperia-tablet-z-new.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/sony_xperia_tablet_z-review-931.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2013, May",
+    "dimensions": "495g, 6.9mm thickness",
+    "os": "Android 4.1.2, up to 5.1.1",
+    "storage": "16GB/32GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">No cellular connectivity</a>",
+        "2G bands": "N/A",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2013, February. Released 2013, May",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "266 x 172 x 6.9 mm (10.47 x 6.77 x 0.27 in)",
+        "Weight": "495 g (1.09 lb)",
+        "SIM": "No",
+        "Features": "IP57 dust proof and water resistant"
+      },
+      "Display": {
+        "Type": "LED-backlit LCD,",
+        "Size": "10.1 inches, 295.8 cm<sup>2</sup> (~64.7% screen-to-body ratio)",
+        "Resolution": "1200 x 1920 pixels, 16:10 ratio (~224 ppi density)",
+        "Protection": "Shatter proof glass"
+      },
+      "Platform": {
+        "OS": "Android 4.1.2 (Jelly Bean), upgradable to 5.1.1 (Lollipop)",
+        "Chipset": "Qualcomm APQ8064 Snapdragon 600",
+        "CPU": "Quad-core 1.5 GHz Krait",
+        "GPU": "Adreno 320"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "16GB 2GB RAM, 32GB 2GB RAM"
+      },
+      "Main Camera": {
+        "Single": "8.1 MP, AF",
+        "Features": "HDR",
+        "Video": "1080p@30fps, HDR"
+      },
+      "Selfie camera": {
+        "Single": "2.2 MP",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes",
+        "Features": "3D surround sound"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, DLNA, hotspot",
+        "Bluetooth": "4.0, A2DP",
+        "Positioning": "GPS, GLONASS (market dependant)",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": "microUSB 2.0 (MHL TV-out)"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, compass"
+      },
+      "Battery": {
+        "Type": "Li-Po 6000 mAh, non-removable",
+        "Stand-by": "Up to 890 h",
+        "Talk time": "Up to 10 h (multimedia)",
+        "Music play": "Up to 110 h"
+      },
+      "Misc": {
+        "Colors": "Black, White",
+        "Models": "SGP311, SGP312",
+        "SAR": "1.49 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "1.69 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 300 EUR"
+      },
+      "Our Tests": {
+        "Display": "<a class=\"noUnd\" href=\"sony_xperia_tablet_z-review-931p2.php\">Contrast ratio: 996:1 (nominal)</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"sony_xperia_tablet_z-review-931p6.php\">Voice 66dB / Noise 64dB / Ring 70dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"sony_xperia_tablet_z-review-931p7.php#aq\">Noise -87.0dB / Crosstalk -87.8dB</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/sony/Xperia_Tablet_Z_Xperia_Z.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/sony/Xperia_Tablet_Z_Xperia_Z-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/sony_xperia_tablet_z_wi_fi-pictures-5326.php"
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung M5650 Lindy",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-m5650-lindy-3.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-m5650-lindy.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_m5650_lindy-review-437.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2009, December",
+    "dimensions": "98g, 12mm thickness",
+    "os": "Feature phone",
+    "storage": "50MB storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 1900 / 2100",
+        "Speed": "HSPA 7.2/0.384 Mbps"
+      },
+      "Launch": {
+        "Announced": "2009, December. Released 2009, December",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "106 x 57 x 12 mm (4.17 x 2.24 x 0.47 in)",
+        "Weight": "98 g (3.46 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "2.8 inches, 24.3 cm<sup>2</sup> (~40.2% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)",
+        "Features": "Smart unlock\n\nCartoon UI"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Phonebook": "1000 contacts, Photocall",
+        "Call records": "Yes",
+        "Internal": "50MB"
+      },
+      "Main Camera": {
+        "Single": "3.15 MP",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Features": "Videocall camera"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes",
+        "Features": "Dedicated music keys"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g",
+        "Bluetooth": "2.1, A2DP",
+        "Positioning": "No",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS, Email, IM",
+        "Browser": "WAP 2.0/xHTML, HTML",
+        "Games": "Yes + downloadable",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "SNS integration\n\nMP3/WMA/eAAC+ player\n\nH.264/MP4/WMV player\n\nFind Music recognition service\n\nOrganizer\n\nDocument viewer\n\nVoice memo\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 960 mAh battery",
+        "Stand-by": "Up to 300 h",
+        "Talk time": "Up to 3 h"
+      },
+      "Misc": {
+        "Colors": "Black, Neon Blue",
+        "SAR": "1.18 W/kg (head) &nbsp; &nbsp; 1.02 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.75 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 120 EUR"
+      },
+      "Our Tests": {
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=3049&amp;nSuggest=1\">Photo</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"samsung_m5650_lindy-review-437p3.php\">Voice 73dB / Noise 69dB / Ring 77dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"samsung_m5650_lindy-review-437p5.php#aq\">Noise -85.2dB / Crosstalk -84.5dB</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-m5650-lindy-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_m5650_lindy-pictures-3049.php"
+    }
+  }
+}

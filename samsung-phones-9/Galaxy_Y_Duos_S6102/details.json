@@ -1,0 +1,97 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy Y Duos S6102",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-y-duos.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-y-duos.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_galaxy_y_duos_s6102-review-754.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2012, February",
+    "dimensions": "109g, 12mm thickness",
+    "os": "Android 2.3, TouchWiz UI",
+    "storage": "512MB storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 &amp; SIM 2",
+        "3G bands": "HSDPA 900 / 2100 - GT-S6102 (SIM 1 &amp; SIM 2)",
+        "Speed": "HSPA 7.2/0.384 Mbps",
+        "Features": "HSDPA 850 / 2100  - GT-S6102B (SIM 1 &amp; SIM 2)"
+      },
+      "Launch": {
+        "Announced": "2011, December. Released 2012, February",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "109.8 x 60 x 12 mm (4.32 x 2.36 x 0.47 in)",
+        "Weight": "109 g (3.84 oz)",
+        "SIM": "Dual SIM (Mini-SIM, dual stand-by)"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "3.14 inches, 30.5 cm<sup>2</sup> (~46.3% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~127 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 2.3 (Gingerbread), TouchWiz UI",
+        "CPU": "832 MHz"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot), 2 GB included",
+        "Internal": "512MB"
+      },
+      "Main Camera": {
+        "Single": "3.15 MP",
+        "Video": "320p@24fps"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+        "Bluetooth": "3.0, A2DP",
+        "Positioning": "GPS, A-GPS",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1300 mAh battery",
+        "Stand-by": "Up to 360 h",
+        "Talk time": "Up to 9 h"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "Models": "S6102, GT-S6102, GT-S6102B",
+        "SAR": "0.47 W/kg (head) &nbsp; &nbsp; 0.52 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.69 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 80 EUR"
+      },
+      "Our Tests": {
+        "Display": "<a class=\"noUnd\" href=\"samsung_galaxy_y_duos_s6102-review-754p2.php\">Contrast ratio: 842:1 (nominal)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=4385&amp;nSuggest=1\">Photo</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"samsung_galaxy_y_duos_s6102-review-754p4.php\">Voice 66dB / Noise 64dB / Ring 69dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"samsung_galaxy_y_duos_s6102-review-754p5.php\">Noise -86.1dB / Crosstalk -82.1dB</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-y-duos.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_y_duos_s6102-pictures-4385.php"
+    }
+  }
+}

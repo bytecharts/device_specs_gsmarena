@@ -1,0 +1,82 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Sony CMD CD5",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/socd5b.gif",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/socd5b.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2000",
+    "dimensions": "139g, 26mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2000",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "139 x 45 x 26 mm, 120 cc (5.47 x 1.77 x 1.02 in)",
+        "Weight": "139 g (4.90 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "Monochrome graphic",
+        "Size": "",
+        "Resolution": "97 x 32 pixels, 4 lines",
+        "Features": "Fixed icons\n\nJog Dial\n\nBlue LCD crystals"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "100",
+        "Call records": "",
+        "Features": "Message templates"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Monophonic ringtones",
+        "3.5mm jack": "No",
+        "Features": "Ringtones can be assigned to phonebook entries"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS",
+        "Browser": "",
+        "Clock": "Yes",
+        "Alarm": "Yes",
+        "Games": "No",
+        "Java": "No",
+        "Features": "Predictive text input\n\n2 vibration types"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 500 mAh battery",
+        "Stand-by": "50 - 180 h",
+        "Talk time": "4 - 6 h"
+      },
+      "Misc": {
+        "Colors": "3 (Silver, Metallic Blue and Metallic Black)"
+      }
+    }
+  }
+}

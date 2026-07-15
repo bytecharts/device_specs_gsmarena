@@ -1,0 +1,93 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung E870",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-e870-00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-e870.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2006, Q1",
+    "dimensions": "85g, 16mm thickness",
+    "os": "Feature phone",
+    "storage": "80MB storage, microSD slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "GPRS": "Class 10",
+        "EDGE": "Class 10"
+      },
+      "Launch": {
+        "Announced": "2006, Q1",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "92 x 42 x 16 mm (3.62 x 1.65 x 0.63 in)",
+        "Weight": "85 g (3.00 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "",
+        "Resolution": "176 x 220 pixels",
+        "Features": "Second external display OLED, 65K colors (96 x 80 pixels)"
+      },
+      "Memory": {
+        "Card slot": "microSD (dedicated slot)",
+        "Phonebook": "1000 entries, Photo call",
+        "Call records": "30 dialed, 30 received, 30 missed calls",
+        "Internal": "80MB"
+      },
+      "Main Camera": {
+        "Single": "1.3 MP",
+        "Features": "LED flash",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "1.2, A2DP",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": "Proprietary"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, EMS, MMS, Email",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "3 + downloadable",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "MP3/AAC/AAC++/WMA player\n\nPredictive text input\n\nOrganizer\n\nVoice memo\n\nVoice dial"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 800 mAh battery",
+        "Stand-by": "Up to 200 h",
+        "Talk time": "Up to 5 h"
+      },
+      "Misc": {
+        "Colors": "Silver, White, Pink, Blue, Champagne (T-Mobile only)",
+        "SAR": "0.55 W/kg (head) &nbsp; &nbsp; 0.11 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.93 W/kg (head) &nbsp; &nbsp;"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-e870-00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_e870-pictures-1424.php"
+    }
+  }
+}

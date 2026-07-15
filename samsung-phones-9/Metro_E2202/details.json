@@ -1,0 +1,91 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Metro E2202",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-metro-e2202.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-metro-e2202.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2013, February",
+    "dimensions": "78.2g, 14.3mm thickness",
+    "os": "Feature phone",
+    "storage": "microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 - SIM 1 &amp; SIM 2",
+        "GPRS": "Yes",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2013, February. Released 2013, February",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "110.7 x 46 x 14.3 mm (4.36 x 1.81 x 0.56 in)",
+        "Weight": "78.2 g (2.75 oz)",
+        "SIM": "Dual SIM (Mini-SIM, dual stand-by)"
+      },
+      "Display": {
+        "Type": "TFT, 65K colors",
+        "Size": "1.8 inches, 10.2 cm<sup>2</sup> (~20.0% screen-to-body ratio)",
+        "Resolution": "128 x 160 pixels (~114 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Phonebook": "1500 entries",
+        "Call records": "Yes"
+      },
+      "Main Camera": {
+        "Single": "VGA",
+        "Video": "CIF@15fps"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.1, EDR",
+        "Positioning": "No",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS, Email",
+        "Games": "Yes",
+        "Java": "Yes",
+        "Features": "SNS applications\n\nMP3/AAC/WAV player\n\nMP4/H.264 player\n\nOrganizer"
+      },
+      "Battery": {
+        "Type": "Li-Ion 1000 mAh, removable",
+        "Stand-by": "Up to 600 h",
+        "Talk time": "Up to 13 h"
+      },
+      "Misc": {
+        "Colors": "Black, White",
+        "Models": "GT-E2202, GT-E2200",
+        "SAR EU": "0.90 W/kg (head) &nbsp; &nbsp; 0.60 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 30 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-metro-e2202.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-metro-e2202-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_metro_e2202-pictures-5312.php"
+    }
+  }
+}

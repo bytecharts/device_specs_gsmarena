@@ -1,0 +1,93 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Ch@t 350",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-chat-s3500-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-chat-s3500.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2011, February",
+    "dimensions": "99.8g, 15.5mm thickness",
+    "os": "Feature phone",
+    "storage": "20MB storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "GPRS": "Class 10",
+        "EDGE": "Class 10"
+      },
+      "Launch": {
+        "Announced": "2011, February. Released 2011, February",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "99.5 x 52 x 15.5 mm (3.92 x 2.05 x 0.61 in)",
+        "Weight": "99.8 g (3.49 oz)",
+        "Keyboard": "QWERTY",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT resistive touchscreen, 256K colors",
+        "Size": "2.4 inches, 17.8 cm<sup>2</sup> (~34.5% screen-to-body ratio)",
+        "Resolution": "320 x 240 pixels, 4:3 ratio (~167 ppi density)",
+        "Features": "Touch Wiz Lite 2.0 UI"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Phonebook": "1000 entries, Photocall",
+        "Call records": "Yes",
+        "Internal": "20MB"
+      },
+      "Main Camera": {
+        "Single": "2 MP",
+        "Video": "QCIF@15fps"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.1, A2DP",
+        "Positioning": "No",
+        "Radio": "Stereo FM radio, RDS, recording",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS(threaded view), , MMS, Email, Push Email, IM",
+        "Browser": "WAP 2.0/xHTML, HTML",
+        "Games": "Yes + downloadable",
+        "Java": "Yes, MIDP 2.1",
+        "Features": "SNS integration\n\nMP3/WMA/WAV/eAAC+ player\n\nMP4/H.263 player\n\nOrganizer\n\nVoice memo\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 960 mAh battery",
+        "Stand-by": "Up to 666 h",
+        "Talk time": "Up to 12 h"
+      },
+      "Misc": {
+        "Colors": "Black, White, Silver",
+        "SAR": "0.44 W/kg (head) &nbsp; &nbsp; 0.73 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.41 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 80 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-chat-s3500-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_ch@t_350-pictures-3729.php"
+    }
+  }
+}

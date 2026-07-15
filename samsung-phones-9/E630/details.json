@@ -1,0 +1,96 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung E630",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/sse630_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/sse630.gif"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_e630-review-22.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2004, Q4",
+    "dimensions": "79g, 22mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "GPRS": "Class 10",
+        "EDGE": "No",
+        "Features": "GSM 850 / 1800 / 1900 - Samsung E635"
+      },
+      "Launch": {
+        "Announced": "2004, Q4",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "85 x 43 x 22 mm (3.35 x 1.69 x 0.87 in)",
+        "Weight": "79 g (2.79 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 65K colors",
+        "Size": "1.7 inches, 9.1 cm<sup>2</sup> (~24.9% screen-to-body ratio)",
+        "Resolution": "128 x 160 pixels, 6 lines (~121 ppi density)",
+        "Features": "Four way navigation keys\n\nWallpapers"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "1000 x 10 fields, Photo call",
+        "Call records": "20 dialed, 20 received, 20 missed calls",
+        "Features": "20 MB total shared memory\n\n3 MB for Java apps"
+      },
+      "Main Camera": {
+        "Single": "VGA",
+        "Features": "LED flash",
+        "Video": "No"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Downloadable polyphonic ringtones, composer",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, EMS, MMS",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "2 - BubbleSmile, SnowBall + downloadable",
+        "Java": "Yes, MIDP 1.0",
+        "Features": "Predictive text input\n\nOrganizer\n\nStopwatch"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 800 mAh battery",
+        "Stand-by": "Up to 250 h",
+        "Talk time": "Up to 4 h"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "SAR EU": "0.51 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 80 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/sse630_00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_e630-pictures-932.php"
+    }
+  }
+}

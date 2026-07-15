@@ -1,0 +1,118 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Sony Xperia Z1",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/sony/sony-xperia-z1-4.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/sony-xperia-z1-ofic.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/sony_xperia_z1-review-987.php",
+    "siblingDeviceSlugs": [
+      "sony_xperia_z1_compact-5753"
+    ],
+    "release_date": "Released 2013, September",
+    "dimensions": "170g, 8.5mm thickness",
+    "os": "Android 4.2, up to 5.1",
+    "storage": "16GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - all versions",
+        "3G bands": "HSDPA 850 / 900 / 1700 / 1900 / 2100 - all versions",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 20 - C6903, C6943",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+        "Features": "1, 2, 4, 5, 7, 8, 17 - C6906"
+      },
+      "Launch": {
+        "Announced": "2013, September. Released 2013, September",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "144 x 74 x 8.5 mm (5.67 x 2.91 x 0.33 in)",
+        "Weight": "170 g (6.00 oz)",
+        "Build": "Glass front, glass back, aluminum frame",
+        "SIM": "Micro-SIM",
+        "Features": "IP58 dust/water resistant (up to 1.5m for 30 min)"
+      },
+      "Display": {
+        "Type": "TFT",
+        "Size": "5.0 inches, 68.9 cm<sup>2</sup> (~64.7% screen-to-body ratio)",
+        "Resolution": "1080 x 1920 pixels, 16:9 ratio (~441 ppi density)",
+        "Protection": "Shatter proof glass",
+        "Features": "Triluminos display\n\nX-Reality Engine"
+      },
+      "Platform": {
+        "OS": "Android 4.2 (Jelly Bean), upgradable to 5.1 (Lollipop)",
+        "Chipset": "Qualcomm MSM8974 Snapdragon 800 (28 nm)",
+        "CPU": "Quad-core 2.2 GHz Krait 400",
+        "GPU": "Adreno 330"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "16GB 2GB RAM",
+        "Features": "eMMC 4.5"
+      },
+      "Main Camera": {
+        "Single": "20.7 MP, f/2.0, 27mm (wide), 1/2.3\", AF",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "1080p@30fps, HDR"
+      },
+      "Selfie camera": {
+        "Single": "2 MP",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA, hotspot",
+        "Bluetooth": "4.0, A2DP, aptX",
+        "Positioning": "GPS, GLONASS",
+        "NFC": "Yes",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": "microUSB 2.0 (MHL TV-out), OTG, magnetic connector"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, proximity, compass",
+        "Features": "ANT+"
+      },
+      "Battery": {
+        "Type": "Li-Ion 3000 mAh, non-removable",
+        "Stand-by": "Up to 880 h (2G) / Up to 850 h (3G)",
+        "Talk time": "Up to 13 h 50 min (2G) / Up to 15 h (3G)",
+        "Music play": "Up to 110 h"
+      },
+      "Misc": {
+        "Colors": "Black, White, Purple",
+        "Models": "C6903, C6902, C6906, SO-01F, SOL23",
+        "SAR": "0.75 W/kg (head) &nbsp; &nbsp; 1.15 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.77 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 330 EUR"
+      },
+      "Our Tests": {
+        "Performance": "Basemark X: 9399",
+        "Display": "<a class=\"noUnd\" href=\"sony_xperia_z1-review-987p3.php\">Contrast ratio: 1513 (nominal), 2.950 (sunlight)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=5596&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=5596&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"sony_xperia_z1-review-987p6.php\">Voice 65dB / Noise 62dB / Ring 65dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"sony_xperia_z1-review-987p7.php\">Noise -91.8dB / Crosstalk -89.9dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 5596); \">Endurance rating 53h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/sony/sony-xperia-z1-4.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/sony/sony-xperia-z1-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/sony/sony-xperia-z1-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/sony/sony-xperia-z1-5.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/sony/sony-xperia-z1-6.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/sony_xperia_z1-pictures-5596.php"
+    }
+  }
+}

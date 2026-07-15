@@ -1,0 +1,100 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy S WiFi 5.0",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s-wifi5-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s-wifi5.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "samsung_galaxy_a57_5g-14379",
+      "samsung_galaxy_s26_ultra_5g-14320",
+      "samsung_galaxy_a17_5g-14041",
+      "samsung_galaxy_a27_5g-14606",
+      "samsung_galaxy_m47_5g-14749",
+      "samsung_galaxy_a07-14066"
+    ],
+    "release_date": "Released 2011, May",
+    "dimensions": "182g, 11.9mm thickness",
+    "os": "Android 2.2",
+    "storage": "16GB storage, microSDHC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">No cellular connectivity</a>",
+        "2G bands": "N/A",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2011, February. Released 2011, May",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "141.3 x 78.2 x 11.9 mm (5.56 x 3.08 x 0.47 in)",
+        "Weight": "182 g (6.42 oz)",
+        "SIM": "No",
+        "Features": "Optical trackpad"
+      },
+      "Display": {
+        "Type": "LCD",
+        "Size": "5.0 inches, 71.2 cm<sup>2</sup> (~64.4% screen-to-body ratio)",
+        "Resolution": "480 x 800 pixels, 5:3 ratio (~187 ppi density)",
+        "Features": "TouchWiz UI"
+      },
+      "Platform": {
+        "OS": "Android 2.2 (Froyo)",
+        "CPU": "1.0 GHz S5P-C111"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Internal": "8/16GB"
+      },
+      "Main Camera": {
+        "Single": "3.15 MP, AF",
+        "Features": "LED flash",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Single": "VGA",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes",
+        "Features": "SoundAlive"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+        "Bluetooth": "3.0",
+        "Positioning": "GPS",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, compass",
+        "Browser": "HTML, Adobe Flash",
+        "Features": "MP4/DivX/XviD/WMV/H.264 player\n\nMP3/WAV/eAAC+/FLAC player\n\nPhoto/video editor\n\nThinkFree document editor"
+      },
+      "Battery": {
+        "Type": "Removable Li-Po 2500 mAh battery",
+        "Talk time": "Up to 8 h (multimedia)",
+        "Music play": "Up to 60 h"
+      },
+      "Misc": {
+        "Colors": "Black, White",
+        "Price": "About 180 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s-wifi5-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_s_wifi_5_0-pictures-3838.php"
+    }
+  }
+}

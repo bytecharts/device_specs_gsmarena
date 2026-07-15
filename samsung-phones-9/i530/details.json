@@ -1,0 +1,89 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung i530",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/sai500_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/ssi530.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Cancelled",
+    "dimensions": "145g, 27.5mm thickness",
+    "os": "Palm 5.2",
+    "storage": "32MB RAM storage, SD slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "Class 8",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2004, Q1",
+        "Status": "Cancelled"
+      },
+      "Body": {
+        "Dimensions": "90 x 55 x 27.5 mm (3.54 x 2.17 x 1.08 in)",
+        "Weight": "145 g (5.11 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "UFS, 65K colors",
+        "Size": "",
+        "Resolution": "162 x 176 pixels (324 x 352 support), 14 lines",
+        "Features": "Second external OLED display, 65K color (96 x 128 pixels)\n\n180 degree swiveling"
+      },
+      "Platform": {
+        "OS": "Palm 5.2",
+        "CPU": "Intel PXA262 200 MHz"
+      },
+      "Memory": {
+        "Card slot": "SD",
+        "Internal": "32MB RAM, 32MB ROM"
+      },
+      "Main Camera": {
+        "Single": "1 MP",
+        "Features": "LED flash",
+        "Video": "No"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Downloadable polyphonic ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "Proprietary"
+      },
+      "Features": {
+        "Sensors": "",
+        "Browser": "WAP 2.0/xHTML",
+        "Features": "Predictive text input\n\nVoice memo/mail\n\nOrganizer"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion battery"
+      },
+      "Misc": {
+        "Colors": ""
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/sai500_00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_i530-pictures-834.php"
+    }
+  }
+}

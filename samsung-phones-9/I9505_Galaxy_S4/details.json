@@ -1,0 +1,114 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung I9505 Galaxy S4",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s-4-i9500-black-mist.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s-4-i9500-black-mist.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_i9505g_galaxy_s4_google_play_edition-review-951.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2013, April",
+    "dimensions": "130g, 7.9mm thickness",
+    "os": "Android 4.2.2, up to 5.0, TouchWiz UI",
+    "storage": "16GB/32GB/64GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - all versions",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4G bands": "1, 3, 5, 7, 8, 20",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat3 100/50 Mbps",
+        "Features": "HSDPA 850 / 1900 / 2100 - SGH-i337\n1, 2, 4, 5, 7, 17 - SGH-i337"
+      },
+      "Launch": {
+        "Announced": "2013, March. Released 2013, April",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "136.6 x 69.8 x 7.9 mm (5.38 x 2.75 x 0.31 in)",
+        "Weight": "130 g (4.59 oz)",
+        "Build": "Glass front (Gorilla Glass 3), plastic back, plastic frame",
+        "SIM": "Micro-SIM"
+      },
+      "Display": {
+        "Type": "Super AMOLED",
+        "Size": "5.0 inches, 68.9 cm<sup>2</sup> (~72.3% screen-to-body ratio)",
+        "Resolution": "1080 x 1920 pixels, 16:9 ratio (~441 ppi density)",
+        "Protection": "Corning Gorilla Glass 3"
+      },
+      "Platform": {
+        "OS": "Android 4.2.2 (Jelly Bean), upgradable to 5.0 (Lollipop), TouchWiz UI",
+        "Chipset": "Qualcomm APQ8064T Snapdragon 600",
+        "CPU": "Quad-core 1.9 GHz Krait 300",
+        "GPU": "Adreno 320"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "16GB 2GB RAM, 32GB 2GB RAM, 64GB 2GB RAM"
+      },
+      "Main Camera": {
+        "Single": "13 MP, f/2.2, 31mm (standard), 1/3.1\", 1.14µm, AF",
+        "Features": "LED flash, HDR",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "2 MP, f/2.4, 31mm (standard)",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA, hotspot",
+        "Bluetooth": "4.0, A2DP, EDR, LE, aptX",
+        "Positioning": "GPS, GLONASS",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "microUSB 2.0 (MHL 2 TV-out), OTG"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, proximity, compass, barometer, temperature, humidity, gesture",
+        "Features": "ANT+\n\nS-Voice natural language commands and dictation\n\nAir gestures"
+      },
+      "Battery": {
+        "Type": "Li-Ion 2600 mAh, removable",
+        "Charging": "Wireless (Qi) (market dependent)",
+        "Stand-by": "Up to 350 h (3G)",
+        "Talk time": "Up to 17 h (3G)",
+        "Music play": "Up to 62 h"
+      },
+      "Misc": {
+        "Colors": "White Frost, Black Mist, Aurora Red (AT&amp;T only), Arctic Blue, Purple Mirage, Brown Autumn, Pink Twilight, Black Edition",
+        "Models": "GT-I9505, GT-I9515, SGH-I337, SC-04E, GT-I9515L",
+        "SAR": "0.77 W/kg (head) &nbsp; &nbsp; 1.17 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.28 W/kg (head) &nbsp; &nbsp; 0.40 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 330 EUR"
+      },
+      "Our Tests": {
+        "Display": "<a class=\"noUnd\" href=\"samsung_galaxy_s4-review-914p3.php\">Contrast ratio: Infinite (nominal) / 3.352:1 (sunlight)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=5371&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=5371&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"samsung_galaxy_s4-review-914p7.php\">Voice 70dB / Noise 66dB / Ring 77dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"samsung_galaxy_s4-review-914p8.php#aq\">Noise -95.9dB / Crosstalk -96.4dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 5371); \">Endurance rating 69h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s-4-i9500-black-mist.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s-4-i9500-black-edition.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s4-i9500-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s4-i9500-white.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s4-i9505-pink-purple.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_i9505_galaxy_s4-pictures-5371.php"
+    }
+  }
+}

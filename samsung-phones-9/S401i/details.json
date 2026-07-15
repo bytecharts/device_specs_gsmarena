@@ -1,0 +1,90 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung S401i",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-s401i-00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-s401i.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2006, July",
+    "dimensions": "75g, 19.8mm thickness",
+    "os": "Feature phone",
+    "storage": "25MB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "GPRS": "Class 10",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2006, July",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "88 x 44 x 19.8 mm (3.46 x 1.73 x 0.78 in)",
+        "Weight": "75 g (2.65 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 65K colors",
+        "Size": "",
+        "Resolution": "128 x 160 pixels",
+        "Features": "Second external STN display, 65K colors, 96 x 96 pixels\n\nWallpaper"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "1000 entries",
+        "Call records": "10 dialed, 10 received, 10 missed calls",
+        "Internal": "25MB"
+      },
+      "Main Camera": {
+        "Single": "VGA",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "Yes",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": "Proprietary"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, EMS, MMS",
+        "Browser": "iMode",
+        "Games": "2",
+        "Java": "Yes, DoJa 1.5",
+        "Features": "MP3/AAC player\n\nOrganizer"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 800 mAh battery",
+        "Stand-by": "Up to 200 h",
+        "Talk time": "Up to 4 h"
+      },
+      "Misc": {
+        "Colors": "Black"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-s401i-00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_s401i-pictures-1629.php"
+    }
+  }
+}

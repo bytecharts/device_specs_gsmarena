@@ -1,0 +1,84 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Sony Xperia LT29i Hayabusa",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sony-xperia-lt29i-hayabusa.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/sony-xperia-lt29i-hayabusa.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released Exp. announcement 2012, August",
+    "dimensions": "127g, 10.8mm thickness",
+    "os": "Android 4.0",
+    "storage": "1GB RAM storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA",
+        "Speed": "HSPA 21.1/5.76 Mbps",
+        "GPRS": "Up to 86 kbps",
+        "EDGE": "Up to 237 kbps"
+      },
+      "Launch": {
+        "Announced": "Exp. announcement 2012, August",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "8.6mm thick",
+        "Weight": "127g (4.48 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "LED-backlit LCD,",
+        "Size": "4.6 inches, 58.3 cm<sup>2</sup> (~64.5% screen-to-body ratio)",
+        "Resolution": "720 x 1280 pixels, 16:9 ratio (~319 ppi density)",
+        "Protection": "Scratch-resistant glass"
+      },
+      "Platform": {
+        "OS": "Android 4.0 (Ice Cream Sandwich)",
+        "Chipset": "Qualcomm MSM8960 Snapdragon S4 Plus",
+        "CPU": "Dual-core 1.5 GHz Krait",
+        "GPU": "Adreno 225"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Internal": "1GB RAM"
+      },
+      "Main Camera": {
+        "Single": "13 MP, AF",
+        "Features": "LED flash, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "Yes",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, DLNA, hotspot",
+        "Bluetooth": "2.1, A2DP, EDR",
+        "Positioning": "GPS, A-GPS",
+        "NFC": "Yes",
+        "USB": "microUSB 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, proximity, compass",
+        "Features": "HDMI port\n\nMP4/H.264/WMV player\n\nMP3/eAAC+/WMA/WAV player\n\nTrackID music recognition\n\nDocument viewer\n\nVoice memo/dial/commands\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1700 mAh battery"
+      },
+      "Misc": {
+        "Colors": "Black"
+      }
+    }
+  }
+}

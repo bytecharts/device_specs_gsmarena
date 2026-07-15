@@ -1,0 +1,112 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Sony Xperia C",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/sony/sony-xperia-c1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/sony-xperia-c.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/sony_xperia_c-review-1020.php",
+    "siblingDeviceSlugs": [
+      "sony_xperia_1_viii_5g-14660",
+      "sony_xperia_1_vii_5g-13843",
+      "sony_xperia_1_v-12263",
+      "sony_xperia_10_vii_5g-14137",
+      "sony_xperia_5_iv-11838",
+      "sony_xperia_1_vi-13003"
+    ],
+    "release_date": "Released 2013, July",
+    "dimensions": "153g, 8.9mm thickness",
+    "os": "Android 4.2.2",
+    "storage": "4GB 1GB RAM storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 900 / 1800 / 1900 - SIM 1 &amp; SIM 2",
+        "3G bands": "HSDPA 900 / 2100",
+        "Speed": "HSPA 42.2/11.5 Mbps"
+      },
+      "Launch": {
+        "Announced": "2013, June. Released 2013, July",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "141.5 x 74.2 x 8.9 mm (5.57 x 2.92 x 0.35 in)",
+        "Weight": "153 g (5.40 oz)",
+        "SIM": "Dual SIM (Micro-SIM, dual stand-by)"
+      },
+      "Display": {
+        "Type": "TFT",
+        "Size": "5.0 inches, 68.9 cm<sup>2</sup> (~65.6% screen-to-body ratio)",
+        "Resolution": "540 x 960 pixels, 16:9 ratio (~220 ppi density)",
+        "Protection": "Yes"
+      },
+      "Platform": {
+        "OS": "Android 4.2.2 (Jelly Bean)",
+        "Chipset": "Mediatek MT6589 (28 nm)",
+        "CPU": "Quad-core 1.2 GHz Cortex-A7",
+        "GPU": "PowerVR SGX544"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Internal": "4GB 1GB RAM"
+      },
+      "Main Camera": {
+        "Single": "8 MP, f/2.6, AF",
+        "Features": "LED flash, HDR",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "VGA",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, DLNA, hotspot",
+        "Bluetooth": "4.0, A2DP",
+        "Positioning": "GPS",
+        "NFC": "No",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": "microUSB 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Ion 2390 mAh, non-removable",
+        "Stand-by": "Up to 588 h (2G) / Up to 605 h (3G)",
+        "Talk time": "Up to 14 h (2G) / Up to 12 h 25 min (3G)",
+        "Music play": "Up to 111 h"
+      },
+      "Misc": {
+        "Colors": "Black, White, Purple",
+        "Models": "C2305",
+        "SAR": "0.54 W/kg (head) &nbsp; &nbsp; 0.36 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.52 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 220 EUR"
+      },
+      "Our Tests": {
+        "Display": "<a class=\"noUnd\" href=\"sony_xperia_c-review-1020p2.php\">Contrast ratio: 962:1 (nominal), 1.283 (sunlight)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=5541&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=5541&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"sony_xperia_c-review-1020p6.php\">Voice 65dB / Noise 61dB / Ring 75dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"sony_xperia_c-review-1020p7.php\">Noise -83.5dB / Crosstalk -80.1dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 5541); \">Endurance rating 68h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/sony/sony-xperia-c1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/sony/sony-xperia-c.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/sony_xperia_c-pictures-5541.php"
+    }
+  }
+}

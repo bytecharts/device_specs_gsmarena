@@ -1,0 +1,91 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung S5330 Wave533",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-wave2-pro-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-wave2-pro.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2010, October",
+    "dimensions": "118g, 15.2mm thickness",
+    "os": "bada OS",
+    "storage": "100MB storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "GPRS": "Class 12",
+        "EDGE": "Class 12"
+      },
+      "Launch": {
+        "Announced": "2010, June. Released 2010, October",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "109.5 x 55 x 15.2 mm (4.31 x 2.17 x 0.60 in)",
+        "Weight": "118 g (4.16 oz)",
+        "Keyboard": "QWERTY",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT,  256K colors",
+        "Size": "3.2 inches, 29.1 cm<sup>2</sup> (~48.4% screen-to-body ratio)",
+        "Resolution": "240 x 400 pixels, 5:3 ratio (~146 ppi density)",
+        "Features": "TouchWiz UI 3.0"
+      },
+      "Platform": {
+        "OS": "bada OS"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Internal": "100MB"
+      },
+      "Main Camera": {
+        "Single": "3.15 MP",
+        "Video": "320p@15fps"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+        "Bluetooth": "3.0, A2DP",
+        "Positioning": "GPS, A-GPS",
+        "Radio": "Stereo FM radio, RDS, recording",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer",
+        "Browser": "WAP 2.0/xHTML, HTML",
+        "Features": "MP3/WAV/eAAC+ player\n\nMP4/H.264 player\n\nOrganizer\n\nMusic Recognition\n\nPhoto editor\n\nVoice memo\n\nPredictive text input (T9 Trace)"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1200 mAh battery",
+        "Stand-by": "Up to 1090 h",
+        "Talk time": "Up to 14 h"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "SAR": "0.35 W/kg (head) &nbsp; &nbsp; 0.65 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.32 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 150 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-wave2-pro-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_s5330_wave533-pictures-3399.php"
+    }
+  }
+}

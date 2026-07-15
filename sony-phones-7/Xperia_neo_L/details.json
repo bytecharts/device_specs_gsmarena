@@ -1,0 +1,110 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Sony Xperia neo L",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/sony/sony-xperia-neo-l.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/sony-xperia-neo-l.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/sony_xperia_neo_l-review-796.php",
+    "siblingDeviceSlugs": [
+      "sony_xperia_1_viii_5g-14660",
+      "sony_xperia_1_vii_5g-13843",
+      "sony_xperia_1_v-12263",
+      "sony_xperia_10_vii_5g-14137",
+      "sony_xperia_5_iv-11838",
+      "sony_xperia_1_vi-13003"
+    ],
+    "release_date": "Released 2012, June",
+    "dimensions": "131.5g, 12.2mm thickness",
+    "os": "Android 4.0.4",
+    "storage": "1GB storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 900 / 2100",
+        "Speed": "HSPA 7.2/5.76 Mbps"
+      },
+      "Launch": {
+        "Announced": "2012, March. Released 2012, June",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "121 x 61.1 x 12.2 mm (4.76 x 2.41 x 0.48 in)",
+        "Weight": "131.5 g (4.62 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "LED-backlit LCD,",
+        "Size": "4.0 inches, 44.1 cm<sup>2</sup> (~59.6% screen-to-body ratio)",
+        "Resolution": "480 x 854 pixels, 16:9 ratio (~245 ppi density)",
+        "Features": "Timescape UI"
+      },
+      "Platform": {
+        "OS": "Android 4.0.4 (Ice Cream Sandwich)",
+        "Chipset": "Qualcomm MSM8255 Snapdragon S2",
+        "CPU": "1.0 GHz Scorpion",
+        "GPU": "Adreno 205"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Internal": "1GB (300MB user available), 512MB RAM"
+      },
+      "Main Camera": {
+        "Single": "5 MP, AF",
+        "Features": "LED flash",
+        "Video": "720p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "VGA",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, DLNA, hotspot",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS, A-GPS",
+        "Radio": "No",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity, compass",
+        "Features": "MP4/H.264/WMV player\n\nMP3/WMA/WAV/eAAC+ player\n\nTrackID music recognition\n\nOrganizer\n\nDocument viewer\n\nVoice memo/dial/commands\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Po 1500 mAh battery",
+        "Stand-by": "Up to 575 h (2G) / Up to 410 h (3G)",
+        "Talk time": "Up to 7 h 53 min (2G) / Up to 7 h 9 min (3G)",
+        "Music play": "Up to 37 h"
+      },
+      "Misc": {
+        "Colors": "Black, White",
+        "Models": "M25i",
+        "SAR": "0.84 W/kg (head) &nbsp; &nbsp; 0.46 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "1.01 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 150 EUR"
+      },
+      "Our Tests": {
+        "Display": "<a class=\"noUnd\" href=\"sony_xperia_neo_l-review-796p2.php\">Contrast ratio: 1097:1 (nominal) / 1.169:1 (sunlight)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=4647&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=4647&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"sony_xperia_neo_l-review-796p4.php\">Voice 65dB / Noise 65dB / Ring 76dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"sony_xperia_neo_l-review-796p5.php#aq\">Noise -85.6dB / Crosstalk -85.6dB</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/sony/sony-xperia-neo-l.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/sony_xperia_neo_l-pictures-4647.php"
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung P500",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/sap500_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/ssp410.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Cancelled",
+    "dimensions": "93g, 23mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "GPRS": "Class 8",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2003, Q2",
+        "Status": "Cancelled"
+      },
+      "Body": {
+        "Dimensions": "90 x 46 x 23 mm (3.54 x 1.81 x 0.91 in)",
+        "Weight": "93 g (3.28 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFD, 65K colors",
+        "Size": "",
+        "Resolution": "128 x 160 pixels",
+        "Features": "Second external OLED 256 color display\n\nFour way navigation keys"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "500 x 6 fields, contact groups",
+        "Call records": "10 dialed, 10 received, 10 missed calls",
+        "Features": "3 MB internal memory for photos\n\n18 voice dial numbers\n\nMessage templates"
+      },
+      "Main Camera": {
+        "Single": "VGA",
+        "Video": "No"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Downloadable polyphonic ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, EMS, MMS",
+        "Browser": "WAP 1.2.1",
+        "Clock": "Yes",
+        "Alarm": "Yes",
+        "Games": "3 - Bowling, CityRacer, HoneyBust",
+        "Java": "No",
+        "Features": "Predictive text input\n\nOrganizer\n\nVoice commands and dial\n\nVoice memo\n\nMenu shortcuts\n\nWorld clock\n\nNokia compatible melodies"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 900 mAh battery",
+        "Stand-by": "Up to 120 h",
+        "Talk time": "Up to 4 h 30 min"
+      },
+      "Misc": {
+        "Colors": ""
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/sap500_00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_p500-pictures-438.php"
+    }
+  }
+}

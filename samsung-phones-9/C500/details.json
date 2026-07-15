@@ -1,0 +1,90 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung C500",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-c500-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-c500.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2007, October",
+    "dimensions": "76g, 17.8mm thickness",
+    "os": "Feature phone",
+    "storage": "2MB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "GPRS": "Class 10",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2007, October",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "83.4 x 44.5 x 17.8 mm (3.28 x 1.75 x 0.70 in)",
+        "Weight": "76 g (2.68 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 65K colors",
+        "Size": "1.77 inches, 9.9 cm<sup>2</sup> (~26.6% screen-to-body ratio)",
+        "Resolution": "128 x 160 pixels (~116 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "1000 entries",
+        "Call records": "20 dialed, received, missed calls",
+        "Internal": "2MB"
+      },
+      "Main Camera": {
+        "Single": "VGA",
+        "Video": "No"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, EMS, MMS",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "Yes",
+        "Java": "No",
+        "Features": "Converter\n\nCalculator\n\nBuilt-in speakerphone\n\nPredictive text input\n\nVoice memo"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 800 mAh battery",
+        "Stand-by": "Up to 220 h",
+        "Talk time": "Up to 5 h"
+      },
+      "Misc": {
+        "Colors": "Black, Red",
+        "SAR EU": "0.96 W/kg (head) &nbsp; &nbsp;"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-c500-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-c500-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_c500-pictures-2546.php"
+    }
+  }
+}

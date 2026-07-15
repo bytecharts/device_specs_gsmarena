@@ -1,0 +1,95 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Star Deluxe Duos S5292",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-s5292-star-deluxe-duos.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-s5292-star-deluxe-duos-new.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2013, May",
+    "dimensions": "109g, 11.8mm thickness",
+    "os": "Feature phone",
+    "storage": "microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 &amp; SIM 2",
+        "GPRS": "Yes",
+        "EDGE": "Yes"
+      },
+      "Launch": {
+        "Announced": "2012, December. Released 2013, May",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "113 x 61.9 x 11.8 mm (4.45 x 2.44 x 0.46 in)",
+        "Weight": "109 g (3.84 oz)",
+        "SIM": "Dual SIM (Mini-SIM, dual stand-by)"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "3.5 inches, 36.5 cm<sup>2</sup> (~52.1% screen-to-body ratio)",
+        "Resolution": "320 x 480 pixels, 3:2 ratio (~165 ppi density)"
+      },
+      "Platform": {
+        "CPU": "312 MHz"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Phonebook": "Yes",
+        "Call records": "Yes"
+      },
+      "Main Camera": {
+        "Single": "3.15 MP",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n",
+        "Bluetooth": "3.0, A2DP",
+        "Positioning": "No",
+        "NFC": "No",
+        "Radio": "No",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer",
+        "Messaging": "SMS(threaded view), MMS, Email, IM",
+        "Games": "Yes + downloadable",
+        "Java": "Yes",
+        "Features": "SNS integration\n\nMP4/H.264 player\n\nMP3/WAV/eAAC+ player\n\nOrganizer\n\nPhoto viewer\n\nVoice memo\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Li-Ion 1000 mAh, removable",
+        "Stand-by": "Up to 440 h",
+        "Talk time": "Up to 15 h"
+      },
+      "Misc": {
+        "Colors": "Black, White, Brown",
+        "Models": "GT-S5292",
+        "SAR": "1.01 W/kg (head) &nbsp; &nbsp; 0.49 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.50 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 110 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-s5292-star-deluxe-duos.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-s5292-star-deluxe-duos-white.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_star_deluxe_duos_s5292-pictures-5059.php"
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung E1125",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-e1125-00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-e1125.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2009, August",
+    "dimensions": "96g, 15.5mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2009, January. Released 2009, August",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "106 x 47 x 15.5 mm (4.17 x 1.85 x 0.61 in)",
+        "Weight": "96 g (3.39 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "CSTN, 65K colors",
+        "Size": "1.52 inches, 7.5 cm<sup>2</sup> (~15.0% screen-to-body ratio)",
+        "Resolution": "128 x 128 pixels, 1:1 ratio (~119 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "1000 entries",
+        "Call records": "30 dialed, 30 received, 30 missed calls"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Radio": "FM radio",
+        "USB": "2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS",
+        "Browser": "No",
+        "Games": "Yes + downloadable",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "MP3 player\n\nOrganizer\n\nVoice memo\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 800 mAh battery",
+        "Stand-by": "Up to 500 h",
+        "Talk time": "Up to 8 h 20 min"
+      },
+      "Misc": {
+        "Colors": "Grey",
+        "SAR EU": "0.63 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 70 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-e1125-00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_e1125-pictures-2675.php"
+    }
+  }
+}

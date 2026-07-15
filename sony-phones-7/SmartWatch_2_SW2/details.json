@@ -1,0 +1,86 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Sony SmartWatch 2 SW2",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/sony/sony-smartwatch-2-4.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/sony-smartwatch-2.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/sony_xperia_z1_ifa_2013-review-977.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2013, October",
+    "dimensions": "122.5g, 9mm thickness",
+    "os": "Android OS compatible",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">No cellular connectivity</a>",
+        "2G bands": "N/A",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2013, June. Released 2013, October",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "42 x 41 x 9 mm (1.65 x 1.61 x 0.35 in)",
+        "Weight": "122.5 g (4.34 oz)",
+        "Build": "Glass front, aluminum frame",
+        "SIM": "No",
+        "Features": "IP57 dust/water resistant (up to 1m. and 30 min)\n\nCompatible with standard 24mm straps"
+      },
+      "Display": {
+        "Type": "TFT, 65K colors",
+        "Size": "1.6 inches",
+        "Resolution": "220 x 176 pixels (~176 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android OS compatible"
+      },
+      "Memory": {
+        "Card slot": "No"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "3.0",
+        "Positioning": "No",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "microUSB"
+      },
+      "Features": {
+        "Sensors": "Yes",
+        "Features": "MP3 player\n\nVoice dial/commands"
+      },
+      "Battery": {
+        "Type": "Li-Ion 225 mAh, removable"
+      },
+      "Misc": {
+        "Colors": "Leather Brown, Black, Silver",
+        "Price": "About 80 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/sony/sony-smartwatch-2-4.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/sony/sony-smartwatch-2-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/sony/sony-smartwatch-2-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/sony/sony-smartwatch-2-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/sony_smartwatch_2_sw2-pictures-7719.php"
+    }
+  }
+}

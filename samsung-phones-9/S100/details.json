@@ -1,0 +1,82 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung S100",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sss100.gif",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/sss100.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2002",
+    "dimensions": "92g, 23mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "GPRS": "Class 8",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2002",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "89 x 47 x 23 mm, 94 cc (3.50 x 1.85 x 0.91 in)",
+        "Weight": "92 g (3.25 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "STN, 65K colors",
+        "Size": "",
+        "Resolution": "128 x 160 pixels",
+        "Features": "Second external display 96 x 64 pixels\n\nFour way navigation keys\n\nDynamic font size"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "500 entries, contact groups",
+        "Call records": "20 dialed, 20 received, 20 missed calls",
+        "Features": "Message templates"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Downloadable polyphonic ringtones, composer",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, EMS",
+        "Browser": "WAP 1.2.1",
+        "Clock": "Yes",
+        "Alarm": "Yes",
+        "Games": "Yes",
+        "Java": "Yes",
+        "Features": "Predictive text input\n\nVoice commands and dial\n\nVoice memo\n\nOrganizer\n\nSpeed dial\n\nMenu shortcuts\n\nWorld clock\n\nNokia compatible melodies"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion battery",
+        "Stand-by": "180 h",
+        "Talk time": "6 h"
+      },
+      "Misc": {
+        "Colors": ""
+      }
+    }
+  }
+}

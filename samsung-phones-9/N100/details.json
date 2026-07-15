@@ -1,0 +1,91 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung N100",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/ssn100_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/ssn100.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2000",
+    "dimensions": "83g with slim battery, 17.5mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2000",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "105 x 42 x 17.5 mm (4.13 x 1.65 x 0.69 in)",
+        "Weight": "83 g with slim battery (2.93 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "Monochrome graphic",
+        "Size": "",
+        "Resolution": "124 x 64 pixels, 4 lines",
+        "Features": "Aqua green back-lighting\n\nFixed icons\n\nDynamic font size \n\nSoftkey"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "100",
+        "Call records": "10 dialed, 10 received, 10 missed calls",
+        "Features": "5 message templates\n\n20 voice dial numbers\n\n140 sec voice memo"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Monophonic ringtones, composer",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS",
+        "Browser": "WAP 1.1",
+        "Clock": "Yes",
+        "Alarm": "Yes",
+        "Games": "11",
+        "Java": "No",
+        "Features": "Voice dial\n\nVoice memo\n\nOrganizer\n\nSpeed dial\n\nBuilt-in type ear microphone\n\nMenu shortcuts\n\nWorld clock"
+      },
+      "Battery": {
+        "Type": "Slim battery",
+        "Stand-by": "55 h",
+        "Talk time": "2 h 30 min"
+      },
+      "Misc": {
+        "Colors": "3"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/ssn100_00.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/ssn100_01.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/ssn100_02.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/ssn100_03.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_n100-pictures-212.php"
+    }
+  }
+}

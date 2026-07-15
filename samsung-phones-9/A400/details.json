@@ -1,0 +1,82 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung A400",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ssa400.gif",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/ssa400.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2001, Q4",
+    "dimensions": "80g, 20mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2001, Q4",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "70 x 48 x 20 mm (2.76 x 1.89 x 0.79 in)",
+        "Weight": "80 g (2.82 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "Grayscale graphic, 4 shades",
+        "Size": "",
+        "Resolution": "128 x  96 pixels, 6 lines",
+        "Features": "Four way navigation keys \n\nDynamic font size\n\nSoftkeys"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "100 entries, 5 contact groups",
+        "Call records": "10 dialed, 10 received, 10 missed calls",
+        "Features": "Message templates"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Monophonic ringtones, composer",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS",
+        "Browser": "WAP 1.1",
+        "Clock": "Yes",
+        "Alarm": "Yes",
+        "Games": "Yes",
+        "Java": "No",
+        "Features": "Predictive text input\n\nOrganizer\n\nSpeed dial\n\nMenu shortcuts"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion battery",
+        "Stand-by": "70 h",
+        "Talk time": "2.5 h"
+      },
+      "Misc": {
+        "Colors": ""
+      }
+    }
+  }
+}

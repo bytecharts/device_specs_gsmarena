@@ -1,0 +1,96 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy S Relay 4G T699",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/galaxy-s-relay-4g-000.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s-relay-4g.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_galaxy_s_relay_4g-review-826.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2012, September",
+    "dimensions": "147g, 13.5mm thickness",
+    "os": "Android 4.0",
+    "storage": "8GB storage, microSDHC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 1700 / 1900 / 2100",
+        "Speed": "HSPA 42.2/5.76 Mbps"
+      },
+      "Launch": {
+        "Announced": "2012, September. Released 2012, September",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "126 x 66 x 13.5 mm (4.96 x 2.60 x 0.53 in)",
+        "Weight": "147 g (5.19 oz)",
+        "Keyboard": "QWERTY",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "Super AMOLED",
+        "Size": "4.0 inches, 45.5 cm<sup>2</sup> (~54.8% screen-to-body ratio)",
+        "Resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 4.0 (Ice Cream Sandwich)",
+        "Chipset": "Qualcomm MSM8960 Snapdragon S4 Plus",
+        "CPU": "Dual-core 1.5 GHz Krait",
+        "GPU": "Adreno 225"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Internal": "8GB 1GB RAM"
+      },
+      "Main Camera": {
+        "Single": "5 MP, AF",
+        "Features": "LED flash",
+        "Video": "720p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "1.3MP",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, DLNA, hotspot",
+        "Bluetooth": "3.0, A2DP",
+        "Positioning": "GPS, A-GPS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, proximity, compass",
+        "Features": "MP4/DivX/XviD/WMV/H.264 player\n\nMP3/WAV/eAAC+/FLAC player\n\nPhoto/video editor\n\nDocument editor"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1800 mAh battery",
+        "Stand-by": "Up to 312 h",
+        "Talk time": "Up to 10 h"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "SAR": "0.47 W/kg (head) &nbsp; &nbsp; 1.05 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.21 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 150 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/galaxy-s-relay-4g-000.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_s_relay_4g_t699-pictures-4914.php"
+    }
+  }
+}

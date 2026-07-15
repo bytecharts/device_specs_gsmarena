@@ -1,0 +1,93 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung i7110",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-i7110-3.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-i7110.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_i7110-review-292.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2009, February",
+    "dimensions": "125g, 12.9mm thickness",
+    "os": "Symbian 9.3, Series 60 rel. 3.2",
+    "storage": "78MB storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 900 / 2100",
+        "Speed": "HSPA 3.6/0.384 Mbps"
+      },
+      "Launch": {
+        "Announced": "2008, October. Released 2009, February",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "118 x 52 x 12.9 mm (4.65 x 2.05 x 0.51 in)",
+        "Weight": "125 g (4.41 oz)",
+        "SIM": "Mini-SIM",
+        "Features": "Optical trackpad"
+      },
+      "Display": {
+        "Type": "AMOLED, 256K colors",
+        "Size": "2.6 inches, 20.9 cm<sup>2</sup> (~34.1% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~154 ppi density)"
+      },
+      "Platform": {
+        "OS": "Symbian 9.3, Series 60 rel. 3.2"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Internal": "78MB"
+      },
+      "Main Camera": {
+        "Single": "5 MP, AF",
+        "Features": "LED flash",
+        "Video": "480p@30fps, 320p@120fps"
+      },
+      "Selfie camera": {
+        "Features": "Videocall camera"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g, DLNA",
+        "Bluetooth": "2.0, A2DP",
+        "Positioning": "GPS, A-GPS",
+        "Radio": "Stereo FM radio, RDS; FM transmitter",
+        "USB": "2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer",
+        "Browser": "WAP 2.0/xHTML, HTML",
+        "Features": "AVI(DiVX/XviD)/WMV/RV/MP4/3GP player\n\nMP3/WMA/WAV/RA/AAC/M4A player\n\nTV-out\n\nOrganizer\n\nVoice memo/dial\n\nТ9"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1200 mAh battery",
+        "Stand-by": "Up to 430 h (2G) / 440 h (3G)",
+        "Talk time": "Up to 11 h (2G) / 5 h 50 min (3G)"
+      },
+      "Misc": {
+        "Colors": "Silver on Black",
+        "SAR": "0.48 W/kg (head) &nbsp; &nbsp; 0.48 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.82 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 170 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-i7110-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-i7110-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_i7110-pictures-2559.php"
+    }
+  }
+}

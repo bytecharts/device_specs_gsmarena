@@ -1,0 +1,92 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung T459 Gravity",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-gravity-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-gravity.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2008, November",
+    "dimensions": "121.9g, 17.8mm thickness",
+    "os": "Feature phone",
+    "storage": "microSD slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "GPRS": "Class 10",
+        "EDGE": "Class 10"
+      },
+      "Launch": {
+        "Announced": "2008, November. Released 2008, November",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "114.3 x 53.3 x 17.8 mm (4.5 x 2.10 x 0.70 in)",
+        "Weight": "121.9 g (4.27 oz)",
+        "Keyboard": "QWERTY",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "2.1 inches, 13.9 cm<sup>2</sup> (~22.8% screen-to-body ratio)",
+        "Resolution": "176 x 220 pixels (~134 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "microSD (dedicated slot)",
+        "Phonebook": "1000 entries, Photocall",
+        "Call records": "30 dialed, 30 received, 30 missed calls"
+      },
+      "Main Camera": {
+        "Single": "1.3 MP",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.0, A2DP",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": "2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS, Email",
+        "Browser": "WAP 2.0/xHTML, HTML",
+        "Games": "Yes",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "MP4 player\n\nMP3 player\n\nOrganizer\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion battery",
+        "Stand-by": "Up to 300 h",
+        "Talk time": "Up to 6 h"
+      },
+      "Misc": {
+        "Colors": "Aqua, Lime",
+        "SAR": "0.15 W/kg (head) &nbsp; &nbsp; 0.16 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 90 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-gravity-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-gravity-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-gravity-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_t459_gravity-pictures-2588.php"
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung X510",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-x510-00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-x510.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2006, October",
+    "dimensions": "75g, 19mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "GPRS": "Class 10",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2006, October",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "88 x 44 x 19 mm (3.46 x 1.73 x 0.75 in)",
+        "Weight": "75 g (2.65 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "UFB, 65K colors",
+        "Size": "1.8 inches, 28 x 35 mm, 10.2 cm<sup>2</sup> (~26.3% screen-to-body ratio)",
+        "Resolution": "128 x 160 pixels (~114 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "500 entries",
+        "Call records": "20 dialed, 20 received, 20 missed calls",
+        "Features": "1 MB for pictures\n\n600 KB for ringtones\n\n100 KB for voice memo\n\n700 KB for MMS\n\n512 KB for Java"
+      },
+      "Main Camera": {
+        "Single": "VGA",
+        "Video": "No"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "Alert types": "Vibration; Downloadable polyphonic ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, EMS, MMS",
+        "Browser": "WAP 1.2",
+        "Games": "Yes",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "Predictive text input\n\nOrganizer\n\nVoice memo"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 800 mAh battery",
+        "Stand-by": "Up to 320 h",
+        "Talk time": "Up to 4 h"
+      },
+      "Misc": {
+        "Colors": "Gold, Blue, Black, Red",
+        "SAR": "0.64 W/kg (head) &nbsp; &nbsp; 0.63 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.78 W/kg (head) &nbsp; &nbsp;"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-x510-00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_x510-pictures-1762.php"
+    }
+  }
+}

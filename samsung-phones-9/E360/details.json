@@ -1,0 +1,93 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung E360",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-e360-00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-e360.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2005, Q4",
+    "dimensions": "79g, 22.5mm thickness",
+    "os": "Feature phone",
+    "storage": "44MB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "GPRS": "Class 10",
+        "EDGE": "Class 10"
+      },
+      "Launch": {
+        "Announced": "2005, Q4",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "87 x 45.5 x 22.5 mm (3.43 x 1.79 x 0.89 in)",
+        "Weight": "79 g (2.79 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 65K colors",
+        "Size": "",
+        "Resolution": "128 x 160 pixels",
+        "Features": "Second external OLED display, 65K colors (80 x 64 pixels)"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "1000 entries",
+        "Call records": "20 dialed, 20 received, 20 missed calls",
+        "Internal": "44MB",
+        "Features": "40MB shared\n\n4MB Java\n\n200 short messages"
+      },
+      "Main Camera": {
+        "Single": "VGA",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "1.2",
+        "Positioning": "No",
+        "Radio": "FM radio",
+        "USB": "1.1"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS, Email",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "Forgotten Warrior, Freekick, Arch Angel  + downloadable",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "Push to talk (VoIP service)\n\nSyncML\n\nVoice memo/dial\n\nPredictive text input\n\nOrganizer\n\nPresence enhanced contacts\n\nChangeable textile covers"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 800 mAh battery",
+        "Stand-by": "Up to 200 h",
+        "Talk time": "Up to 3 h 30 min"
+      },
+      "Misc": {
+        "Colors": "Silver",
+        "SAR": "1.07 W/kg (head) &nbsp; &nbsp; 0.34 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.65 W/kg (head) &nbsp; &nbsp;"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-e360-00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_e360-pictures-1343.php"
+    }
+  }
+}

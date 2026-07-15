@@ -1,0 +1,93 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung i907 Epix",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-epix-02.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-epix.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2008, October",
+    "dimensions": "125g, 13mm thickness",
+    "os": "Microsoft Windows Mobile 6.1 Professional",
+    "storage": "150MB RAM storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 1900 / 2100",
+        "Speed": "HSPA 3.6/0.384 Mbps"
+      },
+      "Launch": {
+        "Announced": "2008, October. Released 2008, October",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "116 x 61 x 13 mm (4.57 x 2.40 x 0.51 in)",
+        "Weight": "125 g (4.41 oz)",
+        "Keyboard": "QWERTY",
+        "SIM": "Mini-SIM",
+        "Features": "Optical trackpad"
+      },
+      "Display": {
+        "Type": "TFT resistive touchscreen, 65K colors",
+        "Size": "2.5 inches, 20.2 cm<sup>2</sup> (~28.5% screen-to-body ratio)",
+        "Resolution": "320 x 320 pixels, 1:1 ratio (~181 ppi density)",
+        "Features": "Handwriting recognition"
+      },
+      "Platform": {
+        "OS": "Microsoft Windows Mobile 6.1 Professional",
+        "CPU": "624 MHz"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Internal": "150MB RAM, 256MB ROM"
+      },
+      "Main Camera": {
+        "Single": "2 MP",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g",
+        "Bluetooth": "2.0, A2DP",
+        "Positioning": "GPS, A-GPS",
+        "Radio": "No",
+        "USB": "2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Browser": "WAP 2.0 / HTML",
+        "Features": "AT&amp;T Navigator\n\nPocket Office \n\nVoice memo/dial\n\nMP3/AAC/AAC+/WMA/OGG/AMR player\n\nWMV/MP4 player\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1800 mAh battery",
+        "Stand-by": "Up to 340 h",
+        "Talk time": "Up to 7 h"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "SAR": "1.30 W/kg (head) &nbsp; &nbsp; 0.91 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 90 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-epix-02.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-epix-01.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_i907_epix-pictures-2566.php"
+    }
+  }
+}

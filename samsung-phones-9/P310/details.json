@@ -1,0 +1,94 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung P310",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-p310-00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-p310.gif"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_p310-review-131.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2006, September",
+    "dimensions": "85g, 8.9mm thickness",
+    "os": "Feature phone",
+    "storage": "80MB storage, microSD slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "GPRS": "Class 10",
+        "EDGE": "Yes"
+      },
+      "Launch": {
+        "Announced": "2006, September",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "86 x 54 x 8.9 mm (3.39 x 2.13 x 0.35 in)",
+        "Weight": "85 g (3.00 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "1.9 inches, 38 x 29 mm, 11.2 cm<sup>2</sup> (~24.1% screen-to-body ratio)",
+        "Resolution": "320 x 240 pixels, 4:3 ratio (~211 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "microSD (dedicated slot)",
+        "Phonebook": "1000 x 10 fields, Photo call",
+        "Call records": "30 dialed, 30 received, 30 missed calls",
+        "Internal": "80MB",
+        "Features": "200 short messages\n\n400 organiser events"
+      },
+      "Main Camera": {
+        "Single": "2 MP",
+        "Features": "LED flash",
+        "Video": "CIF"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "1.2, A2DP",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": "Proprietary"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, EMS, MMS, Email",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "Yes + Java downloadable",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "MP3/AAC/AAC+ player\n\nMP4 player\n\nDocument viewer (Word, Excel, PowerPoint, PDF)\n\nTV-out (optional cable)\n\nOrganizer\n\nVoice memo\n\nSyncML"
+      },
+      "Battery": {
+        "Type": "Removable Li-Po 550 mAh battery",
+        "Stand-by": "Up to 300 h",
+        "Talk time": "Up to 6 h"
+      },
+      "Misc": {
+        "Colors": "Silver",
+        "SAR EU": "1.00 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 210 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-p310-00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_p310-pictures-1682.php"
+    }
+  }
+}

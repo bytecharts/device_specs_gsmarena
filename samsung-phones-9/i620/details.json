@@ -1,0 +1,100 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung i620",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-i620-00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-i620.gif"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_i620-review-234.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2007, October",
+    "dimensions": "126.2g, 16.3mm thickness",
+    "os": "Microsoft Windows Mobile 6.0 Standard Edition",
+    "storage": "80MB 64MB RAM 128MB ROM storage, microSD slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "3G bands": "HSDPA 2100",
+        "Speed": "HSPA 1.8 Mbps"
+      },
+      "Launch": {
+        "Announced": "2007, June. Released 2007, October",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "94.9 x 59.3 x 16.3 mm (3.74 x 2.33 x 0.64 in)",
+        "Weight": "126.2 g (4.44 oz)",
+        "Keyboard": "QWERTY",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 65K colors",
+        "Size": "2.2 inches, 15.0 cm<sup>2</sup> (~26.6% screen-to-body ratio)",
+        "Resolution": "320 x 240 pixels, 4:3 ratio (~182 ppi density)"
+      },
+      "Platform": {
+        "OS": "Microsoft Windows Mobile 6.0 Standard Edition",
+        "Chipset": "TI OMAP 1710",
+        "CPU": "220 MHz ARM926EJ-S"
+      },
+      "Memory": {
+        "Card slot": "microSD (dedicated slot)",
+        "Internal": "80MB 64MB RAM 128MB ROM"
+      },
+      "Main Camera": {
+        "Single": "2 MP",
+        "Features": "LED flash",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Single": "VGA videocall camera",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.0, A2DP",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": "miniUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Browser": "WAP 2.0/xHTML, HTML(Opera), RSS feeds",
+        "Features": "WMV/3GP/H.263/MP4 player\n\nWMA/MP3/AAC/AAC+/OGG/ASF player\n\nOrganizer\n\nPocket Office"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1200 mAh battery",
+        "Stand-by": "Up to 320 h",
+        "Talk time": "Up to 6 h 30 min"
+      },
+      "Misc": {
+        "Colors": "Silver, Black, Pink",
+        "SAR": "0.33 W/kg (head) &nbsp; &nbsp; 0.29 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.38 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 130 EUR"
+      },
+      "Our Tests": {
+        "Loudspeaker": "<a class=\"noUnd\" href=\"samsung_i620-review-234p3.php\">Voice 75dB / Noise 73dB / Ring 82dB</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-i620-00.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-i620-01.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_i620-pictures-1998.php"
+    }
+  }
+}

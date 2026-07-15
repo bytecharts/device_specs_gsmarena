@@ -1,0 +1,97 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung B7300 OmniaLITE",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-omnia-lite-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-omnia-lite.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_b7300_omnialite-review-410.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2009, September",
+    "dimensions": "103g, 12.9mm thickness",
+    "os": "Microsoft Windows Mobile 6.1 Professional",
+    "storage": "250MB storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 900 / 2100",
+        "Speed": "HSPA 3.6/0.384 Mbps"
+      },
+      "Launch": {
+        "Announced": "2009, June. Released 2009, September",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "107 x 51.8 x 12.9 mm (4.21 x 2.04 x 0.51 in)",
+        "Weight": "103 g (3.63 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT resistive touchscreen, 65K colors",
+        "Size": "3.0 inches, 25.6 cm<sup>2</sup> (~46.2% screen-to-body ratio)",
+        "Resolution": "240 x 400 pixels, 5:3 ratio (~155 ppi density)",
+        "Features": "TouchWiz v2.0 UI"
+      },
+      "Platform": {
+        "OS": "Microsoft Windows Mobile 6.1 Professional, upgradable to Windows Mobile 6.5",
+        "CPU": "800MHz ARM 1176"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Internal": "250MB"
+      },
+      "Main Camera": {
+        "Single": "3.15 MP, AF",
+        "Video": "480p@15fps"
+      },
+      "Selfie camera": {
+        "Features": "Videocall camera"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g, DLNA",
+        "Bluetooth": "2.1, A2DP",
+        "Positioning": "GPS, A-GPS",
+        "Radio": "Stereo FM radio, RDS and recording",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer",
+        "Browser": "WAP 2.0/xHTML, HTML (Opera)",
+        "Features": "DviX/XviD/MP4/H.264/WMV9 player\n\nMP3/AAC/WMA player\n\nOrganizer\n\nPocket Office \n\nVoice memo\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1500 mAh battery",
+        "Stand-by": "Up to 650 h",
+        "Talk time": "Up to 9 h"
+      },
+      "Misc": {
+        "Colors": "Black, blue, red",
+        "SAR": "0.74 W/kg (head) &nbsp; &nbsp; 0.51 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.79 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 150 EUR"
+      },
+      "Our Tests": {
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=2837&amp;nSuggest=1\">Photo</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"samsung_b7300_omnialite-review-410p4.php\">Voice 73dB / Noise 70dB / Ring 73dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"samsung_b7300_omnialite-review-410p6.php#aq\">Noise -90.5dB / Crosstalk -82.8dB</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-omnia-lite-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_b7300_omnialite-pictures-2837.php"
+    }
+  }
+}

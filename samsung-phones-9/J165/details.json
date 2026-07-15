@@ -1,0 +1,91 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung J165",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/Samsung-J165-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-j165.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2009, January",
+    "dimensions": "78g, 13.4mm thickness",
+    "os": "Feature phone",
+    "storage": "8MB storage, microSD slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / UMTS</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "UMTS 850 / 2100",
+        "Speed": "Yes, 384 kbps"
+      },
+      "Launch": {
+        "Announced": "2009, January",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "110.5 x 48.3 x 13.4 mm (4.35 x 1.90 x 0.53 in)",
+        "Weight": "78 g (2.75 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 65K colors",
+        "Size": "",
+        "Resolution": "128 x 160 pixels"
+      },
+      "Memory": {
+        "Card slot": "microSD (dedicated slot)",
+        "Phonebook": "1000 entries, Photocall",
+        "Call records": "Yes",
+        "Internal": "8MB"
+      },
+      "Main Camera": {
+        "Single": "1.3 MP",
+        "Video": "SQCIF@15fps"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.0",
+        "Positioning": "No",
+        "Radio": "FM radio",
+        "USB": "microUSB"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS, Email",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "Yes",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "MP4/3GP player\n\nMP3/AAC+/MIDI player\n\nOrganizer\n\nCurrency converter\n\nVoice memo\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 800 mAh battery",
+        "Stand-by": "Up to 250 h",
+        "Talk time": "Up to 3 h"
+      },
+      "Misc": {
+        "Colors": "Gray",
+        "SAR": "0.76 W/kg (head) &nbsp; &nbsp; 0.59 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.72 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 70 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/Samsung-J165-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_j165-pictures-2797.php"
+    }
+  }
+}

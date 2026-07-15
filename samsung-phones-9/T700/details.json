@@ -1,0 +1,79 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung T700",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sst700.gif",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/sst700.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Cancelled",
+    "dimensions": "76g, 23mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2003, Q1",
+        "Status": "Cancelled"
+      },
+      "Body": {
+        "Dimensions": "73 x 53 x 23 mm (2.87 x 2.09 x 0.91 in)",
+        "Weight": "76 g (2.68 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 65K colors",
+        "Size": "",
+        "Resolution": "128 x 128 pixels, 1:1 ratio",
+        "Features": "Four way navigation keys \n\nDynamic font size"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "Contact groups",
+        "Call records": "10 dialed, 10 received, 10 missed calls",
+        "Features": "Message templates"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Downloadable polyphonic ringtones, composer",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, EMS",
+        "Browser": "WAP 1.2.1",
+        "Clock": "Yes",
+        "Alarm": "Yes",
+        "Games": "",
+        "Java": "No",
+        "Features": "Predictive text input\n\nCalorie Calculator\n\nBio Rhythm\n\nOrganizer\n\nSpeed dial\n\nMenu shortcuts\n\nNokia compatible melodies"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion battery"
+      },
+      "Misc": {
+        "Colors": ""
+      }
+    }
+  }
+}

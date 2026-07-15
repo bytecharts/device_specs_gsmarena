@@ -1,0 +1,98 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung M7600 Beat DJ",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-m7600-beatdj-00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-m7600-beatdj.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_m7600_beat_dj-review-360.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2009, May",
+    "dimensions": "99.7g, 13.9mm thickness",
+    "os": "Feature phone",
+    "storage": "50MB storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / UMTS</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "UMTS 900 / 2100",
+        "Speed": "HSPA"
+      },
+      "Launch": {
+        "Announced": "2009, February. Released 2009, May",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "112 x 51 x 13.9 mm (4.41 x 2.01 x 0.55 in)",
+        "Weight": "99.7 g (3.49 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED",
+        "Size": "2.8 inches, 22.3 cm<sup>2</sup> (~39.1% screen-to-body ratio)",
+        "Resolution": "240 x 400 pixels, 5:3 ratio (~167 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Phonebook": "1000 contacts, Photo call",
+        "Call records": "30 dialed, 30 received, 30 missed calls",
+        "Internal": "50MB"
+      },
+      "Main Camera": {
+        "Single": "3.15 MP, AF",
+        "Features": "LED flash",
+        "Video": "480p@15fps"
+      },
+      "Selfie camera": {
+        "Single": "Yes",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.0, A2DP",
+        "Positioning": "GPS, A-GPS",
+        "Radio": "FM radio, RDS",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer",
+        "Messaging": "SMS, MMS, Email",
+        "Browser": "WAP 2.0/xHTML, HTML",
+        "Games": "Yes + downloadable",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "Beat DJ application\n\nMP3 player\n\nDivX/XviD/WMV/MP4 player\n\nOrganizer\n\nDocument viewer (Word, Excel, PowerPoint, PDF)\n\nVoice memo/dial"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 960 mAh battery",
+        "Stand-by": "Up to 400 h (2G) / Up to 300 h (3G)",
+        "Talk time": "Up to 7 h (2G) / Up to 4 h 30 min (3G)"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "SAR": "0.47 W/kg (head) &nbsp; &nbsp; 0.23 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.73 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 150 EUR"
+      },
+      "Our Tests": {
+        "Loudspeaker": "<a class=\"noUnd\" href=\"samsung_m7600_beat_dj-review-360p3.php\">Voice 75dB / Noise 75dB / Ring 77dB</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-m7600-beatdj-00.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-m7600-beatdj-01.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_m7600_beat_dj-pictures-2684.php"
+    }
+  }
+}

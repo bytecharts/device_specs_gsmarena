@@ -1,0 +1,87 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung B520",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-b520-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-b520.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2009",
+    "dimensions": "94g, 17.5mm thickness",
+    "os": "Feature phone",
+    "storage": "20MB storage, microSD slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "Class 10",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2008, December. Released 2009",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "96 x 47 x 17.5 mm (3.78 x 1.85 x 0.69 in)",
+        "Weight": "94 g (3.32 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "CSTN, 65K colors",
+        "Size": "1.77 inches, 9.9 cm<sup>2</sup> (~21.9% screen-to-body ratio)",
+        "Resolution": "128 x 160 pixels (~116 ppi density)",
+        "Features": "Wallpapers, screensavers"
+      },
+      "Memory": {
+        "Card slot": "microSD (dedicated slot)",
+        "Phonebook": "1000 contacts, Photo call",
+        "Call records": "30 dialed, 30 received, 30 missed calls",
+        "Internal": "20MB"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Radio": "FM radio, recording",
+        "USB": "2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS, Email",
+        "Browser": "WAP 2.0/xHTML, HTML",
+        "Games": "Yes",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "Organizer\n\nVoice memo\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 800 mAh battery",
+        "Stand-by": "Up to 390 h",
+        "Talk time": "Up to 7 h"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "SAR EU": "0.49 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 40 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-b520-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_b520-pictures-2652.php"
+    }
+  }
+}

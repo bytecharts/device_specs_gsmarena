@@ -1,0 +1,86 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung E1050",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-e1050.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-e1050.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2011, Q2",
+    "dimensions": "67.3g, 13.4mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2011, Q2. Released 2011, Q2",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "107.5 x 45.4 x 13.4 mm (4.23 x 1.79 x 0.53 in)",
+        "Weight": "67.3 g (2.36 oz)",
+        "SIM": "Mini-SIM",
+        "Features": "Flashlight"
+      },
+      "Display": {
+        "Type": "CSTN, 65K colors",
+        "Size": "1.43 inches, 6.6 cm<sup>2</sup> (~13.5% screen-to-body ratio)",
+        "Resolution": "128 x 128 pixels, 1:1 ratio (~127 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "1000 entries",
+        "Call records": "Yes"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "Proprietary"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS",
+        "Games": "Yes",
+        "Java": "No",
+        "Features": "Organizer"
+      },
+      "Battery": {
+        "Type": "Li-Ion 800 mAh, removable",
+        "Stand-by": "Up to 615 h",
+        "Talk time": "Up to 8 h 30 min"
+      },
+      "Misc": {
+        "Colors": "Black, White",
+        "SAR EU": "0.79 W/kg (head) &nbsp; &nbsp; 0.41 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 20 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-e1050.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_e1050-pictures-5556.php"
+    }
+  }
+}

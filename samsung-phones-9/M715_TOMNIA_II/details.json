@@ -1,0 +1,89 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung M715 T*OMNIA II",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-m715-TOMNIA-ii-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-m715-TOMNIA-ii.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2009, December",
+    "dimensions": "141g, 13.4mm thickness",
+    "os": "Microsoft Windows Mobile 6.5 Professional",
+    "storage": "microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "GPRS": "Class 10",
+        "EDGE": "Class 10"
+      },
+      "Launch": {
+        "Announced": "2009, November. Released 2009, December",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "117 x 59.8 x 13.4 mm (4.61 x 2.35 x 0.53 in)",
+        "Weight": "141 g (4.97 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED",
+        "Size": "3.7 inches, 39.0 cm<sup>2</sup> (~55.7% screen-to-body ratio)",
+        "Resolution": "480 x 800 pixels, 5:3 ratio (~252 ppi density)",
+        "Features": "TouchWiz UI"
+      },
+      "Platform": {
+        "OS": "Microsoft Windows Mobile 6.5 Professional"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)"
+      },
+      "Main Camera": {
+        "Single": "5 MP, AF",
+        "Features": "LED flash",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g",
+        "Bluetooth": "2.1, A2DP",
+        "Positioning": "GPS, A-GPS",
+        "Radio": "No",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer",
+        "Browser": "WAP 2.0/xHTML, HTML",
+        "Features": "T-DMB TV, Live TV\n\nMP3/WAV/eAAC+/WMA player\n\nMP4/H.264/WMV player\n\nOrganizer\n\nVoice memo\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1500 mAh battery",
+        "Stand-by": "Up to 650 h (2G) / Up to 580 h (3G)",
+        "Talk time": "Up to 6 h 50 min (2G) / Up to 7 h 20 min (3G)"
+      },
+      "Misc": {
+        "Colors": "Rose Black, Deep Blue",
+        "Price": "About 160 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-m715-TOMNIA-ii-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-m715-TOMNIA-ii-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_m715_t*omnia_ii-pictures-3350.php"
+    }
+  }
+}

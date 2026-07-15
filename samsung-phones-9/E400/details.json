@@ -1,0 +1,90 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung E400",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/sse400_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/sse400.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2003, Q2",
+    "dimensions": "88g, 23mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "GPRS": "Class 8",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2003, Q2",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "88 x 42 x 23 mm (3.46 x 1.65 x 0.91 in)",
+        "Weight": "88 g (3.10 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "UFB, 65K colors",
+        "Size": "",
+        "Resolution": "128 x 144 pixels",
+        "Features": "Second external OLED display 256 colors (96 x 64 pixels)\n\nFour way navigation keys\n\nDynamic font size"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "500 x 6 fields, contact groups",
+        "Call records": "20 dialed, 20 received, 20 missed calls",
+        "Features": "20 short messages\n\nMessage templates"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Downloadable polyphonic ringtones, composer",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, EMS, MMS receive only",
+        "Browser": "WAP 1.2",
+        "Clock": "Yes",
+        "Alarm": "Yes",
+        "Games": "4 - Honey Ball, Speed Up, Bowling, Midpman",
+        "Java": "Yes",
+        "Features": "Predictive text input\n\nOrganizer\n\nSpeed dial\n\nMenu shortcuts\n\nWorld clock"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 900 mAh battery",
+        "Stand-by": "Up to 150 h",
+        "Talk time": "Up to 3 h 30 min"
+      },
+      "Misc": {
+        "Colors": "",
+        "SAR EU": "0.81 W/kg (head) &nbsp; &nbsp;"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/sse400_00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_e400-pictures-435.php"
+    }
+  }
+}

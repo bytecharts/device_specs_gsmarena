@@ -1,0 +1,85 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung E1207T",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-e1207t.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-e1207t.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2013, March",
+    "dimensions": "13.5mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 - SIM 1 &amp; SIM 2",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2013, February. Released 2013, March",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "108 x 45.5 x 13.5 mm (4.25 x 1.79 x 0.53 in)",
+        "Weight": "-",
+        "SIM": "Dual SIM (Mini-SIM)"
+      },
+      "Display": {
+        "Type": "TFT, 65K colors",
+        "Size": "1.52 inches, 7.5 cm<sup>2</sup> (~15.2% screen-to-body ratio)",
+        "Resolution": "128 x 128 pixels, 1:1 ratio (~119 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "Yes",
+        "Call records": "Yes"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "Proprietary"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS",
+        "Games": "No",
+        "Java": "No"
+      },
+      "Battery": {
+        "Type": "Li-Ion 800 mAh, removable",
+        "Stand-by": "Up to 430 h",
+        "Talk time": "Up to 8 h"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "SAR EU": "0.92 W/kg (head) &nbsp; &nbsp; 0.40 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 20 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-e1207t.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-e1207t-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_e1207t-pictures-5361.php"
+    }
+  }
+}

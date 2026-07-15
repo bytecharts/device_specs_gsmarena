@@ -1,0 +1,92 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung W960 AMOLED 3D",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-amoled-3d-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-amoled-3d.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2010, July",
+    "dimensions": "120.6g, 13.9mm thickness",
+    "os": "Feature phone",
+    "storage": "microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "3G bands": "HSDPA",
+        "Speed": "HSPA",
+        "GPRS": "Class 10",
+        "EDGE": "Class 10"
+      },
+      "Launch": {
+        "Announced": "2010, April. Released 2010, July",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "113.9 x 53.9 x 13.9 mm (4.48 x 2.12 x 0.55 in)",
+        "Weight": "120.6 g (4.23 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED 3D",
+        "Size": "3.2 inches, 29.1 cm<sup>2</sup> (~47.5% screen-to-body ratio)",
+        "Resolution": "240 x 400 pixels, 5:3 ratio (~146 ppi density)",
+        "Features": "Gesture control\n\nTouch Wiz 2.0 UI"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Phonebook": "1000 entries, Photocall",
+        "Call records": "Yes"
+      },
+      "Main Camera": {
+        "Single": "3.2 MP, AF",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.1, A2DP",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer",
+        "Messaging": "SMS(threaded view), MMS, Email",
+        "Browser": "HTML",
+        "Games": "Yes",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "DMB TV\n\nMP4/H.264 player\n\nMP3/WAV/eAAC+ player\n\nOrganizer\n\nDocument viewer (Word, Excel, PowerPoint, PDF)\n\nVoice memo\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1150 mAh battery",
+        "Stand-by": "Up to 425 h (2G) / Up to 460 h (3G)",
+        "Talk time": "Up to 6 h (2G) / Up to 10 h (3G)"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "SAR EU": "0.36 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 220 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-amoled-3d-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_w960_amoled_3d-pictures-3319.php"
+    }
+  }
+}

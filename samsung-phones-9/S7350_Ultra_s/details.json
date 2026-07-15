@@ -1,0 +1,98 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung S7350 Ultra s",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-s7350-01.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-s7350-ultras.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_s7350_ultra_s-review-356.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2009, May",
+    "dimensions": "110g, 12.6mm thickness",
+    "os": "Feature phone",
+    "storage": "100MB storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 900 / 2100",
+        "Speed": "HSPA 7.2/0.384 Mbps"
+      },
+      "Launch": {
+        "Announced": "2009, February. Released 2009, May",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "109 x 50.3 x 12.6 mm (4.29 x 1.98 x 0.50 in)",
+        "Weight": "110 g (3.88 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 16M colors",
+        "Size": "2.6 inches, 19.2 cm<sup>2</sup> (~35.1% screen-to-body ratio)",
+        "Resolution": "240 x 400 pixels, 5:3 ratio (~179 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Phonebook": "1000 contacts, Photo call",
+        "Call records": "30 dialed, 30 received, 30 missed calls",
+        "Internal": "100MB"
+      },
+      "Main Camera": {
+        "Single": "5 MP, AF",
+        "Features": "LED flash",
+        "Video": "480p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "Yes",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.1, A2DP",
+        "Positioning": "GPS, A-GPS",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer",
+        "Messaging": "SMS, MMS, Email",
+        "Browser": "WAP 2.0/xHTML, HTML",
+        "Games": "Yes + downloadable",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "DviX/XviD/MP4/H.264/WMV player\n\nMP3/AAC/WMA player\n\nOrganizer\n\nDocument viewer (Word, Excel, PowerPoint, PDF)\n\nVoice memo\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion battery",
+        "Stand-by": "Up to 350 h (2G) / 400 h (3G)",
+        "Talk time": "6 h 30 min (2G) / 4 h 6 min (3G)"
+      },
+      "Misc": {
+        "Colors": "Silver",
+        "SAR": "0.20 W/kg (head) &nbsp; &nbsp; 0.37 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.42 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 100 EUR"
+      },
+      "Our Tests": {
+        "Loudspeaker": "<a class=\"noUnd\" href=\"samsung_s7350_ultra_s-review-356p4.php\">Voice 74dB / Noise 69dB / Ring 75dB</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-s7350-01.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-s7350-02.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_s7350_ultra_s-pictures-2693.php"
+    }
+  }
+}

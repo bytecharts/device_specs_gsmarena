@@ -1,0 +1,87 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung B300",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-b300-new-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-b300-new.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2008, July",
+    "dimensions": "78g, 19mm thickness",
+    "os": "Feature phone",
+    "storage": "2MB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "Class 10",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2008, June. Released 2008, July",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "87 x 45 x 19 mm (3.43 x 1.77 x 0.75 in)",
+        "Weight": "78 g (2.75 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "CSTN, 65K colors",
+        "Size": "1.52 inches, 7.5 cm<sup>2</sup> (~19.0% screen-to-body ratio)",
+        "Resolution": "128 x 128 pixels, 1:1 ratio (~119 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "500 entries",
+        "Call records": "30 dialed, 30 received, 30 missed calls",
+        "Internal": "2MB"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Radio": "FM radio",
+        "USB": "Proprietary"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, EMS, MMS",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "Yes",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "MP3 player\n\nOrganizer\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 800 mAh battery",
+        "Stand-by": "Up to 200 h",
+        "Talk time": "Up to 3 h"
+      },
+      "Misc": {
+        "Colors": "Blue",
+        "SAR EU": "0.73 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 80 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-b300-new-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_b300-pictures-2463.php"
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung P860",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-p860.gif",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-p860.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Cancelled",
+    "dimensions": "",
+    "os": "Feature phone",
+    "storage": "RS-MMC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "GPRS": "Class 10",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2005, Q1",
+        "Status": "Cancelled"
+      },
+      "Body": {
+        "Dimensions": "",
+        "Weight": "",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFD, 16M colors",
+        "Size": "",
+        "Resolution": "320 x 240 pixels, 4:3 ratio"
+      },
+      "Memory": {
+        "Card slot": "RS-MMC",
+        "Phonebook": "Yes, Photo/Video call",
+        "Call records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "Main Camera": {
+        "Single": "5 MP",
+        "Features": "LED flash",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Downloadable polyphonic ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "Yes",
+        "Positioning": "No",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "Proprietary"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS, EMail",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "Yes",
+        "Java": "Yes",
+        "Features": "TV-out\n\nMP3/AAC/MP4 player\n\nPredictive text input\n\nOrganizer"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion battery"
+      },
+      "Misc": {
+        "Colors": ""
+      }
+    }
+  }
+}

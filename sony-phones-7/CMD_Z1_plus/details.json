@@ -1,0 +1,80 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Sony CMD Z1 plus",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/soz1pb.gif",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/soz1pb.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 1997",
+    "dimensions": "195g, 26mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "1997",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "98 x 60 x 26 mm, 120 cc (3.86 x 2.36 x 1.02 in)",
+        "Weight": "195 g (6.88 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "Monochrome graphic",
+        "Size": "",
+        "Resolution": "97 x 32 pixels, 5 lines",
+        "Features": "Fixed icons\n\nJog Dial"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "SIM only",
+        "Call records": ""
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Monophonic ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS",
+        "Browser": "",
+        "Clock": "Yes",
+        "Alarm": "Yes",
+        "Games": "No",
+        "Java": "No",
+        "Features": "Voice memo (20 sec)\n\nOrganizer"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 600 mAh battery",
+        "Stand-by": "50 h",
+        "Talk time": "8 h"
+      },
+      "Misc": {
+        "Colors": ""
+      }
+    }
+  }
+}

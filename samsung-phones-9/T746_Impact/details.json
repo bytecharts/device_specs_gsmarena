@@ -1,0 +1,92 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung T746 Impact",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-t749-highlight-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-t749-highlight.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2009, July",
+    "dimensions": "105g, 13.7mm thickness",
+    "os": "Feature phone",
+    "storage": "60MB storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 1900",
+        "Speed": "HSPA",
+        "Features": "HSDPA 1700 / 2100  - for T-Mobile"
+      },
+      "Launch": {
+        "Announced": "2009, June. Released 2009, July",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "108 x 54 x 13.7 mm (4.25 x 2.13 x 0.54 in)",
+        "Weight": "105 g (3.70 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 16M colors",
+        "Size": "3.0 inches, 25.6 cm<sup>2</sup> (~43.9% screen-to-body ratio)",
+        "Resolution": "240 x 400 pixels, 5:3 ratio (~155 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Phonebook": "2000 entries, Photocall",
+        "Call records": "Yes",
+        "Internal": "60MB"
+      },
+      "Main Camera": {
+        "Single": "3.15 MP",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.0, A2DP",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": "2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer",
+        "Messaging": "SMS, MMS, Email, IM",
+        "Browser": "WAP 2.0/xHTML, HTML",
+        "Games": "Yes + downloadable",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "MP3/WMA/eAAC+ player\n\nH.264/MP4 player\n\nOrganizer\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1200 mAh battery",
+        "Stand-by": "Up to 450 h",
+        "Talk time": "Up to 6 h 30 min"
+      },
+      "Misc": {
+        "Colors": "Fire, Ice",
+        "SAR": "1.13 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 80 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-t749-highlight-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-t749-highlight-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_t746_impact-pictures-2870.php"
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung S3850 Corby II",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-corby-ii-ofic-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-corby-ii-ofic.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_s3850_corby_ii-review-576.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2011, April",
+    "dimensions": "102g, 11.7mm thickness",
+    "os": "TouchWiz UI",
+    "storage": "26MB storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "GPRS": "Class 12",
+        "EDGE": "Yes"
+      },
+      "Launch": {
+        "Announced": "2011, March. Released 2011, April",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "109.9 x 60.6 x 11.7 mm (4.33 x 2.39 x 0.46 in)",
+        "Weight": "102 g (3.60 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "3.2 inches, 31.7 cm<sup>2</sup> (~47.6% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~125 ppi density)"
+      },
+      "Platform": {
+        "OS": "TouchWiz UI"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Internal": "26MB"
+      },
+      "Main Camera": {
+        "Single": "2 MP",
+        "Video": "320p@15fps"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n",
+        "Bluetooth": "3.0, A2DP",
+        "Positioning": "No",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer",
+        "Browser": "WAP 2.0/xHTML, HTML",
+        "Features": "SNS integration\n\nMP4/H.264 player\n\nMP3/WMA/WAV/eAAC+ player\n\nFind Music recognition service\n\nOrganizer\n\nDocument viewer\n\nVoice memo\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1000 mAh battery",
+        "Stand-by": "Up to 620 h",
+        "Talk time": "Up to 9 h 30 min"
+      },
+      "Misc": {
+        "Colors": "Yellow/Black, White, Pink",
+        "Models": "GT-S3850L, GT-S3853",
+        "SAR": "0.60 W/kg (head) &nbsp; &nbsp; 0.70 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.88 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 80 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-corby-ii-ofic-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-corby-ii-ofic-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_s3850_corby_ii-pictures-3765.php"
+    }
+  }
+}

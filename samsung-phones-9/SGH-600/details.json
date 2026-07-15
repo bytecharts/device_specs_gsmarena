@@ -1,0 +1,82 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung SGH-600",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ss600b.gif",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/ss600b.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 1999",
+    "dimensions": "95g with slim battery, 21mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "1999",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "108 x 44 x 21 mm (4.25 x 1.73 x 0.83 in)",
+        "Weight": "95 g with slim battery (3.35 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "Monochrome graphic",
+        "Size": "",
+        "Resolution": "96 x 32 pixels, 4 lines",
+        "Features": "Fixed icons\n\nDynamic font size \n\nSoftkey"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "100",
+        "Call records": "10 dialed, 10 received, 10 missed calls",
+        "Features": "5 message templates\n\n20 voice dial numbers\n\n140 sec voice memo"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Monophonic ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS",
+        "Browser": "",
+        "Clock": "Yes",
+        "Alarm": "Yes",
+        "Games": "No",
+        "Languages": "17",
+        "Java": "No",
+        "Features": "Voice dial\n\nVoice memo\n\nSpeed dial\n\nMenu shortcuts\n\nWorld clock\n\nScratch pad memo"
+      },
+      "Battery": {
+        "Type": "Standard Li-Ion",
+        "Stand-by": "65 h",
+        "Talk time": "3 h 30 min"
+      },
+      "Misc": {
+        "Colors": "2"
+      }
+    }
+  }
+}

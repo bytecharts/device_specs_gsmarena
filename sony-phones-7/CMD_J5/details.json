@@ -1,0 +1,91 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Sony CMD J5",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/sony/soj5_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/soj5.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2000",
+    "dimensions": "85g, 20mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2000",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "123 x 45 x 20 mm (4.84 x 1.77 x 0.79 in)",
+        "Weight": "85 g (3.00 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "Grayscale graphic, 4 shades",
+        "Size": "",
+        "Resolution": "96 x 92 pixels, 6 lines, 1:1 ratio",
+        "Features": "Advanced Jog Dial"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "500",
+        "Call records": "10 dialed, 10 received, 10 missed calls",
+        "Features": "Message templates\n\nSeveral phonebook groups"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Polyphonic ringtones",
+        "3.5mm jack": "No",
+        "Features": "Ringtones can be assigned to phonebook entries"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, Email",
+        "Browser": "WAP, HTML (MS)",
+        "Clock": "Yes",
+        "Alarm": "Yes",
+        "Games": "4 - Bannanas, PicPuz, MindBlaster, SandArt",
+        "Java": "No",
+        "Features": "Predictive text input \n\nOrganizer\n\nRecordable sounds for calls and events"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion battery",
+        "Stand-by": "120 h",
+        "Talk time": "3 h"
+      },
+      "Misc": {
+        "Colors": "Silver"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/sony/soj5_00.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/sony/soj5_01.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/sony/soj5_02.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/sony_cmd_j5-pictures-201.php"
+    }
+  }
+}

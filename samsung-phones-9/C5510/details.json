@@ -1,0 +1,91 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung C5510",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-c5510-all.jpeg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-c5510.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2009, September",
+    "dimensions": "99.6g, 15.3mm thickness",
+    "os": "Feature phone",
+    "storage": "20MB storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / UMTS</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "UMTS 900 / 2100",
+        "Speed": "Yes, 384 kbps"
+      },
+      "Launch": {
+        "Announced": "2009, June. Released 2009, September",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "99.8 x 47.5 x 15.3 mm (3.93 x 1.87 x 0.60 in)",
+        "Weight": "99.6 g (3.49 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "2.2 inches, 15.0 cm<sup>2</sup> (~31.6% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~182 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Phonebook": "1000 entries, Photocall",
+        "Call records": "30 dialed, 30 received, 30 missed calls",
+        "Internal": "20MB"
+      },
+      "Main Camera": {
+        "Single": "2 MP",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.1, A2DP",
+        "Positioning": "No",
+        "Radio": "FM radio, RDS",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS, Email",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "Yes + downloadable",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "MP4/H.264/WMV player\n\nMP3/AAC/WMA player\n\nOrganizer\n\nDocument viewer (Word, Excel, PowerPoint, PDF)\n\nMobile Tracker\n\nPhoto editor\n\nVoice memo\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 960 mAh battery",
+        "Stand-by": "Up to 400 h (2G) / Up to 300 h (3G)",
+        "Talk time": "Up to 8 h (2G) / Up to 4 h 30 min (3G)"
+      },
+      "Misc": {
+        "Colors": "Silver",
+        "SAR": "0.54 W/kg (head) &nbsp; &nbsp; 0.66 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.72 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 90 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-c5510-all.jpeg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_c5510-pictures-2856.php"
+    }
+  }
+}

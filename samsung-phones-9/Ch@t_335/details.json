@@ -1,0 +1,93 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Ch@t 335",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/Samsung-Chat-335-large.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-s3350-ofic.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2010, December",
+    "dimensions": "93g, 12mm thickness",
+    "os": "Feature phone",
+    "storage": "60MB storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "GPRS": "Class 10",
+        "EDGE": "Class 10"
+      },
+      "Launch": {
+        "Announced": "2010, November. Released 2010, December",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "111.2 x 61.2 x 12 mm (4.38 x 2.41 x 0.47 in)",
+        "Weight": "93 g (3.28 oz)",
+        "Keyboard": "QWERTY",
+        "SIM": "Mini-SIM",
+        "Features": "Optical trackpad"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "2.4 inches, 17.8 cm<sup>2</sup> (~26.2% screen-to-body ratio)",
+        "Resolution": "320 x 240 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Phonebook": "1000 entries, Photocall",
+        "Call records": "Yes",
+        "Internal": "60MB"
+      },
+      "Main Camera": {
+        "Single": "2 MP",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g",
+        "Bluetooth": "2.1, A2DP",
+        "Positioning": "No",
+        "Radio": "Stereo FM radio, RDS, recording",
+        "USB": "microUSB"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS, Email, IM",
+        "Browser": "WAP 2.0/xHTML, HTML",
+        "Games": "Yes + downloadable",
+        "Java": "Yes, MIDP 2.1",
+        "Features": "SNS integration\n\nMP3/eAAC+ player\n\nMP4/H.264 player\n\nOrganizer\n\nVoice memo\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion battery",
+        "Stand-by": "Up to 520 h",
+        "Talk time": "Up to 12 h"
+      },
+      "Misc": {
+        "Colors": "Black, White, Silver",
+        "SAR": "0.99 W/kg (head) &nbsp; &nbsp; 1.03 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.78 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 70 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/Samsung-Chat-335-large.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_ch@t_335-pictures-3634.php"
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung P180",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-p180-2.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-p180.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2008",
+    "dimensions": "96g, 19.9mm thickness",
+    "os": "Feature phone",
+    "storage": "14MB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "GPRS": "Class 10",
+        "EDGE": "Class 10"
+      },
+      "Launch": {
+        "Announced": "2007, December. Released 2008",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "97 x 47 x 19.9 mm (3.82 x 1.85 x 0.78 in)",
+        "Weight": "96 g (3.39 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 65K colors",
+        "Size": "2.0 inches, 12.6 cm<sup>2</sup> (~27.6% screen-to-body ratio)",
+        "Resolution": "128 x 160 pixels (~102 ppi density)",
+        "Features": "External STN display, monochrome (96 x 96 pixels), 1 inch"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "1000 entries, Photo call",
+        "Call records": "20 dialed, 20 received, 20 missed calls",
+        "Internal": "14MB"
+      },
+      "Main Camera": {
+        "Single": "VGA",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g, UMA",
+        "Bluetooth": "2.0, A2DP",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": "2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS, Email",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "Yes + downloadable",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "MP3/eAAC+/WMA player\n\nMP4 player\n\nPredictive text input\n\nOrganizer\n\nVoice memo"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 880 mAh battery",
+        "Stand-by": "Up to 300 h",
+        "Talk time": "Up to 3 h"
+      },
+      "Misc": {
+        "Colors": "Brown",
+        "SAR EU": "0.88 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 90 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-p180-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_p180-pictures-2403.php"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung E390",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-e390-00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-e390.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2006, October",
+    "dimensions": "80g, 16mm thickness",
+    "os": "Feature phone",
+    "storage": "15MB storage, microSD slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "GPRS": "Class 10",
+        "EDGE": "Yes"
+      },
+      "Launch": {
+        "Announced": "2006, October",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "93 x 45 x 16 mm (3.66 x 1.77 x 0.63 in)",
+        "Weight": "80 g (2.82 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 65K colors",
+        "Size": "2.0 inches, 12.6 cm<sup>2</sup> (~30.1% screen-to-body ratio)",
+        "Resolution": "176 x 220 pixels (~141 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "microSD (dedicated slot)",
+        "Phonebook": "1000 entries, Photocall",
+        "Call records": "20 dialed, 20 received, 20 missed calls",
+        "Internal": "15MB"
+      },
+      "Main Camera": {
+        "Single": "1.3 MP",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.0, A2DP",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": "Proprietary"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, EMS, MMS, Email",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "Yes + downloadable",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "MP3/AAC/AAC+ player\n\nPredictive text input\n\nOrganizer"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 750 mAh battery"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "SAR": "0.46 W/kg (head) &nbsp; &nbsp; 0.60 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.46 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 140 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-e390-00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_e390-pictures-1770.php"
+    }
+  }
+}

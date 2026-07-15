@@ -1,0 +1,88 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung A800",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/saa800_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/ssa800.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2002, Q4",
+    "dimensions": "68g, 22mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2002, Q4",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "80 x 40 x 22 mm (3.15 x 1.57 x 0.87 in)",
+        "Weight": "68 g (2.40 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "Grayscale graphic, 4 shades",
+        "Size": "",
+        "Resolution": "128 x 128 pixels, 1:1 ratio",
+        "Features": "Second display 80 x 48 pixels\n\nFour way navigation keys\n\nSoftkeys\n\n7 Color LED"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "200",
+        "Call records": "10 dialed, 10 received, 10 missed calls",
+        "Features": "Dynamic memory\n\nMessage templates"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Downloadable polyphonic ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, EMS",
+        "Browser": "WAP 1.2.1",
+        "Clock": "Yes",
+        "Alarm": "Yes",
+        "Games": "3 - Fortress, Space War, X-Flighter",
+        "Java": "No",
+        "Features": "Predictive text input\n\nOrganizer\n\nVoice command\n\nVoice memo"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 750 mAh battery",
+        "Stand-by": "up to 150 h",
+        "Talk time": "up to 3 h"
+      },
+      "Misc": {
+        "Colors": "Sand Silver, Metallic Blue, Royal Blue, Dark Silver,Pearl White, Metal Silver, Champagne Gold"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/saa800_00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_a800-pictures-347.php"
+    }
+  }
+}

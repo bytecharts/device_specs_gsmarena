@@ -1,0 +1,88 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung i200",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-i200-00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-i200.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2008, October",
+    "dimensions": "103.5g, 11.8mm thickness",
+    "os": "Microsoft Windows Mobile 6.1 Standard",
+    "storage": "microSD slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "3G bands": "HSDPA 2100",
+        "Speed": "HSPA"
+      },
+      "Launch": {
+        "Announced": "2008, February. Released 2008, October",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "116.7 x 50.8 x 11.8 mm (4.59 x 2.0 x 0.46 in)",
+        "Weight": "103.5 g (3.63 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors (65K effective)",
+        "Size": "2.3 inches, 16.4 cm<sup>2</sup> (~27.6% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~174 ppi density)"
+      },
+      "Platform": {
+        "OS": "Microsoft Windows Mobile 6.1 Standard"
+      },
+      "Memory": {
+        "Card slot": "microSD (dedicated slot)"
+      },
+      "Main Camera": {
+        "Single": "2 MP",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Single": "Yes",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.0, A2DP",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": "2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Browser": "WAP 2.0/xHTML, HTML (PocketIE)",
+        "Features": "MP3/WMA/AAC/MP4 player\n\nPredictive text input\n\nOrganizer\n\nVoice command\n\nVoice memo"
+      },
+      "Battery": {
+        "Type": "Removable battery"
+      },
+      "Misc": {
+        "Colors": "",
+        "SAR": "1.16 W/kg (head) &nbsp; &nbsp; 0.89 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.88 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 120 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-i200-00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_i200-pictures-2260.php"
+    }
+  }
+}

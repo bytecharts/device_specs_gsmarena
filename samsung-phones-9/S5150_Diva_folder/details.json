@@ -1,0 +1,92 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung S5150 Diva folder",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-s5150-diva-folder-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-s5150-diva-folder.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2010, March",
+    "dimensions": "82.8g, 17.4mm thickness",
+    "os": "Feature phone",
+    "storage": "40MB storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "GPRS": "Class 12",
+        "EDGE": "Class 12"
+      },
+      "Launch": {
+        "Announced": "2009, December. Released 2010, March",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "94 x 47 x 17.4 mm (3.70 x 1.85 x 0.69 in)",
+        "Weight": "82.8 g (2.89 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 16M colors",
+        "Size": "2.2 inches, 15.0 cm<sup>2</sup> (~33.9% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~182 ppi density)",
+        "Features": "Second external, hidden LED display"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Phonebook": "1000 entries, Photocall",
+        "Call records": "30 received, dialed and missed calls",
+        "Internal": "40MB"
+      },
+      "Main Camera": {
+        "Single": "3.15 MP, AF",
+        "Video": "320p"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.1, A2DP",
+        "Positioning": "No",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS, Email",
+        "Browser": "WAP 2.0/xHTML, HTML",
+        "Games": "Yes + downloadable",
+        "Java": "Yes, MIDP 2.1",
+        "Features": "MP3/WAV/eAAC+/WMV player\n\nMP4/H.264 player\n\nPhoto editor\n\nOrganizer\n\nVoice memo\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 800 mAh battery",
+        "Stand-by": "Up to 470 h",
+        "Talk time": "Up to 7 h"
+      },
+      "Misc": {
+        "Colors": "Gray",
+        "SAR": "0.38 W/kg (head) &nbsp; &nbsp; 0.54 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.60 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 150 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-s5150-diva-folder-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_s5150_diva_folder-pictures-3031.php"
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung F500",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-f500-00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-f500.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2006, December",
+    "dimensions": "107g, 10.7mm thickness",
+    "os": "Feature phone",
+    "storage": "350MB storage, microSD slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "3G bands": "HSDPA 2100",
+        "Speed": "HSPA"
+      },
+      "Launch": {
+        "Announced": "2006, December",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "116.4 x 50.4 x 10.7 mm (4.58 x 1.98 x 0.42 in)",
+        "Weight": "107 g (3.77 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "2.4 inches, 17.8 cm<sup>2</sup> (~30.4% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)",
+        "Features": "Dual face and sweeping touch\n\nSecond external 65K colors, TFT display (176 x 220 pixels)"
+      },
+      "Memory": {
+        "Card slot": "microSD (dedicated slot)",
+        "Phonebook": "1000 entries, Photocall",
+        "Call records": "30 dialed, 30 received, 30 missed calls",
+        "Internal": "350MB"
+      },
+      "Main Camera": {
+        "Single": "2 MP",
+        "Video": "320p@15fps"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.0, A2DP",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": "2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "Yes + downloadable",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "DivX/MP4/WMV player\n\nMP3/AAC/AAC+/WMA player\n\nPredictive text input\n\nTV-out (up to 640x480)\n\nOrganizer\n\nVoice memo"
+      },
+      "Battery": {
+        "Type": "Extended battery, Li-Ion 1850 mAh",
+        "Stand-by": "Up to 540 h",
+        "Talk time": "Up to 11 h"
+      },
+      "Misc": {
+        "Colors": "Black, Pure White, Chocolate",
+        "SAR": "1.18 W/kg (head) &nbsp; &nbsp; 0.81 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.90 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 190 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-f500-00.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-f510-01.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_f500-pictures-1806.php"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung SGH-250",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ss250b.gif",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/ss250b.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 1996",
+    "dimensions": "179g, 25mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "1996",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "124 x 48 x 25 mm (4.88 x 1.89 x 0.98 in)",
+        "Weight": "179 g (6.31 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "Alphanumeric",
+        "Size": "",
+        "Resolution": "3 x 12 chars",
+        "Features": "Fixed icons"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "",
+        "Call records": ""
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Monophonic ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS",
+        "Browser": "",
+        "Clock": "No",
+        "Alarm": "No",
+        "Games": "No",
+        "Java": "No"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion battery",
+        "Stand-by": "40 h",
+        "Talk time": "2 h"
+      },
+      "Misc": {
+        "Colors": "3"
+      }
+    }
+  }
+}

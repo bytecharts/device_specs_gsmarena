@@ -1,0 +1,88 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung X490",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-x490-00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-x490.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2005, Q4",
+    "dimensions": "86g, 24mm thickness",
+    "os": "Feature phone",
+    "storage": "3MB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "GPRS": "Class 10",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2005, Q4",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "90 x 47 x 24 mm (3.54 x 1.85 x 0.94 in)",
+        "Weight": "86 g (3.03 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "UFB, 65K colors",
+        "Size": "",
+        "Resolution": "128 x 160 pixels, 8 lines",
+        "Features": "Second external mono display (96 x 64 pixels)"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "500 entries",
+        "Call records": "20 dialed, 20 received, 20 missed calls",
+        "Internal": "3MB",
+        "Features": "200 short messages"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Downloadable polyphonic ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, EMS, MMS",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "Predictive text input\n\nOrganizer\n\nVoice memo"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 850 mAh battery",
+        "Stand-by": "Up to 300 h",
+        "Talk time": "Up to 7 h"
+      },
+      "Misc": {
+        "Colors": "White Silver, Indigo Blue",
+        "SAR EU": "1.20 W/kg (head) &nbsp; &nbsp;"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-x490-00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_x490-pictures-1419.php"
+    }
+  }
+}

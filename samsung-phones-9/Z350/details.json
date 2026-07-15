@@ -1,0 +1,87 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Z350",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-z350-00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-z350.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Cancelled",
+    "dimensions": "107g, 18.4mm thickness",
+    "os": "Feature phone",
+    "storage": "30MB storage, microSD slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / UMTS</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "3G bands": "UMTS 2100",
+        "Speed": "Yes, 384 kbps"
+      },
+      "Launch": {
+        "Announced": "2006, February",
+        "Status": "Cancelled"
+      },
+      "Body": {
+        "Dimensions": "97 x 48 x 18.4 mm (3.82 x 1.89 x 0.72 in)",
+        "Weight": "107 g (3.77 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "2.0 inches, 12.4 cm<sup>2</sup> (~26.6% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~200 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "microSD (dedicated slot)",
+        "Phonebook": "Yes",
+        "Call records": "20 dialed, 20 received, 20 missed calls",
+        "Internal": "30MB"
+      },
+      "Main Camera": {
+        "Single": "1.3 MP",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Features": "Videocall camera"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "Alert types": "Vibration; Downloadable polyphonic ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "Yes",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": "Proprietary"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS, Email",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "Yes + downloadable",
+        "Java": "Yes",
+        "Features": "Video telephony &amp; streaming\n\nMP3/AAC/AAC+ player\n\nPredictive text input\n\nOrganizer\n\nVoice memo\n\nDocument viewer (Word, Excel, PowerPoint, PDF)"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion battery"
+      },
+      "Misc": {
+        "Colors": "Black"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-z350-00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_z350-pictures-1446.php"
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung D880 Duos",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-d880_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-d880.gif"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_d880_duos-review-240.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2007, December",
+    "dimensions": "116g, 18.9mm thickness",
+    "os": "Feature phone",
+    "storage": "60MB storage, microSD slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 / 1900 - SIM 1",
+        "GPRS": "Class 10",
+        "EDGE": "Class 10",
+        "Features": "GSM 900 / 1800 - SIM 2"
+      },
+      "Launch": {
+        "Announced": "2007, October. Released 2007, December",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "104 x 51 x 18.9 mm (4.09 x 2.01 x 0.74 in)",
+        "Weight": "116 g (4.09 oz)",
+        "SIM": "Dual SIM (Mini-SIM)"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "2.3 inches, 16.4 cm<sup>2</sup> (~30.9% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~174 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "microSD (dedicated slot)",
+        "Phonebook": "1000 entries, Photocall",
+        "Call records": "30 received, dialed and missed calls",
+        "Internal": "60MB"
+      },
+      "Main Camera": {
+        "Single": "3.15 MP, AF",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.0, A2DP",
+        "Positioning": "No",
+        "Radio": "FM radio",
+        "USB": "2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, EMS, MMS, Email",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "Yes",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "MP3/AAC+/MP4 player\n\nBusiness card scanner\n\nDocument viewer (Word, Excel, PowerPoint, PDF)\n\nVoice memo\n\nTV-out"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1200 mAh battery",
+        "Stand-by": "Up to 360 h",
+        "Talk time": "Up to 4 h"
+      },
+      "Misc": {
+        "Colors": "Noble Black, Silver",
+        "SAR": "0.21 W/kg (head) &nbsp; &nbsp; 0.54 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.22 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 150 EUR"
+      },
+      "Our Tests": {
+        "Loudspeaker": "<a class=\"noUnd\" href=\"samsung_d880_duos-review-240p3.php\">Voice 66dB / Noise 65dB / Ring 66dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"samsung_d880_duos-review-240p3.php\">Noise -84.4dB / Crosstalk -85.2dB</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-d880_00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_d880_duos-pictures-2156.php"
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung P930",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-p930-00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-p930.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2006, December",
+    "dimensions": "119g, 19.7mm thickness",
+    "os": "Feature phone",
+    "storage": "20MB storage, microSD slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "3G bands": "HSDPA 2100",
+        "Speed": "HSPA 1.8 Mbps"
+      },
+      "Launch": {
+        "Announced": "2006, December",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "107 x 49 x 19.7 mm (4.21 x 1.93 x 0.78 in)",
+        "Weight": "119 g (4.20 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "2.3 inches, 16.4 cm<sup>2</sup> (~31.2% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~174 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "microSD (dedicated slot)",
+        "Phonebook": "Yes",
+        "Call records": "30 dialed, 30 received, 30 missed calls",
+        "Internal": "20MB"
+      },
+      "Main Camera": {
+        "Single": "2 MP",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Single": "VGA videocall camera",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "1.2",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": "1.1"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS, Email",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "Yes",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "DVB-H TV broadcast receiver\n\nTV-out\n\nMP3/AAC/AAC player\n\nPredictive text input\n\nOrganizer"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 950 mAh battery",
+        "Stand-by": "Up to 200 h",
+        "Talk time": "Up to 2 h"
+      },
+      "Misc": {
+        "Colors": "Onyx Black",
+        "SAR": "0.30 W/kg (head) &nbsp; &nbsp; 0.34 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.70 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 290 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-p930-00.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-p930-01.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_p930-pictures-1808.php"
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung E1107 Crest Solar",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-e1107-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-e1107.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2009, July",
+    "dimensions": "77g, 16.4mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "Class 10",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2009, June. Released 2009, July",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "105.2 x 44.2 x 16.4 mm (4.14 x 1.74 x 0.65 in)",
+        "Weight": "77 g (2.72 oz)",
+        "SIM": "Mini-SIM",
+        "Features": "Flashlight"
+      },
+      "Display": {
+        "Type": "CSTN, 65K colors",
+        "Size": "1.52 inches, 7.5 cm<sup>2</sup> (~16.0% screen-to-body ratio)",
+        "Resolution": "128 x 128 pixels, 1:1 ratio (~119 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "Yes, up to 500 entries",
+        "Call records": "30 dialed, 30 received, 30 missed calls"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Radio": "FM radio",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "Yes",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "Organizer\n\nVoice memo\n\nMobile Tracker\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Solar Panel (10 min charging)",
+        "Charging": "Solar panel for charging (optional)",
+        "Stand-by": "Up to 30 min",
+        "Talk time": "Up to 1 min 40 sec"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "SAR EU": "0.56 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 50 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-e1107-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_e1107_crest_solar-pictures-2829.php"
+    }
+  }
+}

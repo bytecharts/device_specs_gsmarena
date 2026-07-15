@@ -1,0 +1,83 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung A110",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ssa110.gif",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/ssa110.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2000",
+    "dimensions": "87g with slim battery, 22.9mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2000",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "80 x 42 x 22.9 mm (3.15 x 1.65 x 0.90 in)",
+        "Weight": "87 g with slim battery (3.07 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "Monochrome graphic",
+        "Size": "",
+        "Resolution": "115 x 60 pixels, 4 lines, 19:10 ratio",
+        "Features": "Fixed icons\n\nDynamic font size\n\nSoftkey"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "100",
+        "Call records": "10 dialed, 10 received, 10 missed calls",
+        "Features": "Message templates"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Monophonic ringtones, composer",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS",
+        "Browser": "WAP",
+        "Clock": "Yes",
+        "Alarm": "Yes",
+        "Games": "Yes",
+        "Languages": "20",
+        "Java": "No",
+        "Features": "Organizer\n\nSpeed dial\n\nMenu shortcuts\n\nWorld clock"
+      },
+      "Battery": {
+        "Type": "Standard Li-Ion",
+        "Stand-by": "70 h",
+        "Talk time": "3.5 h"
+      },
+      "Misc": {
+        "Colors": "3"
+      }
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Sony CMD J70",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/soj70.gif",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/soj70.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2001, Q4",
+    "dimensions": "92g, 21mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2001, Q4",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "113 x 44 x 21 mm (4.45 x 1.73 x 0.83 in)",
+        "Weight": "92 g (3.25 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "Grayscale graphic, 4 shades",
+        "Size": "",
+        "Resolution": "96 x 92 pixels, 6 lines, 1:1 ratio",
+        "Features": "Advanced Jog Dial\n\nWallpaper download"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "500",
+        "Call records": "10 dialed, 10 received, 10 missed calls",
+        "Features": "Message templates\n\nSeveral phonebook groups"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "Alert types": "Downloadable polyphonic ringtones",
+        "3.5mm jack": "No",
+        "Features": "SMS with sounds and pictures \n\nRingtones can be assigned to phonebook entries"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, Email",
+        "Browser": "WAP, HTML (MS)",
+        "Clock": "Yes",
+        "Alarm": "Yes",
+        "Games": "Yes",
+        "Java": "No",
+        "Features": "Predictive text input\n\nOrganizer\n\nRecordable sounds for calls and events"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion battery",
+        "Stand-by": "200 h",
+        "Talk time": "3 h 20 min - 6 h"
+      },
+      "Misc": {
+        "Colors": ""
+      }
+    }
+  }
+}

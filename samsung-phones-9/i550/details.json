@@ -1,0 +1,102 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung i550",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-i550.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-i550.gif"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_i550-review-237.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2008, February",
+    "dimensions": "109g, 13.8mm thickness",
+    "os": "Symbian OS 9.2, Series 60 v3.1 UI",
+    "storage": "150MB storage, microSD slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "3G bands": "HSDPA 2100",
+        "Speed": "HSPA 3.6/0.384 Mbps"
+      },
+      "Launch": {
+        "Announced": "2007, August. Released 2008, February",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "115 x 53 x 13.8 mm (4.53 x 2.09 x 0.54 in)",
+        "Weight": "109 g (3.84 oz)",
+        "SIM": "Mini-SIM",
+        "Features": "Trackball"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "2.6 inches, 20.9 cm<sup>2</sup> (~34.3% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~154 ppi density)"
+      },
+      "Platform": {
+        "OS": "Symbian OS 9.2, Series 60 v3.1 UI",
+        "Chipset": "TI OMAP 2430",
+        "CPU": "330 MHz ARM 1136",
+        "GPU": "PowerVR MBX"
+      },
+      "Memory": {
+        "Card slot": "microSD (dedicated slot)",
+        "Internal": "150MB"
+      },
+      "Main Camera": {
+        "Single": "3.15 MP, AF",
+        "Features": "LED flash",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Single": "VGA videocall camera",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g (Samsung i550w only)",
+        "Bluetooth": "2.0, A2DP",
+        "Positioning": "GPS",
+        "Radio": "FM radio",
+        "USB": "2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Browser": "WAP 2.0/xHTML",
+        "Features": "WMV/RV/MP4/3GP player\n\nMP3/WMA/WAV/RA/AAC/M4A player\n\nOrganizer\n\nDocument viewer (Word, Excel, PowerPoint, PDF)"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1200 mAh battery",
+        "Stand-by": "Up to 360 h",
+        "Talk time": "Up to 8 h"
+      },
+      "Misc": {
+        "Colors": "Black, Silver",
+        "SAR": "0.32 W/kg (head) &nbsp; &nbsp; 0.41 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.72 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 130 EUR"
+      },
+      "Our Tests": {
+        "Loudspeaker": "<a class=\"noUnd\" href=\"samsung_i550-review-237p3.php\">Voice 73dB / Noise 66dB / Ring 78dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"samsung_i550-review-237p5.php#aq\">Noise -90.8dB / Crosstalk -89.1dB</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-i550.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-i550-silver.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_i550-pictures-2115.php"
+    }
+  }
+}

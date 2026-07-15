@@ -1,0 +1,93 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung X520",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-x520-00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-x520.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2006, October",
+    "dimensions": "80g, 18mm thickness",
+    "os": "Feature phone",
+    "storage": "2.8MB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "GPRS": "Class 10",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2006, October",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "89 x 42 x 18 mm (3.50 x 1.65 x 0.71 in)",
+        "Weight": "80 g (2.82 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 65K colors",
+        "Size": "1.9 inches, 11.4 cm<sup>2</sup> (~30.4% screen-to-body ratio)",
+        "Resolution": "128 x 160 pixels (~108 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "Yes, 1000 entries",
+        "Call records": "20 dialed, 20 received, 20 missed calls",
+        "Internal": "2.8MB"
+      },
+      "Main Camera": {
+        "Single": "VGA",
+        "Video": "No"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "Alert types": "Vibration; Downloadable polyphonic ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Infrared port": "Yes",
+        "Radio": "Stereo FM radio",
+        "USB": "Proprietary"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, EMS, MMS",
+        "Browser": "WAP 1.2/xHTML",
+        "Games": "Yes + downloadable",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "IrDA for Phonebook contacts only\n\nPredictive text input\n\nOrganizer\n\nVoice memo"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 750 mAh battery",
+        "Stand-by": "Up to 310 h",
+        "Talk time": "Up to 6 h 20 min"
+      },
+      "Misc": {
+        "Colors": "Black, Blue, Red, Green",
+        "SAR": "1.36 W/kg (head) &nbsp; &nbsp; 0.24 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.85 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 70 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-x520-00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_x520-pictures-1771.php"
+    }
+  }
+}

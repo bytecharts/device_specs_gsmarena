@@ -1,0 +1,86 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung B510",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-b510.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-b510.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2008, December",
+    "dimensions": "93g, 18.4mm thickness",
+    "os": "Feature phone",
+    "storage": "4MB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "GPRS": "Class 10",
+        "EDGE": "Class 10"
+      },
+      "Launch": {
+        "Announced": "2008, September. Released 2008, December",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "95 x 46.5 x 18.4 mm (3.74 x 1.83 x 0.72 in)",
+        "Weight": "93 g (3.28 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "CSTN, 65K colors",
+        "Size": "1.77 inches, 9.9 cm<sup>2</sup> (~22.3% screen-to-body ratio)",
+        "Resolution": "128 x 160 pixels (~116 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "500 entries, Photocall",
+        "Call records": "30 dialed, 30 received, 30 missed calls",
+        "Internal": "4MB"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.0, A2DP",
+        "Positioning": "No",
+        "Radio": "FM radio",
+        "USB": "2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, EMS, MMS",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "Yes",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "Predictive text input\n\nOrganizer\n\nVoice memo"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 800 mAh battery",
+        "Stand-by": "Up to 300 h",
+        "Talk time": "Up to 3 h"
+      },
+      "Misc": {
+        "Colors": "White, Silver, Purple",
+        "SAR EU": "0.62 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 80 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-b510.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_b510-pictures-2501.php"
+    }
+  }
+}

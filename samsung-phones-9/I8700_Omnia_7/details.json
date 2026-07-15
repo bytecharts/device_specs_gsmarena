@@ -1,0 +1,99 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung I8700 Omnia 7",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-omnia-7-3.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-omnia-7-ofic.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_i8700_omnia_7-review-522.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2010, October",
+    "dimensions": "138.2g, 11mm thickness",
+    "os": "Microsoft Windows Phone 7",
+    "storage": "16GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 900 / 2100",
+        "Speed": "HSPA 7.2/5.76 Mbps"
+      },
+      "Launch": {
+        "Announced": "2010, October. Released 2010, October",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "122.4 x 64.2 x 11 mm (4.82 x 2.53 x 0.43 in)",
+        "Weight": "138.2 g (4.87 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "Super AMOLED",
+        "Size": "4.0 inches, 45.5 cm<sup>2</sup> (~58.0% screen-to-body ratio)",
+        "Resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)"
+      },
+      "Platform": {
+        "OS": "Microsoft Windows Phone 7",
+        "Chipset": "Qualcomm QSD8250 Snapdragon S1",
+        "CPU": "1.0 GHz Scorpion",
+        "GPU": "Adreno 200"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "8/16GB"
+      },
+      "Main Camera": {
+        "Single": "5 MP, AF",
+        "Features": "LED flash",
+        "Video": "720p@25fps"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n",
+        "Bluetooth": "2.1, A2DP",
+        "Positioning": "GPS, A-GPS",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity, compass",
+        "Browser": "HTML",
+        "Features": "Document viewer/editor\n\nMP4/WMV player\n\nMP3/WAV/WMA/eAAC+ player\n\nFacebook integration\n\nOrganizer\n\nVoice memo\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1500 mAh battery",
+        "Stand-by": "Up to 390 h (2G) / Up to 330 h (3G)",
+        "Talk time": "Up to 5 h 40 min (2G) / Up to 6 h 10 min (3G)"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "SAR": "0.78 W/kg (head) &nbsp; &nbsp; 0.41 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.65 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 150 EUR"
+      },
+      "Our Tests": {
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=3537&amp;nSuggest=1\">Photo</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"samsung_i8700_omnia_7-review-522p4.php\">Voice 66dB / Noise 66dB / Ring 70dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"samsung_i8700_omnia_7-review-522p5.php#aq\">Noise -84.4dB / Crosstalk -82.5dB</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-omnia-7-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_i8700_omnia_7-pictures-3537.php"
+    }
+  }
+}

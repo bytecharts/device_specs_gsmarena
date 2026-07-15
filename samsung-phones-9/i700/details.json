@@ -1,0 +1,92 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung i700",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/sai700_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/ssi700.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2003, November",
+    "dimensions": "180g, 16mm thickness",
+    "os": "Windows Pocket PC 2002",
+    "storage": "32MB RAM storage, MMC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "GPRS": "Class 10",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2003, October. Released 2003, November",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "132 x 70 x 16 mm (5.20 x 2.76 x 0.63 in)",
+        "Weight": "180 g (6.35 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT resistive touchscreen, 65K colors",
+        "Size": "",
+        "Resolution": "240 x 320 pixels, 4:3 ratio"
+      },
+      "Platform": {
+        "OS": "Windows Pocket PC 2002",
+        "CPU": "Intel PXA250 400 MHz"
+      },
+      "Memory": {
+        "Card slot": "MMC",
+        "Internal": "32MB RAM, 32MB ROM"
+      },
+      "Main Camera": {
+        "Single": "VGA",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "Proprietary"
+      },
+      "Features": {
+        "Sensors": "",
+        "Browser": "WAP 2.0/xHTML, HTML (PocketIE)",
+        "Clock": "Yes",
+        "Alarm": "Yes",
+        "Features": "Pocket Office \n\nMedia player\n\nMP3 player\n\nVoice commands and dial"
+      },
+      "Battery": {
+        "Type": "Standard battery, Li-Ion 2000 mAh",
+        "Stand-by": "-",
+        "Talk time": "-"
+      },
+      "Misc": {
+        "Colors": "Silver",
+        "SAR EU": "0.93 W/kg (head) &nbsp; &nbsp;"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/sai700_00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_i700-pictures-441.php"
+    }
+  }
+}

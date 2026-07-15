@@ -1,0 +1,82 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung X910",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ssx910.gif",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/ssx910.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Cancelled",
+    "dimensions": "129g, 24mm thickness",
+    "os": "Feature phone",
+    "storage": "RS-MMC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "GPRS": "Class 10",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2004, Q1",
+        "Status": "Cancelled"
+      },
+      "Body": {
+        "Dimensions": "105 x 48 x 24 mm (4.13 x 1.89 x 0.94 in)",
+        "Weight": "129 g (4.55 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "",
+        "Resolution": "128 x 160 pixels",
+        "Features": "Second external display 65K colors, TFT"
+      },
+      "Memory": {
+        "Card slot": "RS-MMC",
+        "Phonebook": "Yes",
+        "Call records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "Main Camera": {
+        "Single": "VGA, 180 deg. rotating lens",
+        "Video": "No"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "Alert types": "Vibration; Downloadable polyphonic ringtones",
+        "3.5mm jack": "No",
+        "Features": "Dual speaker"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, EMS, MMS, Email",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "Yes",
+        "Java": "Yes",
+        "Features": "MP3/AAC player\n\nvCard &amp; vCalendar\n\nCalculator\n\nCurrency converter"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion battery"
+      },
+      "Misc": {
+        "Colors": ""
+      }
+    }
+  }
+}

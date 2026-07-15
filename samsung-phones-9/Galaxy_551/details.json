@@ -1,0 +1,102 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy 551",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/Samsung-Galaxy-551-I5510-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/Samsung-Galaxy-551-I5510.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_galaxy_551-review-557.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2010, Q4",
+    "dimensions": "117g, 15.2mm thickness",
+    "os": "Android 2.2, up to 2.3.6",
+    "storage": "160MB storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 900 / 2100",
+        "Speed": "HSPA 7.2/0.384 Mbps",
+        "Features": "HSDPA 850 / 2100"
+      },
+      "Launch": {
+        "Announced": "2010, October. Released 2010, Q4",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "111 x 55 x 15.2 mm (4.37 x 2.17 x 0.60 in)",
+        "Weight": "117 g (4.13 oz)",
+        "Keyboard": "QWERTY",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT",
+        "Size": "3.2 inches, 29.1 cm<sup>2</sup> (~47.7% screen-to-body ratio)",
+        "Resolution": "240 x 400 pixels, 5:3 ratio (~146 ppi density)",
+        "Features": "TouchWiz 3.0 UI"
+      },
+      "Platform": {
+        "OS": "Android 2.2 (Froyo), upgradable to 2.3.6 (Gingerbread)",
+        "Chipset": "Qualcomm MSM7227 Snapdragon S1",
+        "CPU": "600 MHz",
+        "GPU": "Adreno 200"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot), 1 GB included",
+        "Internal": "160MB",
+        "Features": "DNSe sound enhancement"
+      },
+      "Main Camera": {
+        "Single": "3.15 MP, AF",
+        "Video": "320p@15fps"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, DLNA, hotspot",
+        "Bluetooth": "2.1, A2DP",
+        "Positioning": "GPS, A-GPS",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity, compass",
+        "Browser": "HTML",
+        "Features": "MP4/WMV/H.263 player\n\nMP3/WAV/eAAC+ player\n\nDocument viewer"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1200 mAh battery",
+        "Stand-by": "Up to 520 h (2G) / Up to 370 h (3G)",
+        "Talk time": "Up to 9 h (2G) / Up to 5 h (3G)"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "SAR": "0.18 W/kg (head) &nbsp; &nbsp; 0.90 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.38 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 90 EUR"
+      },
+      "Our Tests": {
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=3515&amp;nSuggest=1\">Photo</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"samsung_galaxy_551-review-557p4.php\">Voice 69dB / Noise 66dB / Ring 72dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"samsung_galaxy_551-review-557p5.php#aq\">Noise -85.0dB / Crosstalk -32.4dB</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/Samsung-Galaxy-551-I5510-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_551-pictures-3515.php"
+    }
+  }
+}

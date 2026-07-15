@@ -1,0 +1,89 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung i7410",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-i7410-00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-i7410.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2009, February",
+    "dimensions": "17.2mm thickness",
+    "os": "Feature phone",
+    "storage": "150MB storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / UMTS</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "3G bands": "UMTS 2100",
+        "Speed": "Yes, 384 kbps"
+      },
+      "Launch": {
+        "Announced": "2009, February",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "111.7 x 56.7 x 17.2 mm (4.40 x 2.23 x 0.68 in)",
+        "Weight": "",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "3.2 inches, 29.1 cm<sup>2</sup> (~46.0% screen-to-body ratio)",
+        "Resolution": "240 x 400 pixels, 5:3 ratio (~146 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Phonebook": "1000 contacts, Photo call",
+        "Call records": "Yes",
+        "Internal": "150MB"
+      },
+      "Main Camera": {
+        "Single": "5 MP, AF",
+        "Features": "LED flash",
+        "Video": "320p@15fps"
+      },
+      "Selfie camera": {
+        "Single": "Yes",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.1, A2DP",
+        "Positioning": "No",
+        "Radio": "Stereo FM radio",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS, Email",
+        "Browser": "WAP 2.0/xHTML, HTML",
+        "Games": "Yes + downloadable",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "Projector size : Min 5\" ~ Max 50\"\n\nMP3/AAC/WMA player\n\nOrganizer\n\nDocument viewer (Word, Excel, PowerPoint, PDF)\n\nVoice memo/dial\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1440 mAh battery"
+      },
+      "Misc": {
+        "Colors": "Silver",
+        "SAR EU": "0.72 W/kg (head) &nbsp; &nbsp;"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-i7410-00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_i7410-pictures-2698.php"
+    }
+  }
+}

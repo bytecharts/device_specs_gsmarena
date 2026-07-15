@@ -1,0 +1,93 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung A746",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-a746-01.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-a746.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2008, February",
+    "dimensions": "90g, 13mm thickness",
+    "os": "Feature phone",
+    "storage": "50MB storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 1900",
+        "Speed": "HSPA 3.6/0.384 Mbps"
+      },
+      "Launch": {
+        "Announced": "2008, February",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "101 x 51 x 13 mm (3.98 x 2.01 x 0.51 in)",
+        "Weight": "90 g (3.17 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "2.2 inches, 15.2 cm<sup>2</sup> (~29.6% screen-to-body ratio)",
+        "Resolution": "176 x 220 pixels (~128 ppi density)",
+        "Features": "External TFT display, 65K colors (96 x 96 pixels)\n\nDownloadable wallpapers and tones"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Phonebook": "1000 entries, Photocall",
+        "Call records": "20 dialed, 20 received, 20 missed calls",
+        "Internal": "50MB"
+      },
+      "Main Camera": {
+        "Single": "2 MP",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.0, A2DP",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": "Proprietary"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, EMS, MMS, Email, Instant Messaging",
+        "Browser": "WAP 2.0/xHTML, HTML",
+        "Games": "Yes",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "MP4/3gp player\n\nVoice memo\n\nOrganizer\n\nWorld clock\n\nStopwatch\n\nCountdown timer"
+      },
+      "Battery": {
+        "Type": "Removable battery",
+        "Stand-by": "Up to 280 h",
+        "Talk time": "Up to 3 h"
+      },
+      "Misc": {
+        "Colors": "Gray",
+        "SAR EU": "1.31 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 120 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-a746-01.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-a747-02.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_a746-pictures-2373.php"
+    }
+  }
+}

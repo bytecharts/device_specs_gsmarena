@@ -1,0 +1,91 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung M2710 Beat Twist",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-m2710-01.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-m2710.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2009, July",
+    "dimensions": "85g, 16.3mm thickness",
+    "os": "Feature phone",
+    "storage": "50MB storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "GPRS": "Class 10",
+        "EDGE": "Class 6"
+      },
+      "Launch": {
+        "Announced": "2009, June. Released 2009, July",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "96.5 x 47 x 16.3 mm (3.80 x 1.85 x 0.64 in)",
+        "Weight": "85 g (3.00 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 65K colors",
+        "Size": "2.0 inches, 12.6 cm<sup>2</sup> (~27.9% screen-to-body ratio)",
+        "Resolution": "144 x 176 pixels (~114 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Phonebook": "1000 contacts, Photo call",
+        "Call records": "Yes",
+        "Internal": "50MB"
+      },
+      "Main Camera": {
+        "Single": "2 MP",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes",
+        "Features": "Dedicated music keys"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.0, A2DP",
+        "Positioning": "No",
+        "Radio": "Stereo FM radio, RDS, recording",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer",
+        "Messaging": "SMS, EMS, MMS, Email",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "Yes + downloadable",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "Motion Play shake control\n\nAuto EQ automatic equalizer\n\nFind Music recognition service\n\nTurn-to-mute\n\nMP3/e-AAC+/WMA player\n\nMP4/3GP player\n\nOrganizer\n\nVoice memo\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 800 mAh battery",
+        "Stand-by": "Up to 300 h",
+        "Talk time": "Up to 5 h"
+      },
+      "Misc": {
+        "Colors": "Black, white",
+        "Price": "About 70 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-m2710-01.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-m2710-02.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_m2710_beat_twist-pictures-2816.php"
+    }
+  }
+}

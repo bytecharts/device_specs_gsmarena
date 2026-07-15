@@ -20,14 +20,15 @@ git-ignored and not committed.
 |--------|---------------------|--------:|-----------------:|:------------|
 | Apple  | `apple-phones-48`   | 146     | 148              | ✅ Complete* |
 | Google | `google-phones-107` | 40      | 40               | ✅ Complete  |
-| Samsung| `samsung-phones-9`  | 582     | 1457             | ⏳ Partial   |
-| Sony   | `sony-phones-7`     | 50      | 163              | ⏳ Partial   |
+| Samsung| `samsung-phones-9`  | 1455    | 1457             | ⏳ Partial   |
+| Sony   | `sony-phones-7`     | 163     | 163              | ✅ Complete  |
 
-\* Apple: 146 of 148 — 2 models failed (see `error.json`, not committed).
+\* Apple: 146 of 148 — 2 models unaccounted for (not yet scraped).
 
-Samsung and Sony are paused mid-scrape because GSMArena returned HTTP 429
+Samsung is paused mid-scrape because GSMArena returned HTTP 429
 (rate limit). Re-running the scraper resumes incrementally (existing
-`details.json` files are skipped).
+`details.json` files are skipped). Currently 18 Samsung models failed with
+`error.json` (git-ignored, not committed) and will be retried on resume.
 
 ## Regenerate / resume
 

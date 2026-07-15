@@ -1,0 +1,95 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung B2100 Xplorer",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-b2100-xplorer-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-b2700-xplorer.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2009, April",
+    "dimensions": "102.8g, 17.4mm thickness",
+    "os": "Feature phone",
+    "storage": "7MB storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "GPRS": "Class 10",
+        "EDGE": "Class 10"
+      },
+      "Launch": {
+        "Announced": "2009, March. Released 2009, April",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "113 x 48.9 x 17.4 mm (4.45 x 1.93 x 0.69 in)",
+        "Weight": "102.8 g (3.60 oz)",
+        "SIM": "Mini-SIM",
+        "Features": "MIL-STD-810F compliant salt, dust, humidity, rain, vibration, solar radiation, transport and thermal shock resistant\n\nIP57 dust/water resistant (up to 1m for 30 min)\n\nAnti-shock materials (urethane)\n\nFlashlight"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "1.77 inches, 9.7 cm<sup>2</sup> (~17.6% screen-to-body ratio)",
+        "Resolution": "120 x 160 pixels, 4:3 ratio (~113 ppi density)",
+        "Features": "Wallpapers"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Phonebook": "1000 entries",
+        "Call records": "Yes",
+        "Internal": "7MB"
+      },
+      "Main Camera": {
+        "Single": "1.3 MP",
+        "Features": "flash",
+        "Video": "@15fps"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.1, A2DP",
+        "Positioning": "No",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": "2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "Yes + downloadable",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "Stopwatch\n\nMP3/eAAC+/WMA/WAV player\n\nMP4/3GP/M4V player\n\nVoice memo\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1000 mAh battery",
+        "Stand-by": "Up to 600 h",
+        "Talk time": "Up to 9 h"
+      },
+      "Misc": {
+        "Colors": "Red, Black",
+        "SAR": "0.54 W/kg (head) &nbsp; &nbsp; 0.42 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.72 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 80 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-b2100-xplorer-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-b2100-xplorer-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_b2100_xplorer-pictures-2747.php"
+    }
+  }
+}

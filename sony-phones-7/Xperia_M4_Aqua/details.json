@@ -1,0 +1,110 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Sony Xperia M4 Aqua",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/sony/-sony-xperia-m4-aqua-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/sony-xperia-m4-aqua.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/sony_xperia_m4_aqua-review-1249.php",
+    "siblingDeviceSlugs": [
+      "sony_xperia_m4_aqua_dual-7100"
+    ],
+    "release_date": "Released 2015, June",
+    "dimensions": "136g, 7.3mm thickness",
+    "os": "Android 5.0.1, up to 6.0.1",
+    "storage": "8GB/16GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100 - E2303, E2353",
+        "4G bands": "1, 2, 3, 5, 7, 8, 20 - E2303",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+        "Features": "HSDPA 850 / 900 / 1700 / 1900 / 2100 - E2306\n2, 4, 5, 7, 12, 13, 17, 28 - E2306\n1, 3, 5, 7, 8, 28, 40 - E2353"
+      },
+      "Launch": {
+        "Announced": "2015, March. Released 2015, June",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "145.5 x 72.6 x 7.3 mm (5.73 x 2.86 x 0.29 in)",
+        "Weight": "136 g (4.80 oz)",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "Nano-SIM",
+        "Features": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "5.0 inches, 68.9 cm<sup>2</sup> (~65.2% screen-to-body ratio)",
+        "Resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)",
+        "Protection": "Scratch-resistant glass"
+      },
+      "Platform": {
+        "OS": "Android 5.0.1 (Lollipop), upgradable to 6.0.1 (Marshmallow)",
+        "Chipset": "Qualcomm MSM8939 Snapdragon 615 (28 nm)",
+        "CPU": "Octa-core (4x1.5 GHz Cortex-A53 &amp; 4x1.0 GHz Cortex-A53)",
+        "GPU": "Adreno 405"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "8GB 2GB RAM, 16GB 2GB RAM (E2306)",
+        "Features": "eMMC 4.5"
+      },
+      "Main Camera": {
+        "Single": "13 MP, f/2.0, AF",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "5 MP",
+        "Video": "720p"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, DLNA, hotspot",
+        "Bluetooth": "4.1, A2DP",
+        "Positioning": "GPS, GLONASS",
+        "NFC": "Yes",
+        "Radio": "FM radio, RDS",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity, compass",
+        "Features": "ANT+"
+      },
+      "Battery": {
+        "Type": "Li-Ion 2400 mAh, non-removable",
+        "Stand-by": "Up to 681 h (2G) / Up to 685 h (3G)",
+        "Talk time": "Up to 12 h 40 min (2G) / Up to 13 h 20 min (3G)",
+        "Music play": "Up to 64 h 40 min"
+      },
+      "Misc": {
+        "Colors": "Black, White, Coral, Silver",
+        "Models": "E2303, E2353, E2306",
+        "SAR": "1.19 W/kg (head) &nbsp; &nbsp; 1.19 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.59 W/kg (head) &nbsp; &nbsp; 0.53 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 190 EUR"
+      },
+      "Our Tests": {
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=7068&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=7068&amp;nSuggest=1\">Video</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/sony/-sony-xperia-m4-aqua-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/sony/-sony-xperia-m4-aqua-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/sony/-sony-xperia-m4-aqua-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/sony_xperia_m4_aqua-pictures-7068.php"
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung E420",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-e420-00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-e420.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2006, October",
+    "dimensions": "77g, 17.4mm thickness",
+    "os": "Feature phone",
+    "storage": "2MB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "GPRS": "Class 10",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2006, October",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "83.6 x 45.5 x 17.4 mm (3.29 x 1.79 x 0.69 in)",
+        "Weight": "77 g (2.72 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "OLED, 65K colors",
+        "Size": "1.8 inches, 10.2 cm<sup>2</sup> (~26.8% screen-to-body ratio)",
+        "Resolution": "128 x 160 pixels (~114 ppi density)",
+        "Features": "Second external display OLED, 65K colors (96 x 96 pixels)"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "500 entries, Photocall",
+        "Call records": "20 dialed, 20 received, 20 missed calls",
+        "Internal": "2MB"
+      },
+      "Main Camera": {
+        "Single": "VGA",
+        "Video": "No"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "Alert types": "Vibration; Downloadable polyphonic ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "SnowBallFight, BubbleSmile + Downloadable",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "Predictive text input\n\nOrganizer"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 750 mAh battery"
+      },
+      "Misc": {
+        "Colors": "Red",
+        "SAR": "1.00 W/kg (head) &nbsp; &nbsp; 0.32 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.90 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 80 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-e420-00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_e420-pictures-1757.php"
+    }
+  }
+}

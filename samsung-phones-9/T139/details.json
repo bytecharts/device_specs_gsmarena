@@ -1,0 +1,84 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung T139",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-t139.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-t139.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2010, February",
+    "dimensions": "84.5g, 18.3mm thickness",
+    "os": "Feature phone",
+    "storage": "10MB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 850 / 1900",
+        "GPRS": "Class 10",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2009, November. Released 2010, February",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "95 x 48 x 18.3 mm (3.74 x 1.89 x 0.72 in)",
+        "Weight": "84.5 g (2.96 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 65K colors",
+        "Size": "1.4 inches, 6.2 cm<sup>2</sup> (~13.5% screen-to-body ratio)",
+        "Resolution": "128 x 160 pixels (~146 ppi density)",
+        "Features": "External 1\" display, 96 x 96 pixels"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "300 contacts, Photo call",
+        "Call records": "30 received, dialed and missed calls",
+        "Internal": "10MB"
+      },
+      "Main Camera": {
+        "Single": "VGA",
+        "Video": "No"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.0",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "Yes",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "MP3/MP4 player\n\nOrganizer\n\nVoice memo\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 800 mAh battery",
+        "Stand-by": "Up to 300 h",
+        "Talk time": "Up to 6 h"
+      },
+      "Misc": {
+        "Colors": "Black, Gray",
+        "SAR": "0.60 W/kg (head) &nbsp; &nbsp; 1.04 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 40 EUR"
+      }
+    }
+  }
+}

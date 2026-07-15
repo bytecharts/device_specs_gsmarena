@@ -1,0 +1,92 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy Rush M830",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-rush-sph-m830.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-rush-sph-m830.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2012, September",
+    "dimensions": "119.1g, 11.9mm thickness",
+    "os": "Android 4.0.4",
+    "storage": "2GB 768MB RAM storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">CDMA / EVDO</a>",
+        "2G bands": "CDMA 800 / 1900",
+        "3G bands": "CDMA2000 1xEV-DO",
+        "Speed": "EV-DO Rev.A 3.1 Mbps"
+      },
+      "Launch": {
+        "Announced": "2012, August. Released 2012, September",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "122.9 x 59.9 x 11.9 mm (4.84 x 2.36 x 0.47 in)",
+        "Weight": "119.1 g (4.20 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT",
+        "Size": "3.5 inches, 36.5 cm<sup>2</sup> (~49.5% screen-to-body ratio)",
+        "Resolution": "320 x 480 pixels, 3:2 ratio (~165 ppi density)",
+        "Features": "Touch sensitive controls"
+      },
+      "Platform": {
+        "OS": "Android 4.0.4 (Ice Cream Sandwich)",
+        "Chipset": "Qualcomm MSM8655 Snapdragon S2",
+        "CPU": "1.0 GHz Scorpion",
+        "GPU": "Adreno 205"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Internal": "2GB 768MB RAM"
+      },
+      "Main Camera": {
+        "Single": "3.15 MP, AF",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Single": "1.3 MP",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n",
+        "Bluetooth": "4.0, A2DP",
+        "Positioning": "GPS, A-GPS",
+        "Radio": "No",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity, compass",
+        "Features": "MP3/WAV/WMA/AAC+ player\n\nMP4/WMV/H.264 player\n\nDocument viewer\n\nPhoto viewer/editor"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1750 mAh battery",
+        "Stand-by": "Up to 348 h",
+        "Talk time": "Up to 9 h"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "SAR": "0.98 W/kg (head) &nbsp; &nbsp; 0.72 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 100 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-rush-sph-m830.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_rush_m830-pictures-4957.php"
+    }
+  }
+}

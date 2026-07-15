@@ -1,0 +1,90 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung T919 Behold",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-behold-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-behold.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2008, November",
+    "dimensions": "100g, 12.7mm thickness",
+    "os": "Feature phone",
+    "storage": "microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / UMTS</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "UMTS 1700",
+        "Speed": "HSPA 3.6/0.384 Mbps"
+      },
+      "Launch": {
+        "Announced": "2008, November. Released 2008, November",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "98 x 55 x 12.7 mm (3.86 x 2.17 x 0.5 in)",
+        "Weight": "100 g (3.53 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT resistive touchscreen, 256K colors",
+        "Size": "3.0 inches, 27.9 cm<sup>2</sup> (~51.7% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~133 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Phonebook": "1000 entries, Photocall",
+        "Call records": "30 dialed, 30 received, 30 missed calls"
+      },
+      "Main Camera": {
+        "Single": "5 MP, AF",
+        "Features": "LED flash",
+        "Video": "320p"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.0, A2DP",
+        "Positioning": "GPS",
+        "Radio": "No",
+        "USB": "2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer",
+        "Messaging": "SMS, EMS, MMS, Email",
+        "Browser": "WAP 2.0/xHTML, HTML",
+        "Games": "Yes",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "H.264/MP4 player\n\nMP3/AAC+/WAV player\n\nOrganizer\n\nDocument viewer (Word, Excel, PowerPoint, PDF)\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion battery",
+        "Stand-by": "Up to 300 h",
+        "Talk time": "Up to 5 h"
+      },
+      "Misc": {
+        "Colors": "Light rose, Black",
+        "SAR": "0.49 W/kg (head) &nbsp; &nbsp; 0.48 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 80 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-behold-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_t919_behold-pictures-2587.php"
+    }
+  }
+}

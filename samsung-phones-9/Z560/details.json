@@ -1,0 +1,94 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Z560",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-z560-00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-z560.gif"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_z560-review-146.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2006, February",
+    "dimensions": "94g, 16mm thickness",
+    "os": "Feature phone",
+    "storage": "20MB storage, microSD slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "3G bands": "HSDPA 2100",
+        "Speed": "HSPA 1.8 Mbps"
+      },
+      "Launch": {
+        "Announced": "2006, February",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "97.3 x 51.3 x 16 mm (3.83 x 2.02 x 0.63 in)",
+        "Weight": "94 g (3.32 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "2.3 inches, 16.4 cm<sup>2</sup> (~32.8% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~174 ppi density)",
+        "Features": "Second external display TFT, 65K colors (96 x 96 pixels)"
+      },
+      "Memory": {
+        "Card slot": "microSD (dedicated slot)",
+        "Phonebook": "1000 entries, Photo call",
+        "Call records": "30 dialed, 30 received, 30 missed calls",
+        "Internal": "20MB"
+      },
+      "Main Camera": {
+        "Single": "2 MP, AF",
+        "Video": "QCIF"
+      },
+      "Selfie camera": {
+        "Single": "VGA videocall camera",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "1.2, A2DP",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": "Proprietary"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, EMS, MMS, Email",
+        "Browser": "WAP 2.0/xHTML, HTML",
+        "Games": "Yes",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "Video telephony and streaming\n\nMP3/AAC/AAC++ player\n\nPredictive text input\n\nOrganizer\n\nVoice memo"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 900 mAh battery",
+        "Stand-by": "Up to 320 h",
+        "Talk time": "Up to 3 h 40 min"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "SAR": "0.13 W/kg (head) &nbsp; &nbsp; 0.32 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.10 W/kg (head) &nbsp; &nbsp;"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-z560-00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_z560-pictures-1439.php"
+    }
+  }
+}

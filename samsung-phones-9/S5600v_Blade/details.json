@@ -1,0 +1,94 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung S5600v Blade",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung_s5600_blade_3.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-blade.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2009, June",
+    "dimensions": "92g, 12.9mm thickness",
+    "os": "Feature phone",
+    "storage": "50MB storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 900 / 2100",
+        "Speed": "HSPA 7.2/0.384 Mbps"
+      },
+      "Launch": {
+        "Announced": "2009, June",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "102.8 x 54.8 x 12.9 mm (4.05 x 2.16 x 0.51 in)",
+        "Weight": "92 g (3.25 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 16M colors",
+        "Size": "2.8 inches, 24.3 cm<sup>2</sup> (~43.1% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)",
+        "Features": "Gesture lock"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot), 4 GB included",
+        "Phonebook": "Yes, Photo Contact",
+        "Call records": "Yes",
+        "Internal": "50MB"
+      },
+      "Main Camera": {
+        "Single": "3.15 MP",
+        "Features": "LED flash",
+        "Video": "320p@15fps"
+      },
+      "Selfie camera": {
+        "Features": "Videocall camera"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.1, A2DP",
+        "Positioning": "No",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": "2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer",
+        "Messaging": "SMS, MMS, Email",
+        "Browser": "WAP 2.0/xHTML, HTML",
+        "Games": "Yes + downloadable",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "MP3/WMA/AAC player\n\nH.264/WMV/MP4 player\n\nOrganizer\n\nShazam Find Music service\n\nTurn-to-mute\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1000 mAh battery",
+        "Stand-by": "Up to 250 h",
+        "Talk time": "Up to 2 h"
+      },
+      "Misc": {
+        "Colors": "Black, Pink",
+        "SAR": "0.78 W/kg (head) &nbsp; &nbsp; 0.42 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.80 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 200 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung_s5600_blade_3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-s5600v-blade-pink.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_s5600v_blade-pictures-2860.php"
+    }
+  }
+}

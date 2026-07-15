@@ -1,0 +1,88 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung E105",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/sae105_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/sse105.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2003, Q3",
+    "dimensions": "81g, 21mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1900",
+        "GPRS": "Class 10",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2003, Q3",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "87 x 49 x 21 mm (3.43 x 1.93 x 0.83 in)",
+        "Weight": "81 g (2.86 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "UFB, 65K colors",
+        "Size": "",
+        "Resolution": "128 x 160 pixels",
+        "Features": "Second external CSTN display 256 colors (96 x 64 pixels)\n\nFour way navigation keys\n\nWallpaper"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "500",
+        "Call records": "20 received, 20 dialed, 20 missed calls"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Downloadable polyphonic ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, EMS, MMS",
+        "Browser": "WAP 1.2",
+        "Clock": "Yes",
+        "Alarm": "Yes",
+        "Games": "Java downloadable",
+        "Java": "Yes",
+        "Features": "Predictive text input\n\nOrganizer\n\nMenu shortcuts"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 780 mAh battery",
+        "Stand-by": "Up to 250 h",
+        "Talk time": "3 h"
+      },
+      "Misc": {
+        "Colors": "Silver"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/sae105_00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_e105-pictures-462.php"
+    }
+  }
+}

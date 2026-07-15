@@ -1,0 +1,101 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung i8510 INNOV8",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-i8150-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-i8150.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_i8510_innov8-review-302.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2008, September",
+    "dimensions": "136g, 17.2mm thickness",
+    "os": "Symbian 9.3, Series 60 rel. 3.2",
+    "storage": "8GB/16GB storage, microSDHC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 900 / 2100",
+        "Speed": "HSPA 7.2/0.384 Mbps",
+        "Features": "HSDPA 850 / 1900 - American version"
+      },
+      "Launch": {
+        "Announced": "2008, July. Released 2008, September",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "106.5 x 53.9 x 17.2 mm (4.19 x 2.12 x 0.68 in)",
+        "Weight": "136 g (4.80 oz)",
+        "SIM": "Mini-SIM",
+        "Features": "Optical trackpad"
+      },
+      "Display": {
+        "Type": "TFT, 16M colors",
+        "Size": "2.8 inches, 24.3 cm<sup>2</sup> (~42.3% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)"
+      },
+      "Platform": {
+        "OS": "Symbian 9.3, Series 60 rel. 3.2",
+        "CPU": "330 MHz ARM 11"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Internal": "8GB 128MB RAM, 16GB 128MB RAM"
+      },
+      "Main Camera": {
+        "Single": "8 MP, AF",
+        "Features": "LED flash",
+        "Video": "480p@30fps, 320p@120fps"
+      },
+      "Selfie camera": {
+        "Single": "Videocall camera",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g, DLNA",
+        "Bluetooth": "2.0, A2DP",
+        "Positioning": "GPS, A-GPS",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer",
+        "Browser": "WAP 2.0/xHTML, HTML",
+        "Features": "Business card scanner\n\nAVI(DiVX/XviD)/WMV/RV/MP4/3GP player\n\nMP3/WMA/WAV/RA/AAC/M4A player\n\nVideo editing\n\nTV-out\n\nOrganizer\n\nDocument viewer (Word, Excel, PowerPoint, PDF)\n\nPredictive text input\n\nVoice memo"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1200 mAh battery",
+        "Stand-by": "Up to 310 h (2G) / 330 h (3G)",
+        "Talk time": "Up to 8 h 30 min (2G) / 2 h 30 min (3G)"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "SAR": "0.28 W/kg (head) &nbsp; &nbsp; 0.50 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.41 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 200 EUR"
+      },
+      "Our Tests": {
+        "Loudspeaker": "<a class=\"noUnd\" href=\"samsung_i8510_innov8-review-302p3.php\">Voice 78dB / Noise 75dB / Ring 77dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"samsung_i8510_innov8-review-302p4.php#aq\">Noise -87.6dB / Crosstalk -84.6dB</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-i8150-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-i8150-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_i8510_innov8-pictures-2471.php"
+    }
+  }
+}

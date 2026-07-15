@@ -1,0 +1,91 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Comment 2 R390C",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-comment-2-r390c.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-comment-2-r390c.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2012, October",
+    "dimensions": "95g, 10.9mm thickness",
+    "os": "Feature phone",
+    "storage": "256MB storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">CDMA</a>",
+        "2G bands": "CDMA 850 / 1700 / 1900 / 2100",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2012, October. Released 2012, October",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "110 x 61 x 10.9 mm (4.33 x 2.40 x 0.43 in)",
+        "Weight": "95 g (3.35 oz)",
+        "Keyboard": "QWERTY",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "2.4 inches, 17.8 cm<sup>2</sup> (~26.6% screen-to-body ratio)",
+        "Resolution": "320 x 240 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Phonebook": "1000 entries, Photocall",
+        "Call records": "Yes",
+        "Internal": "256MB"
+      },
+      "Main Camera": {
+        "Single": "2 MP",
+        "Video": "176x144"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.1, A2DP",
+        "Positioning": "No",
+        "NFC": "No",
+        "Radio": "No",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS, Email, IM",
+        "Games": "Yes",
+        "Java": "No",
+        "Features": "SNS applications\n\nMP3/eAAC+ player\n\nMP4/H.264 player\n\nOrganizer\n\nVoice memo/dial\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Li-Ion 1000 mAh, removable",
+        "Stand-by": "Up to 264 h",
+        "Talk time": "Up to 4 h"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "SAR": "0.97 W/kg (head) &nbsp; &nbsp; 1.07 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 60 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-comment-2-r390c.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_comment_2_r390c-pictures-5079.php"
+    }
+  }
+}

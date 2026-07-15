@@ -1,0 +1,90 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy A91",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a91-r.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a91-r.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Cancelled",
+    "dimensions": "",
+    "os": "Android 10, One UI",
+    "storage": "128GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "LTE",
+        "Speed": "HSPA 42.2/5.76 Mbps"
+      },
+      "Launch": {
+        "Announced": "Not announced yet",
+        "Status": "Cancelled"
+      },
+      "Body": {
+        "Dimensions": "-",
+        "Weight": "-",
+        "SIM": "· Nano-SIM\n· Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "Super AMOLED",
+        "Size": "6.7 inches, 108.4 cm<sup>2</sup>",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~393 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 10, One UI",
+        "Chipset": "Qualcomm SM8150 Snapdragon 855 (7 nm)",
+        "CPU": "Octa-core (1x2.84 GHz Kryo 485 &amp; 3x2.42 GHz Kryo 485 &amp; 4x1.78 GHz Kryo 485)",
+        "GPU": "Adreno 640"
+      },
+      "Memory": {
+        "Card slot": "microSDXC",
+        "Internal": "128GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Triple": "48 MP, f/2.0, 26mm (wide), 1/2.0\", 0.8µm, PDAF, OIS\n\n12 MP, f/2.2, 12mm (ultrawide), 1.12µm\n\nAuxiliary lens",
+        "Features": "LED flash, panorama, HDR",
+        "Video": "4K@30fps, 1080p@30/60fps (gyro-EIS), 720p@960fps"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.2, 25mm (wide), 1/2.8\", 0.8µm",
+        "Features": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS",
+        "NFC": "No",
+        "USB": "USB Type-C 2.0"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",
+        "Features": "Samsung DeX (desktop experience support)\n\nANT+"
+      },
+      "Battery": {
+        "Type": "Li-Po 4500 mAh, non-removable",
+        "Charging": "45W wired"
+      },
+      "Misc": {
+        "Colors": "White, Black",
+        "Models": "SM-A915F"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_a91-pictures-9912.php"
+    }
+  }
+}

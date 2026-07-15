@@ -1,0 +1,90 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy S6 Plus",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/smartphone.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/smartphone.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "samsung_galaxy_s6-6849"
+    ],
+    "release_date": "Cancelled",
+    "dimensions": "",
+    "os": "Android 5.0.2, TouchWiz UI",
+    "storage": "32GB storage, To be confirmed",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4G bands": "LTE",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "Launch": {
+        "Announced": "Exp. announcement 2015, Q3",
+        "Status": "Cancelled"
+      },
+      "Body": {
+        "Dimensions": "-",
+        "Weight": "-",
+        "SIM": "Nano-SIM"
+      },
+      "Display": {
+        "Type": "Super AMOLED",
+        "Size": "5.5 inches, 83.4 cm<sup>2</sup>",
+        "Resolution": "1080 x 1920 pixels, 16:9 ratio (~401 ppi density)",
+        "Protection": "To be confirmed"
+      },
+      "Platform": {
+        "OS": "Android 5.0.2 (Lollipop), TouchWiz UI",
+        "Chipset": "Exynos 7420 Octa (14 nm)",
+        "CPU": "Octa-core (4x2.1 GHz Cortex-A57 &amp; 4x1.5 GHz Cortex-A53)",
+        "GPU": "Mali-T760MP8"
+      },
+      "Memory": {
+        "Card slot": "To be confirmed",
+        "Internal": "32GB 4GB RAM",
+        "Features": "UFS 2.0"
+      },
+      "Main Camera": {
+        "Single": "16 MP, f/1.9, 28mm (wide), 1/2.6\", 1.12µm, AF, OIS",
+        "Features": "LED flash, auto-HDR, panorama",
+        "Video": "4K@30fps, 1080p@30/60fps, 720p@120fps, HDR, stereo sound rec., OIS, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "5 MP, f/1.9, 22mm (wide)",
+        "Features": "HDR",
+        "Video": "1440p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes",
+        "Features": "24-bit/192kHz audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+        "Bluetooth": "4.1, A2DP, LE, aptX",
+        "Positioning": "GPS, GLONASS, BDS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "microUSB 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (front-mounted), accelerometer, gyro, proximity, compass, barometer",
+        "Features": "ANT+\n\nS-Voice natural language commands and dictation\n\nSamsung Pay (Visa, MasterCard certified)"
+      },
+      "Battery": {
+        "Type": "Li-Po 3000 mAh, non-removable",
+        "Charging": "15W wired\n\nWireless (Qi) (market dependent)"
+      },
+      "Misc": {
+        "Colors": "White Pearl, Black Sapphire"
+      }
+    }
+  }
+}

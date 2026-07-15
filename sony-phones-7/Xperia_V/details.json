@@ -1,0 +1,113 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Sony Xperia V",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/sony/sony-xperia-v.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/sony-xperia-v.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/sony_xperia_v-review-877.php",
+    "siblingDeviceSlugs": [
+      "sony_xperia_1_ii-10096",
+      "sony_xperia_1_viii_5g-14660",
+      "sony_xperia_1_vii_5g-13843",
+      "sony_xperia_1_v-12263",
+      "sony_xperia_10_vii_5g-14137",
+      "sony_xperia_5_iv-11838",
+      "sony_xperia_1_vi-13003"
+    ],
+    "release_date": "Released 2012, December",
+    "dimensions": "120g, 10.7mm thickness",
+    "os": "Android 4.0.4, up to 4.3",
+    "storage": "8GB storage, microSDHC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "1, 3, 5, 7, 20 - LT25i",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat3 100/50 Mbps"
+      },
+      "Launch": {
+        "Announced": "2012, August. Released 2012, December",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "129 x 65 x 10.7 mm (5.08 x 2.56 x 0.42 in)",
+        "Weight": "120 g (4.23 oz)",
+        "SIM": "Micro-SIM",
+        "Features": "IP57 dust/water resistant (up to 1m for 30 min)"
+      },
+      "Display": {
+        "Type": "TFT",
+        "Size": "4.3 inches, 51.0 cm<sup>2</sup> (~60.8% screen-to-body ratio)",
+        "Resolution": "720 x 1280 pixels, 16:9 ratio (~342 ppi density)",
+        "Protection": "Scratch-resistant glass"
+      },
+      "Platform": {
+        "OS": "Android 4.0.4 (Ice Cream Sandwich), upgradable to 4.3 (Jelly Bean)",
+        "Chipset": "Qualcomm MSM8960 Snapdragon S4 Plus",
+        "CPU": "Dual-core 1.5 GHz Krait",
+        "GPU": "Adreno 225"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Internal": "8GB 1GB RAM"
+      },
+      "Main Camera": {
+        "Single": "13 MP, AF",
+        "Features": "LED flash, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "VGA",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, DLNA, hotspot",
+        "Bluetooth": "4.0, A2DP",
+        "Positioning": "GPS, A-GPS, GLONASS",
+        "NFC": "Yes",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": "microUSB 2.0 (MHL TV-out)"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1750 mAh battery",
+        "Stand-by": "Up to 300 h (2G) / Up to 400 h (3G)",
+        "Talk time": "Up to 7 h (2G) / Up to 7 h (3G)",
+        "Music play": "Up to 18 h"
+      },
+      "Misc": {
+        "Colors": "Black, White, Pink",
+        "Models": "LT25i",
+        "SAR": "0.86 W/kg (head) &nbsp; &nbsp; 0.73 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.95 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 230 EUR"
+      },
+      "Our Tests": {
+        "Display": "<a class=\"noUnd\" href=\"sony_xperia_v-review-877p3.php\">Contrast ratio: 1.792:1 (sunlight)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=4958&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=4958&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"sony_xperia_v-review-877p5.php\">Voice 65dB / Noise 61dB / Ring 66dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"sony_xperia_v-review-877p6.php\">Noise -81.6dB / Crosstalk -81.9dB</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/sony/sony-xperia-v.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/sony_xperia_v-pictures-4958.php"
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung M930 Transform Ultra",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/Samsung-Transform-Ultra.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/Samsung-Transform-Ultra.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2011, October",
+    "dimensions": "139g, 14mm thickness",
+    "os": "Android 2.3",
+    "storage": "952MB storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">CDMA / EVDO</a>",
+        "2G bands": "CDMA 800 / 1900 / 850",
+        "3G bands": "CDMA2000 1xEV-DO",
+        "Speed": "EV-DO Rev.A 3.1 Mbps"
+      },
+      "Launch": {
+        "Announced": "2011, September. Released 2011, October",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "116 x 61 x 14 mm (4.57 x 2.40 x 0.55 in)",
+        "Weight": "139 g (4.90 oz)",
+        "Keyboard": "QWERTY",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "3.5 inches, 36.5 cm<sup>2</sup> (~51.5% screen-to-body ratio)",
+        "Resolution": "320 x 480 pixels, 3:2 ratio (~165 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 2.3 (Gingerbread)",
+        "Chipset": "Qualcomm MSM8655 Snapdragon S2",
+        "CPU": "1.0 GHz Scorpion",
+        "GPU": "Adreno 205"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot), 2 GB included",
+        "Internal": "952MB"
+      },
+      "Main Camera": {
+        "Single": "3.15 MP",
+        "Features": "LED flash",
+        "Video": "480p"
+      },
+      "Selfie camera": {
+        "Single": "Yes",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, hotspot",
+        "Bluetooth": "3.0, A2DP",
+        "Positioning": "GPS, A-GPS",
+        "Radio": "No",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity, compass",
+        "Features": "MP4/H.264 player\n\nMP3/WAV/WMA/eAAC+ player\n\nOrganizer\n\nPhoto/video editor\n\nDocument viewer\n\nVoice memo/dial\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1500 mAh battery",
+        "Talk time": "Up to 7 h"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "SAR": "0.62 W/kg (head) &nbsp; &nbsp; 0.89 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 100 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/Samsung-Transform-Ultra.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/Samsung-Transform-Ultra1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_m930_transform_ultra-pictures-4270.php"
+    }
+  }
+}

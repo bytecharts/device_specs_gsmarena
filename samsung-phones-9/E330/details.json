@@ -1,0 +1,92 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung E330",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/sae330_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/sse330.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2004, Q1",
+    "dimensions": "85g, 23.3mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "Class 10",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2004, Q1",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "87.2 x 41.1 x 23.3 mm (3.43 x 1.62 x 0.92 in)",
+        "Weight": "85 g (3.00 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "UFB, 65K colors",
+        "Size": "",
+        "Resolution": "128 x 160 pixels",
+        "Features": "Second external UFB display (96 x 96 pixels), 65K colors\n\nWallpaper"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "1000 entries, Photo call",
+        "Call records": "10 dialed, 10 received, 10 missed calls",
+        "Features": "9 MB memory for ringtones, images\n\n1.5 MB memory for java"
+      },
+      "Main Camera": {
+        "Single": "VGA",
+        "Features": "LED flash",
+        "Video": "No"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "Alert types": "Vibration; Downloadable polyphonic ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, EMS, MMS",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "2 embedded JAVA games",
+        "Java": "Yes, MIDP 1.0",
+        "Features": "Predictive text input\n\nOrganizer\n\nMenu shortcuts"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 800 mAh battery",
+        "Stand-by": "Up to 220 h",
+        "Talk time": "Up to 3 h 30 min"
+      },
+      "Misc": {
+        "Colors": "2 - Indigo Blue, Deep Gray",
+        "SAR EU": "0.90 W/kg (head) &nbsp; &nbsp;"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/sae330_00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_e330-pictures-833.php"
+    }
+  }
+}

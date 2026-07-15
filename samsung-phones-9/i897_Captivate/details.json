@@ -1,0 +1,93 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung i897 Captivate",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-captivate_004.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-captivate.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2010, July",
+    "dimensions": "118g, 9.9mm thickness",
+    "os": "Android 2.1, up to 2.3",
+    "storage": "16GB storage, microSDHC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 1900 / 2100",
+        "Speed": "HSPA 7.2/5.76 Mbps"
+      },
+      "Launch": {
+        "Announced": "2010, June. Released 2010, July",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "122.4 x 64.2 x 9.9 mm (4.82 x 2.53 x 0.39 in)",
+        "Weight": "118 g (4.16 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "Super AMOLED",
+        "Size": "4.0 inches, 45.5 cm<sup>2</sup> (~58.0% screen-to-body ratio)",
+        "Resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)",
+        "Protection": "Corning Gorilla Glass",
+        "Features": "TouchWiz 3.0 UI"
+      },
+      "Platform": {
+        "OS": "Android 2.1 (Eclair), upgradable to 2.3 (Gingerbread)",
+        "Chipset": "Hummingbird",
+        "CPU": "1.0 GHz Cortex-A8",
+        "GPU": "PowerVR SGX540"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Internal": "16GB 512MB RAM"
+      },
+      "Main Camera": {
+        "Single": "5 MP, AF",
+        "Video": "720p@30fps"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n; DLNA",
+        "Bluetooth": "3.0, A2DP",
+        "Positioning": "GPS, A-GPS",
+        "Radio": "No",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity, compass",
+        "Browser": "HTML, Adobe Flash Lite",
+        "Features": "MP4/DivX/WMV/H.264 player\n\nMP3/WAV/eAAC+/FLAC player\n\nOrganizer\n\nPhoto/video editor\n\nVoice memo/dial/commands\n\nPredictive text input (Swype)"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1500 mAh battery",
+        "Stand-by": "Up to 750 h (2G) / Up to 576 h (3G)",
+        "Talk time": "Up to 13 h 30 min (2G) / Up to 6 h 30 min (3G)"
+      },
+      "Misc": {
+        "Colors": "Black and Grey",
+        "SAR EU": "0.37 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 170 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-captivate_004.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_i897_captivate-pictures-3408.php"
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung X540",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-x540-00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-x540.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2006, October",
+    "dimensions": "90g, 17.9mm thickness",
+    "os": "Feature phone",
+    "storage": "2MB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "GPRS": "Class 10",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2006, October",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "90 x 46.5 x 17.9 mm (3.54 x 1.83 x 0.70 in)",
+        "Weight": "90 g (3.17 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 65K colors",
+        "Size": "1.9 inches, 30 x 38 mm, 11.4 cm<sup>2</sup> (~27.1% screen-to-body ratio)",
+        "Resolution": "128 x 160 pixels (~108 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "500 entries, Photocall",
+        "Call records": "20 dialed, 20 received, 20 missed calls",
+        "Internal": "2MB"
+      },
+      "Main Camera": {
+        "Single": "VGA",
+        "Video": "No"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "Alert types": "Vibration; Downloadable polyphonic ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "Yes, headset support only",
+        "Positioning": "No",
+        "Radio": "FM radio",
+        "USB": "Proprietary"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, EMS, MMS",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "Yes + downloadable",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "Predictive text input\n\nOrganizer\n\nVoice memo"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 800 mAh battery",
+        "Stand-by": "Up to 230 h",
+        "Talk time": "Up to 3 h 30 min"
+      },
+      "Misc": {
+        "Colors": "Pearly White, Gold",
+        "SAR": "1.00 W/kg (head) &nbsp; &nbsp; 0.39 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.79 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 90 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-x540-00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_x540-pictures-1816.php"
+    }
+  }
+}

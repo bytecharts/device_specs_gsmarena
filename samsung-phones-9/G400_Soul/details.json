@@ -1,0 +1,98 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung G400 Soul",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-g400-00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-g400.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_g400_soul-review-263.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2008, September",
+    "dimensions": "107.8g, 15.2mm thickness",
+    "os": "Feature phone",
+    "storage": "120MB storage, microSD slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "3G bands": "HSDPA 2100",
+        "Speed": "HSPA 7.2/0.384 Mbps"
+      },
+      "Launch": {
+        "Announced": "2008, March. Released 2008, September",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "102.8 x 51.5 x 15.2 mm (4.05 x 2.03 x 0.60 in)",
+        "Weight": "107.8 g (3.77 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "2.2 inches, 15.0 cm<sup>2</sup> (~28.3% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~182 ppi density)",
+        "Features": "External touchscreen display TFT, 256K colors (240 x 320 pixels), 2.2 inches"
+      },
+      "Memory": {
+        "Card slot": "microSD (dedicated slot)",
+        "Phonebook": "Yes, Photocall",
+        "Call records": "30 dialed, 30 received, 30 missed calls",
+        "Internal": "120MB"
+      },
+      "Main Camera": {
+        "Single": "5 MP, AF",
+        "Features": "LED flash",
+        "Video": "320p"
+      },
+      "Selfie camera": {
+        "Single": "Videocall camera",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.0, A2DP",
+        "Positioning": "No",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": "2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, EMS, MMS, Email",
+        "Browser": "WAP 2.0/xHTML, HTML(NetFront 3.4), RSS feeds",
+        "Games": "Yes + downloadable",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "MP3/AAC/eACC+/WMA player\n\nPhoto editor\n\nOrganizer\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion battery"
+      },
+      "Misc": {
+        "Colors": "Silver",
+        "SAR": "0.20 W/kg (head) &nbsp; &nbsp; 0.51 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.30 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 120 EUR"
+      },
+      "Our Tests": {
+        "Loudspeaker": "<a class=\"noUnd\" href=\"samsung_g400_soul-review-263p3.php\">Voice 69dB / Noise 73dB / Ring 84dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"samsung_g400_soul-review-263p5.php#aq\">Noise -93.2dB / Crosstalk -97.4dB</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-g400-00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_g400_soul-pictures-2314.php"
+    }
+  }
+}

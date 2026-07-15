@@ -1,0 +1,98 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung I9003 Galaxy SL",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-i9003-galaxy-s-sl-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-i9003-galaxy-s-sl.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_i9003_galaxy_sl-review-562.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2011, February",
+    "dimensions": "131g, 10.6mm thickness",
+    "os": "Android 2.2, up to 2.3, TouchWiz UI 3",
+    "storage": "4GB/16GB storage, microSDHC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 900 / 1900 / 2100",
+        "Speed": "HSPA 7.2/5.76 Mbps"
+      },
+      "Launch": {
+        "Announced": "2011, February. Released 2011, February",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "123.7 x 64.2 x 10.6 mm (4.87 x 2.53 x 0.42 in)",
+        "Weight": "131 g (4.62 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "SC-LCD",
+        "Size": "4.0 inches, 45.5 cm<sup>2</sup> (~57.3% screen-to-body ratio)",
+        "Resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)",
+        "Protection": "Corning Gorilla Glass"
+      },
+      "Platform": {
+        "OS": "Android 2.2 (Froyo), upgradable to 2.3 (Gingerbread), TouchWiz UI 3",
+        "Chipset": "TI OMAP 3630",
+        "CPU": "1.0 GHz Cortex-A8",
+        "GPU": "PowerVR SGX530"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Internal": "4GB 478MB RAM, 16GB 478MB RAM"
+      },
+      "Main Camera": {
+        "Single": "5 MP, AF",
+        "Video": "720p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "VGA",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, DLNA, hotspot",
+        "Bluetooth": "2.1, A2DP, EDR, aptX",
+        "Positioning": "GPS, A-GPS",
+        "Radio": "FM radio, RDS",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity, compass",
+        "Browser": "HTML, Adobe Flash",
+        "Features": "MP4/DivX/WMV/H.264 player\n\nMP3/WAV/eAAC+/AC3/FLAC player\n\nPhoto/video editor\n\nDocument editor"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1650 mAh battery",
+        "Stand-by": "Up to 610 h (2G) / Up to 550 h (3G)",
+        "Talk time": "Up to 15 h (2G) / Up to 7 h 30 min (3G)"
+      },
+      "Misc": {
+        "Colors": "Black, white",
+        "SAR": "0.34 W/kg (head) &nbsp; &nbsp; 0.50 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.31 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 150 EUR"
+      },
+      "Our Tests": {
+        "Loudspeaker": "<a class=\"noUnd\" href=\"samsung_i9003_galaxy_sl-review-562p5.php\">Voice 68dB / Noise 66dB / Ring 70dB</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-i9003-galaxy-s-sl-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_i9003_galaxy_sl-pictures-3761.php"
+    }
+  }
+}

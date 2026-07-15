@@ -1,0 +1,97 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy Pocket S5300",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-pocket.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-pocket.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_galaxy_pocket_s5300-review-769.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2012, April",
+    "dimensions": "97g, 12mm thickness",
+    "os": "Android 2.3, TouchWiz UI",
+    "storage": "3GB storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 900 / 2100",
+        "Speed": "HSPA 3.6/0.384 Mbps"
+      },
+      "Launch": {
+        "Announced": "2012, February. Released 2012, April",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "103.7 x 57.5 x 12 mm (4.08 x 2.26 x 0.47 in)",
+        "Weight": "97 g (3.42 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "2.8 inches, 24.3 cm<sup>2</sup> (~40.7% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 2.3 (Gingerbread), TouchWiz UI",
+        "CPU": "832 MHz ARM 11"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Internal": "3GB"
+      },
+      "Main Camera": {
+        "Single": "2 MP",
+        "Video": "320p@15fps"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+        "Bluetooth": "3.0, A2DP",
+        "Positioning": "GPS, A-GPS",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, compass"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1200 mAh battery",
+        "Stand-by": "Up to 800 h (2G) / Up to 500 h (3G)",
+        "Talk time": "Up to 17 h (2G) / Up to 5 h 40 min (3G)"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "Models": "GT-S5300",
+        "SAR": "0.86 W/kg (head) &nbsp; &nbsp; 0.38 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.79 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 80 EUR"
+      },
+      "Our Tests": {
+        "Display": "<a class=\"noUnd\" href=\"samsung_galaxy_pocket_s5300-review-769p2.php\">Contrast ratio: 753:1 (nominal) / 1.180:1 (sunlight)</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"samsung_galaxy_pocket_s5300-review-769p4.php\">Voice 65dB / Noise 65dB / Ring 67dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"samsung_galaxy_pocket_s5300-review-769p5.php#aq\">Noise -87.6dB / Crosstalk -85.6dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 4612); \">Endurance rating 34h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-pocket.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-pocket-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_pocket_s5300-pictures-4612.php"
+    }
+  }
+}

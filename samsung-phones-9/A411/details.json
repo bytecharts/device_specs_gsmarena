@@ -1,0 +1,92 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung A411",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-a411_01.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-a411.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2007, Q2",
+    "dimensions": "88g, 19.5mm thickness",
+    "os": "Feature phone",
+    "storage": "54MB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / UMTS</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "3G bands": "UMTS 850",
+        "Speed": "Yes, 384 kbps"
+      },
+      "Launch": {
+        "Announced": "2007, Q2",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "94 x 48.5 x 19.5 mm (3.70 x 1.91 x 0.77 in)",
+        "Weight": "88 g (3.10 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 65K colors",
+        "Size": "2.0 inches, 12.6 cm<sup>2</sup> (~27.6% screen-to-body ratio)",
+        "Resolution": "128 x 160 pixels (~102 ppi density)",
+        "Features": "Second external, monochrome (96 x 96 pixels)"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "Yes, Photo call",
+        "Call records": "30 dialed, 30 received, 30 missed calls",
+        "Internal": "54MB"
+      },
+      "Main Camera": {
+        "Single": "VGA",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.0",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": "1.1"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS, Email",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "Yes",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "MP3/AAC/AAC++/WMA player\n\nPredictive text input\n\nOrganizer\n\nPictbridge and Bluetooth Printing"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1000 mAh battery",
+        "Stand-by": "Up to 250 h",
+        "Talk time": "Up to 3 h"
+      },
+      "Misc": {
+        "Colors": "Black, Red",
+        "SAR EU": "0.88 W/kg (head) &nbsp; &nbsp;"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-a411_01.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-a411_02.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_a411-pictures-2138.php"
+    }
+  }
+}

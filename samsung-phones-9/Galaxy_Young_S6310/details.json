@@ -1,0 +1,101 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy Young S6310",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-young-ds.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-young-ss.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_galaxy_young_s6310-review-929.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2013, March",
+    "dimensions": "112g, 12.5mm thickness",
+    "os": "Android 4.1.2",
+    "storage": "4GB storage, microSDXC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - S6310",
+        "3G bands": "HSDPA 900 / 2100",
+        "Speed": "HSPA 7.2/5.76 Mbps",
+        "Features": "GSM 850 / 900 / 1800 / 1900 - SIM 1 &amp; SIM 2 - S6312"
+      },
+      "Launch": {
+        "Announced": "2013, February. Released 2013, March",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "109.4 x 58.6 x 12.5 mm (4.31 x 2.31 x 0.49 in)",
+        "Weight": "112 g (3.95 oz)",
+        "SIM": "Single SIM (Mini-SIM) or Dual SIM (Mini-SIM, dual stand-by)"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "3.27 inches, 31.8 cm<sup>2</sup> (~49.7% screen-to-body ratio)",
+        "Resolution": "320 x 480 pixels, 3:2 ratio (~176 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 4.1.2 (Jelly Bean)",
+        "Chipset": "Qualcomm MSM7227A Snapdragon S1",
+        "CPU": "1.0 GHz Cortex-A5",
+        "GPU": "Adreno 200"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "4GB (2GB user available), 768MB RAM"
+      },
+      "Main Camera": {
+        "Single": "3.15 MP, f/2.6",
+        "Video": "480p@24fps"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, hotspot, Wi-Fi Direct",
+        "Bluetooth": "3.0, A2DP",
+        "Positioning": "GPS",
+        "NFC": "No",
+        "Radio": "Stereo FM radio, RDS, recording",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Ion 1300 mAh, removable",
+        "Stand-by": "Up to 250 h (3G)",
+        "Talk time": "Up to 6 h 40 min (3G)"
+      },
+      "Misc": {
+        "Colors": "White",
+        "Models": "GT-S6312, GT-S6310, GT-S6312, GT-S6310L, GT-S6310N",
+        "SAR": "1.18 W/kg (head) &nbsp; &nbsp; 1.28 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.88 W/kg (head) &nbsp; &nbsp; 0.56 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 90 EUR"
+      },
+      "Our Tests": {
+        "Display": "<a class=\"noUnd\" href=\"samsung_galaxy_young_s6310-review-929p3.php\">Contrast ratio: 701:1 (nominal) / 1.220:1 (sunlight)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=5280&amp;nSuggest=1\">Photo</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"samsung_galaxy_young_s6310-review-929p5.php\">Voice 65dB / Noise 64dB / Ring 65dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"samsung_galaxy_young_s6310-review-929p6.php#aq\">Noise -91.4dB / Crosstalk -92.5dB</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-young-ds.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-young-ss.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_young_s6310-pictures-5280.php"
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung E715",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/sse715_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/sse715.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2003, Q3",
+    "dimensions": "85g, 23mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1900",
+        "GPRS": "Class 10",
+        "EDGE": "No",
+        "Features": "GSM 900 / 1800 - Samsung E710"
+      },
+      "Launch": {
+        "Announced": "2003, Q3",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "90 x 45 x 23 mm (3.54 x 1.77 x 0.91 in)",
+        "Weight": "85 g (3.00 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 65K colors",
+        "Size": "",
+        "Resolution": "128 x 160 pixels, 6 lines",
+        "Features": "Second external OLED, 256 colors ( 64 x 80 pixels )\n\nFour way navigation keys\n\nWallpaper"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "1000 x 6 fields, Photo call",
+        "Call records": "20 dialed, 20 received, 20 missed calls",
+        "Features": "9 MB shared memory for pictures, MMS messages \n\n600 Kb for Java apps\n\n200 short messages"
+      },
+      "Main Camera": {
+        "Single": "VGA",
+        "Features": "LED flash",
+        "Video": "No"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Downloadable polyphonic ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, EMS, MMS",
+        "Browser": "WAP 2.0/xHTML",
+        "Clock": "Yes",
+        "Alarm": "Yes",
+        "Games": "5 - Go!Hamster, Honey Ball, Bowling + Java",
+        "Java": "Yes",
+        "Features": "Predictive text input\n\nOrganizer"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 800 mAh battery",
+        "Stand-by": "Up to 230 h",
+        "Talk time": "Up to 3 h"
+      },
+      "Misc": {
+        "Colors": "Indigo Blue, Metallic Silver, Beaujolais Red, Pearl White"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/sse715_00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_e715-pictures-486.php"
+    }
+  }
+}

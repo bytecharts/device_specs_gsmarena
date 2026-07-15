@@ -1,0 +1,91 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung SCH-W699",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-w699-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-w699.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2009, August",
+    "dimensions": "120g, 19.9mm thickness",
+    "os": "Feature phone",
+    "storage": "microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "GPRS": "Class 10",
+        "EDGE": "Class 10",
+        "Features": "CDMA 800 / 1900"
+      },
+      "Launch": {
+        "Announced": "2009, April. Released 2009, August",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "98 x 56 x 19.9 mm (3.86 x 2.20 x 0.78 in)",
+        "Weight": "120 g (4.23 oz)",
+        "SIM": "Dual SIM (Mini-SIM)"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "2.8 inches, 24.3 cm<sup>2</sup> (~44.2% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)",
+        "Features": "External TFT, 256K colors\n\n240 x 320 pixels, 2.4 inches"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Phonebook": "1000 entries, Photocall",
+        "Call records": "Yes"
+      },
+      "Main Camera": {
+        "Single": "5 MP, AF",
+        "Features": "LED flash",
+        "Video": "480p@15fps"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.0, A2DP",
+        "Positioning": "GPS",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": "2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS, Email",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "Yes",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "MP3/WAV/WMA/AAC+ player\n\nMP4/DivX/H.264/ player\n\nDocument viewer (Word, Excel, PowerPoint, PDF)\n\nVoice memo"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1200 mAh battery",
+        "Stand-by": "Up to 200 h",
+        "Talk time": "Up to 4 h"
+      },
+      "Misc": {
+        "Colors": "Gold on black",
+        "Price": "About 80 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-w699-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_sch_w699-pictures-3247.php"
+    }
+  }
+}

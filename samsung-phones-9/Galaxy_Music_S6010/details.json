@@ -1,0 +1,92 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy Music S6010",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-music.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-music.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2012, December",
+    "dimensions": "106.9g, 12.3mm thickness",
+    "os": "Android 4.0.4, up to 4.1.2",
+    "storage": "4GB 512MB RAM storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 900 / 2100",
+        "Speed": "HSPA 7.2/5.76 Mbps"
+      },
+      "Launch": {
+        "Announced": "2012, October. Released 2012, December",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "110.1 x 59 x 12.3 mm (4.33 x 2.32 x 0.48 in)",
+        "Weight": "106.9 g (3.74 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "3.0 inches, 27.9 cm<sup>2</sup> (~42.9% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~133 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 4.0.4 (Ice Cream Sandwich), upgradable to 4.1.2 (Jelly Bean)",
+        "CPU": "850 MHz Cortex-A9"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Internal": "4GB 512MB RAM"
+      },
+      "Main Camera": {
+        "Single": "3.15 MP",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes",
+        "Features": "SRS audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, DLNA, hotspot",
+        "Bluetooth": "3.0, A2DP",
+        "Positioning": "GPS, GLONASS",
+        "NFC": "No",
+        "Radio": "Stereo FM radio, RDS; built-in antenna",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity, compass",
+        "Features": "MP4/H.263 player\n\nMP3/WAV/eAAC+ player\n\nPhoto viewer/editor"
+      },
+      "Battery": {
+        "Type": "Li-Ion 1300 mAh, removable",
+        "Stand-by": "Up to 570 h (2G) / Up to 370 h (3G)",
+        "Talk time": "Up to 15 h (2G) / Up to 6 h (3G)"
+      },
+      "Misc": {
+        "Colors": "Blue, Orange, Gray",
+        "SAR": "0.79 W/kg (head) &nbsp; &nbsp; 0.68 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.65 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 100 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-music.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-music-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_music_s6010-pictures-5026.php"
+    }
+  }
+}

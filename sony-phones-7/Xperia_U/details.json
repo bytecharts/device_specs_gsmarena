@@ -1,0 +1,111 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Sony Xperia U",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/sony/sony-xperia-u.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/sony-xperia-u-ofic.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/sony_xperia_u-review-770.php",
+    "siblingDeviceSlugs": [
+      "sony_xperia_sola-4408",
+      "sony_xperia_1_viii_5g-14660",
+      "sony_xperia_1_vii_5g-13843",
+      "sony_xperia_1_v-12263",
+      "sony_xperia_10_vii_5g-14137",
+      "sony_xperia_5_iv-11838",
+      "sony_xperia_1_vi-13003"
+    ],
+    "release_date": "Released 2012, May",
+    "dimensions": "110g, 12mm thickness",
+    "os": "Android 2.3, up to 4.0",
+    "storage": "8GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 900 / 2100 - ST25i",
+        "Speed": "HSPA 14.4/5.76 Mbps",
+        "Features": "HSDPA 850 / 1900 / 2100 - ST25a"
+      },
+      "Launch": {
+        "Announced": "2012, February. Released 2012, May",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "112 x 54 x 12 mm (4.41 x 2.13 x 0.47 in)",
+        "Weight": "110 g (3.88 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT",
+        "Size": "3.5 inches, 33.8 cm<sup>2</sup> (~55.8% screen-to-body ratio)",
+        "Resolution": "480 x 854 pixels, 16:9 ratio (~280 ppi density)",
+        "Protection": "Scratch-resistant glass"
+      },
+      "Platform": {
+        "OS": "Android 2.3 (Gingerbread), upgradable to 4.0 (Ice Cream Sandwich)",
+        "Chipset": "NovaThor U8500",
+        "CPU": "Dual-core 1.0 GHz Cortex-A9",
+        "GPU": "Mali-400"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "8GB (4GB user available), 512MB RAM"
+      },
+      "Main Camera": {
+        "Single": "5 MP, AF",
+        "Features": "LED flash, panorama",
+        "Video": "720p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "VGA",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, hotspot, DLNA",
+        "Bluetooth": "2.1, A2DP, EDR",
+        "Positioning": "GPS, A-GPS",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": "microUSB 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1320 mAh battery",
+        "Stand-by": "Up to 260 h (2G) / Up to 472 h (3G)",
+        "Talk time": "Up to 6 h 36 min (2G) / Up to 5 h 36 min (3G)",
+        "Music play": "Up to 45 h"
+      },
+      "Misc": {
+        "Colors": "Black, White/ exchangeable bottom caps in white, black, pink, yellow",
+        "SAR": "1.09 W/kg (head) &nbsp; &nbsp; 0.93 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "1.62 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 140 EUR"
+      },
+      "Our Tests": {
+        "Display": "<a class=\"noUnd\" href=\"sony_xperia_u-review-770p2.php\">Contrast ratio: 930:1 (nominal) / 1.758:1 (sunlight)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=4437&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=4437&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"sony_xperia_u-review-770p4.php\">Voice 65dB / Noise 65dB / Ring 72dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"sony_xperia_u-review-770p5.php#aq\">Noise -87.3dB / Crosstalk -87.7dB</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/sony/sony-xperia-u.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/sony/sony-xperia-u-all-colors.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/sony_xperia_u-pictures-4437.php"
+    }
+  }
+}

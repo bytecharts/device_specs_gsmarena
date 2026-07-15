@@ -1,0 +1,93 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung D550",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-d550-00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-d550.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Cancelled",
+    "dimensions": "119g, 23mm thickness",
+    "os": "Feature phone",
+    "storage": "80MB storage, microSD slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "GPRS": "Class 10",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2005, June",
+        "Status": "Cancelled"
+      },
+      "Body": {
+        "Dimensions": "95 x 48 x 23 mm (3.74 x 1.89 x 0.91 in)",
+        "Weight": "119 g (4.20 oz)",
+        "Keyboard": "QWERTY",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "2.3 inches, 35 x 46 mm, 16.6 cm<sup>2</sup> (~36.5% screen-to-body ratio)",
+        "Resolution": "176 x 220 pixels (~122 ppi density)",
+        "Features": "Portrait and landscape display modes"
+      },
+      "Memory": {
+        "Card slot": "microSD (dedicated slot)",
+        "Phonebook": "1000 x 10 fields, Photo call",
+        "Call records": "20 dialed, 20 received, 20 missed calls",
+        "Internal": "80MB",
+        "Features": "4 MB for Java applications"
+      },
+      "Main Camera": {
+        "Single": "1 MP",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "Alert types": "Vibration; Downloadable polyphonic ringtones",
+        "3.5mm jack": "No",
+        "Features": "Dual speaker"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "Yes",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": "Proprietary"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS, Email",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "Yes + downloadable",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "MP3/AAC/AAC+ player\n\nPush Email (BlackBerry transport v2.0)\n\nOrganizer\n\nVoice memo"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 820 mAh battery",
+        "Stand-by": "Up to 250 h",
+        "Talk time": "Up to 3 h"
+      },
+      "Misc": {
+        "Colors": ""
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-d550-00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_d550-pictures-1206.php"
+    }
+  }
+}

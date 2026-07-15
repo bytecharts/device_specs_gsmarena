@@ -1,0 +1,95 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy S 4G T959",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s-4g-new-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s-4g-new.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2011, February",
+    "dimensions": "118g, 9.9mm thickness",
+    "os": "Android 2.2",
+    "storage": "1GB 512MB RAM storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 1700 / 2100",
+        "Speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "Launch": {
+        "Announced": "2011, January. Released 2011, February",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "122.4 x 64.5 x 9.9 mm (4.82 x 2.54 x 0.39 in)",
+        "Weight": "118 g (4.16 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "Super AMOLED",
+        "Size": "4.0 inches, 45.5 cm<sup>2</sup> (~57.7% screen-to-body ratio)",
+        "Resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)",
+        "Protection": "Corning Gorilla Glass",
+        "Features": "TouchWiz 3.0 UI"
+      },
+      "Platform": {
+        "OS": "Android 2.2 (Froyo)",
+        "Chipset": "Hummingbird",
+        "CPU": "1.0 GHz Cortex-A8",
+        "GPU": "PowerVR SGX540"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot), 16 GB included",
+        "Internal": "1GB 512MB RAM"
+      },
+      "Main Camera": {
+        "Single": "5 MP, AF",
+        "Video": "720p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "Yes",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, DLNA, hotspot",
+        "Bluetooth": "3.0, A2DP, EDR, aptX",
+        "Positioning": "GPS, A-GPS",
+        "Radio": "No",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity, compass",
+        "Browser": "HTML, Adobe Flash",
+        "Features": "Qik services for video calls\n\nMP4/DivX/WMV/H.264 player\n\nMP3/WAV/eAAC+/FLAC player\n\nPhoto/video editor\n\nDocument editor"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1650 mAh battery",
+        "Stand-by": "Up to 300 h",
+        "Talk time": "Up to 6 h 30 min"
+      },
+      "Misc": {
+        "Colors": "Black and Grey",
+        "SAR": "0.90 W/kg (head) &nbsp; &nbsp; 1.23 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.43 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 120 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s-4g-new-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_s_4g_t959-pictures-3719.php"
+    }
+  }
+}

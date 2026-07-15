@@ -1,0 +1,102 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung i900 Omnia",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-i900-00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-i900.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_i900_omnia-review-267.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2008, July",
+    "dimensions": "122g, 12.5mm thickness",
+    "os": "Microsoft Windows Mobile 6.1 Professional",
+    "storage": "8GB/16GB storage, microSDHC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 2100",
+        "Speed": "HSPA 7.2/0.384 Mbps"
+      },
+      "Launch": {
+        "Announced": "2008, June. Released 2008, July",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "112 x 56.9 x 12.5 mm (4.41 x 2.24 x 0.49 in)",
+        "Weight": "122 g (4.30 oz)",
+        "SIM": "Mini-SIM",
+        "Features": "Optical trackpad"
+      },
+      "Display": {
+        "Type": "TFT resistive touchscreen, 256K colors (65K effective)",
+        "Size": "3.2 inches, 29.1 cm<sup>2</sup> (~45.7% screen-to-body ratio)",
+        "Resolution": "240 x 400 pixels, 5:3 ratio (~146 ppi density)",
+        "Features": "Handwriting recognition"
+      },
+      "Platform": {
+        "OS": "Microsoft Windows Mobile 6.1 Professional",
+        "CPU": "Marvell PXA312 624 MHz"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Internal": "8GB 128MB RAM, 16GB 128MB RAM"
+      },
+      "Main Camera": {
+        "Single": "5 MP, AF",
+        "Features": "LED flash",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Single": "Videocall camera",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11b/g",
+        "Bluetooth": "2.0, A2DP",
+        "Positioning": "GPS, A-GPS",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": "2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer",
+        "Browser": "WAP 2.0/xHTML, HTML, RSS feeds",
+        "Features": "Pocket Office \n\nMP3/AAC/AAC+/WMA/OGG/AMR player\n\nDivX/XviD/WMV/MP4 player\n\nTV-out\n\nVoice memo"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1440 mAh battery",
+        "Stand-by": "Up to 500 h (2G) / 450 h (3G)",
+        "Talk time": "Up to 5 h 50 min (2G) / 6 h 30 min (3G)"
+      },
+      "Misc": {
+        "Colors": "Modern Black",
+        "SAR": "0.39 W/kg (head) &nbsp; &nbsp; 0.52 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.67 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 160 EUR"
+      },
+      "Our Tests": {
+        "Loudspeaker": "<a class=\"noUnd\" href=\"samsung_i900_omnia-review-267p4.php\">Voice 70dB / Noise 64dB / Ring 75dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"samsung_i900_omnia-review-267p5.php#aq\">Noise -79.3dB / Crosstalk -78.7dB</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-i900-00.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-i900-omnia-02.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-omnia-16gb-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_i900_omnia-pictures-2422.php"
+    }
+  }
+}

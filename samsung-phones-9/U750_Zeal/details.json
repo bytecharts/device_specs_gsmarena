@@ -1,0 +1,91 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung U750 Zeal",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-zeal-u750-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-zeal-u750.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2010, November",
+    "dimensions": "123g, 17.1mm thickness",
+    "os": "Feature phone",
+    "storage": "microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">CDMA / EVDO</a>",
+        "2G bands": "CDMA 800 / 1900",
+        "3G bands": "CDMA2000 1xEV-DO",
+        "Speed": "EV-DO Rev.A 3.1 Mbps"
+      },
+      "Launch": {
+        "Announced": "2010, November. Released 2010, November",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "101.9 x 51.8 x 17.1 mm (4.01 x 2.04 x 0.67 in)",
+        "Weight": "123 g (4.34 oz)",
+        "Keyboard": "QWERTY",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "2.6 inches, 20.9 cm<sup>2</sup> (~39.7% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~154 ppi density)",
+        "Features": "External display, 128x128 pixels, 1.3\""
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Phonebook": "1000 entries, Photocall",
+        "Call records": "Yes"
+      },
+      "Main Camera": {
+        "Single": "2 MP, AF",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "",
+        "Bluetooth": "2.1, A2DP",
+        "Positioning": "GPS, A-GPS",
+        "Radio": "No",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS, Email, Push Email, IM",
+        "Browser": "WAP 2.0/xHTML, HTML",
+        "Games": "Yes",
+        "Java": "No",
+        "Features": "SNS integration\n\nMP3/AAC player\n\nMP4/H.263 player\n\nOrganizer\n\nVoice memo/dial\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 880 mAh battery",
+        "Stand-by": "Up to 340 h",
+        "Talk time": "Up to 5 h"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "SAR": "0.54 W/kg (head) &nbsp; &nbsp; 1.11 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 100 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-zeal-u750-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_u750_zeal-pictures-3618.php"
+    }
+  }
+}

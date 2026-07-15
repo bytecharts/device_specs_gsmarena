@@ -1,0 +1,92 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung U450 DoubleTake",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-double-take-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-double-take.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2009, July",
+    "dimensions": "100g, 17mm thickness",
+    "os": "Feature phone",
+    "storage": "microSD slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">CDMA / CDMA2000</a>",
+        "2G bands": "CDMA 800 / 1900",
+        "3G bands": "CDMA2000 1x",
+        "Speed": "Yes, 384 kbps"
+      },
+      "Launch": {
+        "Announced": "2009, July. Released 2009, July",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "108 x 53 x 17 mm (4.25 x 2.09 x 0.67 in)",
+        "Weight": "100 g (3.53 oz)",
+        "Keyboard": "QWERTY",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "2.1 inches, 13.9 cm<sup>2</sup> (~24.2% screen-to-body ratio)",
+        "Resolution": "176 x 220 pixels (~134 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "microSD (dedicated slot)",
+        "Phonebook": "1000 entries, Photocall",
+        "Call records": "Yes"
+      },
+      "Main Camera": {
+        "Single": "1.3 MP",
+        "Video": "No"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No",
+        "Features": "2.5 mm audio jack"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.1, A2DP",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS, Email, IM",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "Yes",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "MP4/H.263 player\n\nMP3/AAC+/WMA player\n\nOrganizer\n\nVoice memo/dial\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 960 mAh battery",
+        "Stand-by": "Up to 300 h",
+        "Talk time": "Up to 5 h"
+      },
+      "Misc": {
+        "Colors": "Black, Red",
+        "SAR": "0.72 W/kg (head) &nbsp; &nbsp; 0.57 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 50 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-double-take-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-double-take-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_u450_doubletake-pictures-3440.php"
+    }
+  }
+}

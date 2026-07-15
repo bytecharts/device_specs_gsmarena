@@ -1,0 +1,83 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung N620",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ssn620.gif",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/ssn620.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2002",
+    "dimensions": "83g, 20mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2002",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "100 x 43 x 20 mm (3.94 x 1.69 x 0.79 in)",
+        "Weight": "83 g (2.93 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "Monochrome graphic",
+        "Size": "",
+        "Resolution": "128 x 64 pixels, 18:9 ratio",
+        "Features": "Blue back-lighting\n\n6 color LED\n\nAnalog and digital clock\n\nDynamic font size\n\nBlink of LED colors to the ringtone melody"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "500",
+        "Call records": "10 dialed, 10 received, 10 missed calls",
+        "Features": "Message templates"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Downloadable polyphonic, monophonic ringtones, composer",
+        "3.5mm jack": "No",
+        "Features": "Poly sound in games"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS",
+        "Browser": "WAP 1.1",
+        "Clock": "Yes",
+        "Alarm": "Yes",
+        "Games": "3 - Ice cave, Fortress, Squares",
+        "Java": "No",
+        "Features": "Predictive text input\n\nOrganizer\n\nSpeed dial\n\nMenu shortcuts\n\nPicture Messaging"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 800 mAh battery",
+        "Stand-by": "Up to 90 h",
+        "Talk time": "Up to 2 h 20 min"
+      },
+      "Misc": {
+        "Colors": "4 - White pearl, Black, Sky blue, Silver",
+        "SAR EU": "0.88 W/kg (head) &nbsp; &nbsp;"
+      }
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung E1225 Dual Sim Shift",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-e1225-dual-sim-shift.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-e1225-dual-sim-shift.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2010",
+    "dimensions": "72.4g, 13.7mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 - SIM 1",
+        "GPRS": "Yes",
+        "EDGE": "Yes",
+        "Features": "GSM 900 / 1800 - SIM 2"
+      },
+      "Launch": {
+        "Announced": "2010. Released 2010",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "109.1 x 45.5 x 13.7 mm (4.30 x 1.79 x 0.54 in)",
+        "Weight": "72.4 g (2.54 oz)",
+        "SIM": "Dual SIM (Mini-SIM)"
+      },
+      "Display": {
+        "Type": "TFT, 65K colors",
+        "Size": "1.8 inches, 10.2 cm<sup>2</sup> (~20.5% screen-to-body ratio)",
+        "Resolution": "128 x 160 pixels (~114 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "1000 entries",
+        "Call records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Radio": "FM radio",
+        "USB": "Proprietary"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS",
+        "Browser": "Yes",
+        "Games": "Yes",
+        "Java": "Yes, MIDP 2.1",
+        "Features": "Organizer\n\nAudio player\n\nVoice memo\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 800 mAh battery",
+        "Stand-by": "Up to 420 h",
+        "Talk time": "Up to 9 h"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "SAR EU": "0.60 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 50 EUR"
+      }
+    }
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Z550",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-z550-00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-z550.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2006, March",
+    "dimensions": "95g, 17.5mm thickness",
+    "os": "Feature phone",
+    "storage": "138MB storage, microSD slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / UMTS</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "3G bands": "UMTS 2100",
+        "Speed": "Yes, 384 kbps"
+      },
+      "Launch": {
+        "Announced": "2006, March",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "93 x 45 x 17.5 mm (3.66 x 1.77 x 0.69 in)",
+        "Weight": "95 g (3.35 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "2.0 inches, 30 x 40 mm, 12.4 cm<sup>2</sup> (~29.6% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~200 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "microSD (dedicated slot)",
+        "Phonebook": "Yes",
+        "Call records": "20 dialed, 20 received, 20 missed calls",
+        "Internal": "138MB"
+      },
+      "Main Camera": {
+        "Single": "2 MP",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Single": "Videocall camera",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "3.5mm jack": "No",
+        "Features": "Dual speaker"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.0, A2DP",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": "Proprietary"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, EMS, MMS, Email",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "Yes + downloadable",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "Video telephony &amp; streaming\n\nMP3/AAC/ACC+ player\n\nPredictive text input\n\nDocument viewer (Word, Excel, PowerPoint, PDF)\n\nOrganizer"
+      },
+      "Battery": {
+        "Type": "Removable battery"
+      },
+      "Misc": {
+        "Colors": ""
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-z550-00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_z550-pictures-1509.php"
+    }
+  }
+}

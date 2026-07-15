@@ -1,0 +1,81 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung R200",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ssr200.gif",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/ssr200.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2001",
+    "dimensions": "99g, 23.5mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2001",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "110 x 46 x 23.5 mm (4.33 x 1.81 x 0.93 in)",
+        "Weight": "99 g (3.49 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "Monochrome graphic",
+        "Size": "",
+        "Resolution": "128 x 64 pixels, 18:9 ratio",
+        "Features": "Blue back-lighting\n\nAnalog and digital clock\n\nDynamic font size"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "100",
+        "Call records": "10 dialed, 10 received, 10 missed calls",
+        "Features": "Message templates"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Downloadable monophonic ringtones, composer",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS",
+        "Browser": "WAP 1.1",
+        "Clock": "Yes",
+        "Alarm": "Yes",
+        "Games": "Casino , Mole, Hexa",
+        "Java": "No",
+        "Features": "Predictive text input\n\nOrganizer\n\nSpeed dial\n\nMenu shortcuts"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion battery",
+        "Stand-by": "150 h",
+        "Talk time": "5 h"
+      },
+      "Misc": {
+        "Colors": "3 - Navy Blue, Green, Dark Gray"
+      }
+    }
+  }
+}

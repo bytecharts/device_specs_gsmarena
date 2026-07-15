@@ -1,0 +1,94 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung SPH-i325 Ace",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-i325-ace-00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-i325.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2007, December",
+    "dimensions": "109g, 11mm thickness",
+    "os": "Microsoft Windows Mobile 6.0 Standard Edition",
+    "storage": "96MB RAM storage, microSD slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "3G bands": "CDMA 1xEVDO (800 / 1900 MHz)",
+        "GPRS": "Class 10",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2007, December",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "118 x 59 x 11 mm (4.65 x 2.32 x 0.43 in)",
+        "Weight": "109 g (3.84 oz)",
+        "Keyboard": "QWERTY",
+        "SIM": "Mini-SIM",
+        "Features": "Trackwheel"
+      },
+      "Display": {
+        "Type": "TFT, 65K colors",
+        "Size": "2.3 inches, 16.4 cm<sup>2</sup> (~23.5% screen-to-body ratio)",
+        "Resolution": "320 x 240 pixels, 4:3 ratio (~174 ppi density)"
+      },
+      "Platform": {
+        "OS": "Microsoft Windows Mobile 6.0 Standard Edition",
+        "Chipset": "Qualcomm MSM6500",
+        "CPU": "ARM 9"
+      },
+      "Memory": {
+        "Card slot": "microSD (dedicated slot)",
+        "Internal": "96MB RAM, 192MB ROM"
+      },
+      "Main Camera": {
+        "Single": "1.3 MP",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.0, A2DP",
+        "Positioning": "GPS",
+        "Radio": "No",
+        "USB": "Proprietary"
+      },
+      "Features": {
+        "Sensors": "",
+        "Browser": "WAP 2.0/xHTML, HTML, RSS feeds",
+        "Features": "TV-out\n\nWMV/3GP/H.263/MP4 player\n\nWMA/MP3/AAC/AAC+/OGG/ASF player\n\nOrganizer\n\nPocket Office \n\nVoice dial"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1300 mAh battery",
+        "Stand-by": "Up to 240 h",
+        "Talk time": "Up to 4 h"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "SAR": "1.36 W/kg (head) &nbsp; &nbsp; 0.86 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 110 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-i325-ace-00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_sph_i325_ace-pictures-2320.php"
+    }
+  }
+}

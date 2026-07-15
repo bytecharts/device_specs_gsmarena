@@ -1,0 +1,91 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung S5233T",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-s5233t-star-tv-black-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-s5233t.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2009, September",
+    "dimensions": "95g, 11.9mm thickness",
+    "os": "Feature phone",
+    "storage": "84MB storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "GPRS": "Class 12",
+        "EDGE": "Class 12"
+      },
+      "Launch": {
+        "Announced": "2009, August. Released 2009, September",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "106 x 53.5 x 11.9 mm (4.17 x 2.11 x 0.47 in)",
+        "Weight": "95 g (3.28 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT resistive touchscreen, 256K colors",
+        "Size": "3.0 inches, 25.6 cm<sup>2</sup> (~45.2% screen-to-body ratio)",
+        "Resolution": "240 x 400 pixels, 5:3 ratio (~155 ppi density)",
+        "Features": "TouchWiz v1.0 UI\n\n- Handwriting recognition"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Phonebook": "2000 entries, Photocall",
+        "Call records": "Yes",
+        "Internal": "84MB"
+      },
+      "Main Camera": {
+        "Single": "3.15 MP",
+        "Video": "320p@15fps"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.1, A2DP",
+        "Positioning": "No",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": "2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer",
+        "Messaging": "SMS, MMS, Email, RSS",
+        "Browser": "WAP 2.0/xHTML, HTML",
+        "Games": "Yes + downloadable",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "Analog TV, TV recorder\n\nMP3/WAV/WMA/AAC+ player\n\nMP4/H.264/WMV player\n\nOrganizer\n\nDocument viewer (Word, Excel, PowerPoint, PDF)\n\nShazam Find Music service\n\nVoice memo\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1000 mAh battery",
+        "Stand-by": "Up to 640 h",
+        "Talk time": "Up to 9 h 30 min"
+      },
+      "Misc": {
+        "Colors": "Black, White",
+        "SAR EU": "0.65 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 60 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-s5233t-star-tv-black-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_s5233t-pictures-3235.php"
+    }
+  }
+}

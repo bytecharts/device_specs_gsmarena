@@ -1,0 +1,92 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung X550",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-x550_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-x550.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2008",
+    "dimensions": "75g, 18.8mm thickness",
+    "os": "Feature phone",
+    "storage": "2MB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "GPRS": "Class 10",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2007, Q3. Released 2008",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "90 x 44 x 18.8 mm (3.54 x 1.73 x 0.74 in)",
+        "Weight": "75 g (2.65 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 65K colors",
+        "Size": "1.9 inches, 11.2 cm<sup>2</sup> (~28.2% screen-to-body ratio)",
+        "Resolution": "120 x 160 pixels, 4:3 ratio (~105 ppi density)",
+        "Features": "External STN display, 96 x 96 pixels"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "500 entries, Photocall",
+        "Call records": "20 dialed, 20 received, 20 missed calls",
+        "Internal": "2MB"
+      },
+      "Main Camera": {
+        "Single": "VGA",
+        "Video": "No"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "Alert types": "Vibration; Downloadable polyphonic ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.0",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": "Proprietary"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, EMS, MMS",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "Yes",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "Predictive text input\n\nOrganizer\n\nVoice memo"
+      },
+      "Battery": {
+        "Type": "Removable battery",
+        "Stand-by": "Up to 200 h",
+        "Talk time": "Up to 3 h"
+      },
+      "Misc": {
+        "Colors": "",
+        "SAR EU": "0.99 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 90 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-x550_00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_x550-pictures-2131.php"
+    }
+  }
+}

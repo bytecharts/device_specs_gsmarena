@@ -1,0 +1,93 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Z170",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-z170-00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-z170.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2007, July",
+    "dimensions": "76g, 9.3mm thickness",
+    "os": "Feature phone",
+    "storage": "55MB storage, microSD slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / UMTS</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "3G bands": "UMTS 2100",
+        "Speed": "Yes, 384 kbps"
+      },
+      "Launch": {
+        "Announced": "2007, July",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "117.5 x 48.5 x 9.3 mm (4.63 x 1.91 x 0.37 in)",
+        "Weight": "76 g (2.68 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "1.8 inches, 10.2 cm<sup>2</sup> (~17.9% screen-to-body ratio)",
+        "Resolution": "176 x 220 pixels (~157 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "microSD (dedicated slot)",
+        "Phonebook": "1000 entries, Photocall",
+        "Call records": "20 dialed, 20 received, 20 missed calls",
+        "Internal": "55MB"
+      },
+      "Main Camera": {
+        "Single": "1.3 MP",
+        "Video": "QCIF"
+      },
+      "Selfie camera": {
+        "Single": "VGA videocall camera",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "1.2, A2DP",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": "1.1"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, EMS, MMS, Email",
+        "Browser": "WAP 2.0/xHTML, HTML(NetFront 3.4)",
+        "Games": "Yes + downloadable",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "MP3/AAC/AAC+/e-AAC+ player\n\nPredictive text input\n\nOrganizer\n\nVoice memo"
+      },
+      "Battery": {
+        "Type": "Removable Li-Po 880 mAh battery",
+        "Stand-by": "Up to 250 h",
+        "Talk time": "Up to 3 h"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "SAR": "0.71 W/kg (head) &nbsp; &nbsp; 0.82 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.31 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 80 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-z170-00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_z170-pictures-2030.php"
+    }
+  }
+}

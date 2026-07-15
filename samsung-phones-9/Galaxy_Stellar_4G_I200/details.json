@@ -1,0 +1,93 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy Stellar 4G I200",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-stellar-sch-i200.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-stellar-sch-i200.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2012, August",
+    "dimensions": "134g, 12mm thickness",
+    "os": "Android 4.0.4",
+    "storage": "4GB storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">CDMA / EVDO / LTE</a>",
+        "2G bands": "CDMA 800 / 1900",
+        "3G bands": "CDMA2000 1xEV-DO",
+        "4G bands": "13",
+        "Speed": "EV-DO Rev.A 3.1 Mbps, LTE"
+      },
+      "Launch": {
+        "Announced": "2012, August. Released 2012, August",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "122 x 64 x 12 mm (4.80 x 2.52 x 0.47 in)",
+        "Weight": "134 g (4.73 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT",
+        "Size": "4.0 inches, 45.5 cm<sup>2</sup> (~58.3% screen-to-body ratio)",
+        "Resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)",
+        "Features": "Touch sensitive controls"
+      },
+      "Platform": {
+        "OS": "Android 4.0.4 (Ice Cream Sandwich)",
+        "Chipset": "Qualcomm MSM8960 Snapdragon S4 Plus",
+        "CPU": "Dual-core 1.2 GHz Krait",
+        "GPU": "Adreno 225"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Internal": "4GB (1.5GB user available), 1GB RAM"
+      },
+      "Main Camera": {
+        "Single": "3.15 MP, AF",
+        "Video": "480p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "1.3 MP",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, hotspot",
+        "Bluetooth": "4.0, A2DP",
+        "Positioning": "GPS, A-GPS",
+        "Radio": "No",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity",
+        "Features": "MP3/WAV/WMA/AAC+ player\n\nMP4/WMV/H.264 player\n\nDocument viewer\n\nPhoto viewer/editor"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 2100 mAh battery",
+        "Stand-by": "Up to 216 h (2G) / Up to 432 h (3G)",
+        "Talk time": "Up to 17 h (2G) / Up to 20 h (3G)"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "SAR": "0.64 W/kg (head) &nbsp; &nbsp; 0.82 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 150 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-stellar-sch-i200.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_stellar_4g_i200-pictures-4954.php"
+    }
+  }
+}

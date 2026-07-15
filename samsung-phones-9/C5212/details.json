@@ -1,0 +1,93 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung C5212",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-c5212-00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-c5212.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_c5212_duos_preview-review-322.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2009, May",
+    "dimensions": "98.7g, 14.3mm thickness",
+    "os": "Feature phone",
+    "storage": "60MB storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 - SIM 1",
+        "GPRS": "Class 10",
+        "EDGE": "Class 10",
+        "Features": "GSM 900 / 1800 - SIM 2"
+      },
+      "Launch": {
+        "Announced": "2009, February. Released 2009, May",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "112.7 x 48.6 x 14.3 mm (4.44 x 1.91 x 0.56 in)",
+        "Weight": "98.7 g (3.46 oz)",
+        "SIM": "Dual SIM (Mini-SIM)"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "2.2 inches, 15.2 cm<sup>2</sup> (~27.8% screen-to-body ratio)",
+        "Resolution": "176 x 220 pixels (~128 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Phonebook": "1000 entries, Photocall",
+        "Call records": "30 received, dialed and missed calls",
+        "Internal": "60MB"
+      },
+      "Main Camera": {
+        "Single": "1.3 MP",
+        "Video": "QCIF@15fps"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.1, A2DP",
+        "Positioning": "No",
+        "Radio": "Stereo FM radio, RDS, recording",
+        "USB": "2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS, Email",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "Yes",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "MP3/eAAC+/WAV player\n\nMP4/H.264 player\n\nOrganizer\n\nVoice memo\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1000 mAh battery",
+        "Stand-by": "Up to 280 h",
+        "Talk time": "Up to 10 h"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "SAR EU": "0.65 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 90 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-c5212-00.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-c5212-02.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_c5212-pictures-2709.php"
+    }
+  }
+}

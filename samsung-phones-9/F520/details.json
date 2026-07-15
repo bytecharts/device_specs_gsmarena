@@ -1,0 +1,90 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung F520",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-f520-00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-f520.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Cancelled",
+    "dimensions": "17.4mm thickness",
+    "os": "Feature phone",
+    "storage": "microSD slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "3G bands": "HSDPA 2100",
+        "Speed": "HSPA"
+      },
+      "Launch": {
+        "Announced": "2007, February",
+        "Status": "Cancelled"
+      },
+      "Body": {
+        "Dimensions": "104.8 x 53.7 x 17.4 mm (4.13 x 2.11 x 0.69 in)",
+        "Weight": "",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT resistive touchscreen, 256K colors",
+        "Size": "3.0 inches, 24.9 cm<sup>2</sup> (~44.3% screen-to-body ratio)",
+        "Resolution": "480 x 272 pixels, 16:9 ratio (~184 ppi density)",
+        "Features": "Hot launching key"
+      },
+      "Memory": {
+        "Card slot": "microSD (dedicated slot)",
+        "Phonebook": "1000 entries, Photocall",
+        "Call records": "30 dialed, 30 received, 30 missed calls"
+      },
+      "Main Camera": {
+        "Single": "3.15 MP",
+        "Features": "LED flash",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Single": "Yes",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "Yes",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": "Proprietary"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS, Email",
+        "Browser": "WAP 2.0/xHTML, HTML",
+        "Games": "Yes + downloadable",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "MP4/H.264 player\n\nMP3/AAC(+)/eAAC+ player\n\nPredictive text input\n\nDocument viewer (Word, Excel, PowerPoint, PDF)\n\nOrganizer\n\nVoice memo"
+      },
+      "Battery": {
+        "Type": "Removable battery"
+      },
+      "Misc": {
+        "Colors": "Black"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-f520-00.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-f520-01.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_f520-pictures-1856.php"
+    }
+  }
+}

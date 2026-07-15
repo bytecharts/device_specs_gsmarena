@@ -1,0 +1,90 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung D100",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/sad100_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/ssd100.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2003, Q3",
+    "dimensions": "88g, 27mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "GPRS": "Class 10",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2003, Q3",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "85 x 43 x 27 mm (3.35 x 1.69 x 1.06 in)",
+        "Weight": "88 g (3.10 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFD, 65K colors",
+        "Size": "",
+        "Resolution": "128 x 160 pixels, 7 lines",
+        "Features": "Second external OLED display 256 colors (64 x 46 pixels)\n\nFour way navigation keys"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "1000 entries, contact groups",
+        "Call records": "10 dialed, 10 received, 10 missed calls",
+        "Features": "700 Kb for MMS\n\n1024 Kb for emails\n\n512 Kb for Java games\n\nMessage templates"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Downloadable polyphonic ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, EMS, MMS, Email",
+        "Browser": "WAP 1.2.1",
+        "Clock": "Yes",
+        "Alarm": "Yes",
+        "Games": "5 - Bowling, Mobile Chess, Fun2Link, BubbleSmile, Ultimate Golf+ Java",
+        "Java": "Yes",
+        "Features": "Predictive text input\n\nOrganizer\n\nSpeed dial\n\nMenu shortcuts\n\nWorld clock"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 800 mAh battery",
+        "Stand-by": "Up to 150 h",
+        "Talk time": "3 h"
+      },
+      "Misc": {
+        "Colors": "",
+        "SAR EU": "0.86 W/kg (head) &nbsp; &nbsp;"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/sad100_00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_d100-pictures-490.php"
+    }
+  }
+}

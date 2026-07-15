@@ -1,0 +1,95 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung I5500 Galaxy 5",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-i5500-corby.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-i5500-corby.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_i5500_galaxy_5-review-513.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2010, August",
+    "dimensions": "102g, 12.3mm thickness",
+    "os": "Android 2.1, up to 2.2",
+    "storage": "170MB storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 900 / 2100",
+        "Speed": "HSPA 7.2/0.384 Mbps"
+      },
+      "Launch": {
+        "Announced": "2010, June. Released 2010, August",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "108 x 56 x 12.3 mm (4.25 x 2.20 x 0.48 in)",
+        "Weight": "102 g (3.60 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT",
+        "Size": "2.8 inches, 24.3 cm<sup>2</sup> (~40.1% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~143 ppi density)",
+        "Features": "TouchWiz v3.0"
+      },
+      "Platform": {
+        "OS": "Android 2.1 (Eclair), upgradable to 2.2 (Froyo)",
+        "CPU": "600 MHz"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot), 1 GB included",
+        "Internal": "170MB"
+      },
+      "Main Camera": {
+        "Single": "2 MP",
+        "Video": "320p@15fps"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, DLNA, hotspot (Android 2.2)",
+        "Bluetooth": "2.1, A2DP",
+        "Positioning": "GPS, A-GPS",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity",
+        "Browser": "HTML",
+        "Features": "MP4/H.264 player\n\nMP3/WAV/eAAC+ player"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1200 mAh battery",
+        "Stand-by": "Up to 521 h (2G) / Up to 375 h (3G)",
+        "Talk time": "Up to 9 h 30 min (2G) / Up to 6 h 30 min (3G)"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "SAR EU": "0.65 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 80 EUR"
+      },
+      "Our Tests": {
+        "Loudspeaker": "<a class=\"noUnd\" href=\"samsung_i5500_galaxy_5-review-513p4.php\">Voice 73dB / Noise 66dB / Ring 76dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"samsung_i5500_galaxy_5-review-513p5.php#aq\">Noise -79.7dB / Crosstalk -75.1dB</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-i5500-corby.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_i5500_galaxy_5-pictures-3371.php"
+    }
+  }
+}

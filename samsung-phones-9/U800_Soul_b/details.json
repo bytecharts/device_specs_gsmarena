@@ -1,0 +1,99 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung U800 Soul b",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-u800-02.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-soulb.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_u800_soul_b-review-259.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2008, July",
+    "dimensions": "90.4g, 9.9mm thickness",
+    "os": "Feature phone",
+    "storage": "1GB storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "3G bands": "HSDPA 2100",
+        "Speed": "HSPA 3.6/0.384 Mbps"
+      },
+      "Launch": {
+        "Announced": "2008, May. Released 2008, July",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "111 x 46 x 9.9 mm (4.37 x 1.81 x 0.39 in)",
+        "Weight": "90.4 g (3.17 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 16M colors",
+        "Size": "2.0 inches, 12.4 cm<sup>2</sup> (~24.3% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~200 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Phonebook": "1000 entries, Photo call",
+        "Call records": "30 dialed, 30 received, 30 missed calls",
+        "Internal": "1GB"
+      },
+      "Main Camera": {
+        "Single": "3.15 MP",
+        "Features": "LED flash",
+        "Video": "QCIF@15fps"
+      },
+      "Selfie camera": {
+        "Single": "CIF videocall camera",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.0, A2DP",
+        "Positioning": "No",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": "2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, EMS, MMS, Email",
+        "Browser": "WAP 2.0/xHTML, HTML",
+        "Games": "Yes + downloadable",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "MP3/AAC/eACC+/WMA player\n\nPredictive text input\n\nDocument viewer (Word, Excel, PowerPoint, PDF)\n\nOrganizer"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion battery",
+        "Stand-by": "Up to 400 h",
+        "Talk time": "Up to 3 h 20 min"
+      },
+      "Misc": {
+        "Colors": "Soul Gray, Platinium Silver, Metallic Black, Soul Pink, Amethyst Violet, Soul Red",
+        "SAR EU": "0.77 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 100 EUR"
+      },
+      "Our Tests": {
+        "Loudspeaker": "<a class=\"noUnd\" href=\"samsung_u800_soul_b-review-259p3.php\">Voice 65dB / Noise 65dB / Ring 75dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"samsung_u800_soul_b-review-259p4.php#aq\">Noise -86.2dB / Crosstalk -83.3dB</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-u800-02.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-u800-01.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_u800_soul_b-pictures-2389.php"
+    }
+  }
+}

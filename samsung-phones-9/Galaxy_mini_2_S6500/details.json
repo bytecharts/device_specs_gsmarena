@@ -1,0 +1,100 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy mini 2 S6500",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-mini-2-s6500.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-mini-2-s6500-ofic.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_galaxy_mini_2-review-778.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2012, March",
+    "dimensions": "105.3g, 11.6mm thickness",
+    "os": "Android 2.3.6",
+    "storage": "4GB 512MB RAM storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 900 / 2100",
+        "Speed": "HSPA 7.2/0.384 Mbps"
+      },
+      "Launch": {
+        "Announced": "2012, February. Released 2012, March",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "109.4 x 58.6 x 11.6 mm (4.31 x 2.31 x 0.46 in)",
+        "Weight": "105.3 g (3.70 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "3.27 inches, 31.8 cm<sup>2</sup> (~49.7% screen-to-body ratio)",
+        "Resolution": "320 x 480 pixels, 3:2 ratio (~176 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 2.3.6 (Gingerbread)",
+        "Chipset": "Qualcomm MSM7227A Snapdragon S1",
+        "CPU": "800 MHz Cortex-A5",
+        "GPU": "Adreno 200"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Internal": "4GB 512MB RAM"
+      },
+      "Main Camera": {
+        "Single": "3.15 MP",
+        "Video": "480p@25fps"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, DLNA, hotspot",
+        "Bluetooth": "3.0, A2DP",
+        "Positioning": "GPS, A-GPS",
+        "NFC": "Optional",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity, compass",
+        "Browser": "HTML5, Adobe Flash",
+        "Features": "MP4/H.264 player\n\nMP3/WAV/eAAC+/FLAC player\n\nPhoto/video editor\n\nDocument viewer"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1300 mAh battery",
+        "Stand-by": "Up to 540 h (2G) / Up to 420 h (3G)",
+        "Talk time": "Up to 11 h 20 min (2G) / Up to 6 h 50 min (3G)"
+      },
+      "Misc": {
+        "Colors": "Black/Orange",
+        "SAR EU": "0.92 W/kg (head) &nbsp; &nbsp; 0.62 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 90 EUR"
+      },
+      "Our Tests": {
+        "Display": "<a class=\"noUnd\" href=\"samsung_galaxy_mini_2-review-778p2.php\">Contrast ratio: 1.114:1 (sunlight)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=3883&amp;nSuggest=1\">Photo</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"samsung_galaxy_mini_2-review-778p4.php\">Voice 69dB / Noise 71dB / Ring 66dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"samsung_galaxy_mini_2-review-778p5.php#aq\">Noise -85.9dB / Crosstalk -80.5dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 3883); \">Endurance rating 38h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-mini-2-s6500.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_mini_2_s6500-pictures-3883.php"
+    }
+  }
+}

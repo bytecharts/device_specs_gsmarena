@@ -1,0 +1,81 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung A200",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ssa200.gif",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/ssa200.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2001",
+    "dimensions": "77g with slim battery, 23mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2001",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "79 x 38 x 23 mm (3.11 x 1.50 x 0.91 in)",
+        "Weight": "77 g with slim battery (2.72 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "Grayscale graphic, 4 shades",
+        "Size": "",
+        "Resolution": "128 x 64 pixels, 18:9 ratio",
+        "Features": "Second external display 64 x 46 pixels\n\nFour way navigation keys \n\nDynamic font size\n\nSoftkeys"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "100 entries, 5 contact groups",
+        "Call records": "10 dialed, 10 received, 10 missed calls",
+        "Features": "20 voice dial items\n\nMessage templates"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Monophonic ringtones, composer",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS",
+        "Browser": "WAP 1.1",
+        "Clock": "Yes",
+        "Alarm": "Yes",
+        "Games": "Yes",
+        "Java": "No",
+        "Features": "Voice commands and dial\n\nOrganizer\n\nSpeed dial\n\nMenu shortcuts\n\nWorld clock"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion battery",
+        "Stand-by": "70 h",
+        "Talk time": "3 h 30 min"
+      },
+      "Misc": {
+        "Colors": "3 - White Pearl, Champaign Gold, Silver"
+      }
+    }
+  }
+}

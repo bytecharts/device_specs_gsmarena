@@ -1,0 +1,94 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Fascinate",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-fascinate-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-fascinate.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2010, Q3",
+    "dimensions": "116g, 10.5mm thickness",
+    "os": "Android 2.1, up to 2.2",
+    "storage": "2GB storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">CDMA / EVDO</a>",
+        "2G bands": "CDMA 800 / 1900",
+        "3G bands": "CDMA2000 1xEV-DO",
+        "Speed": "EV-DO Rev.A 3.1 Mbps"
+      },
+      "Launch": {
+        "Announced": "2010, June. Released 2010, Q3",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "125 x 64 x 10.5 mm (4.92 x 2.52 x 0.41 in)",
+        "Weight": "116 g (4.09 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "Super AMOLED",
+        "Size": "4.0 inches, 45.5 cm<sup>2</sup> (~56.9% screen-to-body ratio)",
+        "Resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)",
+        "Protection": "Corning Gorilla Glass",
+        "Features": "TouchWiz 3.0 UI"
+      },
+      "Platform": {
+        "OS": "Android 2.1 (Eclair), upgradable to 2.2 (Froyo)",
+        "Chipset": "Hummingbird",
+        "CPU": "1.0 GHz Cortex-A8",
+        "GPU": "PowerVR SGX540"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot), 16 GB included",
+        "Internal": "2GB"
+      },
+      "Main Camera": {
+        "Single": "5 MP, AF",
+        "Features": "LED flash",
+        "Video": "720p@30fps"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, DLNA, hotspot (Android 2.2)",
+        "Bluetooth": "3.0, A2DP",
+        "Positioning": "GPS, A-GPS, VZ Navigator",
+        "Radio": "FM radio, RDS",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity, compass",
+        "Browser": "HTML, Adobe Flash Lite",
+        "Features": "Mobile TV\n\nMP4/DivX/WMV/H.264 player\n\nMP3/WAV/eAAC+/FLAC player\n\nTV-out\n\nOrganizer\n\nPhoto/video editor\n\nDocument editor \n\nVoice memo/dial/commands\n\nPredictive text input (Swype)"
+      },
+      "Battery": {
+        "Type": "Removable Li-Po 1500 mAh battery",
+        "Stand-by": "Up to 300 h",
+        "Talk time": "Up to 5 h 50 min"
+      },
+      "Misc": {
+        "Colors": "Black, Grey, White",
+        "SAR": "0.57 W/kg (head) &nbsp; &nbsp; 0.52 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 120 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-fascinate-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_fascinate-pictures-3492.php"
+    }
+  }
+}

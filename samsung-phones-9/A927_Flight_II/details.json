@@ -1,0 +1,94 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung A927 Flight II",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-a927-001.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-a927.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2010, August",
+    "dimensions": "99g, 12.7mm thickness",
+    "os": "Feature phone",
+    "storage": "512MB storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 1900",
+        "Speed": "HSPA"
+      },
+      "Launch": {
+        "Announced": "2010, August. Released 2010, August",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "111.8 x 53.3 x 12.7 mm (4.40 x 2.10 x 0.5 in)",
+        "Weight": "99 g (3.49 oz)",
+        "Keyboard": "QWERTY",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "3.0 inches, 25.6 cm<sup>2</sup> (~43.0% screen-to-body ratio)",
+        "Resolution": "240 x 400 pixels, 5:3 ratio (~155 ppi density)",
+        "Features": "TouchWiz UI 2.0 Plus"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Phonebook": "Yes, Photocall",
+        "Call records": "90 received, dialed and missed calls",
+        "Internal": "512MB"
+      },
+      "Main Camera": {
+        "Single": "2 MP",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.1, A2DP",
+        "Positioning": "A-GPS only; AT&amp;T Navigator",
+        "Radio": "No",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS, Email, Push Email, IM, RSS",
+        "Browser": "WAP 2.0/xHTML, HTML",
+        "Games": "Yes",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "SNS integration\n\nMP3/WAV/eAAC+ player\n\nMP4/H.264 player\n\nOrganizer\n\nDocument viewer\n\nVoice memo/dial\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion battery",
+        "Stand-by": "Up to 250 h",
+        "Talk time": "Up to 5 h"
+      },
+      "Misc": {
+        "Colors": "Grey",
+        "SAR": "1.07 W/kg (head) &nbsp; &nbsp; 1.10 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.64 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 110 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-a927-001.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-a927-002.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_a927_flight_ii-pictures-3467.php"
+    }
+  }
+}

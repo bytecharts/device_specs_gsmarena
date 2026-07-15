@@ -1,0 +1,84 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Sony D 2403",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sony.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/sony.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released Exp. release 2014, Q3",
+    "dimensions": "11.6mm thickness",
+    "os": "Android 4.4.2",
+    "storage": "8GB/16GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "Speed": "HSPA 21.1/5.76 Mbps"
+      },
+      "Launch": {
+        "Announced": "Exp. announcement 2014, Q3. Released Exp. release 2014, Q3",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "-",
+        "Weight": "-",
+        "SIM": "Micro-SIM"
+      },
+      "Display": {
+        "Type": "TFT",
+        "Size": "4.4 inches, 53.4 cm<sup>2</sup> (~62.3% screen-to-body ratio)",
+        "Resolution": "540 x 960 pixels, 16:9 ratio (~250 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 4.4.2 (KitKat)",
+        "Chipset": "Qualcomm MSM8926 Snapdragon 400 (28 nm)",
+        "CPU": "Quad-core 1.2 GHz Cortex-A7",
+        "GPU": "Adreno 305"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "8GB 1GB RAM, 16GB 1GB RAM",
+        "Features": "eMMC 4.5"
+      },
+      "Main Camera": {
+        "Single": "8 MP, AF",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "VGA",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+        "Bluetooth": "4.0, A2DP",
+        "Positioning": "GPS, GLONASS",
+        "NFC": "Yes",
+        "Radio": "FM radio",
+        "USB": "microUSB 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity, compass",
+        "Features": "ANT+"
+      },
+      "Battery": {
+        "Type": "Li-Ion, removable"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "Price": "About 200 EUR"
+      }
+    }
+  }
+}

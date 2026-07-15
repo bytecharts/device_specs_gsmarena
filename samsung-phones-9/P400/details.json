@@ -1,0 +1,95 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung P400",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/sap400_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/ssp400.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2003, Q1",
+    "dimensions": "105g, 23mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "GPRS": "Class 8",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2003, Q1",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "91 x 48 x 23 mm (3.58 x 1.89 x 0.91 in)",
+        "Weight": "105 g (3.70 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFD, 65K colors",
+        "Size": "",
+        "Resolution": "128 x 160 pixels, 7 lines",
+        "Features": "Swivel and rotate 360 deg\n\nFour way navigation keys\n\nDynamic font size"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "1000 entries, contact groups",
+        "Call records": "20 dialed, 20 received, 20 missed calls",
+        "Features": "1.2 MB for images \n\n700 kB for MMS message\n\n512 KB for Java programs\n\nMessage templates\n\n200 short messages"
+      },
+      "Main Camera": {
+        "Single": "CIF, 180 deg rotating lens",
+        "Video": "No"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Downloadable polyphonic ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, EMS, MMS",
+        "Browser": "WAP 1.2",
+        "Clock": "Yes",
+        "Alarm": "Yes",
+        "Games": "Yes",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "Predictive text input\n\nOrganizer\n\nSpeed dial\n\nMenu shortcuts\n\nNokia compatible melodies"
+      },
+      "Battery": {
+        "Type": "Slim battery, Li-Ion 720 mAh",
+        "Stand-by": "Up to 120 h",
+        "Talk time": "Up to 4 h"
+      },
+      "Misc": {
+        "Colors": "Metallic Silver",
+        "SAR EU": "1.18 W/kg (head) &nbsp; &nbsp;"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/sap400_00.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/sap400_01.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_p400-pictures-377.php"
+    }
+  }
+}

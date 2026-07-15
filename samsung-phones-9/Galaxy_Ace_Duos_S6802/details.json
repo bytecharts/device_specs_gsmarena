@@ -1,0 +1,99 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy Ace Duos S6802",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-ace-duos.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-ace-duos-gsm.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_galaxy_ace_duos-review-794.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2012, June",
+    "dimensions": "122g, 11.5mm thickness",
+    "os": "Android 2.3, TouchWiz UX UI",
+    "storage": "3GB 512MB RAM storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 &amp; SIM 2",
+        "3G bands": "HSDPA 900 / 2100",
+        "Speed": "HSPA 7.2/0.384 Mbps"
+      },
+      "Launch": {
+        "Announced": "2012, May. Released 2012, June",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "112.7 x 61.5 x 11.5 mm (4.44 x 2.42 x 0.45 in)",
+        "Weight": "122 g (4.30 oz)",
+        "SIM": "Dual SIM (Mini-SIM, dual stand-by)"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "3.5 inches, 36.5 cm<sup>2</sup> (~52.6% screen-to-body ratio)",
+        "Resolution": "320 x 480 pixels, 3:2 ratio (~165 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 2.3 (Gingerbread), TouchWiz UX UI",
+        "CPU": "832 MHz"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Internal": "3GB 512MB RAM"
+      },
+      "Main Camera": {
+        "Single": "5 MP, AF",
+        "Video": "480p@30fps"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+        "Bluetooth": "3.0, A2DP",
+        "Positioning": "GPS, A-GPS",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity, compass",
+        "Features": "MP4/H.264 player\n\nMP3/WAV/eAAC+ player\n\nDocument editor\n\nPhoto editor"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1300 mAh battery",
+        "Stand-by": "Up to 570 h (2G) / Up to 420 h (3G)",
+        "Talk time": "Up to 18 h 30 min (2G) / Up to 7 h (3G)"
+      },
+      "Misc": {
+        "Colors": "White, Black, Yellow, La Fleur",
+        "Models": "GT-S6802",
+        "SAR": "1.00 W/kg (head) &nbsp; &nbsp; 0.84 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.65 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 120 EUR"
+      },
+      "Our Tests": {
+        "Display": "<a class=\"noUnd\" href=\"samsung_galaxy_ace_duos-review-794p2.php\">Contrast ratio: 655 (nominal) / 1.148:1 (sunlight)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=4777&amp;nSuggest=1\">Photo</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"samsung_galaxy_ace_duos-review-794p4.php\">Voice 62dB / Noise 61dB / Ring 66dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"samsung_galaxy_ace_duos-review-794p5.php\">Noise -87.9dB / Crosstalk -84.0dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 4777); \">Endurance rating 42h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-ace-duos.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-ace-duos-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_ace_duos_s6802-pictures-4777.php"
+    }
+  }
+}

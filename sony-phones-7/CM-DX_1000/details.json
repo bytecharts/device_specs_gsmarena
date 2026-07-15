@@ -1,0 +1,78 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Sony CM-DX 1000",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sox1000b.gif",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/sox1000b.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 1997",
+    "dimensions": "235g, 32mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "1997",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "150 x 45 x 32 mm (5.91 x 1.77 x 1.26 in)",
+        "Weight": "235 g (8.29 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "Monochrome graphic",
+        "Size": "",
+        "Resolution": "4 x 16 chars"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "100",
+        "Call records": ""
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Monophonic ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS",
+        "Browser": "",
+        "Clock": "No",
+        "Alarm": "No",
+        "Games": "No",
+        "Java": "No"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1350 mAh battery",
+        "Stand-by": "70 h",
+        "Talk time": "10 h"
+      },
+      "Misc": {
+        "Colors": ""
+      }
+    }
+  }
+}

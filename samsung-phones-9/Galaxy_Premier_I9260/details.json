@@ -1,0 +1,102 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy Premier I9260",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-premier-i9260-new.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-premier-i9260-new.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_galaxy_premier-review-848.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2013, January",
+    "dimensions": "130g, 9mm thickness",
+    "os": "Android 4.1",
+    "storage": "8GB/16GB storage, microSDHC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4G bands": "LTE (market dependent)",
+        "Speed": "HSPA 21.1/5.76 Mbps, LTE Cat3 100/50 Mbps"
+      },
+      "Launch": {
+        "Announced": "2012, November. Released 2013, January",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "134.2 x 68 x 9 mm (5.28 x 2.68 x 0.35 in)",
+        "Weight": "130 g (4.59 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "Super AMOLED",
+        "Size": "4.65 inches, 59.6 cm<sup>2</sup> (~65.3% screen-to-body ratio)",
+        "Resolution": "720 x 1280 pixels, 16:9 ratio (~316 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 4.1 (Jelly Bean)",
+        "Chipset": "TI OMAP 4470",
+        "CPU": "Dual-core 1.5 GHz",
+        "GPU": "PowerVR SGX544"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Internal": "8GB 1GB RAM, 16GB 1GB RAM"
+      },
+      "Main Camera": {
+        "Single": "8 MP, AF",
+        "Features": "LED flash",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "1.9 MP",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, DLNA, hotspot",
+        "Bluetooth": "4.0, A2DP, EDR",
+        "Positioning": "GPS, GLONASS",
+        "NFC": "Yes",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, proximity, compass",
+        "Features": "MP4/DivX/XviD/WMV/H.264 player\n\nMP3/WAV/eAAC+/FLAC player\n\nPhoto/video editor\n\nDocument viewer"
+      },
+      "Battery": {
+        "Type": "Li-Ion 2100 mAh, removable",
+        "Stand-by": "Up to 790 h (2G) / Up to 600 h (3G)",
+        "Talk time": "Up to 21 h 40 min (2G) / Up to 10 h 50 min (3G)"
+      },
+      "Misc": {
+        "Colors": "White, Titanium Gray",
+        "SAR": "1.27 W/kg (head) &nbsp; &nbsp; 1.39 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 260 EUR"
+      },
+      "Our Tests": {
+        "Display": "<a class=\"noUnd\" href=\"samsung_galaxy_premier-review-848p3.php\">Contrast ratio: Infinite (nominal) / 2.958:1 (sunlight)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=5047&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=5047&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"samsung_galaxy_premier-review-848p6.php\">Voice 71dB / Noise 61dB / Ring 73dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"samsung_galaxy_premier-review-848p8.php#aq\">Noise -82.9dB / Crosstalk -82.2dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 5047); \">Endurance rating 51h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-premier-i9260-new.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_premier_i9260-pictures-5047.php"
+    }
+  }
+}

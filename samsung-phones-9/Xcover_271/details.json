@@ -1,0 +1,93 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Xcover 271",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-b2710-ofic-2.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-b2710-ofic.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2010, October",
+    "dimensions": "115g, 17.9mm thickness",
+    "os": "Feature phone",
+    "storage": "30MB storage, microSD slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / UMTS</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "UMTS 900 / 2100",
+        "Speed": "Yes, 384 kbps"
+      },
+      "Launch": {
+        "Announced": "2010, September. Released 2010, October",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "120.7 x 53 x 17.9 mm (4.75 x 2.09 x 0.70 in)",
+        "Weight": "115 g (4.06 oz)",
+        "SIM": "Mini-SIM",
+        "Features": "IP67 dust/water resistant (up to 1m for 30 min)\n\nFlashlight"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "2.0 inches, 12.4 cm<sup>2</sup> (~19.4% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~200 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "microSD (dedicated slot)",
+        "Phonebook": "Yes, Photocall",
+        "Call records": "Yes",
+        "Internal": "30MB"
+      },
+      "Main Camera": {
+        "Single": "2 MP",
+        "Video": "320p@15fps"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.0, A2DP",
+        "Positioning": "GPS, A-GPS; Google Maps",
+        "Radio": "Stereo FM radio, RDS, recording",
+        "USB": "Proprietary"
+      },
+      "Features": {
+        "Sensors": "Compass",
+        "Messaging": "SMS, MMS, Email, IM",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "Yes + downloadable",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "MP3/WAV/eAAC+/WMA player\n\nMP4/H.263 player\n\nFacebook, Twitter\n\nPedometer\n\nOrganizer\n\nVoice memo\n\nStopwatch\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1300 mAh battery",
+        "Stand-by": "Up to 600 h (2G) / Up to 500 h (3G)",
+        "Talk time": "Up to 19 h (2G) / Up to 7 h (3G)"
+      },
+      "Misc": {
+        "Colors": "Black, Blue",
+        "SAR": "0.47 W/kg (head) &nbsp; &nbsp; 1.12 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.67 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 110 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-b2710-ofic-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-b2710-ofic-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_xcover_271-pictures-3415.php"
+    }
+  }
+}

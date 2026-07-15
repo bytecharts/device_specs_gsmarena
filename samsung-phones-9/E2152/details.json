@@ -1,0 +1,92 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung E2152",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-e2152-ofic-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-e2152-ofic.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2010, September",
+    "dimensions": "80.4g, 13.5mm thickness",
+    "os": "Feature phone",
+    "storage": "microSD slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 - SIM 1",
+        "GPRS": "Class 10",
+        "EDGE": "Class 10",
+        "Features": "GSM 900 / 1800 - SIM 2"
+      },
+      "Launch": {
+        "Announced": "2010, August. Released 2010, September",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "111.6 x 46.3 x 13.5 mm (4.39 x 1.82 x 0.53 in)",
+        "Weight": "80.4 g (2.82 oz)",
+        "SIM": "Dual SIM (Mini-SIM, dual stand-by)",
+        "Features": "Flashlight"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "2.0 inches, 12.6 cm<sup>2</sup> (~24.4% screen-to-body ratio)",
+        "Resolution": "128 x 160 pixels (~102 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "microSD (dedicated slot)",
+        "Phonebook": "1000 entries, Photocall",
+        "Call records": "Yes"
+      },
+      "Main Camera": {
+        "Single": "VGA",
+        "Video": "128x160@15fps"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.1, A2DP",
+        "Positioning": "No",
+        "Radio": "Stereo FM radio, RDS, recording, built-in antenna",
+        "USB": "microUSB 1.1"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS, Email, IM",
+        "Browser": "WAP 2.0/xHTML, HTML",
+        "Games": "Yes",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "Facebook, Twitter\n\nMP3/eAAC+/WAV player\n\nMP4/H.264 player\n\nOrganizer\n\nVoice memo\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1000 mAh battery",
+        "Stand-by": "Up to 660 h",
+        "Talk time": "Up to 11 h"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "SAR": "0.99 W/kg (head) &nbsp; &nbsp; 1.11 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.73 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 60 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-e2152-ofic-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_e2152-pictures-3448.php"
+    }
+  }
+}

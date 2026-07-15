@@ -1,0 +1,91 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung C3520",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/Samsung-C3520-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-c3520.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2011, October",
+    "dimensions": "97.3g, 16.8mm thickness",
+    "os": "Feature phone",
+    "storage": "28MB storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "GPRS": "Class 12",
+        "EDGE": "Class 12"
+      },
+      "Launch": {
+        "Announced": "2011, October. Released 2011, October",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "102 x 52 x 16.8 mm (4.02 x 2.05 x 0.66 in)",
+        "Weight": "97.3 g (3.42 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "2.4 inches, 17.8 cm<sup>2</sup> (~33.6% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Phonebook": "Yes, Photocall",
+        "Call records": "Yes",
+        "Internal": "28MB"
+      },
+      "Main Camera": {
+        "Single": "1.3 MP, AF",
+        "Video": "320p@30fps"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.1, A2DP",
+        "Positioning": "No",
+        "Radio": "Stereo FM radio, RDS, recording",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS, Email, Push Email, IM",
+        "Games": "Yes",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "SNS applications\n\nOrganizer\n\nMP3/AAC player\n\nMP4/H.263 player\n\nVoice memo\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 800 mAh battery",
+        "Stand-by": "Up to 610 h",
+        "Talk time": "Up to 9 h 10 min"
+      },
+      "Misc": {
+        "Colors": "Metallic Silver, Charcoal Gray, Coral Pink, La Fleur",
+        "SAR": "0.35 W/kg (head) &nbsp; &nbsp; 1.08 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.35 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 50 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/Samsung-C3520-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/Samsung-La-Fleur-C3520.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_c3520-pictures-4218.php"
+    }
+  }
+}

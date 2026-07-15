@@ -1,0 +1,91 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Sony CMD MZ5",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/sony/somz5_04.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/sony-cmd-mz5.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released May 2001",
+    "dimensions": "110g, 30mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "May 2001",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "90 x 49 x 30 mm, 100 cc (3.54 x 1.93 x 1.18 in)",
+        "Weight": "110 g (3.88 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "Grayscale graphic, 4 shades",
+        "Size": "",
+        "Resolution": "96 x 72 pixels, 5 lines, 4:3 ratio",
+        "Features": "Advanced Jog Dial"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "500",
+        "Call records": "",
+        "Features": "64MB MagicGate Memory Stick\n\nCan store music and files\n\nKeeps fax and email for phonebook entries\n\nMessage templates\n\nSeveral phonebook groups"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Monophonic ringtones",
+        "3.5mm jack": "No",
+        "Features": "Ringtones can be assigned to phonebook entries"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, Email",
+        "Browser": "WAP, HTML",
+        "Clock": "Yes",
+        "Alarm": "Yes",
+        "Games": "4 - Sport Fishing, Disc Golf, Clay Shooting, Mole Hitting",
+        "Java": "No",
+        "Features": "MP3 player\n\nPredictive text input\n\nOrganizer\n\nAnswering machine"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 620 mAh battery",
+        "Stand-by": "30 h - 150 h",
+        "Talk time": "90 min - 220 min"
+      },
+      "Misc": {
+        "Colors": ""
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/sony/somz5_04.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/sony/somz5_03.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/sony/somz5_02.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/sony_cmd_mz5-pictures-232.php"
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung S8500 Wave",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-s8500_001.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-s8500.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_s8500_wave-review-480.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2010, April",
+    "dimensions": "118g, 10.9mm thickness",
+    "os": "Bada, up to 2.0, TouchWiz UI 3",
+    "storage": "390MB storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 900 / 2100",
+        "Speed": "HSPA 3.6/2 Mbps",
+        "Features": "HSDPA 850 / 1900 - North America"
+      },
+      "Launch": {
+        "Announced": "2010, February. Released 2010, April",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "118 x 56 x 10.9 mm (4.65 x 2.20 x 0.43 in)",
+        "Weight": "118 g (4.16 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "Super AMOLED",
+        "Size": "3.3 inches, 31.0 cm<sup>2</sup> (~46.9% screen-to-body ratio)",
+        "Resolution": "480 x 800 pixels, 5:3 ratio (~283 ppi density)",
+        "Protection": "Corning Gorilla Glass",
+        "Features": "Handwriting recognition"
+      },
+      "Platform": {
+        "OS": "Bada, upgradable to 2.0, TouchWiz UI 3",
+        "Chipset": "Hummingbird",
+        "CPU": "1.0 GHz Cortex-A8",
+        "GPU": "PowerVR SGX540"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Internal": "390MB"
+      },
+      "Main Camera": {
+        "Single": "5 MP, AF",
+        "Features": "LED flash",
+        "Video": "720p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "Yes",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+        "Bluetooth": "3.0, A2DP",
+        "Positioning": "GPS, A-GPS, Samsung Mobile Navigator",
+        "Radio": "Stereo FM radio, RDS, recording",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity, compass",
+        "Browser": "WAP 2.0/xHTML, HTML",
+        "Features": "TV-Out\n\nMP3/WAV/WMA/eAAC+ player\n\nMP4/H.264/WMV/Xvid/DivX player\n\nOrganizer\n\nPicsel document viewer\n\nPhoto editor\n\nVoice memo\n\nPredictive text input (T9 Trace)"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1500 mAh battery",
+        "Stand-by": "Up to 600 h (2G) / Up to 550 h (3G)",
+        "Talk time": "Up to 15 h (2G) / Up to 7 h (3G)",
+        "Music play": "Up to 35 h"
+      },
+      "Misc": {
+        "Colors": "Ebony Gray",
+        "SAR EU": "0.99 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 160 EUR"
+      },
+      "Our Tests": {
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=3146&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=3146&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"samsung_s8500_wave-review-480p4.php\">Voice 69dB / Noise 66dB / Ring 75dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"samsung_s8500_wave-review-480p6.php#aq\">Noise -90.9dB / Crosstalk -92.5dB</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-s8500_001.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-s8500_003.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_s8500_wave-pictures-3146.php"
+    }
+  }
+}

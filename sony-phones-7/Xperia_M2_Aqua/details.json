@@ -1,0 +1,110 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Sony Xperia M2 Aqua",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/sony/sony-xperia-m2-aqua-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/sony-xperia-m2.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/sony_xperia_m2_aqua-review-1124.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2014, September",
+    "dimensions": "149g, 8.6mm thickness",
+    "os": "Android 4.4.2, up to 5.1.1",
+    "storage": "8GB storage, microSDHC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - all models",
+        "3G bands": "HSDPA 850 / 900 / 2100 - D2403",
+        "4G bands": "1, 3, 5, 7, 8, 20 - D2403",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+        "Features": "HSDPA 850 / 1700 / 1900 / 2100 - D2406\n2, 4, 7, 17 - D2406"
+      },
+      "Launch": {
+        "Announced": "2014, August. Released 2014, September",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "140 x 72 x 8.6 mm (5.51 x 2.83 x 0.34 in)",
+        "Weight": "149 g (5.26 oz)",
+        "SIM": "Micro-SIM",
+        "Features": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "4.8 inches, 63.5 cm<sup>2</sup> (~63.0% screen-to-body ratio)",
+        "Resolution": "540 x 960 pixels, 16:9 ratio (~229 ppi density)",
+        "Protection": "Scratch-resistant glass"
+      },
+      "Platform": {
+        "OS": "Android 4.4.2 (KitKat), upgradable to 5.1.1 (Lollipop)",
+        "Chipset": "Qualcomm MSM8926-2 Snapdragon 400 (28 nm)",
+        "CPU": "Quad-core 1.2 GHz Cortex-A7",
+        "GPU": "Adreno 305"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Internal": "8GB 1GB RAM",
+        "Features": "eMMC 4.5"
+      },
+      "Main Camera": {
+        "Single": "8 MP, f/2.4, AF",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "1080p@30fps, HDR"
+      },
+      "Selfie camera": {
+        "Single": "VGA",
+        "Video": "480p"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, DLNA, hotspot",
+        "Bluetooth": "4.0, A2DP, aptX, LE",
+        "Positioning": "GPS, GLONASS",
+        "NFC": "Yes",
+        "Radio": "FM radio, RDS",
+        "USB": "microUSB 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity, compass",
+        "Features": "ANT+"
+      },
+      "Battery": {
+        "Type": "Li-Ion 2300 mAh, non-removable",
+        "Stand-by": "Up to 595 h (2G) / Up to 641 h (3G)",
+        "Talk time": "Up to 11 h 23 min (2G) / Up to 12 h 11 min (3G)",
+        "Music play": "Up to 37 h 11 min"
+      },
+      "Misc": {
+        "Colors": "Black, White, Copper",
+        "Models": "D2403, D2406",
+        "SAR": "0.69 W/kg (head) &nbsp; &nbsp; 1.25 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.66 W/kg (head) &nbsp; &nbsp; 0.86 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 200 EUR"
+      },
+      "Our Tests": {
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=6582&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=6582&amp;nSuggest=1\">Video</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 6582); \">Endurance rating 71h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/sony/sony-xperia-m2-aqua-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/sony/sony-xperia-m2-aqua-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/sony/sony-xperia-m2-aqua-4.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/sony/sony-xperia-m2-aqua-5.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/sony/sony-xperia-m2-aqua-6.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/sony_xperia_m2_aqua-pictures-6582.php"
+    }
+  }
+}

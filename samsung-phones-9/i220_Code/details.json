@@ -1,0 +1,89 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung i220 Code",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-i220-code-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-i220-code.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2010, July",
+    "dimensions": "105g, 14mm thickness",
+    "os": "Microsoft Windows Mobile 6.1 Standard",
+    "storage": "94MB 128MB RAM 128MB ROM storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">CDMA / EVDO</a>",
+        "2G bands": "CDMA 800 / 1900",
+        "3G bands": "CDMA2000 1xEV-DO",
+        "Speed": "EV-DO Rev.0, 153.2 Kbps"
+      },
+      "Launch": {
+        "Announced": "2010, July. Released 2010, July",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "117 x 58 x 14 mm (4.61 x 2.28 x 0.55 in)",
+        "Weight": "105 g (3.70 oz)",
+        "Keyboard": "QWERTY",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 65K colors",
+        "Size": "2.4 inches, 17.8 cm<sup>2</sup> (~26.3% screen-to-body ratio)",
+        "Resolution": "320 x 240 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "Platform": {
+        "OS": "Microsoft Windows Mobile 6.1 Standard"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Internal": "94MB 128MB RAM 128MB ROM"
+      },
+      "Main Camera": {
+        "Single": "2 MP",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.0, A2DP",
+        "Positioning": "GPS, A-GPS",
+        "Radio": "No",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Browser": "WAP 2.0/xHTML, HTML",
+        "Features": "MP4/H.264/WMV player\n\nMP3/AAC+ player\n\nOrganizer\n\nDocument viewer\n\nVoice memo/dial\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1440 mAh battery",
+        "Stand-by": "Up to 300 h",
+        "Talk time": "Up to 6 h"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "SAR": "0.57 W/kg (head) &nbsp; &nbsp; 0.42 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 70 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-i220-code-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_i220_code-pictures-3441.php"
+    }
+  }
+}

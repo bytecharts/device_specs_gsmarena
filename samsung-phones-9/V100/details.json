@@ -1,0 +1,80 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung V100",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ssv100.gif",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/ssv100.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2002",
+    "dimensions": "97g, 23mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "GPRS": "Class 8",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2002",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "88 x 48 x 23 mm (3.46 x 1.89 x 0.91 in)",
+        "Weight": "97 g (3.42 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 65K colors",
+        "Size": "",
+        "Resolution": "176 x 220 pixels",
+        "Features": "Second external display 96 x 64 pixels\n\nFour way navigation keys \n\nDynamic font size"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "500 entries, contact groups",
+        "Call records": "10 dialed, 10 received, 10 missed calls",
+        "Features": "Message templates"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Polyphonic(16) ringtones, composer",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, EMS",
+        "Browser": "WAP 1.2.1",
+        "Clock": "Yes",
+        "Alarm": "Yes",
+        "Games": "Yes",
+        "Java": "No",
+        "Features": "Video On Demand (VOD)\n\nMP4 and MP3 decoders\n\nPredictive text input\n\nVoice commands and dial\n\nVoice memo\n\nOrganizer\n\nSpeed dial\n\nMenu shortcuts\n\nWorld clock\n\nNokia compatible melodies\n\nRS232"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion battery"
+      },
+      "Misc": {
+        "Colors": ""
+      }
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung A847 Rugby II",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-a847-Rugby-II-2.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-a847-Rugby-II.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2010, June",
+    "dimensions": "100g, 22mm thickness",
+    "os": "Feature phone",
+    "storage": "70MB storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 1900 / 2100",
+        "Speed": "HSPA 7.2/0.384 Mbps"
+      },
+      "Launch": {
+        "Announced": "2010, May. Released 2010, June",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "102 x 52 x 22 mm (4.02 x 2.05 x 0.87 in)",
+        "Weight": "100 g (3.53 oz)",
+        "SIM": "Mini-SIM",
+        "Features": "MIL-STD-810G compliant salt, dust, humidity, rain, vibration, solar radiation, transport and thermal shock resistant"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "2.2 inches, 15.0 cm<sup>2</sup> (~28.3% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~182 ppi density)",
+        "Features": "External 1.3\" monochrome display (CSTN, 128x128 pixels)"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Phonebook": "1000 entries, Photocall",
+        "Call records": "30 received, dialed and missed calls",
+        "Internal": "70MB"
+      },
+      "Main Camera": {
+        "Single": "2 MP",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.0, A2DP",
+        "Positioning": "A-GPS only; AT&amp;T Navigator",
+        "Radio": "No",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, AMS, MMS, Email, Push Email, IM",
+        "Browser": "WAP 2.0/xHTML, HTML",
+        "Games": "Yes",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "MP3/WAV/AAC+ player\n\nMP4/H.263 player\n\nOrganizer\n\nPush to Talk\n\nVoice memo\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1300 mAh battery",
+        "Stand-by": "Up to 250 h",
+        "Talk time": "Up to 3 h"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "SAR EU": "0.51 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 100 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-a847-Rugby-II-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-a847-Rugby-II-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_a847_rugby_ii-pictures-3355.php"
+    }
+  }
+}

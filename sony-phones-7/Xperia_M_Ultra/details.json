@@ -1,0 +1,92 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Sony Xperia M Ultra",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/smartphone.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/smartphone.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "sony_xperia_1_viii_5g-14660",
+      "sony_xperia_1_vii_5g-13843",
+      "sony_xperia_1_v-12263",
+      "sony_xperia_10_vii_5g-14137",
+      "sony_xperia_5_iv-11838",
+      "sony_xperia_1_vi-13003"
+    ],
+    "release_date": "Cancelled",
+    "dimensions": "",
+    "os": "Android 6.0",
+    "storage": "32GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4G bands": "LTE",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE (2CA) Cat6 300/50 Mbps"
+      },
+      "Launch": {
+        "Announced": "Not announced yet",
+        "Status": "Cancelled"
+      },
+      "Body": {
+        "Dimensions": "-",
+        "Weight": "-",
+        "SIM": "Nano-SIM",
+        "Features": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)"
+      },
+      "Display": {
+        "Type": "IPS-NEO LCD",
+        "Size": "6.0 inches, 99.2 cm<sup>2</sup>",
+        "Resolution": "1080 x 1920 pixels, 16:9 ratio (~367 ppi density)",
+        "Protection": "Scratch-resistant glass"
+      },
+      "Platform": {
+        "OS": "Android 6.0 (Marshmallow)",
+        "Chipset": "Qualcomm MSM8976 Snapdragon 652 (28 nm)",
+        "CPU": "Octa-core (4x1.8 GHz Cortex-A72 &amp; 4x1.4 GHz Cortex-A53)",
+        "GPU": "Adreno 510"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "32GB 3GB RAM",
+        "Features": "eMMC 5.1"
+      },
+      "Main Camera": {
+        "Single": "23 MP, PDAF",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "4K@30fps, HDR"
+      },
+      "Selfie camera": {
+        "Single": "16 MP, f/2.0, 23mm (wide), 1/2.6\"",
+        "Video": "1080p@30ps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, DLNA",
+        "Bluetooth": "4.2, A2DP, LE, aptX",
+        "Positioning": "GPS, GLONASS",
+        "NFC": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Ion 4280 mAh, non-removable"
+      },
+      "Misc": {
+        "Colors": "Black, White, Gold"
+      }
+    }
+  }
+}

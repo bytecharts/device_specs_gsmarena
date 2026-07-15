@@ -1,0 +1,113 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Sony Xperia Z3 Tablet Compact",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/sony/sony-xperia-z3-tablet-compact-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/sony-xperia-z3-tablet-compact.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/sony_xperia_z3_tablet_compact-review-1152.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2014, November",
+    "dimensions": "270g, 6.4mm thickness",
+    "os": "Android 4.4.2, up to 6.0",
+    "storage": "16GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700 / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 13, 17, 20 - SGP621",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+        "Features": "1, 3, 5, 7, 8, 28, 40 - SGP641"
+      },
+      "Launch": {
+        "Announced": "2014, September. Released 2014, November",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "213.4 x 123.6 x 6.4 mm (8.40 x 4.87 x 0.25 in)",
+        "Weight": "270 g (9.52 oz)",
+        "SIM": "Nano-SIM",
+        "Features": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)"
+      },
+      "Display": {
+        "Type": "TFT  LCD",
+        "Size": "8.0 inches, 185.6 cm<sup>2</sup> (~70.4% screen-to-body ratio)",
+        "Resolution": "1200 x 1920 pixels, 16:10 ratio (~283 ppi density)",
+        "Protection": "Shatter proof glass, oleophobic coating",
+        "Features": "Triluminos display\n\nX-Reality Engine"
+      },
+      "Platform": {
+        "OS": "Android 4.4.2 (KitKat), upgradable to 6.0 (Marshmallow)",
+        "Chipset": "Qualcomm MSM8974AB Snapdragon 801 (28 nm)",
+        "CPU": "Quad-core 2.5 GHz Krait 400",
+        "GPU": "Adreno 330"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "16GB 3GB RAM",
+        "Features": "eMMC 5.0"
+      },
+      "Main Camera": {
+        "Single": "8.1 MP, AF",
+        "Features": "HDR, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "2.2 MP, f/2.8",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA, hotspot",
+        "Bluetooth": "4.0, A2DP, LE, aptX",
+        "Positioning": "GPS, GLONASS",
+        "NFC": "Yes",
+        "Radio": "FM radio, RDS",
+        "USB": "microUSB 2.0 (MHL 3 TV-out), OTG, magnetic connector"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, compass, barometer",
+        "Features": "ANT+"
+      },
+      "Battery": {
+        "Type": "Li-Ion 4500 mAh, non-removable",
+        "Charging": "18W wired, QC2",
+        "Stand-by": "Up to 1100 h (2G) / Up to 1300 h (3G)",
+        "Talk time": "Up to 19 h (2G) / Up to 23 h (3G)",
+        "Music play": "Up to 170 h"
+      },
+      "Misc": {
+        "Colors": "Black, White",
+        "Models": "SGP621, SGP611",
+        "SAR": "1.42 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.84 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 380 EUR"
+      },
+      "Our Tests": {
+        "Performance": "Basemark X: 12911",
+        "Display": "<a class=\"noUnd\" href=\"sony_xperia_z3_tablet_compact-review-1152p3.php\">Contrast ratio: 1416 (nominal), 1.735 (sunlight)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=6633&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=6633&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"sony_xperia_z3_tablet_compact-review-1152p6.php\">Voice 66dB / Noise 66dB / Ring 65dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"sony_xperia_z3_tablet_compact-review-1152p7.php\">Noise -81.4dB / Crosstalk -83.5dB</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/sony/sony-xperia-z3-tablet-compact-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/sony/sony-xperia-z3-tablet-compact-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/sony/sony-xperia-z3-tablet-compact-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/sony_xperia_z3_tablet_compact-pictures-6633.php"
+    }
+  }
+}

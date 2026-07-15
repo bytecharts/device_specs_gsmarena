@@ -1,0 +1,95 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung E2252",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-metro-gt-e2252.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-metro-gt-e2252.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2012, July",
+    "dimensions": "79g, 13.9mm thickness",
+    "os": "Feature phone",
+    "storage": "20MB storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 - SIM 1 &amp; SIM 2",
+        "GPRS": "Yes",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2012, July. Released 2012, July",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "113 x 46 x 13.9 mm (4.45 x 1.81 x 0.55 in)",
+        "Weight": "79 g (2.79 oz)",
+        "SIM": "Dual SIM (Mini-SIM)"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "2.0 inches, 12.6 cm<sup>2</sup> (~24.2% screen-to-body ratio)",
+        "Resolution": "128 x 160 pixels (~102 ppi density)"
+      },
+      "Platform": {
+        "CPU": "208 MHz"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Phonebook": "Yes, Photocall",
+        "Call records": "Yes",
+        "Internal": "20MB"
+      },
+      "Main Camera": {
+        "Single": "VGA",
+        "Video": "QCIF@15fps"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "3.0",
+        "Positioning": "No",
+        "Radio": "FM radio",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS, Email",
+        "Games": "Yes",
+        "Java": "Yes",
+        "Features": "SNS applications\n\nMP3/AAC player\n\nMP4/H.263 player\n\nOrganizer\n\nVoice memo\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1000 mAh battery",
+        "Stand-by": "Up to 760 h",
+        "Talk time": "Up to 11 h 50 min"
+      },
+      "Misc": {
+        "Colors": "Silver, white",
+        "Models": "GT-E2252, GT-E2250",
+        "SAR EU": "0.93 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 30 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-metro-gt-e2252.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-metro-gt-e2252-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-metro-gt-e2252-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_e2252-pictures-4870.php"
+    }
+  }
+}

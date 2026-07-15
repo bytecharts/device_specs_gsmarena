@@ -1,0 +1,92 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung S5780 Wave 578",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-wave-578-new.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-wave-578-new.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2011, July",
+    "dimensions": "99.8g, 12.5mm thickness",
+    "os": "bada 1.1",
+    "storage": "100MB storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 900 / 2100",
+        "Speed": "HSPA 3.6/0.384 Mbps"
+      },
+      "Launch": {
+        "Announced": "2011, February. Released 2011, July",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "107.9 x 54.9 x 12.5 mm (4.25 x 2.16 x 0.49 in)",
+        "Weight": "99.8 g (3.49 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT,  256K colors",
+        "Size": "3.2 inches, 29.1 cm<sup>2</sup> (~49.2% screen-to-body ratio)",
+        "Resolution": "240 x 400 pixels, 5:3 ratio (~146 ppi density)",
+        "Features": "TouchWiz UI 3.0"
+      },
+      "Platform": {
+        "OS": "bada 1.1"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Internal": "100MB"
+      },
+      "Main Camera": {
+        "Single": "3.15 MP",
+        "Video": "320p@20fps"
+      },
+      "Selfie camera": {
+        "Single": "VGA",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+        "Bluetooth": "3.0, A2DP",
+        "Positioning": "GPS, A-GPS",
+        "NFC": "Optional",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity",
+        "Browser": "WAP 2.0/xHTML, HTML",
+        "Features": "SNS integration\n\nMP3/WAV/eAAC+ player\n\nMP4/H.264 player\n\nMusic recognition\n\nOrganizer\n\nDocument viewer\n\nPhoto editor\n\nVoice memo\n\nPredictive text input (T9 Trace)"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1200 mAh battery",
+        "Stand-by": "Up to 700 h (2G) / Up to 500 h (3G)",
+        "Talk time": "Up to 12 h 30 min (2G) / Up to 7 h (3G)"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "SAR": "0.87 W/kg (head) &nbsp; &nbsp; 0.86 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.75 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 110 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-wave-578-new.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_s5780_wave_578-pictures-3778.php"
+    }
+  }
+}

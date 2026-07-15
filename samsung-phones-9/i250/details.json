@@ -1,0 +1,81 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung i250",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/ssi250.gif",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/ssi250.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Cancelled",
+    "dimensions": "130g, 26mm thickness",
+    "os": "Microsoft Smartphone 2003",
+    "storage": "32MB RAM storage, miniSD slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "GPRS": "Class 10",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2004, Q1",
+        "Status": "Cancelled"
+      },
+      "Body": {
+        "Dimensions": "94 x 50 x 26 mm (3.70 x 1.97 x 1.02 in)",
+        "Weight": "130 g (4.59 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 65K colors",
+        "Size": "",
+        "Resolution": "176 x 220 pixels",
+        "Features": "Second external TFT 65K color display (128 x 96 pixels)"
+      },
+      "Platform": {
+        "OS": "Microsoft Smartphone 2003"
+      },
+      "Memory": {
+        "Card slot": "miniSD",
+        "Internal": "32MB RAM, 64MB ROM"
+      },
+      "Main Camera": {
+        "Single": "1 MP",
+        "Features": "LED flash",
+        "Video": "No"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Downloadable polyphonic ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "Yes",
+        "Positioning": "No",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "Proprietary"
+      },
+      "Features": {
+        "Sensors": "",
+        "Browser": "WAP 2.0/xHTML, HTML (PocketIE)",
+        "Features": "Predictive text input\n\nMP3 player\n\nVoice memo\n\nPocket applications(Outlook, IE, MSN Messenger, ActiveSync)"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion battery"
+      },
+      "Misc": {
+        "Colors": ""
+      }
+    }
+  }
+}

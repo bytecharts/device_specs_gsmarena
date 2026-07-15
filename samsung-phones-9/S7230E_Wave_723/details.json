@@ -1,0 +1,98 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung S7230E Wave 723",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-wave-723-00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-wave-723.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_s7230e_wave_723-review-532.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2010, October",
+    "dimensions": "113.8g / 99.5g, 11.8mm thickness",
+    "os": "bada OS",
+    "storage": "90MB storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 900 / 2100",
+        "Speed": "HSPA 3.6/0.384 Mbps"
+      },
+      "Launch": {
+        "Announced": "2010, August. Released 2010, October",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "109.5 x 53.9 x 11.8 mm (4.31 x 2.12 x 0.46 in)",
+        "Weight": "113.8 g / 99.5 g (3.99 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT,  256K colors",
+        "Size": "3.2 inches, 29.1 cm<sup>2</sup> (~49.4% screen-to-body ratio)",
+        "Resolution": "240 x 400 pixels, 5:3 ratio (~146 ppi density)",
+        "Features": "TouchWiz UI 3.0"
+      },
+      "Platform": {
+        "OS": "bada OS"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Internal": "90MB"
+      },
+      "Main Camera": {
+        "Single": "5 MP, AF",
+        "Features": "LED flash",
+        "Video": "320p@15fps"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+        "Bluetooth": "3.0, A2DP",
+        "Positioning": "GPS, A-GPS",
+        "Radio": "Stereo FM radio, RDS, recording",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer",
+        "Browser": "WAP 2.0/xHTML, HTML",
+        "Features": "Removable plastic flip cover with leather texture\n\nMP3/WAV/eAAC+ player\n\nMP4/H.264 player\n\nOrganizer\n\nPhoto editor\n\nVoice memo\n\nPredictive text input (T9 Trace)"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1200 mAh battery",
+        "Stand-by": "Up to 700 h (2G) / Up to 600 h (3G)",
+        "Talk time": "Up to 14 h 20 min (2G) / Up to 6 h 45 min (3G)"
+      },
+      "Misc": {
+        "Colors": "Black, White/La Fleur edition",
+        "SAR EU": "0.96 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 130 EUR"
+      },
+      "Our Tests": {
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=3493&amp;nSuggest=1\">Photo</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"samsung_s7230e_wave_723-review-532p4.php\">Voice 69dB / Noise 66dB / Ring 74dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"samsung_s7230e_wave_723-review-532p5.php#aq\">Noise -67.8dB / Crosstalk -65.3dB</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-wave-723-00.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-wave-723-01.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-wave-723-la-fleur.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_s7230e_wave_723-pictures-3493.php"
+    }
+  }
+}

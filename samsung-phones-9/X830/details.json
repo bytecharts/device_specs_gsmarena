@@ -1,0 +1,95 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung X830",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-x830-00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-x830.gif"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_x830-review-123.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2006, September",
+    "dimensions": "72g, 20mm thickness",
+    "os": "Feature phone",
+    "storage": "1GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "GPRS": "Class 10",
+        "EDGE": "Class 10"
+      },
+      "Launch": {
+        "Announced": "2006, September",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "84 x 30 x 20 mm (3.31 x 1.18 x 0.79 in)",
+        "Weight": "72 g (2.54 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "1.46 inches, 6.0 cm<sup>2</sup> (~23.7% screen-to-body ratio)",
+        "Resolution": "128 x 220 pixels, 16:9 ratio (~174 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "1000 entries",
+        "Call records": "30 dialed, 30 received, 30 missed calls",
+        "Internal": "1GB",
+        "Features": "4 MB for Java apps"
+      },
+      "Main Camera": {
+        "Single": "1.3 MP",
+        "Video": "CIF"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "3.5mm jack": "No",
+        "Features": "3D sound"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "1.2, A2DP",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": "2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, EMS, MMS",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "Yes + downloadable",
+        "Java": "No",
+        "Features": "MP3/AAC/AAC+/e-AAC+/WMA player\n\nVideo player\n\nFlight mode\n\nOrganizer\n\nTimer\n\nVoice memo"
+      },
+      "Battery": {
+        "Type": "Removable Li-Po 800 mAh battery",
+        "Stand-by": "Up to 120 h",
+        "Talk time": "Up to 3 h"
+      },
+      "Misc": {
+        "Colors": "Black, Pure White, Orange, Pink",
+        "SAR": "0.18 W/kg (head) &nbsp; &nbsp; 0.65 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.12 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 150 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-x830-00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_x830-pictures-1681.php"
+    }
+  }
+}

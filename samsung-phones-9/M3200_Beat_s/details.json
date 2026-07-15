@@ -1,0 +1,96 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung M3200 Beat s",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-m3200-beat-s-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-m3200-beat-s.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_m3200_beat_s-review-282.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2008, October",
+    "dimensions": "101g, 16.9mm thickness",
+    "os": "Feature phone",
+    "storage": "72MB storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "GPRS": "Class 10",
+        "EDGE": "Class 10"
+      },
+      "Launch": {
+        "Announced": "2008, September. Released 2008, October",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "96.5 x 46.9 x 16.9 mm (3.80 x 1.85 x 0.67 in)",
+        "Weight": "101 g (3.56 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "2.0 inches, 12.4 cm<sup>2</sup> (~27.4% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~200 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Phonebook": "Yes, up to 500 entries",
+        "Call records": "30 dialed, 30 received, 30 missed calls",
+        "Internal": "72MB"
+      },
+      "Main Camera": {
+        "Single": "2 MP",
+        "Video": "QCIF@15fps"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes",
+        "Features": "Dedicated music keys"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.0, A2DP",
+        "Positioning": "No",
+        "Radio": "Stereo FM radio, RDS, recording",
+        "USB": "2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer",
+        "Messaging": "SMS, MMS, Email",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "Yes + downloadable",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "Motion Play shake control\n\nAuto EQ automatic equalizer\n\nFind Music recognition service\n\nTurn-to-mute\n\nMP3/e-AAC+/WMA player\n\nMP4/3GP player\n\nOrganizer\n\nVoice memo\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 800 mAh battery",
+        "Stand-by": "Up to 400 h",
+        "Talk time": "Up to 7 h",
+        "Music play": "Up to 21 h"
+      },
+      "Misc": {
+        "Colors": "Gray",
+        "SAR EU": "0.47 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 140 EUR"
+      },
+      "Our Tests": {
+        "Loudspeaker": "<a class=\"noUnd\" href=\"samsung_m3200_beat_s-review-282p3.php\">Voice 76dB / Noise 78dB / Ring 84dB</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-m3200-beat-s-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_m3200_beat_s-pictures-2528.php"
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung I8000 Omnia II",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/Samsung-I8000-Omnia-II.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-i8000.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_i8000_omnia_ii-review-388.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2009, July",
+    "dimensions": "123g, 12.3mm thickness",
+    "os": "Microsoft Windows Mobile 6.1 Professional",
+    "storage": "2GB/8GB/16GB storage, microSDHC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 900 / 1900 / 2100",
+        "Speed": "HSPA 7.2/5.76 Mbps"
+      },
+      "Launch": {
+        "Announced": "2009, June. Released 2009, July",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "118 x 59.6 x 12.3 mm (4.65 x 2.35 x 0.48 in)",
+        "Weight": "123 g (4.34 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED  resistive touchscreen, 16M colors (65K effective colors)",
+        "Size": "3.7 inches, 39.0 cm<sup>2</sup> (~55.4% screen-to-body ratio)",
+        "Resolution": "480 x 800 pixels, 5:3 ratio (~252 ppi density)",
+        "Features": "TouchWiz 2.0 UI\n\n- Handwriting recognition"
+      },
+      "Platform": {
+        "OS": "Microsoft Windows Mobile 6.1 Professional, upgradable to Windows Mobile 6.5/6.5.3",
+        "CPU": "Samsung S3C6410 800MHz, dedicated graphics accelerator"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Internal": "2GB 256MB RAM, 8GB 256MB RAM, 16GB 256MB RAM"
+      },
+      "Main Camera": {
+        "Single": "5 MP, AF",
+        "Features": "Dual-LED flash",
+        "Video": "480p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "VGA videocall camera",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g, DLNA",
+        "Bluetooth": "2.0, A2DP",
+        "Positioning": "GPS, A-GPS; navigation application",
+        "Radio": "Stereo FM radio, RDS, recording",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity",
+        "Browser": "HTML, Opera Browser v9.5",
+        "Features": "Photo editor, video editor\n\nDivX/XviD/MP4/H.264/WMV player\n\nMP3/eAAC+/WMA/WMDRM/OMA DRM 2.1 player\n\nFind Music service\n\nMedia Gate 3D\n\nPocket Office \n\nTV-out\n\nMobile Tracker\n\nBusiness card scanner"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1500 mAh battery",
+        "Stand-by": "Up to 430 h (2G) / Up to 430 h (3G)",
+        "Talk time": "Up to 12 h (2G) / Up to 8 h (3G)"
+      },
+      "Misc": {
+        "Colors": "Black, White, Pink",
+        "SAR": "0.59 W/kg (head) &nbsp; &nbsp; 0.30 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.17 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 200 EUR"
+      },
+      "Our Tests": {
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=2836&amp;nSuggest=1\">Photo</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"samsung_i8000_omnia_ii-review-388p6.php\">Voice 71dB / Noise 73dB / Ring 75dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"samsung_i8000_omnia_ii-review-388p7.php#aq\">Noise -88.3dB / Crosstalk -32.8dB</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/Samsung-I8000-Omnia-II.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_i8000_omnia_ii-pictures-2836.php"
+    }
+  }
+}

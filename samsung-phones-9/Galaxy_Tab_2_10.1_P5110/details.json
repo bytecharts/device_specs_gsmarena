@@ -1,0 +1,101 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung Galaxy Tab 2 10.1 P5110",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-tab-2-101.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-tab-2-101.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/samsung_galaxy_tab_2_101-review-749.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2012, May",
+    "dimensions": "581g, 9.7mm thickness",
+    "os": "Android 4.0.3, up to 4.2.2, TouchWiz UX UI",
+    "storage": "8GB/16GB/32GB storage, microSDHC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">No cellular connectivity</a>",
+        "2G bands": "N/A",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2012, February. Released 2012, May",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "256.6 x 175.3 x 9.7 mm (10.10 x 6.90 x 0.38 in)",
+        "Weight": "581 g (1.28 lb)",
+        "SIM": "No"
+      },
+      "Display": {
+        "Type": "PLS LCD",
+        "Size": "10.1 inches, 295.8 cm<sup>2</sup> (~65.8% screen-to-body ratio)",
+        "Resolution": "800 x 1280 pixels, 16:10 ratio (~149 ppi density)",
+        "Protection": "Corning Gorilla Glass"
+      },
+      "Platform": {
+        "OS": "Android 4.0.3 (Ice Cream Sandwich), upgradable to 4.2.2 (Jelly Bean), TouchWiz UX UI",
+        "Chipset": "TI OMAP 4430",
+        "CPU": "Dual-core 1.0 GHz Cortex-A9",
+        "GPU": "PowerVR SGX540"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Internal": "8GB 1GB RAM, 16GB 1GB RAM, 32GB 1GB RAM"
+      },
+      "Main Camera": {
+        "Single": "3.15 MP",
+        "Video": "720p"
+      },
+      "Selfie camera": {
+        "Single": "VGA",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, hotspot",
+        "Bluetooth": "3.0, A2DP",
+        "Positioning": "GPS, GLONASS",
+        "Radio": "No",
+        "USB": "2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, compass",
+        "Features": "TV-out"
+      },
+      "Battery": {
+        "Type": "Non-removable Li-Po 7000 mAh battery",
+        "Stand-by": "Up to 2570 h",
+        "Talk time": "93 h (media player)"
+      },
+      "Misc": {
+        "Colors": "Black, White",
+        "Models": "GT-P5110",
+        "SAR": "0.51 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.20 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 290 EUR"
+      },
+      "Our Tests": {
+        "Display": "<a class=\"noUnd\" href=\"samsung_galaxy_tab_2_101-review-749p2.php\">Contrast ratio: 878:1 (nominal)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=4669&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=4669&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"samsung_galaxy_tab_2_101-review-749p4.php\">Voice 72dB / Noise 66dB / Ring 82dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"samsung_galaxy_tab_2_101-review-749p5.php#aq\">Noise -90.4dB / Crosstalk -91.8dB</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-tab-2-101.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_galaxy_tab_2_10_1_p5110-pictures-4669.php"
+    }
+  }
+}

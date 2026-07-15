@@ -1,0 +1,90 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung D710",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/ssd710_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/ssd710.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Cancelled",
+    "dimensions": "110g, 24mm thickness",
+    "os": "Symbian 7.0s, Series 60 UI",
+    "storage": "64MB RAM storage, RS-MMC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "GPRS": "Yes",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2004, Q1",
+        "Status": "Cancelled"
+      },
+      "Body": {
+        "Dimensions": "101 x 51 x 24 mm (3.98 x 2.01 x 0.94 in)",
+        "Weight": "110 g (3.88 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "",
+        "Resolution": "208 x 176 pixels",
+        "Features": "Four way navigation keys"
+      },
+      "Platform": {
+        "OS": "Symbian 7.0s, Series 60 UI",
+        "Chipset": "TI OMAP 5910",
+        "CPU": "192 MHz ARM925T"
+      },
+      "Memory": {
+        "Card slot": "RS-MMC",
+        "Internal": "64MB RAM, 32MB ROM"
+      },
+      "Main Camera": {
+        "Single": "1 MP",
+        "Features": "LED flash",
+        "Video": "No"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Downloadable polyphonic, WAV ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "Proprietary"
+      },
+      "Features": {
+        "Sensors": "",
+        "Browser": "WAP 2.0/xHTML",
+        "Features": "MP3/Video player\n\nPredictive text input\n\nVoice commands and dial \n\nVoice memo\n\nOrganizer"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion battery"
+      },
+      "Misc": {
+        "Colors": ""
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/ssd710_00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_d710-pictures-718.php"
+    }
+  }
+}

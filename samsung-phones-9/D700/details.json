@@ -1,0 +1,93 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung D700",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/ssd700_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/ssd700.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Cancelled",
+    "dimensions": "110g, 23mm thickness",
+    "os": "Symbian, Series 60 UI",
+    "storage": "16MB storage, MMC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "GPRS": "Yes",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2003, Q3",
+        "Status": "Cancelled"
+      },
+      "Body": {
+        "Dimensions": "89 x 49 x 23 mm (3.50 x 1.93 x 0.91 in)",
+        "Weight": "110 g (3.88 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 65K colors",
+        "Size": "",
+        "Resolution": "176 x 208 pixels",
+        "Features": "Rotating screen \n\nFour way navigation keys"
+      },
+      "Platform": {
+        "OS": "Symbian, Series 60 UI",
+        "CPU": "104 MHz ARM 920T"
+      },
+      "Memory": {
+        "Card slot": "MMC",
+        "Internal": "16MB",
+        "Features": "18 voice dial numbers\n\nMessage templates"
+      },
+      "Main Camera": {
+        "Single": "VGA",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Downloadable polyphonic, WAV ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "Proprietary"
+      },
+      "Features": {
+        "Sensors": "",
+        "Browser": "WAP 2.0/xHTML",
+        "Clock": "Yes",
+        "Alarm": "Yes",
+        "Features": "MP3 player\n\nPredictive text input\n\nVoice commands and dial \n\nVoice memo\n\nOrganizer"
+      },
+      "Battery": {
+        "Type": "Extended battery, Li-Ion 1200 mAh",
+        "Stand-by": "-",
+        "Talk time": "-"
+      },
+      "Misc": {
+        "Colors": ""
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/ssd700_00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_d700-pictures-439.php"
+    }
+  }
+}

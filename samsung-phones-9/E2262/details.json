@@ -1,0 +1,97 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung E2262",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-gt-e2262.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-gt-e2262.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2012, Q3",
+    "dimensions": "91.5g, 12.7mm thickness",
+    "os": "Feature phone",
+    "storage": "20MB storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 &amp; SIM 2",
+        "GPRS": "Yes",
+        "EDGE": "Yes"
+      },
+      "Launch": {
+        "Announced": "2012, August. Released 2012, Q3",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "109.2 x 63.5 x 12.7 mm (4.30 x 2.5 x 0.5 in)",
+        "Weight": "91.5 g (3.21 oz)",
+        "Keyboard": "QWERTY",
+        "SIM": "Dual SIM (Mini-SIM, dual stand-by)"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "2.2 inches, 15.0 cm<sup>2</sup> (~21.6% screen-to-body ratio)",
+        "Resolution": "320 x 240 pixels, 4:3 ratio (~182 ppi density)"
+      },
+      "Platform": {
+        "CPU": "256 MHz"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Phonebook": "Yes",
+        "Call records": "Yes",
+        "Internal": "20MB"
+      },
+      "Main Camera": {
+        "Single": "VGA",
+        "Video": "320p@15fps"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "3.0, A2DP",
+        "Positioning": "No",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "microUSB"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS, IM",
+        "Games": "Yes",
+        "Java": "",
+        "Features": "SNS applications\n\nMP3/eAAC+/WAV/WMA player\n\nMP4/H.263 player\n\nOrganizer"
+      },
+      "Battery": {
+        "Type": "Li-Ion 1000 mAh, removable",
+        "Stand-by": "Up to 710 h",
+        "Talk time": "Up to 13 h 30 min"
+      },
+      "Misc": {
+        "Colors": "White",
+        "Models": "GT-E2262",
+        "SAR": "0.77 W/kg (head) &nbsp; &nbsp; 0.68 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.75 W/kg (head) &nbsp; &nbsp; 0.70 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 50 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-gt-e2262.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-gt-e2262-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_e2262-pictures-5341.php"
+    }
+  }
+}

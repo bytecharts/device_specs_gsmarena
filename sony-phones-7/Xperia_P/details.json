@@ -1,0 +1,115 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Sony Xperia P",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/sony/sony-xperia-p-silver.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/sony-xperia-p-ofic.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/sony_xperia_p-review-767.php",
+    "siblingDeviceSlugs": [
+      "sony_xperia_s-4369",
+      "sony_xperia_1_viii_5g-14660",
+      "sony_xperia_1_vii_5g-13843",
+      "sony_xperia_1_v-12263",
+      "sony_xperia_10_vii_5g-14137",
+      "sony_xperia_5_iv-11838",
+      "sony_xperia_1_vi-13003"
+    ],
+    "release_date": "Released 2012, May",
+    "dimensions": "120g, 10.5mm thickness",
+    "os": "Android 2.3, up to 4.1",
+    "storage": "16GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100 - LT22i",
+        "Speed": "HSPA 14.4/5.76 Mbps"
+      },
+      "Launch": {
+        "Announced": "2012, February. Released 2012, May",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "122 x 59.5 x 10.5 mm (4.80 x 2.34 x 0.41 in)",
+        "Weight": "120 g (4.23 oz)",
+        "SIM": "Micro-SIM"
+      },
+      "Display": {
+        "Type": "LED-backlit LCD,",
+        "Size": "4.0 inches, 44.1 cm<sup>2</sup> (~60.8% screen-to-body ratio)",
+        "Resolution": "540 x 960 pixels, 16:9 ratio (~275 ppi density)",
+        "Protection": "Scratch-resistant glass",
+        "Features": "Sony WhiteMagic"
+      },
+      "Platform": {
+        "OS": "Android 2.3 (Gingerbread), upgradable to 4.1 (Jelly Bean)",
+        "Chipset": "NovaThor U8500",
+        "CPU": "Dual-core 1.0 GHz Cortex-A9",
+        "GPU": "Mali-400"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "16GB (13GB user available), 1GB RAM"
+      },
+      "Main Camera": {
+        "Single": "8 MP, AF",
+        "Features": "LED flash, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "VGA",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, hotspot, DLNA",
+        "Bluetooth": "2.1, A2DP, EDR",
+        "Positioning": "GPS, A-GPS",
+        "NFC": "Yes",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": "microUSB 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, proximity, compass",
+        "Features": "HDMI port"
+      },
+      "Battery": {
+        "Type": "Non-removable Li-Ion 1305 mAh battery",
+        "Stand-by": "Up to 470 h (2G) / Up to 475 h (3G)",
+        "Talk time": "Up to 6 h (2G) / Up to 5 h (3G)",
+        "Music play": "Up to 80 h"
+      },
+      "Misc": {
+        "Colors": "Silver, Black, Red",
+        "Models": "LT22i",
+        "SAR": "1.18 W/kg (head) &nbsp; &nbsp; 0.84 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.78 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 210 EUR"
+      },
+      "Our Tests": {
+        "Display": "<a class=\"noUnd\" href=\"sony_xperia_p-review-767p2.php\">Contrast ratio: 775:1 (nominal)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=4436&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=4436&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"sony_xperia_p-review-767p4.php\">Voice 60dB / Noise 61dB / Ring 63dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"sony_xperia_p-review-767p5.php#aq\">Noise -87.3dB / Crosstalk -86.2dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 4436); \">Endurance rating 28h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/sony/sony-xperia-p-silver.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/sony/sony-xperia-p-all-colors.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/sony_xperia_p-pictures-4436.php"
+    }
+  }
+}

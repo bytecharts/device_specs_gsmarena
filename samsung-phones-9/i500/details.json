@@ -1,0 +1,97 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Samsung i500",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/ssi5002_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/ssi500.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Cancelled",
+    "dimensions": "150g, 23mm thickness",
+    "os": "Feature phone",
+    "storage": "32MB RAM storage, MMC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "Class 8",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2004, March",
+        "Status": "Cancelled"
+      },
+      "Body": {
+        "Dimensions": "92 x 54 x 23 mm (3.62 x 2.13 x 0.91 in)",
+        "Weight": "150 g (5.29 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT resistive touchscreen, 65K colors",
+        "Size": "",
+        "Resolution": "162 x 176 pixels",
+        "Features": "180 degree swiveling display"
+      },
+      "Platform": {
+        "CPU": "Motorola MX1 200 MHz"
+      },
+      "Memory": {
+        "Card slot": "MMC",
+        "Phonebook": "1000 x 8 fields, contact groups",
+        "Call records": "Advanced",
+        "Internal": "32MB RAM, 32MB ROM"
+      },
+      "Main Camera": {
+        "Single": "VGA",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Downloadable polyphonic ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "Proprietary"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS, Email",
+        "Browser": "WAP 2.0/xHTML",
+        "Clock": "Yes",
+        "Alarm": "Yes",
+        "Games": "Yes",
+        "Java": "No",
+        "Features": "Predictive text input\n\nVoice commands and dial\n\nVoice memo\n\nOrganizer"
+      },
+      "Battery": {
+        "Type": "Extended battery, Li-Ion 1700 mAh",
+        "Stand-by": "-",
+        "Talk time": "-"
+      },
+      "Misc": {
+        "Colors": "",
+        "SAR": "0.57 W/kg (head) &nbsp; &nbsp; 0.52 W/kg (body) &nbsp; &nbsp;"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/ssi5002_00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/samsung_i500-pictures-440.php"
+    }
+  }
+}

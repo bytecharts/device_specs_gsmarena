@@ -1,0 +1,88 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Sony SmartWatch 3 SWR50",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/sony/sony-smartwatch-3-swr50-0.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/sony-smartwatch-3-swr50.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/sony_mwc_2015-review-1219.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2014, October",
+    "dimensions": "76g (38g body), 10mm thickness",
+    "os": "Android Wear OS",
+    "storage": "4GB 512MB RAM storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">No cellular connectivity</a>",
+        "2G bands": "N/A",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2014, February. Released 2014, October",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "51 x 36 x 10 mm (2.01 x 1.42 x 0.39 in)",
+        "Weight": "76 g (38 g body) (2.68 oz)",
+        "Build": "Glass front, stainless steel frame",
+        "SIM": "No",
+        "Features": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)"
+      },
+      "Display": {
+        "Type": "TFT, 65K colors",
+        "Size": "1.6 inches",
+        "Resolution": "320 x 320 pixels (~283 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android Wear OS",
+        "CPU": "Quad-core 1.2 GHz Cortex-A7"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "4GB 512MB RAM"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g",
+        "Bluetooth": "4.0, A2DP",
+        "Positioning": "GPS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "microUSB"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, compass",
+        "Features": "MP3 player\n\nVoice dial/commands"
+      },
+      "Battery": {
+        "Type": "Li-Po 420 mAh, non-removable"
+      },
+      "Misc": {
+        "Colors": "Leather Brown, Leather Black, Silver, Black, Yellow",
+        "Price": "About 160 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/sony/sony-smartwatch-3-swr50-0.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/sony/sony-smartwatch-3-swr50-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/sony/sony-smartwatch-3-swr50-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/sony/sony-smartwatch-3-swr50-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/sony_smartwatch_3_swr50-pictures-7691.php"
+    }
+  }
+}
