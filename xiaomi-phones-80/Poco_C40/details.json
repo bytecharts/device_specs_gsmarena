@@ -1,0 +1,97 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Xiaomi Poco C40",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-poco-c40-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-c40.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2022, June 17",
+    "dimensions": "204g, 9.2mm thickness",
+    "os": "Android 11, MIUI 13 for POCO",
+    "storage": "32GB/64GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 20, 28, 38, 40, 41",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2022, June 06",
+        "Status": "Available. Released 2022, June 17"
+      },
+      "Body": {
+        "Dimensions": "169.6 x 76.6 x 9.2 mm (6.68 x 3.02 x 0.36 in)",
+        "Weight": "204 g (7.20 oz)",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "Dust &amp; splash resistant"
+      },
+      "Display": {
+        "Type": "IPS LCD, 400 nits",
+        "Size": "6.71 inches, 106.5 cm<sup>2</sup> (~82.0% screen-to-body ratio)",
+        "Resolution": "720 x 1650 pixels (~268 ppi density)",
+        "Protection": "Corning Gorilla Glass"
+      },
+      "Platform": {
+        "OS": "Android 11, MIUI 13 for POCO",
+        "Chipset": "JLQ JR510 (11 nm)",
+        "CPU": "Octa-core (4x2.0 GHz Cortex-A55 &amp; 4x1.5 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC1"
+      },
+      "Memory": {
+        "Card slot": "microSDXC",
+        "Internal": "32GB 2GB RAM, 32GB 3GB RAM, 32GB 4GB RAM, 64GB 4GB RAM"
+      },
+      "Main Camera": {
+        "Dual": "13 MP, f/2.2, (wide), PDAF\n\nAuxiliary lens",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "5 MP, f/2.2",
+        "Features": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS",
+        "NFC": "Yes (market/region dependent)",
+        "Infrared port": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (rear-mounted), accelerometer, proximity"
+      },
+      "Battery": {
+        "Type": "Li-Po 6000 mAh",
+        "Charging": "18W wired"
+      },
+      "Misc": {
+        "Colors": "Power Black, Coral Green, Poco Yellow",
+        "Models": "220333QPG",
+        "Price": "About 110 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-poco-c40-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-poco-c40-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/xiaomi_poco_c40-pictures-11468.php"
+    }
+  }
+}

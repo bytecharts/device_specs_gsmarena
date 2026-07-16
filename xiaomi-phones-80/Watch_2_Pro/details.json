@@ -1,0 +1,96 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Xiaomi Watch 2 Pro",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-watch-2-pro-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-watch-2-pro.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/xiaomi_watch_2_pro_review-news-60097.php",
+    "siblingDeviceSlugs": [
+      "xiaomi_watch_5-14383",
+      "xiaomi_watch_2-12828",
+      "xiaomi_watch_s4-13476",
+      "xiaomi_watch_s3-12834",
+      "xiaomi_watch_s5-14696",
+      "samsung_galaxy_watch7-13128"
+    ],
+    "release_date": "Released 2023, October 03",
+    "dimensions": "54.5g, 11.8mm thickness",
+    "os": "Android Wear OS 3.5",
+    "storage": "32GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "LTE",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2023, September 26",
+        "Status": "Available. Released 2023, October 03"
+      },
+      "Body": {
+        "Dimensions": "47.6 x 45.9 x 11.8 mm (1.87 x 1.81 x 0.46 in)",
+        "Weight": "54.5 g (1.94 oz)",
+        "Build": "Stainless steel frame",
+        "SIM": "<a href=\"glossary.php3?term=esim\">eSIM</a>",
+        "Features": "Waterproof (5ATM)"
+      },
+      "Display": {
+        "Type": "AMOLED, 600 nits",
+        "Size": "1.43 inches",
+        "Resolution": "466 x 466 pixels (~326 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android Wear OS 3.5",
+        "Chipset": "Qualcomm Snapdragon W5+ Gen 1 (4 nm)"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "32GB 2GB RAM"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.2, A2DP, LE",
+        "Positioning": "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS",
+        "NFC": "Yes (market/region dependent)",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, compass, barometer, heart rate, SpO2"
+      },
+      "Battery": {
+        "Type": "Li-Po 495 mAh"
+      },
+      "Misc": {
+        "Colors": "Black, Silver",
+        "Models": "M2233W1",
+        "Price": "About 170 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-watch-2-pro-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-watch-2-pro-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-watch-2-pro-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-watch-2-pro-4.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/xiaomi_watch_2_pro-pictures-12587.php"
+    }
+  }
+}

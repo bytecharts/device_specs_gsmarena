@@ -1,0 +1,117 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Xiaomi Redmi Note 12 Pro",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-12-pro-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-12-pro.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/xiaomi_redmi_note_12_pro-review-2548.php",
+    "siblingDeviceSlugs": [
+      "xiaomi_redmi_note_12-12063",
+      "xiaomi_redmi_note_12_pro_4g-12209"
+    ],
+    "release_date": "Released 2022, November 01",
+    "dimensions": "187g, 8mm thickness",
+    "os": "Android 12, MIUI 13",
+    "storage": "128GB/256GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / EVDO / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 26, 28, 32, 38, 40, 41, 66 - International",
+        "5G bands": "1, 3, 5, 7, 8, 20, 28, 38, 40, 41, 66, 77, 78 SA/NSA - International",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "CDMA 800\nCDMA2000 1xEV-DO\n1, 3, 5, 8, 19, 34, 38, 39, 40, 41 - China\n1, 3, 5, 8, 28, 38, 40, 41, 77, 78 SA/NSA - India\n1, 3, 5, 8, 28, 38, 41, 77, 78 SA/NSA - China"
+      },
+      "Launch": {
+        "Announced": "2022, October 27",
+        "Status": "Available. Released 2022, November 01"
+      },
+      "Body": {
+        "Dimensions": "163 x 76 x 8 mm (6.42 x 2.99 x 0.31 in)",
+        "Weight": "187 g (6.60 oz)",
+        "Build": "Glass front (Gorilla Glass 5), glass back, plastic frame",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "IP53 dust protected and water resistant\n\n(vertical water sprays)"
+      },
+      "Display": {
+        "Type": "AMOLED, 1B colors, 120Hz, Dolby Vision, HDR10+, 500 nits (typ), 900 nits (HBM)",
+        "Size": "6.67 inches, 107.4 cm<sup>2</sup> (~86.7% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~395 ppi density)",
+        "Protection": "Corning Gorilla Glass 5"
+      },
+      "Platform": {
+        "OS": "Android 12, MIUI 13",
+        "Chipset": "Mediatek Dimensity 1080 (6 nm)",
+        "CPU": "Octa-core (2x2.6 GHz Cortex-A78 &amp; 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G68 MC4"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM",
+        "Features": "UFS 2.2"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, f/1.9, 24mm (wide), 1/1.56\", 1.0µm, PDAF, OIS\n\n8 MP, f/2.2, 120˚ (ultrawide), 1/4.0\", 1.12µm\n\n2 MP (macro)",
+        "Features": "Dual-LED dual-tone flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@30/60/120fps, 720p@960fps"
+      },
+      "Selfie camera": {
+        "Single": "16 MP, f/2.5, (wide), 1/3.06\", 1.0µm",
+        "Features": "HDR",
+        "Video": "1080p@30/60fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes",
+        "Features": "24-bit/192kHz Hi-Res audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.2, A2DP, LE",
+        "Positioning": "GPS (L1), GLONASS (G1), BDS (B1I+B1c), GALILEO (E1), QZSS (L1)",
+        "NFC": "Yes (market/region dependent)",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Po 5000 mAh",
+        "Charging": "67W wired, PD3.0, 50% in 15 min, 100% in 46 min"
+      },
+      "Misc": {
+        "Colors": "Frosted Blue (Sky Blue), Onyx Black (Midnight Black), Polar White, Stardust Purple",
+        "Models": "22101316C, 22101316I, 23013RK75C, 22101316G",
+        "SAR": "1.09 W/kg (head) &nbsp; &nbsp; 1.06 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.99 W/kg (head) &nbsp; &nbsp; 0.99 W/kg (body) &nbsp; &nbsp;",
+        "Price": "<a href=\"xiaomi_redmi_note_12_pro-price-11955.php\">£ 139.99 / € 189.99</a>"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 490526 (v9)\n\nGeekBench: 2209 (v5.1), 2372 (v6)\n\nGFXBench: 22fps (ES 3.1 onscreen)",
+        "Display": "<a class=\"noUnd\" href=\"xiaomi_redmi_note_12_pro-review-2548p3.php#dt\">890 nits max brightness (measured)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=11955&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=11955&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"xiaomi_redmi_note_12_pro-review-2548p3.php#lt\">-26.6 LUFS (Good)</a>",
+        "Battery": "<div style=\"position:relative;\">\n<a href=\"xiaomi_redmi_note_12_pro-review-2548p3.php#bt\" data-battery2=\"24:55_9:45_15:18_8:20\" onclick=\"showBatteryPopup(event, 11955); \" class=\"v2\">Active use score 12:08h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 11955); \">Endurance rating 97h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-12-pro-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-12-pro-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-12-pro-5.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/xiaomi_redmi_note_12_pro-pictures-11955.php"
+    }
+  }
+}

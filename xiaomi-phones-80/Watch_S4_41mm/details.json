@@ -1,0 +1,89 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Xiaomi Watch S4 41mm",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-watch-s4-41mm-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-watch-s4-41mm.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/xiaomi_watch_s4_41_mm_unboxing-news-69688.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2025, June 26",
+    "dimensions": "32g, 9.5mm thickness",
+    "os": "HyperOS 2",
+    "storage": "Unspecified storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">No cellular connectivity</a>",
+        "2G bands": "N/A",
+        "3G bands": "N/A",
+        "4G bands": "N/A",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2025, June 26",
+        "Status": "Available. Released 2025, June 26"
+      },
+      "Body": {
+        "Dimensions": "41.2 x 41.2 x 9.5 mm (1.62 x 1.62 x 0.37 in)",
+        "Weight": "32 g (1.13 oz)",
+        "Build": "Stainless steel bezel and frame",
+        "SIM": "No",
+        "Features": "Waterproof (5ATM)"
+      },
+      "Display": {
+        "Type": "AMOLED, 1500 nits (HBM), 2200 nits (peak)",
+        "Size": "1.32 inches",
+        "Resolution": "466 x 466 pixels (~320 ppi density)",
+        "Protection": "Scratch/drop-proof glass"
+      },
+      "Platform": {
+        "OS": "HyperOS 2"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "Unspecified"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "5.4, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS, QZSS",
+        "NFC": "Yes (market/region dependent)",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, compass, barometer, heart rate, SpO2, thermometer (skin temperature)"
+      },
+      "Battery": {
+        "Type": "Li-Po 320 mAh"
+      },
+      "Misc": {
+        "Colors": "Black, Green, White, Gold",
+        "Models": "M2502W1",
+        "Price": "About 120 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-watch-s4-41mm-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-watch-s4-41mm-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-watch-s4-41mm-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/xiaomi_watch_s4_41mm-pictures-13981.php"
+    }
+  }
+}

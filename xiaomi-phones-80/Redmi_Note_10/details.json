@@ -1,0 +1,117 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Xiaomi Redmi Note 10",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note10-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note10--.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/xiaomi_redmi_note_10-review-2244.php",
+    "siblingDeviceSlugs": [
+      "xiaomi_redmi_note_10s-10769",
+      "xiaomi_redmi_note_10_pro-10662",
+      "xiaomi_redmi_note_10_5g-10768",
+      "xiaomi_redmi_10-11060"
+    ],
+    "release_date": "Released 2021, March 16",
+    "dimensions": "178.8g, 8.3mm thickness",
+    "os": "Android 11, up to Android 12, MIUI 14",
+    "storage": "64GB/128GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - International",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 20, 28, 38, 40, 41 - International",
+        "Speed": "HSPA, LTE",
+        "Features": "HSDPA 850 / 900 / 2100 - India\n1, 3, 5, 8, 40, 41 - India"
+      },
+      "Launch": {
+        "Announced": "2021, March 04",
+        "Status": "Available. Released 2021, March 16"
+      },
+      "Body": {
+        "Dimensions": "160.5 x 74.5 x 8.3 mm (6.32 x 2.93 x 0.33 in)",
+        "Weight": "178.8 g (6.31 oz)",
+        "Build": "Glass front (Gorilla Glass 3), plastic back, plastic frame",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "IP53 dust protected and water resistant (vertical water sprays)*\n\n* market/region dependent availability"
+      },
+      "Display": {
+        "Type": "Super AMOLED, 450 nits (typ), 1100 nits (peak)",
+        "Size": "6.43 inches, 99.8 cm<sup>2</sup> (~83.5% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~409 ppi density)",
+        "Protection": "Corning Gorilla Glass 3"
+      },
+      "Platform": {
+        "OS": "Android 11, upgradable to Android 12, MIUI 14",
+        "Chipset": "Qualcomm SDM678 Snapdragon 678 (11 nm)",
+        "CPU": "Octa-core (2x2.2 GHz Kryo 460 Gold &amp; 6x1.7 GHz Kryo 460 Silver)",
+        "GPU": "Adreno 612"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "64GB 4GB RAM, 128GB 4GB RAM, 128GB 6GB RAM",
+        "Features": "UFS 2.2"
+      },
+      "Main Camera": {
+        "Quad": "48 MP, f/1.8, 26mm (wide), 1/2.0\", 0.8µm, PDAF\n\n8 MP, f/2.2, 118˚ (ultrawide), 1/4.0\", 1.12µm\n\n2 MP (macro)\n\nAuxiliary lens",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@30/60fps"
+      },
+      "Selfie camera": {
+        "Single": "13 MP, f/2.5, (wide), 1/3.06\", 1.12µm",
+        "Features": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes",
+        "Features": "24-bit/192kHz Hi-Res audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS, GLONASS, BDS, GALILEO",
+        "NFC": "No",
+        "Infrared port": "Yes",
+        "Radio": "FM radio, recording",
+        "USB": "USB Type-C 2.0"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, compass",
+        "Features": "Virtual proximity sensing"
+      },
+      "Battery": {
+        "Type": "Li-Po 5000 mAh",
+        "Charging": "33W wired, 50% in 25 min, 100% in 74 min"
+      },
+      "Misc": {
+        "Colors": "Shadow Black (Onyx Gray), Frost White (Pebble White), Aqua Green (Lake Green)",
+        "Models": "M2101K7AI, M2101K7AG",
+        "SAR": "1.09 W/kg (head) &nbsp; &nbsp; 1.09 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.59 W/kg (head) &nbsp; &nbsp; 0.97 W/kg (body) &nbsp; &nbsp;",
+        "Price": "<a href=\"xiaomi_redmi_note_10-price-10247.php\">€ 159.99</a>"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 218788 (v8)\n\nGeekBench: 2860 (v5.1)\n\nGFXBench: 7.9fps (ES 3.1 onscreen)",
+        "Display": "<a class=\"noUnd\" href=\"xiaomi_redmi_note_10-review-2244p3.php\">682 nits max brightness (measured)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=10247&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=10247&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"xiaomi_redmi_note_10-review-2244p3.php#lt\">-26.2 LUFS (Good)</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 10247); \">Endurance rating 110h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note10-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note10-11.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/xiaomi_redmi_note_10-pictures-10247.php"
+    }
+  }
+}

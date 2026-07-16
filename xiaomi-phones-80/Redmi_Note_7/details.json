@@ -1,0 +1,118 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Xiaomi Redmi Note 7",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-7-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-7.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/xiaomi_redmi_note_7-review-1883.php",
+    "siblingDeviceSlugs": [
+      "xiaomi_redmi_note_7_pro-9521",
+      "xiaomi_redmi_note_8-9814",
+      "xiaomi_redmi_note_7s-9707",
+      "xiaomi_redmi_note_6_pro-9333"
+    ],
+    "release_date": "Released 2019, February 28",
+    "dimensions": "186g, 8.1mm thickness",
+    "os": "Android 9.0, planned upgrade to 10, MIUI 12",
+    "storage": "32GB/64GB/128GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - Global",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 20, 28, 38, 40 - Global",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE (2CA) Cat12 600/150 Mbps",
+        "Features": "HSDPA 850 / 900 / 1900 / 2100\n1, 3, 5, 7, 8, 34, 38, 39, 40, 41"
+      },
+      "Launch": {
+        "Announced": "2019, January 10. Released 2019, February 28",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "159.2 x 75.2 x 8.1 mm (6.27 x 2.96 x 0.32 in)",
+        "Weight": "186 g (6.56 oz)",
+        "Build": "Glass front (Gorilla Glass 5), glass back (Gorilla Glass 5), plastic frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "6.3 inches, 97.4 cm<sup>2</sup> (~81.4% screen-to-body ratio)",
+        "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~409 ppi density)",
+        "Protection": "Corning Gorilla Glass 5"
+      },
+      "Platform": {
+        "OS": "Android 9.0 (Pie), planned upgrade to Android 10, MIUI 12",
+        "Chipset": "Qualcomm SDM660 Snapdragon 660 (14 nm)",
+        "CPU": "Octa-core (4x2.2 GHz Kryo 260 Gold &amp; 4x1.8 GHz Kryo 260 Silver)",
+        "GPU": "Adreno 512"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (uses shared SIM slot)",
+        "Internal": "32GB 3GB RAM, 64GB 4GB RAM, 64GB 6GB RAM, 128GB 4GB RAM",
+        "Features": "eMMC 5.1"
+      },
+      "Main Camera": {
+        "Dual": "48 MP, f/1.8, (wide), 1/2.0\", 0.8µm, PDAF\n\nAuxiliary lens\n\nor\n\n12 MP, f/2.2, (wide), 1/2.9\", 1.25µm, PDAF\n\nAuxiliary lens",
+        "Features": "Dual-LED flash, HDR, panorama",
+        "Video": "1080p@30/60/120fps, (gyro-EIS)"
+      },
+      "Selfie camera": {
+        "Single": "13 MP, f/2.0, (wide), 1/3.1\", 1.12µm",
+        "Features": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS, GLONASS, BDS",
+        "NFC": "No",
+        "Infrared port": "Yes",
+        "Radio": "FM radio, recording",
+        "USB": "USB Type-C 2.0"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Po 4000 mAh, non-removable",
+        "Charging": "18W wired, QC4"
+      },
+      "Misc": {
+        "Colors": "Blue, Black, Twilight Gold, White",
+        "Models": "M1901F7G, M1901F7H, M1901F7I",
+        "SAR": "1.15 W/kg (head) &nbsp; &nbsp; 1.17 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.59 W/kg (head) &nbsp; &nbsp; 1.27 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 170 EUR"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 139075 (v7)\n\nGeekBench: 5411 (v4.4)\n\nGFXBench: 7.7fps (ES 3.1 onscreen)",
+        "Display": "<a class=\"noUnd\" href=\"xiaomi_redmi_note_7-review-1883p3.php#dt\">Contrast ratio: 1338:1 (nominal), 2.893 (sunlight)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=9513&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=9513&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"xiaomi_redmi_note_7-review-1883p3.php#lt\">Voice 69dB / Noise 71dB / Ring 90dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"xiaomi_redmi_note_7-review-1883p3.php#aq\">Noise -90.7dB / Crosstalk -94.5dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 9513); \">Endurance rating 108h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-7-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-7-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-7-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-7-4.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-7-5.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/xiaomi_redmi_note_7-pictures-9513.php"
+    }
+  }
+}

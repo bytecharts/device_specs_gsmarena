@@ -1,0 +1,122 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Xiaomi Mi 9",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-mi-9-2.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-9-.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/xiaomi_mi_9-review-1891.php",
+    "siblingDeviceSlugs": [
+      "xiaomi_mi_9_lite-9862",
+      "xiaomi_mi_9_se-9583",
+      "xiaomi_redmi_note_9_pro-10217",
+      "xiaomi_mi_9_pro-9891",
+      "xiaomi_mi_9t_pro-9791",
+      "xiaomi_mi_9_explorer-9584",
+      "xiaomi_poco_x8_pro_5g-14506",
+      "xiaomi_17t_pro_5g-14651"
+    ],
+    "release_date": "Released 2019, March 25",
+    "dimensions": "173g, 7.6mm thickness",
+    "os": "Android 9.0, up to Android 10, MIUI 12.5",
+    "storage": "64GB/128GB/256GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 20, 28, 38, 39, 40 - Global",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE (5CA) Cat18 1200/150 Mbps",
+        "Features": "CDMA 800 &amp; TD-SCDMA\n1, 2, 3, 4, 5, 7, 8, 12, 17, 34, 38, 39, 40, 41 - China"
+      },
+      "Launch": {
+        "Announced": "2019, February 20. Released 2019, March 25",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "157.5 x 74.7 x 7.6 mm (6.20 x 2.94 x 0.30 in)",
+        "Weight": "173 g (6.10 oz)",
+        "Build": "Glass front (Gorilla Glass 6), glass back (Gorilla Glass 5), aluminum frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "Super AMOLED, HDR10",
+        "Size": "6.39 inches, 100.2 cm<sup>2</sup> (~85.2% screen-to-body ratio)",
+        "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~403 ppi density)",
+        "Protection": "Corning Gorilla Glass 6"
+      },
+      "Platform": {
+        "OS": "Android 9.0 (Pie), upgradable to Android 10, MIUI 12.5",
+        "Chipset": "Qualcomm SM8150 Snapdragon 855 (7 nm)",
+        "CPU": "Octa-core (1x2.84 GHz Kryo 485 &amp; 3x2.42 GHz Kryo 485 &amp; 4x1.78 GHz Kryo 485)",
+        "GPU": "Adreno 640"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "64GB 6GB RAM, 64GB 8GB RAM, 128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM",
+        "Features": "UFS 2.1"
+      },
+      "Main Camera": {
+        "Triple": "48 MP, f/1.8, 27mm (wide), 1/2.0\", 0.8µm, PDAF\n\n12 MP, f/2.2, 54mm (telephoto), 1/3.6\", 1.0µm, PDAF, 2x optical zoom\n\n16 MP, f/2.2, 13mm (ultrawide), 1/3.0\", 1.0µm, PDAF",
+        "Features": "Laser AF, Dual-LED flash, HDR, panorama",
+        "Video": "4K@30/60fps, 1080p@30/120/240fps, 1080p@960fps"
+      },
+      "Selfie camera": {
+        "Single": "20 MP, f/2.0, (wide), 1/3\", 0.9µm",
+        "Features": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA",
+        "Bluetooth": "5.0, A2DP, LE, aptX HD",
+        "Positioning": "GPS (L1+L5), GLONASS (L1), BDS (B1), GALILEO (E1+E5a), QZSS (L1+L5)",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, compass",
+        "Features": "Virtual proximity sensing"
+      },
+      "Battery": {
+        "Type": "Li-Po 3300 mAh, non-removable",
+        "Charging": "27W wired, QC4\n\n20W wireless"
+      },
+      "Misc": {
+        "Colors": "Lavender Violet, Ocean Blue, Piano Black",
+        "Models": "M1902F1G",
+        "SAR": "0.99 W/kg (head) &nbsp; &nbsp; 1.04 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "1.39 W/kg (head) &nbsp; &nbsp; 1.30 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 590 EUR"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 372006 (v7)\n\nGeekBench: 11181 (v4.4)\n\nGFXBench: 35fps (ES 3.1 onscreen)",
+        "Display": "<a class=\"noUnd\" href=\"xiaomi_mi_9-review-1891p3.php#dt\">Contrast ratio: Infinite (nominal), 3.921 (sunlight)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=9507&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=9507&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"xiaomi_mi_9-review-1891p3.php#lt\">Voice 70dB / Noise 74dB / Ring 81dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"xiaomi_mi_9-review-1891p3.php#aq\">Noise -93.9dB / Crosstalk -91.9dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 9507); \">Endurance rating 95h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-mi-9-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-mi-9-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-mi-9-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-mi-9-4.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/xiaomi_mi_9-pictures-9507.php"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Xiaomi Poco Watch",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-watch2-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-watch2.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "xiaomi_redmi_watch_2-11182",
+      "xiaomi_redmi_watch_5_lite-13361"
+    ],
+    "release_date": "Released 2022, April 28",
+    "dimensions": "31g, 10mm thickness",
+    "os": "Proprietary OS",
+    "storage": "Unspecified storage storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">No cellular connectivity</a>",
+        "2G bands": "N/A",
+        "3G bands": "N/A",
+        "4G bands": "N/A",
+        "Speed": "No",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2022, April 26",
+        "Status": "Available. Released 2022, April 28"
+      },
+      "Body": {
+        "Dimensions": "39.1 x 34.4 x 10 mm (1.54 x 1.35 x 0.39 in)",
+        "Weight": "31 g (1.09 oz)",
+        "Build": "Plastic back, plastic frame",
+        "SIM": "No",
+        "Features": "Waterproof (5ATM)\n\n50m water resistant"
+      },
+      "Display": {
+        "Type": "AMOLED",
+        "Size": "1.6 inches",
+        "Resolution": "360 x 320 pixels (~301 ppi density)"
+      },
+      "Platform": {
+        "OS": "Proprietary OS"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "Unspecified storage"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS",
+        "NFC": "Unspecified",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, heart rate, compass, SpO2"
+      },
+      "Battery": {
+        "Type": "Li-Ion 225 mAh"
+      },
+      "Misc": {
+        "Colors": "Black, Blue, Ivory",
+        "Price": "About 90 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-watch2-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-watch2-4.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-poco-watch-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/xiaomi_poco_watch-pictures-11495.php"
+    }
+  }
+}

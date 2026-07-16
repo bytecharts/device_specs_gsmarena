@@ -1,0 +1,109 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Xiaomi Redmi 3s",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-3s1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-3s.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/xiaomi_redmi_3s-review-1505.php",
+    "siblingDeviceSlugs": [
+      "xiaomi_redmi_3s_prime-8250"
+    ],
+    "release_date": "Released 2016, June",
+    "dimensions": "144g, 8.5mm thickness",
+    "os": "Android 6.0.1, MIUI 9.2",
+    "storage": "16GB/32GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 900 / 1800 - SIM 1 &amp; SIM 2",
+        "3G bands": "HSDPA 900 / 2100",
+        "4G bands": "3, 5, 40 - India",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2016, June. Released 2016, June",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "139.3 x 69.6 x 8.5 mm (5.48 x 2.74 x 0.33 in)",
+        "Weight": "144 g (5.08 oz)",
+        "Build": "Glass front, aluminum back, aluminum frame",
+        "SIM": "Nano-SIM + Micro-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "5.0 inches, 68.9 cm<sup>2</sup> (~71.1% screen-to-body ratio)",
+        "Resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 6.0.1 (Marshmallow), MIUI 9.2",
+        "Chipset": "Qualcomm MSM8937 Snapdragon 430 (28 nm)",
+        "CPU": "Octa-core 1.4 GHz Cortex-A53",
+        "GPU": "Adreno 505"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (uses shared SIM slot)",
+        "Internal": "16GB 2GB RAM, 32GB 3GB RAM",
+        "Features": "eMMC 5.1"
+      },
+      "Main Camera": {
+        "Single": "13 MP, f/2.0, PDAF",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "5 MP, f/2.2",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
+        "Bluetooth": "4.1, A2DP",
+        "Positioning": "GPS, GLONASS, BDS",
+        "NFC": "No",
+        "Infrared port": "Yes",
+        "Radio": "FM radio",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Ion 4100 mAh, non-removable",
+        "Charging": "10W wired"
+      },
+      "Misc": {
+        "Colors": "Gold, Dark Gray, Silver",
+        "Models": "2016031",
+        "SAR": "0.22 W/kg (head) &nbsp; &nbsp; 1.22 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.62 W/kg (head) &nbsp; &nbsp; 0.43 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 120 EUR"
+      },
+      "Our Tests": {
+        "Performance": "Basemark OS II 2.0: 882\nBasemark X: 7263",
+        "Display": "<a class=\"noUnd\" href=\"xiaomi_redmi_3s-review-1505p3.php#dt\">Contrast ratio: 1087:1 (nominal), 2.913 (sunlight)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=8150&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=8150&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"xiaomi_redmi_3s-review-1505p6.php#lt\">Voice 66dB / Noise 70dB / Ring 70dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"xiaomi_redmi_3s-review-1505p7.php#aq\">Noise -94.3dB / Crosstalk -91.8dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 8150); \">Endurance rating 104h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-3s1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-3s2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/xiaomi_redmi_3s-pictures-8150.php"
+    }
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Xiaomi Redmi Note 14 Pro 4G",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-14-pro-4g-gl-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-14-pro-4g-gl.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/xiaomi_redmi_note_14_pro_4g-review-2787.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2025, January 16",
+    "dimensions": "180g, 8.2mm thickness",
+    "os": "Android 14, HyperOS",
+    "storage": "128GB/256GB/512GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 20, 26, 28, 38, 40, 41, 66",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2025, January 10",
+        "Status": "Available. Released 2025, January 16"
+      },
+      "Body": {
+        "Dimensions": "162.2 x 74.9 x 8.2 mm (6.39 x 2.95 x 0.32 in)",
+        "Weight": "180 g (6.35 oz)",
+        "Build": "Glass front (Gorilla Glass Victus 2), plastic back, aluminum frame",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "IP64 dust tight and water resistant (water splashes)"
+      },
+      "Display": {
+        "Type": "AMOLED, 1B colors, 120Hz, 1920Hz PWM, 1200 nits (HBM), 1800 nits (peak)",
+        "Size": "6.67 inches, 107.4 cm<sup>2</sup> (~88.4% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~395 ppi density)",
+        "Protection": "Corning Gorilla Glass Victus 2, Mohs level 5"
+      },
+      "Platform": {
+        "OS": "Android 14, HyperOS",
+        "Chipset": "Mediatek Helio G100 Ultra (6 nm)",
+        "CPU": "Octa-core (2x2.2 GHz Cortex-A76 &amp; 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (uses shared SIM slot)",
+        "Internal": "128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM, 512GB 12GB RAM",
+        "Features": "UFS 2.2"
+      },
+      "Main Camera": {
+        "Triple": "200 MP, f/1.7, 23mm (wide), 1/1.4\", 0.56µm, multi-directional PDAF, OIS\n\n8 MP, f/2.2, 15mm, 120˚ (ultrawide), 1/4.4\", 1.0µm\n\n2 MP (macro)",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "1080p@30/60fps, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.2, (wide)",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers (with Dolby Atmos)",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.3, A2DP, LE",
+        "Positioning": "GPS, GALILEO, GLONASS, QZSS, BDS",
+        "NFC": "Yes (market/region dependent)",
+        "Infrared port": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, proximity, gyro, compass"
+      },
+      "Battery": {
+        "Type": "5500 mAh",
+        "Charging": "45W wired"
+      },
+      "Misc": {
+        "Colors": "Midnight Black, Aurora Purple, Ocean Blue",
+        "Models": "24116RACCG",
+        "SAR EU": "0.80 W/kg (head) &nbsp; &nbsp; 0.98 W/kg (body) &nbsp; &nbsp;",
+        "Price": "<a href=\"xiaomi_redmi_note_14_pro_4g_(global)-price-13614.php\">$ 280.52 / € 198.50</a>"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 423868 (v10)\n\nGeekBench: 1999 (v6)\n\n3DMark: 347 (Wild Life Extreme)",
+        "Display": "<a class=\"noUnd\" href=\"xiaomi_redmi_note_14_pro_4g-review-2787p3.php#dt\">1500 nits max brightness (measured)</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"xiaomi_redmi_note_14_pro_4g-review-2787p3.php#lt\">-27.5 LUFS (Good)</a>",
+        "Battery": "<div style=\"position:relative;\">\n<a href=\"xiaomi_redmi_note_14_pro_4g-review-2787p3.php#bt\" data-battery2=\"36:07_11:37_14:00_6:43\" onclick=\"showBatteryPopup(event, 13614); \" class=\"v2\">Active use score 12:07h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      },
+      "EU LABEL": {
+        "Energy": "Class B",
+        "Battery": "52:56h endurance, 1000 cycles",
+        "Free fall": "Class B (180 falls)",
+        "Repairability": "Class C"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-14-pro-4g-gl-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-14-pro-4g-gl-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/xiaomi_redmi_note_14_pro_4g_(global)-pictures-13614.php"
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Xiaomi Black Shark Helo",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-black-shark2.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-black-shark2.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2018, November",
+    "dimensions": "190g, 8.7mm thickness",
+    "os": "Android 8.0",
+    "storage": "128GB/256GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / EVDO / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4G bands": "1, 3, 4, 5, 7, 8, 20, 34, 38, 39, 40, 41",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE (3CA) Cat16 1024/150 Mbps",
+        "Features": "CDMA 800 &amp; TD-SCDMA\nCDMA2000 1xEV-DO"
+      },
+      "Launch": {
+        "Announced": "2018, October. Released 2018, November",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "160 x 75.2 x 8.7 mm (6.30 x 2.96 x 0.34 in)",
+        "Weight": "190 g (6.70 oz)",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED",
+        "Size": "6.01 inches, 93.2 cm<sup>2</sup> (~77.5% screen-to-body ratio)",
+        "Resolution": "1080 x 2160 pixels, 18:9 ratio (~402 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 8.0 (Oreo)",
+        "Chipset": "Qualcomm SDM845 Snapdragon 845 (10 nm)",
+        "CPU": "Octa-core (4x2.8 GHz Kryo 385 Gold &amp; 4x1.8 GHz Kryo 385 Silver)",
+        "GPU": "Adreno 630"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 6GB RAM, 128GB 8GB RAM, 256GB 10GB RAM"
+      },
+      "Main Camera": {
+        "Dual": "12 MP, f/1.8, 1/2.9\", 1.25µm, dual pixel PDAF\n\n20 MP, f/1.8, 1.0µm, AF, 2x optical zoom",
+        "Features": "Dual-LED dual-tone flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@30fps, 720p@120fps"
+      },
+      "Selfie camera": {
+        "Single": "20 MP, f/2.2, (wide), 1/2.8\", 1.0µm",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.0, A2DP, aptX HD, LE",
+        "Positioning": "GPS, GLONASS, BDS",
+        "NFC": "No",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Ion 4000 mAh, non-removable",
+        "Charging": "18W wired, QC3"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "Models": "AWM-A0",
+        "Price": "About 450 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-black-shark2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-black-shark2-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/xiaomi_black_shark_helo-pictures-9382.php"
+    }
+  }
+}

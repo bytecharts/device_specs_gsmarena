@@ -1,0 +1,87 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Xiaomi Redmi Watch 5 Active",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-watch-5-active-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-watch-5-active.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "xiaomi_redmi_watch_3_active-12449"
+    ],
+    "release_date": "Released 2024, September 03",
+    "dimensions": "42.2g, 11.4mm thickness",
+    "os": "HyperOS",
+    "storage": "Unspecified storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">No cellular connectivity</a>",
+        "2G bands": "N/A",
+        "3G bands": "N/A",
+        "4G bands": "N/A",
+        "Speed": "No",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2024, August 27",
+        "Status": "Available. Released 2024, September 03"
+      },
+      "Body": {
+        "Dimensions": "49.1 x 40.4 x 11.4 mm (1.93 x 1.59 x 0.45 in)",
+        "Weight": "42.2 g (1.48 oz)",
+        "SIM": "No",
+        "Features": "IPX8 water resistant"
+      },
+      "Display": {
+        "Type": "IPS LCD, 500 nits (peak)",
+        "Size": "2.0 inches",
+        "Resolution": "320 x 385 pixels (~250 ppi density)"
+      },
+      "Platform": {
+        "OS": "HyperOS"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "Unspecified"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "5.3, A2DP, LE",
+        "Positioning": "No",
+        "NFC": "No",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, heart rate, SpO2"
+      },
+      "Battery": {
+        "Type": "470 mAh"
+      },
+      "Misc": {
+        "Colors": "Midnight Black, Matte Silver",
+        "Price": "<a href=\"xiaomi_redmi_watch_5_active-price-13286.php\">$ 45.46</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-watch-5-active-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-watch-5-active-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/xiaomi_redmi_watch_5_active-pictures-13286.php"
+    }
+  }
+}

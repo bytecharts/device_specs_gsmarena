@@ -1,0 +1,104 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Xiaomi Redmi Note",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-3.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-new.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/xiaomi_redmi_note-review-1143.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2014, March",
+    "dimensions": "199g, 9.5mm thickness",
+    "os": "Android 4.2, up to 4.4.4, MIUI 9.2",
+    "storage": "8GB storage, microSDHC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 900 / 1800 / 1900 - SIM 1 &amp; SIM 2",
+        "3G bands": "HSDPA 900 / 2100",
+        "Speed": "HSPA"
+      },
+      "Launch": {
+        "Announced": "2014, March. Released 2014, March",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "154 x 78.7 x 9.5 mm (6.06 x 3.10 x 0.37 in)",
+        "Weight": "199 g (7.02 oz)",
+        "Build": "Glass front (Gorilla Glass 3), plastic back, plastic frame",
+        "SIM": "Dual SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "5.5 inches, 83.4 cm<sup>2</sup> (~68.8% screen-to-body ratio)",
+        "Resolution": "720 x 1280 pixels, 16:9 ratio (~267 ppi density)",
+        "Protection": "Corning Gorilla Glass 3"
+      },
+      "Platform": {
+        "OS": "Android 4.2 (Jelly Bean), upgradable to 4.4.4 (KitKat), MIUI 9.2",
+        "Chipset": "Mediatek MT6592 (28 nm)",
+        "CPU": "Octa-core 1.4/1.7 GHz Cortex-A7",
+        "GPU": "Mali-450MP4"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Internal": "8GB 1GB RAM, 8GB 2GB RAM"
+      },
+      "Main Camera": {
+        "Single": "13 MP, f/2.2, 28mm (wide), AF",
+        "Features": "LED flash, HDR",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "5 MP",
+        "Video": "720p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+        "Bluetooth": "4.0, A2DP, LE",
+        "Positioning": "GPS, GLONASS",
+        "NFC": "No",
+        "Radio": "FM radio, recording",
+        "USB": "microUSB 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Po 3200/3100 mAh, removable"
+      },
+      "Misc": {
+        "Colors": "Black, White",
+        "Models": "2014712",
+        "SAR": "0.88 W/kg (head) &nbsp; &nbsp; 0.58 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 120 EUR"
+      },
+      "Our Tests": {
+        "Performance": "Basemark OS II 2.0: 479\nBasemark X: 2974",
+        "Display": "<a class=\"noUnd\" href=\"xiaomi_redmi_note-review-1143p3.php\">Contrast ratio: 1016 (nominal), 2.119 (sunlight)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=6217&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=6217&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"xiaomi_redmi_note-review-1143p6.php\">Voice 65dB / Noise 66dB / Ring 75dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"xiaomi_redmi_note-review-1143p7.php#aq\">Noise -88.4dB / Crosstalk -85.2dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 6217); \">Endurance rating 55h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/xiaomi_redmi_note-pictures-6217.php"
+    }
+  }
+}

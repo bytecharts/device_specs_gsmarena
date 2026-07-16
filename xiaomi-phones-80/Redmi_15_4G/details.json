@@ -1,0 +1,108 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Xiaomi Redmi 15 4G",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-15-4g-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-15-4g.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "xiaomi_redmi_15_5g-14036",
+      "xiaomi_redmi_15c_4g-14005",
+      "xiaomi_redmi_note_15-14323"
+    ],
+    "release_date": "Released 2025, August 01",
+    "dimensions": "224g, 8.6mm thickness",
+    "os": "Android 15, up to Android 16, HyperOS 3",
+    "storage": "128GB/256GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4G bands": "LTE",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2025, August 01",
+        "Status": "Available. Released 2025, August 01"
+      },
+      "Body": {
+        "Dimensions": "171.1 x 82.1 x 8.6 mm (6.74 x 3.23 x 0.34 in)",
+        "Weight": "224 g (7.90 oz)",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "IP64 dust tight and water resistant (water splashes)"
+      },
+      "Display": {
+        "Type": "IPS LCD, 144Hz",
+        "Size": "6.9 inches, 116.9 cm<sup>2</sup> (~83.2% screen-to-body ratio)",
+        "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~374 ppi density)",
+        "Protection": "Mohs level 6"
+      },
+      "Platform": {
+        "OS": "Android 15, upgradable to Android 16, HyperOS 3",
+        "Chipset": "Qualcomm SM6225 Snapdragon 685 (6 nm)",
+        "CPU": "Octa-core (4x2.8 GHz Cortex-A73 &amp; 4x1.9 GHz Cortex-A53)",
+        "GPU": "Adreno 610"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (uses shared SIM slot)",
+        "Internal": "128GB 4GB RAM, 128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Dual": "50 MP, f/1.8, (wide), PDAF\n\nAuxiliary lens",
+        "Features": "LED flash, HDR",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, f/2.0, (wide)",
+        "Features": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n/ac, dual-band",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS",
+        "NFC": "Yes (market/region dependent)",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, compass",
+        "Features": "Virtual proximity sensing"
+      },
+      "Battery": {
+        "Type": "Si/C Li-Ion 7000 mAh",
+        "Charging": "33W wired"
+      },
+      "Misc": {
+        "Colors": "Midnight Black, Titan Gray, Sandy Purple",
+        "Models": "24129PN74G, 25062RN2DE, 25062RN2DA",
+        "Price": "<a href=\"xiaomi_redmi_15-price-14037.php\">$ 152.00 / £ 141.00 / € 129.90</a>"
+      },
+      "EU LABEL": {
+        "Energy": "Class B",
+        "Battery": "62:06h endurance, 1000 cycles",
+        "Free fall": "Class A (270 falls)",
+        "Repairability": "Class C"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-15-4g-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-15-4g-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/xiaomi_redmi_15-pictures-14037.php"
+    }
+  }
+}

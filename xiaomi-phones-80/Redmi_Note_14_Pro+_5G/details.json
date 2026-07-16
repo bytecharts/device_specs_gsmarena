@@ -1,0 +1,115 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Xiaomi Redmi Note 14 Pro+ 5G",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-14-pro-plus-5g-gl-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-14-pro-plus-5g-gl.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/xiaomi_redmi_note_14_pro_plus-review-2788.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2025, January 15",
+    "dimensions": "205g or 210g, 8.8mm thickness",
+    "os": "Android 14, up to 3 major upgrades, HyperOS",
+    "storage": "256GB/512GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 26, 28, 32, 38, 40, 41, 42, 48, 66",
+        "5G bands": "1, 2, 3, 5, 7, 8, 12, 20, 26, 28, 38, 40, 41, 48, 66, 77, 78 SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2025, January 10",
+        "Status": "Available. Released 2025, January 15"
+      },
+      "Body": {
+        "Dimensions": "162.5 x 74.7 x 8.8 mm (6.40 x 2.94 x 0.35 in)",
+        "Weight": "205 g or 210 g (7.23 oz)",
+        "Build": "Glass front (Gorilla Glass Victus 2), glass back (Gorrila Glass 7i) or silicone polymer back (eco leather), aluminum frame",
+        "SIM": "· Nano-SIM + <a href=\"glossary.php3?term=esim\">eSIM</a>\n· Nano-SIM + Nano-SIM",
+        "Features": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)"
+      },
+      "Display": {
+        "Type": "AMOLED, 68B colors, 120Hz, 1920Hz PWM, HDR10+, Dolby Vision, 3000 nits (peak)",
+        "Size": "6.67 inches, 107.4 cm<sup>2</sup> (~88.5% screen-to-body ratio)",
+        "Resolution": "1220 x 2712 pixels, 20:9 ratio (~446 ppi density)",
+        "Protection": "Corning Gorilla Glass Victus 2, Mohs level 5"
+      },
+      "Platform": {
+        "OS": "Android 14, up to 3 major Android upgrades, HyperOS",
+        "Chipset": "Qualcomm SM7635 Snapdragon 7s Gen 3 (4 nm)",
+        "CPU": "Octa-core (1x2.5 GHz Cortex-A720 &amp; 3x2.4 GHz Cortex-A720 &amp; 4x1.8 GHz Cortex-A520)",
+        "GPU": "Adreno 810"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 8GB RAM, 256GB 12GB RAM, 512GB 12GB RAM",
+        "Features": "UFS 2.2"
+      },
+      "Main Camera": {
+        "Triple": "200 MP, f/1.7, 23mm (wide), 1/1.4\", 0.56µm, multi-directional PDAF, OIS\n\n8 MP, f/2.2, 15mm, 120˚ (ultrawide), 1/4.0\", 1.12µm\n\n2 MP (macro)",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "4K@24/30fps, 1080p@30/60/120fps, gyro-EIS, OIS"
+      },
+      "Selfie camera": {
+        "Single": "20 MP, f/2.2, 21mm (wide), 1/4.0\", 0.7µm",
+        "Features": "HDR, panorama",
+        "Video": "1080p@30/60fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers (with Dolby Atmos)",
+        "3.5mm jack": "No",
+        "Features": "24-bit/192kHz Hi-Res &amp; Hi-Res wireless audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/6e, dual-band, Wi-Fi Direct (/6e is market/region dependent)",
+        "Bluetooth": "5.4, A2DP, LE",
+        "Positioning": "GPS (L1+L5), GALILEO, GLONASS, QZSS, BDS",
+        "NFC": "Yes (market/region dependent)",
+        "Infrared port": "Yes",
+        "Radio": "Unspecified",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, compass, proximity"
+      },
+      "Battery": {
+        "Type": "5110 mAh",
+        "Charging": "120W wired"
+      },
+      "Misc": {
+        "Colors": "Lavender Purple, Frost Blue, Midnight Black, Sand Gold",
+        "Models": "24115RA8EG",
+        "SAR EU": "0.99 W/kg (head) &nbsp; &nbsp; 1.00 W/kg (body) &nbsp; &nbsp;",
+        "Price": "<a href=\"xiaomi_redmi_note_14_pro+_5g_(global)-price-13612.php\">$ 289.00 / £ 234.99 / € 245.25</a>"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 750292 (v10)\n\nGeekBench: 3234 (v6)\n\n3DMark: 1049 (Wild Life Extreme)",
+        "Display": "<a class=\"noUnd\" href=\"xiaomi_redmi_note_14_pro_plus-review-2788p3.php\">1200 nits max brightness (measured)</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"xiaomi_redmi_note_14_pro_plus-review-2788p3.php#lt\">-26.5 LUFS (Good)</a>",
+        "Battery": "<div style=\"position:relative;\">\n<a href=\"xiaomi_redmi_note_14_pro_plus-review-2788p3.php#bt\" data-battery2=\"29:07_9:16_11:09_7:15\" onclick=\"showBatteryPopup(event, 13612); \" class=\"v2\">Active use score 10:40h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      },
+      "EU LABEL": {
+        "Energy": "Class B",
+        "Battery": "50:09h endurance, 1000 cycles",
+        "Free fall": "Class C (90 falls)",
+        "Repairability": "Class C"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-14-pro-plus-5g-gl-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-14-pro-plus-5g-gl-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/xiaomi_redmi_note_14_pro+_5g_(global)-pictures-13612.php"
+    }
+  }
+}

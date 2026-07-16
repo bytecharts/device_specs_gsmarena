@@ -1,0 +1,90 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Xiaomi Watch S4",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-watch-s5-1-.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-watch-s4.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/xiaomi_watch_s4_review-news-67715.php",
+    "siblingDeviceSlugs": [
+      "xiaomi_watch_s4_41mm-13981"
+    ],
+    "release_date": "Released 2024, October 29",
+    "dimensions": "44.5g, 12mm thickness",
+    "os": "HyperOS 2",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA",
+        "4G bands": "LTE",
+        "Speed": "HSPA, LTE",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2024, October 29",
+        "Status": "Available. Released 2024, October 29"
+      },
+      "Body": {
+        "Dimensions": "47.3 x 47.3 x 12 mm (1.86 x 1.86 x 0.47 in)",
+        "Weight": "44.5 g (1.59 oz)",
+        "Build": "Aluminum frame, stainless steel bezel",
+        "SIM": "<a href=\"glossary.php3?term=esim\">eSIM</a> (market/region dependent)",
+        "Features": "Waterproof (5ATM)"
+      },
+      "Display": {
+        "Type": "AMOLED, 1500 nits (HBM), 2200 nits (peak)",
+        "Size": "1.43 inches",
+        "Resolution": "466 x 466 pixels (~326 ppi density)",
+        "Protection": "Scratch/drop-proof glass"
+      },
+      "Platform": {
+        "OS": "HyperOS 2"
+      },
+      "Memory": {
+        "Card slot": "No"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "5.3, A2DP, LE",
+        "Positioning": "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS",
+        "NFC": "Yes (market/region dependent)",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, compass, barometer, heart rate, SpO2"
+      },
+      "Battery": {
+        "Type": "Li-Po 486 mAh"
+      },
+      "Misc": {
+        "Colors": "Black, Silver, Rainbow",
+        "Models": "M2424W1, M2425W1",
+        "Price": "About 130 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-watch-s5-1-.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-watch-s5-2-.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/xiaomi_watch_s4-pictures-13476.php"
+    }
+  }
+}

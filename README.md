@@ -23,7 +23,7 @@ git-ignored and not committed.
 | Samsung| `samsung-phones-9`  | 1455    | 1457             | ⏳ Partial   |
 | Sony   | `sony-phones-7`     | 163     | 163              | ✅ Complete  |
 | Nokia  | `nokia-phones-1`    | 596     | 596              | ✅ Complete  |
-| Xiaomi | `xiaomi-phones-80`  | 64      | 527              | ⏳ Partial   |
+| Xiaomi | `xiaomi-phones-80`  | 528     | 527              | ✅ Complete  |
 
 \* Apple: 146 of 148 — 2 models unaccounted for (not yet scraped).
 

@@ -1,0 +1,91 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Xiaomi Mi Watch Revolve",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-mi-watch-revolve-2.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-watch-revolve.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "xiaomi_mi_watch_revolve_active-10977"
+    ],
+    "release_date": "Released 2020, October 06",
+    "dimensions": "40g, 11.4mm thickness",
+    "os": "Proprietary OS",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">No cellular connectivity</a>",
+        "2G bands": "N/A",
+        "3G bands": "N/A",
+        "4G bands": "N/A",
+        "Speed": "No",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2020, September 29. Released 2020, October 06",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "53.3 x 46.2 x 11.4 mm (2.10 x 1.82 x 0.45 in)",
+        "Weight": "40 g (1.41 oz)",
+        "Build": "Glass front (Gorilla Glass 3), stainless steel frame, plastic back",
+        "SIM": "No",
+        "Features": "Waterproof (5ATM)\n\nUp to 50 meters depth for 10 min\n\nCompatible with standard 22mm straps"
+      },
+      "Display": {
+        "Type": "AMOLED",
+        "Size": "1.39 inches",
+        "Resolution": "454 x 454 pixels (~326 ppi density)",
+        "Protection": "Corning Gorilla Glass 3"
+      },
+      "Platform": {
+        "OS": "Proprietary OS"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Features": "eMMC"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS, GLONASS",
+        "NFC": "No",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, heart rate, barometer, compass"
+      },
+      "Battery": {
+        "Type": "Li-Ion 420 mAh"
+      },
+      "Misc": {
+        "Colors": "Midnight Black, Chrome Silver",
+        "Models": "XMWT06",
+        "Price": "About 120 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-mi-watch-revolve-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-mi-watch-revolve-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-mi-watch-revolve-4.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/xiaomi_mi_watch_revolve-pictures-10305.php"
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Xiaomi Mi Watch",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-mi-watch-01.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-watch.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "xiaomi_watch_s1_active-11422",
+      "xiaomi_mi_watch_lite-10633",
+      "xiaomi_watch_s5-14696"
+    ],
+    "release_date": "Released 2020, October 13",
+    "dimensions": "32g, 11.8mm thickness",
+    "os": "Proprietary OS",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">No cellular connectivity</a>",
+        "2G bands": "N/A",
+        "3G bands": "N/A",
+        "4G bands": "N/A",
+        "Speed": "No",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2020, September 30. Released 2020, October 13",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "53.3 x 45.9 x 11.8 mm (2.10 x 1.81 x 0.46 in)",
+        "Weight": "32 g (1.13 oz)",
+        "SIM": "No",
+        "Features": "Waterproof (5ATM)\n\nUp to 50 meters depth for 10 min\n\nCompatible with standard 22mm straps"
+      },
+      "Display": {
+        "Type": "AMOLED, 450 nits (peak)",
+        "Size": "1.39 inches",
+        "Resolution": "454 x 454 pixels (~326 ppi density)"
+      },
+      "Platform": {
+        "OS": "Proprietary OS"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Features": "eMMC"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS, GLONASS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, heart rate, barometer, compass, SpO2"
+      },
+      "Battery": {
+        "Type": "Li-Ion 420 mAh",
+        "Charging": "Wireless"
+      },
+      "Misc": {
+        "Colors": "Elegant Black, Fashion Silver, Navy Blue, Beige",
+        "Models": "XMWT06",
+        "Price": "About 100 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-mi-watch-01.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-mi-watch-02.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-mi-watch-03.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-mi-watch-04.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/xiaomi_mi_watch-pictures-10481.php"
+    }
+  }
+}

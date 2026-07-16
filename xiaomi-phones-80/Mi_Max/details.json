@@ -1,0 +1,115 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Xiaomi Mi Max",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-mi-max--1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-max-.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/xiaomi_mi_max-review-1448.php",
+    "siblingDeviceSlugs": [
+      "xiaomi_mi_max_2-8582",
+      "xiaomi_mi_max_3-8963",
+      "xiaomi_mi_5-6948",
+      "xiaomi_poco_x8_pro_5g-14506",
+      "xiaomi_17t_pro_5g-14651"
+    ],
+    "release_date": "Released 2016, May",
+    "dimensions": "203g, 7.5mm thickness",
+    "os": "Android 6.0, up to 7.0, MIUI 10",
+    "storage": "16GB/32GB/128GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / EVDO / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 &amp; SIM 2",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4G bands": "1, 3, 7, 38, 39, 40, 41",
+        "Speed": "HSPA, LTE",
+        "Features": "CDMA 800 / 1900\nCDMA2000 1xEV-DO\nTD-SCDMA"
+      },
+      "Launch": {
+        "Announced": "2016, May. Released 2016, May",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "173.1 x 88.3 x 7.5 mm (6.81 x 3.48 x 0.30 in)",
+        "Weight": "203g (7.16 oz)",
+        "Build": "Glass front (Gorilla Glass 4), aluminum back, aluminum frame",
+        "SIM": "Nano-SIM + Micro-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "6.44 inches, 114.3 cm<sup>2</sup> (~74.8% screen-to-body ratio)",
+        "Resolution": "1080 x 1920 pixels, 16:9 ratio (~342 ppi density)",
+        "Protection": "Corning Gorilla Glass 4"
+      },
+      "Platform": {
+        "OS": "Android 6.0 (Marshmallow), upgradable to 7.0 (Nougat), MIUI 10",
+        "Chipset": "Qualcomm MSM8956 Snapdragon 650\nQualcomm MSM8976 Snapdragon 652 (28 nm) - Prime model",
+        "CPU": "Hexa-core (4x1.4 GHz Cortex-A53 &amp; 2x1.8 GHz Cortex-A72)\nOcta-core (4x1.4 GHz Cortex-A53 &amp; 4x1.8 GHz Cortex-A72)",
+        "GPU": "Adreno 510"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (uses shared SIM slot)",
+        "Internal": "16GB 2GB RAM, 32GB 3GB RAM, 64GB 3GB RAM, 128GB 4GB RAM (Prime)",
+        "Features": "eMMC 4.5 or eMMC 5.1"
+      },
+      "Main Camera": {
+        "Single": "16 MP, f/2.0, PDAF",
+        "Features": "Dual-LED dual-tone flash, panorama, HDR",
+        "Video": "4K@30fps, 1080p@30fps, 720p@120fps"
+      },
+      "Selfie camera": {
+        "Single": "5 MP, f/2.0",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA",
+        "Bluetooth": "4.2, A2DP, LE",
+        "Positioning": "GPS, GLONASS, BDS",
+        "NFC": "No",
+        "Infrared port": "Yes",
+        "Radio": "FM radio, recording",
+        "USB": "microUSB 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Ion 4850 mAh, non-removable"
+      },
+      "Misc": {
+        "Colors": "Gray, Silver, Gold",
+        "Models": "2016001, 2016002, 2016007",
+        "SAR": "0.49 W/kg (head) &nbsp; &nbsp; 1.13 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 150 EUR"
+      },
+      "Our Tests": {
+        "Performance": "Basemark OS II 2.0: 1362\nBasemark X: 15487",
+        "Display": "<a class=\"noUnd\" href=\"xiaomi_mi_max-review-1448p3.php\">Contrast ratio: 922 (nominal),  1.996 (sunlight)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=8057&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=8057&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"xiaomi_mi_max-review-1448p6.php\">Voice 67dB / Noise 66dB / Ring 68dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"xiaomi_mi_max-review-1448p7.php\">Noise -93.5dB / Crosstalk -93.8dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 8057); \">Endurance rating 108h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-mi-max--1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-mi-max-4.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-mi-max--2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-mi-max-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/xiaomi_mi_max-pictures-8057.php"
+    }
+  }
+}

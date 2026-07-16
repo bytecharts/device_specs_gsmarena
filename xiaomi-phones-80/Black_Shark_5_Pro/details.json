@@ -1,0 +1,112 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Xiaomi Black Shark 5 Pro",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-black-shark-5-pro-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-black-shark-5-pro.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/black_shark_5_pro-review-2433.php",
+    "siblingDeviceSlugs": [
+      "xiaomi_black_shark_5-11454",
+      "xiaomi_black_shark_5_rs-11455",
+      "xiaomi_black_shark_4_pro-10805",
+      "xiaomi_black_shark_4-10714"
+    ],
+    "release_date": "Released 2022, April 04",
+    "dimensions": "220g, 9.5mm thickness",
+    "os": "Android 12, Joy UI 13",
+    "storage": "128GB/256GB/512GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / EVDO / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 26, 28, 34, 38, 39, 40, 41",
+        "5G bands": "1, 3, 8, 28, 41, 77, 78, 79 SA/NSA",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "CDMA 800 &amp; TD-SCDMA\nCDMA2000 1xEV-DO"
+      },
+      "Launch": {
+        "Announced": "2022, March 30",
+        "Status": "Available. Released 2022, April 04"
+      },
+      "Body": {
+        "Dimensions": "163.9 x 76.5 x 9.5 mm (6.45 x 3.01 x 0.37 in)",
+        "Weight": "220 g (7.76 oz)",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "Physical pop-up gaming triggers"
+      },
+      "Display": {
+        "Type": "OLED, 1B colors, 144Hz, HDR10+",
+        "Size": "6.67 inches, 107.4 cm<sup>2</sup> (~85.7% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~395 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 12, Joy UI 13",
+        "Chipset": "Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm)",
+        "CPU": "Octa-core (1x3.00 GHz Cortex-X2 &amp; 3x2.50 GHz Cortex-A710 &amp; 4x1.80 GHz Cortex-A510)",
+        "GPU": "Adreno 730"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM, 512GB 16GB RAM",
+        "Features": "UFS 3.1/NVMe SSD"
+      },
+      "Main Camera": {
+        "Triple": "108 MP, f/1.8, (wide), 1/1.52\", 0.7µm, PDAF\n\n13 MP, f/2.4, 120˚ (ultrawide), 1/3.06\", 1.12µm\n\n5 MP, f/2.4, (telephoto macro), AF",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "4K@30/60fps, 1080p@30/60/240fps, 1080p@960fps; HDR10+"
+      },
+      "Selfie camera": {
+        "Single": "16 MP, (wide), 1/3.06\", 1.0µm",
+        "Features": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No",
+        "Features": "24-bit/192kHz Hi-Res audio\n\nSnapdragon Sound"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.2, A2DP, LE, aptX HD, aptX Adaptive",
+        "Positioning": "GPS, GLONASS, GALILEO, QZSS, BDS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, video output"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer (China only)"
+      },
+      "Battery": {
+        "Type": "Li-Po 4650 mAh",
+        "Charging": "120W wired, 100% in 15 min"
+      },
+      "Misc": {
+        "Colors": "Black, White",
+        "Models": "SHARK KTUS-H0",
+        "Price": "About 720 EUR"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 876704 (v8), 1007133 (v9)\n\nGeekBench: 3665 (v5.1)\n\nGFXBench: 82fps (ES 3.1 onscreen)",
+        "Display": "<a class=\"noUnd\" href=\"black_shark_5_pro-review-2433p3.php#dt\">682 nits max brightness (measured)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=11453&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=11453&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"black_shark_5_pro-review-2433p3.php#lt\">-24.0 LUFS (Very good)</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 11453); \">Endurance rating 83h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-black-shark-5-pro-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-black-shark-5-pro-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/xiaomi_black_shark_5_pro-pictures-11453.php"
+    }
+  }
+}

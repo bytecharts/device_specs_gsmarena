@@ -1,0 +1,89 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Xiaomi Mi Watch Color Sports",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-mi-watch-color-sports-edition-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-watch-color-sports-edition.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2020, November 01",
+    "dimensions": "32.5g, 11.8mm thickness",
+    "os": "Proprietary OS",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">No cellular connectivity</a>",
+        "2G bands": "N/A",
+        "3G bands": "N/A",
+        "4G bands": "N/A",
+        "Speed": "No",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2020, October 20. Released 2020, November 01",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "53.4 x 45.9 x 11.8 mm (2.10 x 1.81 x 0.46 in)",
+        "Weight": "32.5 g (1.16 oz)",
+        "Build": "Glass front, aluminum frame, plastic back",
+        "SIM": "No",
+        "Features": "Waterproof (5ATM)"
+      },
+      "Display": {
+        "Type": "AMOLED",
+        "Size": "1.39 inches",
+        "Resolution": "454 x 454 pixels (~326 ppi density)"
+      },
+      "Platform": {
+        "OS": "Proprietary OS"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Features": "eMMC"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, heart rate, barometer"
+      },
+      "Battery": {
+        "Type": "Li-Ion 420 mAh"
+      },
+      "Misc": {
+        "Colors": "Black, Blue, Ivory",
+        "Models": "XMWTCL01",
+        "Price": "About 90 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-mi-watch-color-sports-edition-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-mi-watch-color-sports-edition-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-mi-watch-color-sports-edition-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-mi-watch-color-sports-edition-4.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/xiaomi_mi_watch_color_sports-pictures-10541.php"
+    }
+  }
+}

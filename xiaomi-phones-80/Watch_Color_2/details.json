@@ -1,0 +1,87 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Xiaomi Watch Color 2",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-watch-color2-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-watch-color2.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2021, September 30",
+    "dimensions": "11mm thickness",
+    "os": "Proprietary OS",
+    "storage": "Unspecified storage storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">No cellular connectivity</a>",
+        "2G bands": "N/A",
+        "3G bands": "N/A",
+        "4G bands": "N/A",
+        "Speed": "No",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2021, September 27",
+        "Status": "Available. Released 2021, September 30"
+      },
+      "Body": {
+        "Dimensions": "46.5 x 47.3 x 11 mm (1.83 x 1.86 x 0.43 in)",
+        "Weight": "-",
+        "Build": "Glass front, plastic frame, plastic back",
+        "SIM": "No",
+        "Features": "Waterproof (5ATM)"
+      },
+      "Display": {
+        "Type": "AMOLED",
+        "Size": "1.43 inches",
+        "Resolution": "466 x 466 pixels (~326 ppi density)"
+      },
+      "Platform": {
+        "OS": "Proprietary OS"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "Unspecified storage"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n",
+        "Bluetooth": "5.2, A2DP, LE",
+        "Positioning": "GPS (L1+L5), GLONASS, GALILEO, BDS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, compass, barometer, heart rate, SpO2"
+      },
+      "Battery": {
+        "Type": "Li-Po 470 mAh"
+      },
+      "Misc": {
+        "Colors": "Black, Silver, Blue",
+        "Models": "M2106W1",
+        "Price": "About 140 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-watch-color2-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-watch-color2-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/xiaomi_watch_color_2-pictures-11126.php"
+    }
+  }
+}

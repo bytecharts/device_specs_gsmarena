@@ -1,0 +1,96 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Xiaomi Watch 2",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-watch2-2.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-watch2.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/xiaomi_watch_2_review-news-62285.php",
+    "siblingDeviceSlugs": [
+      "samsung_galaxy_watch_fe-13112",
+      "xiaomi_watch_2_pro-12587",
+      "samsung_galaxy_watch7-13128",
+      "xiaomi_watch_s5-14696",
+      "xiaomi_watch_5-14383",
+      "huawei_watch_gt_4-12563"
+    ],
+    "release_date": "Released 2024, February 22",
+    "dimensions": "36.8g, 11.8mm thickness",
+    "os": "Android Wear OS",
+    "storage": "32GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">No cellular connectivity</a>",
+        "2G bands": "N/A",
+        "3G bands": "N/A",
+        "4G bands": "N/A",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2024, February 12",
+        "Status": "Available. Released 2024, February 22"
+      },
+      "Body": {
+        "Dimensions": "47.5 x 45.9 x 11.8 mm (1.87 x 1.81 x 0.46 in)",
+        "Weight": "36.8 g (1.31 oz)",
+        "Build": "Aluminum frame",
+        "SIM": "No",
+        "Features": "Waterproof (5ATM)"
+      },
+      "Display": {
+        "Type": "AMOLED, 600 nits",
+        "Size": "1.43 inches",
+        "Resolution": "466 x 466 pixels (~326 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android Wear OS",
+        "Chipset": "Qualcomm Snapdragon W5+ Gen 1 (4 nm)"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "32GB 2GB RAM"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.2, A2DP, LE",
+        "Positioning": "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS",
+        "NFC": "Yes (market/region dependent)",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, compass, barometer, heart rate, SpO2"
+      },
+      "Battery": {
+        "Type": "Li-Po 495 mAh"
+      },
+      "Misc": {
+        "Colors": "Black, Silver",
+        "Models": "M2320W1",
+        "Price": "About 70 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-watch2-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-watch2-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-watch2-4.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/xiaomi_watch_2-pictures-12828.php"
+    }
+  }
+}

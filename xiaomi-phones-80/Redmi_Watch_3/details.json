@@ -1,0 +1,91 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Xiaomi Redmi Watch 3",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-watch3-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-watch3.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "xiaomi_redmi_watch_4-12711",
+      "xiaomi_redmi_watch_3_active-12449",
+      "xiaomi_redmi_watch_5_active-13286"
+    ],
+    "release_date": "Released 2022, December 27",
+    "dimensions": "37g, 10mm thickness",
+    "os": "Proprietary OS",
+    "storage": "Unspecified storage storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">No cellular connectivity</a>",
+        "2G bands": "N/A",
+        "3G bands": "N/A",
+        "4G bands": "N/A",
+        "Speed": "No",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2022, December 27",
+        "Status": "Available. Released 2022, December 27"
+      },
+      "Body": {
+        "Dimensions": "42.6 x 36.6 x 10 mm (1.68 x 1.44 x 0.39 in)",
+        "Weight": "37 g (1.31 oz)",
+        "Build": "Plastic back, plastic frame",
+        "SIM": "No",
+        "Features": "Waterproof (5ATM)\n\n50m water resistant"
+      },
+      "Display": {
+        "Type": "AMOLED, 600 nits (peak)",
+        "Size": "1.75 inches",
+        "Resolution": "450 x 390 pixels (~341 ppi density)"
+      },
+      "Platform": {
+        "OS": "Proprietary OS"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "Unspecified storage"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "5.2, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS, QZSS",
+        "NFC": "Yes (market/region dependent)",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, heart rate, compass, gyro, SpO2"
+      },
+      "Battery": {
+        "Type": "Li-Ion 289 mAh"
+      },
+      "Misc": {
+        "Colors": "Black, White",
+        "Models": "M2215W1",
+        "Price": "About 120 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-watch3-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-watch3-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/xiaomi_redmi_watch_3-pictures-12048.php"
+    }
+  }
+}

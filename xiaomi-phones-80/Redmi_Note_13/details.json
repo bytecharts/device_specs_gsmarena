@@ -1,0 +1,118 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Xiaomi Redmi Note 13",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-13-5g-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-13-5g.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/xiaomi_redmi_note_13_5g-review-2667.php",
+    "siblingDeviceSlugs": [
+      "xiaomi_redmi_note_13_pro-12581",
+      "xiaomi_redmi_note_13_4g-12750"
+    ],
+    "release_date": "Released 2024, January 10",
+    "dimensions": "174.5g, 7.6mm thickness",
+    "os": "Android 13, up to 14",
+    "storage": "128GB/256GB/512GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100 - International",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 26, 28, 32, 38, 40, 41, 66 - International",
+        "5G bands": "1, 3, 5, 7, 8, 20, 28, 38, 40, 41, 66, 77, 78 SA/NSA - International",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "HSDPA 850 / 900 / 2100 - India\n1, 3, 5, 8, 28 - India\n1, 3, 5, 8, 28, 40, 78 SA/NSA - India"
+      },
+      "Launch": {
+        "Announced": "2024, January 04",
+        "Status": "Available. Released 2024, January 10"
+      },
+      "Body": {
+        "Dimensions": "161.1 x 75 x 7.6 mm (6.34 x 2.95 x 0.30 in)",
+        "Weight": "174.5 g (6.14 oz)",
+        "Build": "Glass front (Gorilla Glass 5), plastic frame, plastic back",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "IP54 dust protected and water resistant (water splashes)"
+      },
+      "Display": {
+        "Type": "AMOLED, 1B colors*, 120Hz, 1920Hz PWM, 1000 nits (peak)",
+        "Size": "6.67 inches, 107.4 cm<sup>2</sup> (~88.9% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~395 ppi density)",
+        "Protection": "Corning Gorilla Glass 5",
+        "Features": "*1B colors (market/region dependent)"
+      },
+      "Platform": {
+        "OS": "Android 13, upgradable to Android 14, up to 2 major Android upgrades, HyperOS",
+        "Chipset": "Mediatek Dimensity 6080 (6 nm)",
+        "CPU": "Octa-core (2x2.4 GHz Cortex-A76 &amp; 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (uses shared SIM slot)",
+        "Internal": "128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM, 512GB 12GB RAM",
+        "Features": "UFS 2.2"
+      },
+      "Main Camera": {
+        "Triple": "108 MP, f/1.7, (wide), 1/1.67\", 0.64µm, PDAF\n\n8 MP, f/2.2, (ultrawide)\n\nAuxiliary lens",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "16 MP, f/2.4, (wide)",
+        "Features": "HDR, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes",
+        "Features": "24-bit/192kHz Hi-Res &amp; Hi-Res wireless audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.3, A2DP, LE",
+        "Positioning": "GPS, GLONASS",
+        "NFC": "Yes (market/region dependent)",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Po 5000 mAh",
+        "Charging": "33W wired"
+      },
+      "Misc": {
+        "Colors": "Graphite black (Stealth Black), Arctic White, Ocean Teal, Prism Gold",
+        "Models": "2312DRAABG, 2312DRAABI",
+        "SAR": "1.07 W/kg (head) &nbsp; &nbsp; 0.99 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.94 W/kg (head) &nbsp; &nbsp; 1.00 W/kg (body) &nbsp; &nbsp;",
+        "Price": "<a href=\"xiaomi_redmi_note_13-price-12776.php\">€ 174.90</a>"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 405118 (v9), 455421 (v10)\n\n\n\nGeekBench: 1968 (v5), 1978 (v6)\n\n3DMark: 371 (Wild Life Extreme)",
+        "Display": "<a class=\"noUnd\" href=\"xiaomi_redmi_note_13_5g-review-2667p3.php#dt\">991 nits max brightness (measured)</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"xiaomi_redmi_note_13_5g-review-2667p3.php#lt\">-24.0 LUFS (Very good)</a>",
+        "Battery": "<div style=\"position:relative;\">\n<a href=\"xiaomi_redmi_note_13_5g-review-2667p3.php#bt\" data-battery2=\"34:17_9:16_10:18_5:48\" onclick=\"showBatteryPopup(event, 12776); \" class=\"v2\">Active use score 9:49h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-13-5g-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-13-5g-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-13-5g-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-13-international-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-13-international-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/xiaomi_redmi_note_13-pictures-12776.php"
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Xiaomi Watch S1",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-watch-s1-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-watch-s1.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/xiaomi_watch_s1_and_watch_s1_active_review-news-53625.php",
+    "siblingDeviceSlugs": [
+      "xiaomi_watch_s1_active-11422",
+      "xiaomi_watch_s1_pro-11760"
+    ],
+    "release_date": "Released 2021, December 31",
+    "dimensions": "53g, 11mm thickness",
+    "os": "Proprietary OS",
+    "storage": "Unspecified storage storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">No cellular connectivity</a>",
+        "2G bands": "N/A",
+        "3G bands": "N/A",
+        "4G bands": "N/A",
+        "Speed": "No",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2021, December 28",
+        "Status": "Available. Released 2021, December 31"
+      },
+      "Body": {
+        "Dimensions": "46.5 x 46.5 x 11 mm (1.83 x 1.83 x 0.43 in)",
+        "Weight": "53 g (1.87 oz)",
+        "Build": "Sapphire crystal front, stainless steel frame, plastic back",
+        "SIM": "No",
+        "Features": "Waterproof (5ATM)"
+      },
+      "Display": {
+        "Type": "AMOLED",
+        "Size": "1.43 inches",
+        "Resolution": "466 x 466 pixels (~326 ppi density)"
+      },
+      "Platform": {
+        "OS": "Proprietary OS"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "Unspecified storage"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n (China only)",
+        "Bluetooth": "5.2, A2DP, LE",
+        "Positioning": "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, compass, barometer, heart rate, SpO2"
+      },
+      "Battery": {
+        "Type": "Li-Po 470 mAh",
+        "Charging": "Wireless"
+      },
+      "Misc": {
+        "Colors": "Black, Silver",
+        "Models": "M2108W1",
+        "Price": "About 270 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-watch-s1-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-watch-s1-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-watch-s1-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/xiaomi_watch_s1-pictures-11293.php"
+    }
+  }
+}

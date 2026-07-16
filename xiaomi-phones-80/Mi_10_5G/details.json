@@ -1,0 +1,119 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Xiaomi Mi 10 5G",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-mi-10-5g-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-10-5g.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/xiaomi_mi_10-review-2107.php",
+    "siblingDeviceSlugs": [
+      "xiaomi_mi_10_pro_5g-10055",
+      "xiaomi_mi_note_10-9936",
+      "xiaomi_mi_10t_pro_5g-10437",
+      "xiaomi_mi_10t_5g-10473",
+      "xiaomi_mi_10s-10780"
+    ],
+    "release_date": "Released 2020, February 14",
+    "dimensions": "208g, 9mm thickness",
+    "os": "Android 10, up to Android 13, MIUI 14",
+    "storage": "128GB/256GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 20, 28, 32, 38, 40 - Global",
+        "5G bands": "1, 3, 7, 28, 77, 78 Sub6 - Global",
+        "Speed": "HSPA, LTE, 5G (2+ Gbps DL)",
+        "Features": "1, 2, 3, 4, 5, 7, 8, 12, 17, 34, 38, 39, 40, 41 - China\n1, 3, 41, 78, 79 SA/NSA - China"
+      },
+      "Launch": {
+        "Announced": "2020, February 13. Released 2020, February 14",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "162.5 x 74.8 x 9 mm (6.40 x 2.94 x 0.35 in)",
+        "Weight": "208 g (7.34 oz)",
+        "Build": "Glass front (Gorilla Glass 5), glass back, aluminum frame",
+        "SIM": "· Nano-SIM\n· Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "Super AMOLED, 90Hz, HDR10+, 500 nits (typ)",
+        "Size": "6.67 inches, 109.2 cm<sup>2</sup> (~89.8% screen-to-body ratio)",
+        "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~386 ppi density)",
+        "Protection": "Corning Gorilla Glass 5"
+      },
+      "Platform": {
+        "OS": "Android 10, upgradable to Android 13, MIUI 14",
+        "Chipset": "Qualcomm SM8250 Snapdragon 865 5G (7 nm+)",
+        "CPU": "Octa-core (1x2.84 GHz Cortex-A77 &amp; 3x2.42 GHz Cortex-A77 &amp; 4x1.80 GHz Cortex-A55)",
+        "GPU": "Adreno 650"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 8GB RAM, 256GB 6GB RAM, 256GB 8GB RAM, 256GB 12GB RAM",
+        "Features": "UFS 3.0"
+      },
+      "Main Camera": {
+        "Quad": "108 MP, f/1.7, (wide), 1/1.33\", 0.8µm, PDAF, OIS\n\n13 MP, f/2.4, 12mm (ultrawide), 1/3.06\", 1.12µm\n\n2 MP (macro)\n\nAuxiliary lens",
+        "Features": "Dual-LED dual-tone flash, HDR, panorama",
+        "Video": "8K@30fps, 4K@30/60fps, 1080p@30/60fps; gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "20 MP, f/2.0, (wide), 1/3\", 0.9µm",
+        "Features": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No",
+        "Features": "24-bit/192kHz Hi-Res audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct, DLNA",
+        "Bluetooth": "5.1, A2DP, LE, aptX HD, aptX Adaptive",
+        "Positioning": "GPS (L1+L5), GLONASS (G1), BDS (B1), GALILEO (E1+E5a)",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, compass, barometer",
+        "Features": "Virtual proximity sensing"
+      },
+      "Battery": {
+        "Type": "Li-Po 4780 mAh",
+        "Charging": "30W wired, PD3.0\n\n30W wireless\n\n5W reverse wireless"
+      },
+      "Misc": {
+        "Colors": "Coral Green, Twilight Grey, Peach Gold",
+        "Models": "M2001J2G, M2001J2I, Mi 10",
+        "SAR": "1.09 W/kg (head) &nbsp; &nbsp; 1.02 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.69 W/kg (head) &nbsp; &nbsp; 0.99 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 290 EUR"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 578056 (v8)\n\nGeekBench: 3322 (v5.1)\n\nGFXBench: 42fps (ES 3.1 onscreen)",
+        "Display": "<a class=\"noUnd\" href=\"xiaomi_mi_10-review-2107p3.php#dt\">854 nits max brightness (measured)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=10082&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=10082&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"xiaomi_mi_10-review-2107p3.php#tl\">-26.9 LUFS (Good)</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 10082); \">Endurance rating 109h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-mi-10-5g-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-mi-10-5g-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-mi-10-5g-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/xiaomi_mi_10_5g-pictures-10082.php"
+    }
+  }
+}

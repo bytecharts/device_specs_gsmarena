@@ -1,0 +1,104 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Xiaomi Redmi Note 14 5G (India)",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-14-5g-int-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-14-5g-in.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2024, December 13",
+    "dimensions": "190g, 8mm thickness",
+    "os": "Android 14, HyperOS",
+    "storage": "128GB/256GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "1, 3, 5, 8, 28, 40, 41",
+        "5G bands": "1, 3, 5, 8, 28, 40, 78 SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2024, December 09",
+        "Status": "Available. Released 2024, December 13"
+      },
+      "Body": {
+        "Dimensions": "162.4 x 75.7 x 8 mm (6.39 x 2.98 x 0.31 in)",
+        "Weight": "190 g (6.70 oz)",
+        "Build": "Glass front, plastic back",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "IP64 dust tight and water resistant (water splashes)"
+      },
+      "Display": {
+        "Type": "AMOLED, 120Hz, HDR10+, 2100 nits (peak)",
+        "Size": "6.67 inches, 107.4 cm<sup>2</sup> (~87.4% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~395 ppi density)",
+        "Protection": "Corning Gorilla Glass 5"
+      },
+      "Platform": {
+        "OS": "Android 14, HyperOS",
+        "Chipset": "Mediatek Dimensity 7025 Ultra (6 nm)",
+        "CPU": "Octa-core (2x2.5 GHz Cortex-A78 &amp; 6x2.0 GHz Cortex-A55)",
+        "GPU": "IMG BXM-8-256"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (uses shared SIM slot)",
+        "Internal": "128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM",
+        "Features": "UFS 2.2"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, f/1.5, 26mm (wide), 1/1.95\", 0.8µm, PDAF, OIS\n\n8 MP, f/2.2, 21mm (ultrawide)\n\n2 MP (macro)",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "20 MP, f/2.2, (wide), 1/4.0\", 0.7µm",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes",
+        "Features": "24-bit/192kHz Hi-Res audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.3, A2DP, LE",
+        "Positioning": "GPS, GLONASS, BDS, GALILEO",
+        "NFC": "Yes (market/region dependent)",
+        "Infrared port": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5110 mAh",
+        "Charging": "45W wired"
+      },
+      "Misc": {
+        "Colors": "Titan Black, Mystique White, Phantom Purple, Ivy Green, Crimson Art (Note 14 SE)",
+        "Models": "24094RAD4I",
+        "SAR": "0.84 W/kg (head) &nbsp; &nbsp; 0.73 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 200 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-14-5g-int-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-14-5g-crimson-art-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-14-5g-10.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-14-5g-9.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-14-5g-6.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/xiaomi_redmi_note_14-pictures-13559.php"
+    }
+  }
+}

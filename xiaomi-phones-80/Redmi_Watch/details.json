@@ -1,0 +1,87 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Xiaomi Redmi Watch",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-watch-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-watch.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2020, December 01",
+    "dimensions": "35g, 11.9mm thickness",
+    "os": "Proprietary OS",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">No cellular connectivity</a>",
+        "2G bands": "N/A",
+        "3G bands": "N/A",
+        "4G bands": "N/A",
+        "Speed": "No",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2020, November 26. Released 2020, December 01",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "41 x 35 x 11.9 mm (1.61 x 1.38 x 0.47 in)",
+        "Weight": "35 g (1.23 oz)",
+        "Build": "Plastic back, plastic frame",
+        "SIM": "No",
+        "Features": "Waterproof (5ATM)\n\n50m water resistant"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "1.4 inches",
+        "Resolution": "320 x 320 pixels (~323 ppi density)"
+      },
+      "Platform": {
+        "OS": "Proprietary OS"
+      },
+      "Memory": {
+        "Card slot": "No"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS (market/region dependent)",
+        "NFC": "Yes (market/region dependent)",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, heart rate, compass"
+      },
+      "Battery": {
+        "Type": "Li-Ion 230 mAh"
+      },
+      "Misc": {
+        "Colors": "Black, Blue, Ivory",
+        "Models": "REDMIWT01",
+        "Price": "About 30 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-watch-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-watch-0.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-watch-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/xiaomi_redmi_watch-pictures-10610.php"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Xiaomi Watch S3",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-watch-s3-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-watch-s3.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/xiaomi_watch_s3_review-news-62055.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2023, October 28",
+    "dimensions": "44g, 12mm thickness",
+    "os": "HyperOS",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA",
+        "4G bands": "LTE",
+        "Speed": "HSPA, LTE",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2023, October 28",
+        "Status": "Available. Released 2023, October 28"
+      },
+      "Body": {
+        "Dimensions": "47 x 47 x 12 mm (1.85 x 1.85 x 0.47 in)",
+        "Weight": "44 g (1.55 oz)",
+        "Build": "Aluminum frame, stainless steel bezel",
+        "SIM": "<a href=\"glossary.php3?term=esim\">eSIM</a> (market/region dependent)",
+        "Features": "Waterproof (5ATM)"
+      },
+      "Display": {
+        "Type": "AMOLED, 600 nits",
+        "Size": "1.43 inches",
+        "Resolution": "466 x 466 pixels (~326 ppi density)",
+        "Protection": "Scratch/drop-proof glass"
+      },
+      "Platform": {
+        "OS": "HyperOS"
+      },
+      "Memory": {
+        "Card slot": "No"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "5.2, A2DP, LE",
+        "Positioning": "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS",
+        "NFC": "Yes (market/region dependent)",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, compass, barometer, heart rate, SpO2"
+      },
+      "Battery": {
+        "Type": "Li-Po 486 mAh"
+      },
+      "Misc": {
+        "Colors": "Black, Silver, Brown",
+        "Models": "M2313W1, M2311W1",
+        "Price": "About 110 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-watch-s3-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-watch-s3-2-.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-watch-s3-4.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-watch-s3-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/xiaomi_watch_s3-pictures-12834.php"
+    }
+  }
+}

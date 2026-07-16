@@ -1,0 +1,103 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Xiaomi Redmi 9 Prime",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-9-0.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-9.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/xiaomi_redmi_9-review-2140.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2020, August 06",
+    "dimensions": "198g, 9.1mm thickness",
+    "os": "Android 10, MIUI 11",
+    "storage": "64GB/128GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4G bands": "1, 3, 5, 8, 40, 41",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2020, August 04",
+        "Status": "Available. Released 2020, August 06"
+      },
+      "Body": {
+        "Dimensions": "163.3 x 77 x 9.1 mm (6.43 x 3.03 x 0.36 in)",
+        "Weight": "198 g (6.98 oz)",
+        "Build": "Glass front (Gorilla Glass 3), plastic back, plastic frame",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "Water-repellent coating"
+      },
+      "Display": {
+        "Type": "IPS LCD, 400 nits (typ)",
+        "Size": "6.53 inches, 104.7 cm<sup>2</sup> (~83.2% screen-to-body ratio)",
+        "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~395 ppi density)",
+        "Protection": "Corning Gorilla Glass 3"
+      },
+      "Platform": {
+        "OS": "Android 10, MIUI 11",
+        "Chipset": "Mediatek MT6769V/CU Helio G80 (12 nm)",
+        "CPU": "Octa-core (2x2.0 GHz Cortex-A75 &amp; 6x1.8 GHz Cortex-A55)",
+        "GPU": "Mali-G52 MC2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "64GB 4GB RAM, 128GB 4GB RAM",
+        "Features": "eMMC 5.1"
+      },
+      "Main Camera": {
+        "Quad": "13 MP, f/2.2, 28mm (wide), 1/3.1\", 1.12µm, PDAF\n\n8 MP, f/2.2, 118˚ (ultrawide), 1/4.0\", 1.12µm\n\n5 MP (macro)\n\nAuxiliary lens",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, f/2.0, 27mm (wide), 1/4.0\", 1.12µm",
+        "Features": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS, GLONASS, BDS",
+        "NFC": "No",
+        "Infrared port": "Yes",
+        "Radio": "Wireless FM radio (no wired headphones required)",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (rear-mounted), accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Po 5020 mAh",
+        "Charging": "18W wired"
+      },
+      "Misc": {
+        "Colors": "Space Blue, Mint Green, Matte Black, Sunrise Flare",
+        "Models": "M2004J19PI",
+        "SAR": "0.85 W/kg (head) &nbsp; &nbsp; 0.42 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 110 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-9-0.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-9-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-9-4.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-9-pink.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/xiaomi_redmi_9_prime-pictures-10353.php"
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Xiaomi Pad 6S Pro 12.4",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-pad-6s-pro-124-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-pad-6s-pro-124.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/xiaomi_pad_6s_pro_12_4-review-2707.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2024, February 22",
+    "dimensions": "590g, 6.3mm thickness",
+    "os": "Android 14, up to 3 major upgrades, HyperOS",
+    "storage": "256GB/512GB/1TB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">No cellular connectivity</a>",
+        "2G bands": "N/A",
+        "3G bands": "N/A",
+        "GPRS": "N/A",
+        "EDGE": "N/A"
+      },
+      "Launch": {
+        "Announced": "2024, February 22",
+        "Status": "Available. Released 2024, February 22"
+      },
+      "Body": {
+        "Dimensions": "278.7 x 191.6 x 6.3 mm (10.97 x 7.54 x 0.25 in)",
+        "Weight": "590 g (1.30 lb)",
+        "Build": "Glass front (Gorilla Glass 5), aluminum frame, aluminum back",
+        "SIM": "No",
+        "Features": "Stylus support (magnetic)"
+      },
+      "Display": {
+        "Type": "IPS LCD, 68B colors, 144Hz, HDR10, Dolby Vision, 900 nits (peak)",
+        "Size": "12.4 inches, 457.8 cm<sup>2</sup> (~85.7% screen-to-body ratio)",
+        "Resolution": "2032 x 3048 pixels, 3:2 ratio (~295 ppi density)",
+        "Protection": "Corning Gorilla Glass 5"
+      },
+      "Platform": {
+        "OS": "Android 14, up to 3 major Android upgrades, HyperOS",
+        "Chipset": "Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm)",
+        "CPU": "Octa-core (1x3.2 GHz Cortex-X3 &amp; 2x2.8 GHz Cortex-A715 &amp; 2x2.8 GHz Cortex-A710 &amp; 3x2.0 GHz Cortex-A510)",
+        "GPU": "Adreno 740"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 8GB RAM, 256GB 12GB RAM, 512GB 12GB RAM, 1TB 16GB RAM",
+        "Features": "UFS 4.0"
+      },
+      "Main Camera": {
+        "Dual": "50 MP, f/1.8, (wide), 1/2.76\", 0.64µm, PDAF\n\nAuxiliary lens",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "4K@30/60fps, 1080p@30/60fps"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.2, (wide), 1/3.6\", 0.61µm",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers (6 speakers)",
+        "3.5mm jack": "No",
+        "Features": "24-bit/192kHz Hi-Res &amp; Hi-Res Wireless audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/a/6/7, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.3, A2DP, LE, LHDC",
+        "Positioning": "No",
+        "NFC": "Yes (file transfer only)",
+        "Radio": "No",
+        "USB": "USB Type-C 3.2, accessory connector"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity (accessories only), compass"
+      },
+      "Battery": {
+        "Type": "10000 mAh",
+        "Charging": "120W wired, PD3.0, QC4, 45% in 10 min, 100% in 35 min"
+      },
+      "Misc": {
+        "Colors": "Black, Blue, Green",
+        "Models": "24018RPACG",
+        "SAR EU": "0.99 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 700 EUR"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 1539762 (v10)\n\nGeekBench: 5268 (v6)\n\n3DMark: 2970 (Wild Life Extreme)",
+        "Display": "<a class=\"noUnd\" href=\"xiaomi_pad_6s_pro_12_4-review-2707p3.php\">1378:1 contrast ratio, 848 nits max brightness (measured)</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"xiaomi_pad_6s_pro_12_4-review-2707p3.php#lt\">-20.5 LUFS (Excellent)</a>",
+        "Battery": "<div style=\"position:relative;\">\n<a href=\"xiaomi_pad_6s_pro_12_4-review-2707p3.php#bt\" data-battery2=\"47:35_9:31_10:53_7:46\" onclick=\"showBatteryPopup(event, 12838); \" class=\"v2\">Active use score 11:14h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-pad-6s-pro-124-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-pad-6s-pro-124-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/xiaomi_pad_6s_pro_12_4-pictures-12838.php"
+    }
+  }
+}

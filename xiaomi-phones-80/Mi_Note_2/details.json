@@ -1,0 +1,111 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Xiaomi Mi Note 2",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-mi-note2-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-note2-.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/xiaomi_mi_note_2-review-1532.php",
+    "siblingDeviceSlugs": [
+      "xiaomi_redmi_note_2-6992",
+      "xiaomi_poco_x8_pro_5g-14506",
+      "xiaomi_17t_pro_5g-14651"
+    ],
+    "release_date": "Released 2016, November",
+    "dimensions": "166g, 7.6mm thickness",
+    "os": "Android 6.0, MIUI 8.2",
+    "storage": "64GB/128GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 &amp; SIM 2",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 29, 30, 38, 39, 40, 41",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE (3CA) Cat12 600/150 Mbps"
+      },
+      "Launch": {
+        "Announced": "2016, October. Released 2016, November",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "156.2 x 77.3 x 7.6 mm (6.15 x 3.04 x 0.30 in)",
+        "Weight": "166 g (5.86 oz)",
+        "Build": "Glass front, glass back, aluminum frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED",
+        "Size": "5.7 inches, 89.6 cm<sup>2</sup> (~74.2% screen-to-body ratio)",
+        "Resolution": "1080 x 1920 pixels, 16:9 ratio (~386 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 6.0 (Marshmallow), MIUI 8.2",
+        "Chipset": "Qualcomm MSM8996 Snapdragon 821 (14 nm)",
+        "CPU": "Quad-core (2x2.35 GHz Kryo &amp; 2x1.6 GHz Kryo)",
+        "GPU": "Adreno 530"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "64GB 4GB RAM, 64GB 6GB RAM, 128GB 6GB RAM"
+      },
+      "Main Camera": {
+        "Single": "22.5 MP, f/2.0, 1/2.6\", 1.0µm, PDAF",
+        "Features": "Dual-LED dual-tone flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@30fps (gyro-EIS)"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, f/2.0, AF",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes",
+        "Features": "24-bit/192kHz audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "4.2, A2DP, LE",
+        "Positioning": "GPS, GLONASS, BDS",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (front-mounted), accelerometer, gyro, proximity, compass, barometer"
+      },
+      "Battery": {
+        "Type": "Li-Ion 4070 mAh, non-removable",
+        "Charging": "18W wired, QC3"
+      },
+      "Misc": {
+        "Colors": "Black, Gold, Silver",
+        "Models": "2015213",
+        "SAR": "0.78 W/kg (head) &nbsp; &nbsp; 1.38 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 310 EUR"
+      },
+      "Our Tests": {
+        "Performance": "GFXBench: 20fps (ES 3.1 onscreen)",
+        "Display": "<a class=\"noUnd\" href=\"xiaomi_mi_note_2-review-1532p3.php\">Contrast ratio: 66800 (nominal), 3.228 (sunlight)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=8014&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=8014&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"xiaomi_mi_note_2-review-1532p6.php\">Voice 63dB / Noise 68dB / Ring 76dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"xiaomi_mi_note_2-review-1532p7.php#aq\">Noise-94.4dB / Crosstalk -91.7dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 8014); \">Endurance rating 92h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-mi-note2-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-mi-note2-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-mi-note2-.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/xiaomi_mi_note_2-pictures-8014.php"
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Xiaomi Mi Mix 2",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-mi-mix2-0.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-mix2-new.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/xiaomi_mi_mix_2-review-1674.php",
+    "siblingDeviceSlugs": [
+      "xiaomi_mi_mix_2s-9067",
+      "xiaomi_mi_mix-8400",
+      "xiaomi_mi_mix_3-9378",
+      "xiaomi_mi_mix_alpha-9893"
+    ],
+    "release_date": "Released 2017, September",
+    "dimensions": "185g, 7.7mm thickness",
+    "os": "Android 7.1, planned upgrade to 10, MIUI 12",
+    "storage": "64GB/128GB/256GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / EVDO / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 &amp; SIM 2",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1800 / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 27, 28, 29, 30, 34, 38, 39, 40, 41",
+        "Speed": "HSPA, LTE",
+        "Features": "CDMA 800 / 1900 &amp; TD-SCDMA\nCDMA2000 1xEV-DO"
+      },
+      "Launch": {
+        "Announced": "2017, September. Released 2017, September",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "151.8 x 75.5 x 7.7 mm (5.98 x 2.97 x 0.30 in)",
+        "Weight": "185 g (6.53 oz)",
+        "Build": "Glass front (Gorilla Glass 4), ceramic back, aluminum frame\nGlass front (Gorilla Glass 4), ceramic back, ceramic frame - 128/8 GB model",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "5.99 inches, 92.6 cm<sup>2</sup> (~80.8% screen-to-body ratio)",
+        "Resolution": "1080 x 2160 pixels, 18:9 ratio (~403 ppi density)",
+        "Protection": "Corning Gorilla Glass 4"
+      },
+      "Platform": {
+        "OS": "Android 7.1 (Nougat), planned upgrade to Android 10, MIUI 12",
+        "Chipset": "Qualcomm MSM8998 Snapdragon 835 (10 nm)",
+        "CPU": "Octa-core (4x2.45 GHz Kryo &amp; 4x1.9 GHz Kryo)",
+        "GPU": "Adreno 540"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "64GB 6GB RAM, 128GB 6GB RAM, 128GB 8GB RAM, 256GB 6GB RAM",
+        "Features": "eMMC 5.1"
+      },
+      "Main Camera": {
+        "Single": "12 MP, f/2.0, 1/2.9\", 1.25µm, PDAF, 4-axis OIS",
+        "Features": "Dual-LED dual-tone flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@30fps, 720p@120fps"
+      },
+      "Selfie camera": {
+        "Single": "5 MP, f/2.0",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS, GLONASS, BDS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (rear-mounted), accelerometer, gyro, compass, barometer",
+        "Features": "Virtual proximity sensing"
+      },
+      "Battery": {
+        "Type": "Li-Ion 3400 mAh, non-removable",
+        "Charging": "18W wired, QC3"
+      },
+      "Misc": {
+        "Colors": "Black, White",
+        "Models": "MDE5",
+        "SAR": "0.39 W/kg (head) &nbsp; &nbsp; 1.77 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 410 EUR"
+      },
+      "Our Tests": {
+        "Performance": "GeekBench: 6234 (v4.4)\n\nGFXBench: 24fps (ES 3.1 onscreen)",
+        "Display": "<a class=\"noUnd\" href=\"xiaomi_mi_mix_2-review-1674p3.php#dt\">Contrast ratio: 1287 (nominal), 3.19 (sunlight)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=8529&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=8529&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"xiaomi_mi_mix_2-review-1674p6.php#lt\">Voice 67dB / Noise 71dB / Ring 82dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 8529); \">Endurance rating 65h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-mi-mix2-0.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-mi-mix2-41.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-mi-mix2-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-mi-mix2-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-mi-mix2-5.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-mi-mix2-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/xiaomi_mi_mix_2-pictures-8529.php"
+    }
+  }
+}

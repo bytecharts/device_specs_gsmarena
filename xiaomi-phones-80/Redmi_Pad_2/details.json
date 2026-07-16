@@ -1,0 +1,111 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Xiaomi Redmi Pad 2",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-pad2-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-pad-2.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/redmi_pad_2-review-2839.php",
+    "siblingDeviceSlugs": [
+      "xiaomi_redmi_pad_2_pro-14174",
+      "xiaomi_redmi_pad_2_9_7-14636",
+      "xiaomi_redmi_pad_se-12466",
+      "xiaomi_redmi_pad_pro-12922",
+      "honor_pad_x9a-13751"
+    ],
+    "release_date": "Released 2025, June 05",
+    "dimensions": "510g or 519g, 7.4mm thickness",
+    "os": "Android 15, HyperOS 2",
+    "storage": "128GB/256GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - cellular model only",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100 - cellular model only",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 13, 18, 19, 20, 26, 28, 38, 40, 41, 66 - cellular model only",
+        "Speed": "HSPA, LTE - cellular model only"
+      },
+      "Launch": {
+        "Announced": "2025, June 05",
+        "Status": "Available. Released 2025, June 05"
+      },
+      "Body": {
+        "Dimensions": "254.6 x 166 x 7.4 mm (10.02 x 6.54 x 0.29 in)",
+        "Weight": "510 g or 519 g (1.12 lb)",
+        "Build": "Glass front, aluminum back, plastic frame",
+        "SIM": "Nano-SIM + Nano-SIM (cellular model only)",
+        "Features": "Stylus support\n\nDust protected and splash resistant"
+      },
+      "Display": {
+        "Type": "IPS LCD, 1B colors, 90Hz, 600 nits (HBM)",
+        "Size": "11.0 inches, 350.9 cm<sup>2</sup> (~83.0% screen-to-body ratio)",
+        "Resolution": "1600 x 2560 pixels, 16:10 ratio (~274 ppi density)",
+        "Protection": "Corning Gorilla Glass 3 or Panda glass"
+      },
+      "Platform": {
+        "OS": "Android 15, HyperOS 2",
+        "Chipset": "Mediatek Helio G100 Ultra (6 nm)",
+        "CPU": "Octa-core (2x2.2 GHz Cortex-A76 &amp; 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (uses shared SIM slot)",
+        "Internal": "128GB 4GB RAM, 128GB 6GB RAM, 256GB 8GB RAM",
+        "Features": "UFS 2.2"
+      },
+      "Main Camera": {
+        "Single": "8 MP, f/2.0, (wide), 1/4.0\", 1.12µm",
+        "Features": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "5 MP, f/2.2, (wide), 1/5.0\", 1.12µm",
+        "Features": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers (4 speakers, with Dolby Atmos)",
+        "3.5mm jack": "Yes",
+        "Features": "24-bit/192kHz Hi-Res audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.3, A2DP, LE, aptX HD",
+        "Positioning": "GPS, GALILEO, GLONASS, BDS, QZSS (cellular model only)",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro/compass (cellular model only)"
+      },
+      "Battery": {
+        "Type": "Li-Po 9000 mAh",
+        "Charging": "18W wired, PD2, QC2.0"
+      },
+      "Misc": {
+        "Colors": "Graphite Gray, Mint Green, Lavender Purple",
+        "Models": "25040RP0AG, 25040RP0AI",
+        "Price": "About 230 EUR"
+      },
+      "Our Tests": {
+        "Loudspeaker": "<a class=\"noUnd\" href=\"\">-26.9 LUFS (Good)</a>",
+        "Battery": "<div style=\"position:relative;\">\n<a href=\"\" data-battery2=\"68:14_9:48_10:35_7:12\" onclick=\"showBatteryPopup(event, 13908); \" class=\"v2\">Active use score 11:09h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-pad2-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-pad2-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-pad2-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/xiaomi_redmi_pad_2-pictures-13908.php"
+    }
+  }
+}

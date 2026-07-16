@@ -1,0 +1,108 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Xiaomi Redmi 6",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-6-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-6.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/xiaomi_redmi_6_6a-review-1850.php",
+    "siblingDeviceSlugs": [
+      "xiaomi_redmi_note_6_pro-9333",
+      "xiaomi_redmi_6a-9217",
+      "xiaomi_redmi_5-8768",
+      "xiaomi_redmi_7a-9716"
+    ],
+    "release_date": "Released 2018, June",
+    "dimensions": "146g, 8.3mm thickness",
+    "os": "Android 8.1, up to Android 9, MIUI 12",
+    "storage": "32GB/64GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 20, 38, 40 - Global",
+        "Speed": "HSPA, LTE",
+        "Features": "CDMA 800 &amp; TD-SCDMA\n1, 3, 5, 7, 8, 34, 38, 39, 40, 41"
+      },
+      "Launch": {
+        "Announced": "2018, June. Released 2018, June",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "147.5 x 71.5 x 8.3 mm (5.81 x 2.81 x 0.33 in)",
+        "Weight": "146 g (5.15 oz)",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "5.45 inches, 76.7 cm<sup>2</sup> (~72.7% screen-to-body ratio)",
+        "Resolution": "720 x 1440 pixels, 18:9 ratio (~295 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 8.1 (Oreo), upgradable to Android 9, MIUI 12",
+        "Chipset": "Mediatek MT6762 Helio P22 (12 nm)",
+        "CPU": "Octa-core 2.0 GHz Cortex-A53",
+        "GPU": "PowerVR GE8320"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "32GB 3GB RAM, 64GB 3GB RAM, 64GB 4GB RAM",
+        "Features": "eMMC 5.1"
+      },
+      "Main Camera": {
+        "Dual": "12 MP, f/2.2, 1.25 μm, PDAF\n\nAuxiliary lens",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "5 MP",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
+        "Bluetooth": "4.2, A2DP, LE",
+        "Positioning": "GPS, GLONASS, BDS",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "microUSB 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (rear-mounted), accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Po 3000 mAh, non-removable"
+      },
+      "Misc": {
+        "Colors": "Black, Grey, Blue, Gold, Rose Gold",
+        "Models": "M1804C3DG, M1804C3DH, M1804C3DI",
+        "SAR": "0.55 W/kg (head) &nbsp; &nbsp; 1.42 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 130 EUR"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 75182 (v7)\n\nGeekBench: 3639 (v4.4)\n\nGFXBench: 4.8fps (ES 3.1 onscreen)"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-6-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-6-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-6-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-6-4.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-6-5.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/xiaomi_redmi_6-pictures-9237.php"
+    }
+  }
+}

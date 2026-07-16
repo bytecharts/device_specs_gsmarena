@@ -1,0 +1,91 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Xiaomi Watch S4 Sport",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-watch-s4-sport-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-watch-s4-sport.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2024, July 19",
+    "dimensions": "49g, 12.6mm thickness",
+    "os": "HyperOS",
+    "storage": "32GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA",
+        "4G bands": "LTE",
+        "Speed": "HSPA, LTE",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2024, July 19",
+        "Status": "Available. Released 2024, July 19"
+      },
+      "Body": {
+        "Dimensions": "46.9 x 46.9 x 12.6 mm (1.85 x 1.85 x 0.50 in)",
+        "Weight": "49 g (1.73 oz)",
+        "Build": "Sapphire crystal front, titanium alloy case, sapphire crystal back",
+        "SIM": "<a href=\"glossary.php3?term=esim\">eSIM</a>",
+        "Features": "Waterproof (5ATM)\n\n40m swimproof/diving (EN13319)"
+      },
+      "Display": {
+        "Type": "AMOLED, 2200 nits (peak)",
+        "Size": "1.43 inches",
+        "Resolution": "466 x 466 pixels (~326 ppi density)",
+        "Protection": "Sapphire crystal glass"
+      },
+      "Platform": {
+        "OS": "HyperOS"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "32GB"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "5.2, A2DP, LE",
+        "Positioning": "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS",
+        "NFC": "Yes (NFC car key support)",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, compass, barometer, heart rate, SpO2",
+        "Features": "Depth gauge\n\nNFC car key support: <a href=\"https://www.arenaev.com/xiaomi_su7_awd_2024-specs-574.php\">Xiaomi SU7</a> and Lotus cars"
+      },
+      "Battery": {
+        "Type": "Li-Po 586 mAh"
+      },
+      "Misc": {
+        "Colors": "Titanium",
+        "Models": "M2312W1",
+        "Price": "About 250 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-watch-s4-sport-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-watch-s4-sport-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-watch-s4-sport-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-watch-s4-sport-4.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/xiaomi_watch_s4_sport-pictures-13223.php"
+    }
+  }
+}

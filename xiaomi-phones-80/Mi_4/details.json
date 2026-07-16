@@ -1,0 +1,118 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Xiaomi Mi 4",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-mi4-3.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-4.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/xiaomi_mi_4-review-1119.php",
+    "siblingDeviceSlugs": [
+      "xiaomi_mi_4i-7211",
+      "xiaomi_mi_4c-7512",
+      "xiaomi_mi_5-6948",
+      "xiaomi_mi_4_lte-6866",
+      "xiaomi_mi_3-5678",
+      "xiaomi_poco_x8_pro_5g-14506",
+      "xiaomi_17t_pro_5g-14651"
+    ],
+    "release_date": "Released 2014, August",
+    "dimensions": "149g, 8.9mm thickness",
+    "os": "Android 4.4.3, up to 6.0.1, MIUI 10",
+    "storage": "16GB/64GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / EVDO / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - all versions",
+        "3G bands": "TD-SCDMA - 4G model",
+        "4G bands": "38, 39, 40 - 4G model",
+        "Speed": "HSPA, LTE, EV-DO Rev.A 3.1 Mbps",
+        "GPRS": "Yes",
+        "EDGE": "Yes",
+        "Features": "CDMA 800 / 1900 - Telecom 3G model\nHSDPA 850 / 900 / 1900 / 2100 - Unicom 3G model, Telecom 3G model\nCDMA2000 1xEV-DO - Telecom 3G model"
+      },
+      "Launch": {
+        "Announced": "2014, July. Released 2014, August",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "139.2 x 68.5 x 8.9 mm (5.48 x 2.70 x 0.35 in)",
+        "Weight": "149 g (5.26 oz)",
+        "Build": "Glass front, plastic back, aluminum frame",
+        "SIM": "Micro-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "5.0 inches, 68.9 cm<sup>2</sup> (~72.3% screen-to-body ratio)",
+        "Resolution": "1080 x 1920 pixels, 16:9 ratio (~441 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 4.4.3 (KitKat), upgradable to 6.0.1 (Marshmallow), MIUI 10",
+        "Chipset": "Qualcomm MSM8974AC Snapdragon 801 (28 nm)",
+        "CPU": "Quad-core 2.5 GHz Krait 400",
+        "GPU": "Adreno 330"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "16GB 2GB RAM, 64GB 3GB RAM",
+        "Features": "eMMC 5.0"
+      },
+      "Main Camera": {
+        "Single": "13 MP, f/1.8, 1/3.1\", 1.12µm, AF",
+        "Features": "LED flash, panorama, HDR",
+        "Video": "4K@30fps, 1080p@30fps, 720p@120fps, HDR"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, f/1.8",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA, hotspot",
+        "Bluetooth": "4.0, A2DP",
+        "Positioning": "GPS, GLONASS, BDS",
+        "NFC": "No",
+        "Infrared port": "Yes",
+        "Radio": "FM radio",
+        "USB": "microUSB 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, proximity, compass, barometer"
+      },
+      "Battery": {
+        "Type": "Li-Ion 3080 mAh, non-removable",
+        "Charging": "18W wired, QC2",
+        "Stand-by": "Up to 280 h (3G)"
+      },
+      "Misc": {
+        "Colors": "Black, White",
+        "Models": "2014215",
+        "SAR": "0.71 W/kg (head) &nbsp; &nbsp; 0.85 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 230 EUR"
+      },
+      "Our Tests": {
+        "Display": "<a class=\"noUnd\" href=\"xiaomi_mi_4-review-1119p3.php\">Contrast ratio: 929 (nominal), 2.424 (sunlight)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=6518&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=6518&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"xiaomi_mi_4-review-1119p6.php\">Voice 62dB / Noise 62dB / Ring 66dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"xiaomi_mi_4-review-1119p7.php\">Noise -91.6dB / Crosstalk -49.7dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 6518); \">Endurance rating 68h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-mi4-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-mi4-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-mi4-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/xiaomi_mi_4-pictures-6518.php"
+    }
+  }
+}

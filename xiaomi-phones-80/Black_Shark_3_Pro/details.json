@@ -1,0 +1,102 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Xiaomi Black Shark 3 Pro",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-black-shark-3-pro-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-black-shark-3-pro.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "xiaomi_black_shark_3-10110",
+      "xiaomi_black_shark_3s-10350"
+    ],
+    "release_date": "Released 2020, March 17",
+    "dimensions": "253g, 10.1mm thickness",
+    "os": "Android 10",
+    "storage": "256GB/512GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / EVDO / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 3, 4, 5, 7, 8, 12, 17, 20, 34, 38, 39, 40, 41",
+        "5G bands": "41, 78, 79 SA/NSA",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "CDMA 800 &amp; TD-SCDMA\nCDMA2000 1xEV-DO"
+      },
+      "Launch": {
+        "Announced": "2020, March 03. Released 2020, March 17",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "177.8 x 83.3 x 10.1 mm (7.00 x 3.28 x 0.40 in)",
+        "Weight": "253 g (8.92 oz)",
+        "Build": "Glass front, aluminum back, aluminum frame",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "Physical pop-up gaming triggers"
+      },
+      "Display": {
+        "Type": "AMOLED, 90Hz, HDR10+, 500 nits (typ)",
+        "Size": "7.1 inches, 123.7 cm<sup>2</sup> (~83.6% screen-to-body ratio)",
+        "Resolution": "1440 x 3120 pixels, 19.5:9 ratio (~484 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 10",
+        "Chipset": "Qualcomm SM8250 Snapdragon 865 5G (7 nm+)",
+        "CPU": "Octa-core (1x2.84 GHz Cortex-A77 &amp; 3x2.42 GHz Cortex-A77 &amp; 4x1.80 GHz Cortex-A55)",
+        "GPU": "Adreno 650"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 8GB RAM, 256GB 12GB RAM, 512GB 12GB RAM",
+        "Features": "UFS 3.0"
+      },
+      "Main Camera": {
+        "Triple": "64 MP, f/1.8, 26mm (wide), 1/1.72\", 0.8µm, PDAF\n\n13 MP, f/2.3, (ultrawide)\n\nAuxiliary lens",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "4K@30/60fps, 1080p@30/60/240fps, 720p@1920fps"
+      },
+      "Selfie camera": {
+        "Single": "20 MP, f/2.2, (wide), 1/3\", 0.9µm",
+        "Features": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.0, A2DP, LE, aptX HD, aptX Adaptive",
+        "Positioning": "GPS, GLONASS, GALILEO, QZSS, BDS",
+        "NFC": "No",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Po 5000 mAh",
+        "Charging": "65W wired, 100% in 38 min\n\n18W magnetic wireless"
+      },
+      "Misc": {
+        "Colors": "Phantom Black, Armor Gray",
+        "Models": "SHARK MBU-A0, SHARK MBU-H0",
+        "Price": "About 940 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-black-shark-3-pro-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-black-shark-3-pro-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/xiaomi_black_shark_3_pro-pictures-10109.php"
+    }
+  }
+}

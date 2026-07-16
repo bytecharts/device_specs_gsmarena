@@ -1,0 +1,105 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Xiaomi Pad 7 Ultra",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-pad7-ultra-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-pad7-ultra.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "xiaomi_pad_8_pro-14183",
+      "xiaomi_pad_7_pro-13474",
+      "xiaomi_pad_7-13475",
+      "xiaomi_pad_7s_pro_12_5-13968",
+      "xiaomi_pad_6s_pro_12_4-12838"
+    ],
+    "release_date": "Released 2025, May 22",
+    "dimensions": "609g or 619g, 5.1mm thickness",
+    "os": "Android 15, HyperOS 2",
+    "storage": "256GB/512GB/1TB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">No cellular connectivity</a>",
+        "2G bands": "N/A",
+        "3G bands": "N/A",
+        "GPRS": "N/A",
+        "EDGE": "N/A"
+      },
+      "Launch": {
+        "Announced": "2025, May 22",
+        "Status": "Available. Released 2025, May 22"
+      },
+      "Body": {
+        "Dimensions": "305.8 x 207.5 x 5.1 mm (12.04 x 8.17 x 0.20 in)",
+        "Weight": "609 g or 619 g (1.34 lb)",
+        "Build": "Glass front (Gorilla Glass 5), aluminum frame, aluminum back",
+        "SIM": "No",
+        "Features": "Stylus support (magnetic)"
+      },
+      "Display": {
+        "Type": "AMOLED, 68B colors, 120Hz, 4800Hz PWM, Dolby Vision, HDR10+, HDR Vivid, 1600 nits (peak)",
+        "Size": "14.0 inches, 583.9 cm<sup>2</sup> (~92.0% screen-to-body ratio)",
+        "Resolution": "2136 x 3200 pixels, 3:2 ratio (~275 ppi density)",
+        "Protection": "Corning Gorilla Glass 5"
+      },
+      "Platform": {
+        "OS": "Android 15, HyperOS 2",
+        "Chipset": "Xring O1 (3 nm)",
+        "CPU": "10-core (2x3.7GHz Cortex-X925 &amp; 4x3.4GHz Cortex-A725 &amp; 2x1.9GHz Cortex-A725 &amp; 2x1.8GHz Cortex-A520)",
+        "GPU": "Immortalis-G925 MP16"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 12GB RAM, 512GB 12GB RAM, 1TB 16GB RAM",
+        "Features": "UFS 4.1"
+      },
+      "Main Camera": {
+        "Single": "50 MP, f/1.8, (wide), 1/2.76\", 0.64µm, PDAF",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "4K@30/60fps, 1080p@30/60fps"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.2, 19mm (ultrawide), 1/3.6\", 0.61µm",
+        "Features": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers (8 speakers)",
+        "3.5mm jack": "No",
+        "Features": "24-bit/192kHz Hi-Res &amp; Hi-Res Wireless audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/a/6/7, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.4, A2DP, LE, LHDC 5",
+        "Positioning": "No",
+        "NFC": "Yes (data transfer only)",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 3.2 Gen2, OTG, accessory connector pins"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "12000 mAh",
+        "Charging": "120W wired, PD3.0\n\n7.5W reverse wired"
+      },
+      "Misc": {
+        "Colors": "Gray, Blue",
+        "Price": "About 700 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-pad7-ultra-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-pad7-ultra-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/xiaomi_pad_7_ultra-pictures-13896.php"
+    }
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Xiaomi Redmi Note 8 Pro",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-8-pro-0.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-8-pro-.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/xiaomi_redmi_note_8_pro-review-1997.php",
+    "siblingDeviceSlugs": [
+      "xiaomi_redmi_note_9_pro-10217"
+    ],
+    "release_date": "Released 2019, September 24",
+    "dimensions": "200g, 8.8mm thickness",
+    "os": "Android 9.0, up to Android 11, MIUI 12.5",
+    "storage": "64GB/128GB/256GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4G bands": "1, 3, 5, 7, 8, 40, 41",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2019, August 29. Released 2019, September 24",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "161.4 x 76.4 x 8.8 mm (6.35 x 3.01 x 0.35 in)",
+        "Weight": "200 g (7.05 oz)",
+        "Build": "Glass front (Gorilla Glass 5), glass back (Gorilla Glass 5), plastic frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD, HDR, 500 nits (typ)",
+        "Size": "6.53 inches, 104.7 cm<sup>2</sup> (~84.9% screen-to-body ratio)",
+        "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~395 ppi density)",
+        "Protection": "Corning Gorilla Glass 5"
+      },
+      "Platform": {
+        "OS": "Android 9.0 (Pie), upgradable to Android 11, MIUI 12.5",
+        "Chipset": "Mediatek MT6785V/CC Helio G90T (12 nm)",
+        "CPU": "Octa-core (2x2.05 GHz Cortex-A76 &amp; 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G76 MC4"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (uses shared SIM slot)",
+        "Internal": "64GB 4GB RAM, 64GB 6GB RAM, 128GB 4GB RAM, 128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM",
+        "Features": "UFS 2.1"
+      },
+      "Main Camera": {
+        "Quad": "64 MP, f/1.9, 26mm (wide), 1/1.72\", 0.8µm, PDAF\n\n8 MP, f/2.2, 13mm (ultrawide), 1/4.0\", 1.12µm\n\n2 MP (macro)\n\nAuxiliary lens",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@30/60/120fps, 720p@960fps, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "20 MP, f/2.0, (wide), 1/3\", 0.9µm",
+        "Features": "HDR, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "FM radio, recording",
+        "USB": "USB Type-C 2.0"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Po 4500 mAh, non-removable",
+        "Charging": "18W wired"
+      },
+      "Misc": {
+        "Colors": "Black, Red, Blue, White, Deep Sea Blue, Midnight Blue, Electric Blue, Twilight Orange",
+        "Models": "2015105, M1906G7I, M1906G7G",
+        "SAR": "1.15 W/kg (head) &nbsp; &nbsp; 1.18 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "1.00 W/kg (head) &nbsp; &nbsp; 1.47 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 220 EUR"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 224759 (v7), 279355 (v8)\n\nGeekBench: 6999 (v4.4), 1622 (v5.1)\n\nGFXBench: 14fps (ES 3.1 onscreen)",
+        "Display": "<a class=\"noUnd\" href=\"xiaomi_redmi_note_8_pro-review-1997p3.php#dt\">1326:1 contrast ratio, 640 nits max brightness (measured)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=9812&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=9812&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"xiaomi_redmi_note_8_pro-review-1997p3.php#lt\">Voice 64dB / Noise 71dB / Ring 82dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"xiaomi_redmi_note_8_pro-review-1997p3.php#aq\">Noise -93.6dB / Crosstalk -91.9dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 9812); \">Endurance rating 114h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-8-pro-0.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-8-pro-01.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-8-pro-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-8-pro-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-8-pro-twilight-orange.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/xiaomi_redmi_note_8_pro-pictures-9812.php"
+    }
+  }
+}

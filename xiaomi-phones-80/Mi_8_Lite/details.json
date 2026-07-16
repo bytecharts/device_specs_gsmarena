@@ -1,0 +1,116 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Xiaomi Mi 8 Lite",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-mi-8-lite-2.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-8-lite-.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/xiaomi_mi_8_lite-review-1859.php",
+    "siblingDeviceSlugs": [
+      "xiaomi_redmi_note_8_pro-9812",
+      "xiaomi_mi_8-9065",
+      "xiaomi_mi_8_se-9219",
+      "xiaomi_redmi_note_8-9814",
+      "xiaomi_redmi_8-9800",
+      "xiaomi_poco_x8_pro_5g-14506",
+      "xiaomi_17t_pro_5g-14651"
+    ],
+    "release_date": "Released 2018, September",
+    "dimensions": "169g, 7.5mm thickness",
+    "os": "Android 8.1, up to Android 10, MIUI 11",
+    "storage": "64GB/128GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - Global",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 20, 28, 38, 40 - Global",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE (2CA) Cat6 300/50 Mbps",
+        "Features": "CDMA 800 &amp; TD-SCDMA - China\nHSDPA 850 / 900 / 1900 / 2100 - China\n1, 3, 5, 7, 8, 34, 38, 39, 40, 41 - China"
+      },
+      "Launch": {
+        "Announced": "2018, September. Released 2018, September",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "156.4 x 75.8 x 7.5 mm (6.16 x 2.98 x 0.30 in)",
+        "Weight": "169 g (5.96 oz)",
+        "Build": "Glass front, glass back, aluminum frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "6.26 inches, 97.8 cm<sup>2</sup> (~82.5% screen-to-body ratio)",
+        "Resolution": "1080 x 2280 pixels, 19:9 ratio (~403 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 8.1 (Oreo), upgradable to Android 10, MIUI 11",
+        "Chipset": "Qualcomm SDM660 Snapdragon 660 (14 nm)",
+        "CPU": "Octa-core (4x2.2 GHz Kryo 260 Gold &amp; 4x1.8 GHz Kryo 260 Silver)",
+        "GPU": "Adreno 512"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (uses shared SIM slot)",
+        "Internal": "64GB 4GB RAM, 64GB 6GB RAM, 128GB 4GB RAM, 128GB 6GB RAM",
+        "Features": "eMMC 5.1"
+      },
+      "Main Camera": {
+        "Dual": "12 MP, f/1.9, 1/2.55\", 1.4µm, dual pixel PDAF\n\nAuxiliary lens",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@60/120fps, 1080p@30fps (gyro-EIS)"
+      },
+      "Selfie camera": {
+        "Single": "24 MP, f/2.0, 26mm (wide), 1/2.8\", 0.9µm",
+        "Features": "Auto HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS, GLONASS, BDS",
+        "NFC": "No",
+        "Radio": "No",
+        "USB": "USB Type-C"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Po 3350 mAh, non-removable",
+        "Charging": "18W wired, QC3"
+      },
+      "Misc": {
+        "Colors": "Midnight Black, Aurora Blue, Twilight Gold",
+        "Models": "M1808D2TG",
+        "SAR": "0.75 W/kg (head) &nbsp; &nbsp; 1.58 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 360 EUR"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 143257 (v7)\n\nGeekBench: 5894 (v4.4)\n\nGFXBench: 8fps (ES 3.1 onscreen)",
+        "Display": "<a class=\"noUnd\" href=\"xiaomi_mi_8_lite-review-1859p3.php#dt\">Contrast ratio: 1453 (nominal), 2.862 (sunlight)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=9329&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=9329&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"xiaomi_mi_8_lite-review-1859p3.php#lt\">Voice 67dB / Noise 77dB / Ring 77dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"xiaomi_mi_8_lite-review-1859p3.php#aq\">Noise -93.5dB / Crosstalk -35.4dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 9329); \">Endurance rating 77h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-mi-8-lite-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-mi-8-lite-.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-mi-8-lite-5.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/xiaomi_mi_8_lite-pictures-9329.php"
+    }
+  }
+}

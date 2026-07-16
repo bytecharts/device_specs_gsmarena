@@ -1,0 +1,95 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Xiaomi Redmi Watch 5",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-watch5-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-watch-5.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "xiaomi_redmi_watch_6-14281",
+      "xiaomi_redmi_watch_5_active-13286",
+      "xiaomi_redmi_watch_5_lite-13361",
+      "xiaomi_redmi_watch_4-12711",
+      "huawei_watch_fit_4-14113",
+      "honor_watch_x5i-14580"
+    ],
+    "release_date": "Released 2025, January 15",
+    "dimensions": "33.5g, 11.3mm thickness",
+    "os": "HyperOS",
+    "storage": "164MB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">No cellular connectivity</a>",
+        "2G bands": "N/A",
+        "3G bands": "N/A",
+        "4G bands": "N/A",
+        "Speed": "No",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2024, November 27",
+        "Status": "Available. Released 2025, January 15"
+      },
+      "Body": {
+        "Dimensions": "47.5 x 41.1 x 11.3 mm (1.87 x 1.62 x 0.44 in)",
+        "Weight": "33.5 g (1.20 oz)",
+        "Build": "Plastic back, aluminum frame",
+        "SIM": "<a href=\"glossary.php3?term=esim\">eSIM</a> (China only)",
+        "Features": "Waterproof (5ATM)\n\n50m water resistant"
+      },
+      "Display": {
+        "Type": "AMOLED, 1500 nits (peak)",
+        "Size": "2.1 inches",
+        "Resolution": "432 x 514 pixels (~324 ppi density)"
+      },
+      "Platform": {
+        "OS": "HyperOS"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "164MB"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "5.3, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS, QZSS",
+        "NFC": "NFC (China only)",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, heart rate, compass, gyro, SpO2"
+      },
+      "Battery": {
+        "Type": "550 mAh"
+      },
+      "Misc": {
+        "Colors": "Black, Silver, Beige",
+        "Models": "M2427W1, M2428W1",
+        "Price": "<a href=\"xiaomi_redmi_watch_5-price-13658.php\">$ 98.71 / € 109.99</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-watch5-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-watch5-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-watch5-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/xiaomi_redmi_watch_5-pictures-13658.php"
+    }
+  }
+}

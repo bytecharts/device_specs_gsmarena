@@ -1,0 +1,109 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Xiaomi Redmi 8",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-8-3.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-8.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "xiaomi_redmi_8a-9897",
+      "xiaomi_redmi_note_8-9814",
+      "xiaomi_redmi_8a_pro-10169",
+      "xiaomi_redmi_9-10233",
+      "xiaomi_redmi_note_8_pro-9812",
+      "xiaomi_redmi_7-9498"
+    ],
+    "release_date": "Released 2019, October 12",
+    "dimensions": "188g, 9.4mm thickness",
+    "os": "Android 9.0, up to Android 10, MIUI 12",
+    "storage": "32GB/64GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - Global",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 20, 38, 40 - Global",
+        "Speed": "HSPA, LTE",
+        "Features": "HSDPA 850 / 900 / 1900 / 2100 - India\n1, 3, 5, 8, 40, 41 - India"
+      },
+      "Launch": {
+        "Announced": "2019, October 09. Released 2019, October 12",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "156.5 x 75.4 x 9.4 mm (6.16 x 2.97 x 0.37 in)",
+        "Weight": "188 g (6.63 oz)",
+        "Build": "Glass front (Gorilla Glass 5), plastic back, plastic frame",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "Water-repellent coating"
+      },
+      "Display": {
+        "Type": "IPS LCD, 400 nits (typ)",
+        "Size": "6.22 inches, 96.6 cm<sup>2</sup> (~81.8% screen-to-body ratio)",
+        "Resolution": "720 x 1520 pixels, 19:9 ratio (~270 ppi density)",
+        "Protection": "Corning Gorilla Glass 5"
+      },
+      "Platform": {
+        "OS": "Android 9.0 (Pie), upgradable to Android 10, MIUI 12",
+        "Chipset": "Qualcomm SDM439 Snapdragon 439 (12 nm)",
+        "CPU": "Octa-core (4x1.95 GHz Cortex-A53 &amp; 4x1.45 GHz Cortex A53)",
+        "GPU": "Adreno 505"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "32GB 3GB RAM, 64GB 4GB RAM",
+        "Features": "eMMC 5.1"
+      },
+      "Main Camera": {
+        "Single": "12 MP, f/1.8, 1/2.55\", 1.4µm, dual pixel PDAF\n\nAuxiliary lens",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, f/2.0, 1/4.0\", 1.12µm",
+        "Features": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
+        "Bluetooth": "4.2, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS",
+        "NFC": "No",
+        "Infrared port": "Yes",
+        "Radio": "Wireless FM radio (no wired headphones required)",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (rear-mounted), accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Po 5000 mAh, non-removable",
+        "Charging": "18W wired"
+      },
+      "Misc": {
+        "Colors": "Onyx Black, Ruby Red, Sapphire Blue, Phantom Red",
+        "Models": "M1908C3IC, MZB8255IN, M1908C3IG, M1908C3IH",
+        "SAR": "0.34 W/kg (head) &nbsp; &nbsp; 1.00 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.23 W/kg (head) &nbsp; &nbsp; 1.48 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 210 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-8-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-8-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/xiaomi_redmi_8-pictures-9800.php"
+    }
+  }
+}

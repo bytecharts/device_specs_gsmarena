@@ -1,0 +1,92 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Xiaomi Watch S1 Pro",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-watch-s1-pro1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-watch-s1-pro.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/xiaomi_watch_s1_pro_review-news-57857.php",
+    "siblingDeviceSlugs": [
+      "xiaomi_watch_s1-11293"
+    ],
+    "release_date": "Released 2022, August 12",
+    "dimensions": "48.5g, 11.3mm thickness",
+    "os": "MIUI Watch OS",
+    "storage": "Unspecified storage storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">No cellular connectivity</a>",
+        "2G bands": "N/A",
+        "3G bands": "N/A",
+        "4G bands": "N/A",
+        "Speed": "No",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2022, August 12",
+        "Status": "Available. Released 2022, August 12"
+      },
+      "Body": {
+        "Dimensions": "46 x 46 x 11.3 mm (1.81 x 1.81 x 0.44 in)",
+        "Weight": "48.5 g (1.73 oz)",
+        "Build": "Sapphire crystal front, stainless steel frame, sapphire crystal (heart rate zone), plastic back",
+        "SIM": "No",
+        "Features": "Waterproof (5ATM)"
+      },
+      "Display": {
+        "Type": "AMOLED, 600 nits (typ)",
+        "Size": "1.47 inches",
+        "Resolution": "480 x 480 pixels (~462 ppi density)"
+      },
+      "Platform": {
+        "OS": "MIUI Watch OS"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "Unspecified storage"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n (China only)",
+        "Bluetooth": "5.2, A2DP, LE",
+        "Positioning": "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, compass, barometer, heart rate, SpO2, thermometer (body temperature)"
+      },
+      "Battery": {
+        "Type": "Li-Po 500 mAh",
+        "Charging": "Wireless, 100% in 85 min"
+      },
+      "Misc": {
+        "Colors": "Black, Silver",
+        "Models": "M2135W1, M2134W1",
+        "Price": "About 220 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-watch-s1-pro1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-watch-s1-pro2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-watch-s1-pro3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/xiaomi_watch_s1_pro-pictures-11760.php"
+    }
+  }
+}

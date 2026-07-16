@@ -1,0 +1,84 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Xiaomi Mi 6c",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/smartphone.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/smartphone.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Cancelled",
+    "dimensions": "",
+    "os": "Android 7.1, MIUI 9",
+    "storage": "64GB/128GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 900 / 1800 / 1900 - SIM 1 &amp; SIM 2",
+        "3G bands": "HSDPA &amp; TD-SCDMA",
+        "4G bands": "LTE",
+        "GPRS": "Yes",
+        "EDGE": "Yes"
+      },
+      "Launch": {
+        "Announced": "Not announced yet",
+        "Status": "Cancelled"
+      },
+      "Body": {
+        "Dimensions": "-",
+        "Weight": "-",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "5.15 inches, 73.1 cm<sup>2</sup>",
+        "Resolution": "1080 x 1920 pixels, 16:9 ratio (~428 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 7.1 (Nougat), MIUI 9",
+        "Chipset": "Xiaomi Surge S2",
+        "CPU": "Octa-core (4x2.3 GHz Cortex-A73 &amp; 4x1.8 GHz Cortex-A53)",
+        "GPU": "Mali-G71 MP12"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "64GB 4GB RAM, 128GB 6GB RAM"
+      },
+      "Main Camera": {
+        "Dual": "12 MP, 1/2.9\", 1.25µm, PDAF, OIS\n\nAuxiliary lens",
+        "Features": "Dual-LED dual-tone flash, HDR, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, f/2.2, 27mm (wide)",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "4.2, A2DP, LE",
+        "Positioning": "GPS, GLONASS, BDS",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "USB Type-C"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (front-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Ion, non-removable",
+        "Charging": "10W wired"
+      },
+      "Misc": {
+        "Colors": "Black, Gold, Rose Gold"
+      }
+    }
+  }
+}

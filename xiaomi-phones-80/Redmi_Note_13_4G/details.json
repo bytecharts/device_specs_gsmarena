@@ -1,0 +1,113 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Xiaomi Redmi Note 13 4G",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-13-4g-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-13-4g.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/xiaomi_redmi_note_13_4g-review-2666.php",
+    "siblingDeviceSlugs": [
+      "xiaomi_redmi_note_13-12776",
+      "xiaomi_redmi_note_13_pro-12581",
+      "xiaomi_redmi_note_13_pro_4g-12749",
+      "xiaomi_redmi_13-13102"
+    ],
+    "release_date": "Released 2024, January 15",
+    "dimensions": "188.5g, 8mm thickness",
+    "os": "Android 13, up to 15",
+    "storage": "128GB/256GB/512GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "1, 3, 5, 7, 8, 20, 28, 38, 40, 41",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2024, January 15",
+        "Status": "Available. Released 2024, January 15"
+      },
+      "Body": {
+        "Dimensions": "162.3 x 75.6 x 8 mm (6.39 x 2.98 x 0.31 in)",
+        "Weight": "188.5 g (6.67 oz)",
+        "Build": "Glass front (Gorilla Glass 3), plastic frame, plastic back",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "IP54 dust protected and water resistant (water splashes)"
+      },
+      "Display": {
+        "Type": "AMOLED, 120Hz, 960Hz PWM, 1800 nits (peak)",
+        "Size": "6.67 inches, 107.4 cm<sup>2</sup> (~87.5% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~395 ppi density)",
+        "Protection": "Corning Gorilla Glass 3"
+      },
+      "Platform": {
+        "OS": "Android 13, upgradable to Android 15, up to 3 major Android upgrades, HyperOS 2",
+        "Chipset": "Qualcomm SM6225 Snapdragon 685 (6 nm)",
+        "CPU": "Octa-core (4x2.8 GHz Cortex-A73 &amp; 4x1.9 GHz Cortex-A53)",
+        "GPU": "Adreno 610"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (uses shared SIM slot)",
+        "Internal": "128GB 6GB RAM, 128GB 8GB RAM, 256GB 6GB RAM, 256GB 8GB RAM, 512GB 8GB RAM",
+        "Features": "UFS 2.2"
+      },
+      "Main Camera": {
+        "Triple": "108 MP, f/1.8, 24mm (wide), 1/1.67\", 0.64µm, PDAF\n\n8 MP, f/2.2, 120˚, (ultrawide)\n\n2 MP (macro)",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "16 MP, f/2.4, (wide)",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.1, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS",
+        "NFC": "Yes (market/region dependent)",
+        "Infrared port": "Yes",
+        "Radio": "Unspecified",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "33W wired, 50% in 29 min, 100% in 70 min"
+      },
+      "Misc": {
+        "Colors": "Midnight Black, Mint Green, Ice Blue, Ocean Sunset",
+        "Models": "23129RAA4G, 23124RA7EO, 23129RA5FL",
+        "SAR": "0.98 W/kg (head) &nbsp; &nbsp; 0.49 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.77 W/kg (head) &nbsp; &nbsp; 0.98 W/kg (body) &nbsp; &nbsp;",
+        "Price": "<a href=\"xiaomi_redmi_note_13_4g-price-12750.php\">£ 179.99 / € 157.00</a>"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 316857 (v9), 383407 (v10)\n\n\n\nGeekBench: 1817 (v5), 1542 (v6)\n\n3DMark: 137 (Wild Life Extreme)",
+        "Display": "<a class=\"noUnd\" href=\"xiaomi_redmi_note_13_4g-review-2666p3.php#dt\">1313 nits max brightness (measured)</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"xiaomi_redmi_note_13_4g-review-2666p3.php#lt\">-25.8 LUFS (Very good)</a>",
+        "Battery": "<div style=\"position:relative;\">\n<a href=\"xiaomi_redmi_note_13_4g-review-2666p3.php#bt\" data-battery2=\"23:52_11:07_13:55_7:18\" onclick=\"showBatteryPopup(event, 12750); \" class=\"v2\">Active use score 11:52h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-13-4g-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-13-4g-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-13-4g-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/xiaomi_redmi_note_13_4g-pictures-12750.php"
+    }
+  }
+}

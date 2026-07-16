@@ -1,0 +1,97 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Xiaomi Poco C50",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-poco-c50-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-c50.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2023, January 10",
+    "dimensions": "192g, 9.1mm thickness",
+    "os": "Android 12",
+    "storage": "32GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "1, 3, 5, 8, 40, 41",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2023, January 03",
+        "Status": "Available. Released 2023, January 10"
+      },
+      "Body": {
+        "Dimensions": "164.9 x 76.8 x 9.1 mm (6.49 x 3.02 x 0.36 in)",
+        "Weight": "192 g (6.77 oz)",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "Dust &amp; splash resistant"
+      },
+      "Display": {
+        "Type": "IPS LCD, 400 nits",
+        "Size": "6.52 inches, 102.6 cm<sup>2</sup> (~81.0% screen-to-body ratio)",
+        "Resolution": "720 x 1600 pixels, 20:9 ratio (~269 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 12 (Go edition)",
+        "Chipset": "Mediatek MT6761 Helio A22 (12 nm)",
+        "CPU": "Quad-core 2.0 GHz Cortex-A53",
+        "GPU": "PowerVR GE8320"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "32GB 2GB RAM, 32GB 3GB RAM",
+        "Features": "eMMC 5.1"
+      },
+      "Main Camera": {
+        "Single": "8 MP, f/2.0, (wide)\n\nAuxiliary lens",
+        "Features": "Dual-LED flash, HDR",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "5 MP, f/2.0",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS, GLONASS, BDS",
+        "NFC": "No",
+        "Radio": "FM radio, recording",
+        "USB": "microUSB 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (rear-mounted), accelerometer",
+        "Features": "Virtual proximity sensing"
+      },
+      "Battery": {
+        "Type": "Li-Po 5000 mAh",
+        "Charging": "10W wired"
+      },
+      "Misc": {
+        "Colors": "Country Green, Royal Blue",
+        "Models": "MZB0D3DIN, 220733SPI, 220733SPH",
+        "SAR": "0.87 W/kg (head) &nbsp; &nbsp; 0.84 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 80 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-poco-c50-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-poco-c50-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/xiaomi_poco_c50-pictures-12053.php"
+    }
+  }
+}

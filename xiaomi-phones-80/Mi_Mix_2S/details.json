@@ -1,0 +1,108 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Xiaomi Mi Mix 2S",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-mi-mix-2s-2.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-mix-2s.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/xiaomi_mi_mix_2s-review-1758.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2018, April",
+    "dimensions": "191g, 8.1mm thickness",
+    "os": "Android 8.0, up to Android 10, MIUI 12",
+    "storage": "64GB/128GB/256GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / EVDO / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1800 / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 27, 28, 29, 30, 34, 38, 39, 40, 41",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE (3CA) Cat18 1200/100 Mbps",
+        "Features": "CDMA 800 / 1900 &amp; TD-SCDMA\nCDMA2000 1xEV-DO"
+      },
+      "Launch": {
+        "Announced": "2018, March. Released 2018, April",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "150.9 x 74.9 x 8.1 mm (5.94 x 2.95 x 0.32 in)",
+        "Weight": "191 g (6.74 oz)",
+        "Build": "Glass front (Gorilla Glass 4), ceramic back, aluminum frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "5.99 inches, 92.6 cm<sup>2</sup> (~81.9% screen-to-body ratio)",
+        "Resolution": "1080 x 2160 pixels, 18:9 ratio (~403 ppi density)",
+        "Protection": "Corning Gorilla Glass 4"
+      },
+      "Platform": {
+        "OS": "Android 8.0 (Oreo), upgradable to Android 10, MIUI 12",
+        "Chipset": "Qualcomm SDM845 Snapdragon 845 (10 nm)",
+        "CPU": "Octa-core (4x2.8 GHz Kryo 385 Gold &amp; 4x1.8 GHz Kryo 385 Silver)",
+        "GPU": "Adreno 630"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "64GB 6GB RAM, 128GB 6GB RAM, 256GB 8GB RAM",
+        "Features": "UFS 2.1"
+      },
+      "Main Camera": {
+        "Dual": "12 MP, f/1.8, (wide), 1/2.55\", 1.4µm, dual pixel PDAF, 4-axis OIS\n\n12 MP, f/2.4, (telephoto), 1/3.4\", 1.0µm, AF, 2x optical zoom",
+        "Features": "Dual-LED dual-tone flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@30/120fps, 720p@240fps"
+      },
+      "Selfie camera": {
+        "Single": "5 MP, f/2.0, (wide), 1/4.0\", 1.4µm",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS, GLONASS, BDS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (rear-mounted), accelerometer, gyro, compass",
+        "Features": "Virtual proximity sensing"
+      },
+      "Battery": {
+        "Type": "Li-Ion 3400 mAh, non-removable",
+        "Charging": "18W wired, QC3\n\n7.5W wireless (Qi)"
+      },
+      "Misc": {
+        "Colors": "Black, White",
+        "Models": "M1803D5XA",
+        "SAR": "0.54 W/kg (head) &nbsp; &nbsp; 1.59 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 270 EUR"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 270814 (v7)\n\nGeekBench: 9158 (v4.4)\n\nGFXBench: 34fps (ES 3.1 onscreen)",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"xiaomi_mi_mix_2s-review-1758p3.php#lt\">Voice 68dB / Noise 70dB / Ring 81dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"xiaomi_mi_mix_2-review-1674p3.php#aq\">Noise -93.0dB / Crosstalk -92.5dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 9067); \">Endurance rating 59h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-mi-mix-2s-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-mi-mix-2s-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-mi-mix-2s-4.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-mi-mix-2s-5.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/xiaomi_mi_mix_2s-pictures-9067.php"
+    }
+  }
+}

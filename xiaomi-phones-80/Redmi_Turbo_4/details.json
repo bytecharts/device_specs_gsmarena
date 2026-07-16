@@ -1,0 +1,104 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Xiaomi Redmi Turbo 4",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-turbo4-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-turbo4.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "xiaomi_redmi_turbo_4_pro-13617",
+      "xiaomi_redmi_turbo_5_5g-14454",
+      "xiaomi_redmi_turbo_3-12920",
+      "vivo_iqoo_z10_turbo_5g-13822"
+    ],
+    "release_date": "Released 2025, January 02",
+    "dimensions": "203.5g, 8.1mm thickness",
+    "os": "Android 15, HyperOS 2",
+    "storage": "256GB/512GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / CDMA2000 / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 2100",
+        "4G bands": "1, 3, 4, 5, 8, 18, 19, 26, 28, 34, 38, 39, 40, 41, 42, 48, 66",
+        "5G bands": "1, 3, 5, 8, 28, 38, 40, 41, 48, 66, 77, 78 SA/NSA/Sub6",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "CDMA 800\nCDMA2000 1x"
+      },
+      "Launch": {
+        "Announced": "2025, January 02",
+        "Status": "Available. Released 2025, January 02"
+      },
+      "Body": {
+        "Dimensions": "161 x 75.2 x 8.1 mm (6.34 x 2.96 x 0.32 in)",
+        "Weight": "203.5 g (7.20 oz)",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "IP68 dust tight and water resistant (immersible up to 2m for 30 min)"
+      },
+      "Display": {
+        "Type": "AMOLED, 68B colors, 120Hz, 1920Hz PWM, Dolby Vision, HDR10+, HDR Vivid, 1400 nits (HBM), 3200 nits (peak)",
+        "Size": "6.67 inches, 107.4 cm<sup>2</sup> (~88.7% screen-to-body ratio)",
+        "Resolution": "1220 x 2712 pixels, 20:9 ratio (~446 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 15, HyperOS 2",
+        "Chipset": "Mediatek Dimensity 8400 Ultra (4 nm)",
+        "CPU": "Octa-core (1x3.25 GHz Cortex-A725 &amp; 3x3.0 GHz Cortex-A725 &amp; 4x2.1 GHz Cortex-A725)",
+        "GPU": "G720 MC7"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 12GB RAM, 256GB 16GB RAM, 512GB 12GB RAM, 512GB 16GB RAM",
+        "Features": "UFS 4.0"
+      },
+      "Main Camera": {
+        "Dual": "50 MP, f/1.5, 26mm (wide), 1/1.95\", 0.8µm, PDAF, OIS\n\n8 MP, f/2.2, 15mm (ultrawide), 1/4.0\", 1.12µm",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "4K@24/30/60fps, 1080p@30/60/120/240/960fps, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "20 MP, f/2.2, (wide), 1/4\"",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No",
+        "Features": "24-bit/192kHz Hi-Res &amp; Hi-Res Wireless audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+        "Bluetooth": "6.0, A2DP, LE, aptX, LHDC 5",
+        "Positioning": "GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5)",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Si/C Li-Ion 6550 mAh",
+        "Charging": "90W wired, PD3.0, QC3+, 100% in 45 min"
+      },
+      "Misc": {
+        "Colors": "Black, White, Blue",
+        "Models": "24129RT7CC",
+        "Price": "About 270 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-turbo4-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-turbo4-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/xiaomi_redmi_turbo_4-pictures-13598.php"
+    }
+  }
+}
