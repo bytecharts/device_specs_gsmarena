@@ -1,0 +1,96 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 7280",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/no7280_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/no7280.gif"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/nokia_7280-review-24.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2004, Q3",
+    "dimensions": "84g, 19mm thickness",
+    "os": "Feature phone",
+    "storage": "50MB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "GPRS": "Class 10",
+        "EDGE": "Class 8"
+      },
+      "Launch": {
+        "Announced": "2004, Q3",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "115 x 32 x 19 mm, 64 cc (4.53 x 1.26 x 0.75 in)",
+        "Weight": "84 g (2.96 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 65K colors",
+        "Size": "",
+        "Resolution": "208 x 104 pixels, 18:9 ratio",
+        "Features": "Downloadable themes"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "1000 x 10 fields, Photo call",
+        "Call records": "10 dialed, 10 received, 10 missed calls",
+        "Internal": "50MB",
+        "Features": "70 voice commands\n\n3 min voice memo"
+      },
+      "Main Camera": {
+        "Single": "VGA",
+        "Video": "No"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "Alert types": "Vibration; Downloadable polyphonic, MP3/AAC ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "1.1",
+        "Positioning": "No",
+        "Infrared port": "Yes",
+        "Radio": "Stereo FM radio",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "No",
+        "Java": "No",
+        "Features": "SyncML\n\nOrganizer\n\nVoice command\n\nVoice memo"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 700 mAh battery (BL-8N)",
+        "Stand-by": "Up to 240 h",
+        "Talk time": "Up to 3 h"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "SAR": "0.71 W/kg (head) &nbsp; &nbsp; 0.75 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.83 W/kg (head) &nbsp; &nbsp;"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/no7280_00.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/no7280_01.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_7280-pictures-884.php"
+    }
+  }
+}

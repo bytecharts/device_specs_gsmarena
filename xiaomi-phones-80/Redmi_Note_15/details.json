@@ -1,0 +1,116 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Xiaomi Redmi Note 15",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-15-global-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-15-global.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/redmi_note_15_5g-review-2927.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2026, January 06",
+    "dimensions": "178g, 7.4mm thickness",
+    "os": "Android 15, up to 4 major upgrades, HyperOS 2",
+    "storage": "128GB/256GB/512GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100 - International",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 26, 28, 32, 38, 40, 41, 42, 48, 66, 71 - International",
+        "5G bands": "1, 2, 3, 5, 7, 8, 12, 20, 26, 28, 38, 40, 41, 48, 66, 71, 77, 78 SA/NSA - International",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "HSDPA 850 / 900 / 2100 - India\n1, 3, 5, 8, 28, 40, 41 - India\n1, 3, 5, 8, 28, 40, 78 SA/NSA - India"
+      },
+      "Launch": {
+        "Announced": "2025, December 18",
+        "Status": "Available. Released 2026, January 06"
+      },
+      "Body": {
+        "Dimensions": "164 x 75.4 x 7.4 mm (6.46 x 2.97 x 0.29 in)",
+        "Weight": "178 g (6.28 oz)",
+        "Build": "Glass front, plastic frame, plastic back",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "IP66 dust tight and water resistant (high pressure water jets)\n\nDrop resistant up to 1.7m\n\nMIL-STD-810H compliant*\n\n* does not guarantee ruggedness or use in extreme conditions"
+      },
+      "Display": {
+        "Type": "AMOLED, 68B colors, 120Hz, 3840Hz PWM, HDR10+, 800 nits (typ), 3200 nits (peak)",
+        "Size": "6.77 inches, 110.9 cm<sup>2</sup> (~89.7% screen-to-body ratio)",
+        "Resolution": "1080 x 2392 pixels (~388 ppi density)",
+        "Protection": "Scratch/drop-resistant glass, Mohs level 5"
+      },
+      "Platform": {
+        "OS": "Android 15, up to 4 major Android upgrades, HyperOS 2",
+        "Chipset": "Qualcomm SM6475-AB Snapdragon 6 Gen 3 (4 nm)",
+        "CPU": "Octa-core (4x2.4 GHz Cortex-A78 &amp; 4x1.8 GHz Cortex-A55)",
+        "GPU": "Adreno 710"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (uses shared SIM slot)",
+        "Internal": "128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM, 512GB 8GB RAM, 512GB 12GB RAM",
+        "Features": "UFS 2.2"
+      },
+      "Main Camera": {
+        "Dual": "108 MP, f/1.7, 24mm (wide), 1/1.67\", 0.64µm, PDAF, OIS\n\n8 MP, f/2.2, 16mm (ultrawide), 1/4.0\", 1.12µm",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@30fps, gyro-EIS, OIS"
+      },
+      "Selfie camera": {
+        "Single": "20 MP, f/2.2, 21mm (wide), 1/4.0\"",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers (with Dolby Atmos)",
+        "3.5mm jack": "No",
+        "Features": "24-bit/192kHz Hi-Res audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.1 or 5.3, A2DP, LE",
+        "Positioning": "GPS, GLONASS, BDS, GALILEO",
+        "NFC": "Yes (market/region dependent)",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, compass",
+        "Features": "Virtual proximity sensing"
+      },
+      "Battery": {
+        "Type": "Si/C Li-Ion 5520 mAh",
+        "Charging": "45W wired\n\n18W reverse wired"
+      },
+      "Misc": {
+        "Colors": "Black, Glacier Blue, Mist Purple",
+        "Models": "25096RA9BG, 25098RA98G",
+        "SAR EU": "1.00 W/kg (head) &nbsp; &nbsp; 0.99 W/kg (body) &nbsp; &nbsp;",
+        "Price": "<a href=\"xiaomi_redmi_note_15_5g_(global)-price-14328.php\">$ 249.50 / £ 199.00 / € 229.90</a>"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 637266 (v10)\n\nGeekBench: 2958 (v6)\n\n3DMark: 861 (Wild Life Extreme)",
+        "Display": "<a class=\"noUnd\" href=\"redmi_note_15-review-2927p3.php#dt\">1524 nits max brightness (measured)</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"redmi_note_15-review-2927p3.php#lt\">-23.4 LUFS (Very good)</a>",
+        "Battery": "<div style=\"position:relative;\">\n<a href=\"redmi_note_15-review-2927p3.php#bt\" data-battery2=\"31:42_13:28_21:17_7:12\" onclick=\"showBatteryPopup(event, 14328); \" class=\"v2\">Active use score 14:12h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      },
+      "EU LABEL": {
+        "Energy": "Class B",
+        "Battery": "51:22h endurance, 1000 cycles",
+        "Free fall": "Class A (270 falls)",
+        "Repairability": "Class C"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-15-global-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-15-global-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/xiaomi_redmi_note_15_5g_(global)-pictures-14328.php"
+    }
+  }
+}

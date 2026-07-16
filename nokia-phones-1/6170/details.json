@@ -1,0 +1,97 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 6170",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/no6170_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/no6170.gif"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/nokia_6170-review-16.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2004, Q3",
+    "dimensions": "121g, 22mm thickness",
+    "os": "Feature phone",
+    "storage": "2.2MB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "GPRS": "Class 10",
+        "EDGE": "Class 10",
+        "Features": "GSM 850 / 1800 / 1900 - US version"
+      },
+      "Launch": {
+        "Announced": "2004, Q3",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "88 x 46 x 22 mm, 79 cc (3.46 x 1.81 x 0.87 in)",
+        "Weight": "121 g (4.27 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 65k colors",
+        "Size": "2.0 inches, 31 x 39 mm, 12.6 cm<sup>2</sup> (~31.1% screen-to-body ratio)",
+        "Resolution": "128 x 160 pixels (~102 ppi density)",
+        "Features": "Second external display 4096 colors (96 x 65 pixels)\n\n5-way navi key\n\nDownloadable themes"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "500 entries, Photo call",
+        "Call records": "Yes",
+        "Internal": "2.2MB"
+      },
+      "Main Camera": {
+        "Single": "VGA",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "Alert types": "Vibration; Downloadable polyphonic, monophonic, MP3 ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "Pop-Port"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS, Email, Instant Messaging",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "Yes, downloadable",
+        "Languages": "Major European and Asia-Pacific languages",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "Push-to-talk service\n\nSyncML\n\nVoice dial\n\nPresence enhanced contacts\n\nOrganizer\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 760 mAh battery (BL-4C)",
+        "Stand-by": "Up to 270 h",
+        "Talk time": "Up to 4 h"
+      },
+      "Misc": {
+        "Colors": "Silver",
+        "SAR": "1.12 W/kg (head) &nbsp; &nbsp; 1.09 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.61 W/kg (head) &nbsp; &nbsp;"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/no6170_00.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/no6170_01.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_6170-pictures-812.php"
+    }
+  }
+}

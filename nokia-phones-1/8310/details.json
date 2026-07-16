@@ -1,0 +1,91 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 8310",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/no8310_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/no8310.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2001",
+    "dimensions": "84g, 19mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "Class 4",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2001",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "97 x 43 x 19 mm, 66 cc (3.82 x 1.69 x 0.75 in)",
+        "Weight": "84 g (2.96 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "Monochrome graphic",
+        "Size": "",
+        "Resolution": "5 lines",
+        "Features": "Dynamic font size Softkey"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "500 names x3 numbers",
+        "Call records": "20 dialed, 10 received, 10 missed calls",
+        "Features": "Memory for 8 voice dial numbers50 calendar notes"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Downloadable monophonic ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Infrared port": "Yes",
+        "Radio": "FM radio",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS",
+        "Browser": "WAP",
+        "Clock": "Yes",
+        "Alarm": "Yes",
+        "Games": "Snake II, Bumper, Pairs II, Snowboard",
+        "Languages": "32 total",
+        "Java": "No",
+        "Features": "2 Coloured PhoneWraps (included)\n\nHandsfree Stereo Headset (included)"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 830 mAh battery (BLB-2)",
+        "Stand-by": "100 - 400 h",
+        "Talk time": "2 - 4 h"
+      },
+      "Misc": {
+        "Colors": "9 Xpress-on covers",
+        "SAR EU": "0.82 W/kg (head) &nbsp; &nbsp;"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/no8310_00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_8310-pictures-241.php"
+    }
+  }
+}

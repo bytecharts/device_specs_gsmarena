@@ -1,0 +1,98 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia N73",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-n73-00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-n73.gif"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/nokia_n73-review-106.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2006, August",
+    "dimensions": "116g, 19mm thickness",
+    "os": "Symbian OS 9.1, S60 3rd edition",
+    "storage": "42MB 64MB RAM storage, miniSD slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / UMTS</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "UMTS 2100",
+        "Speed": "Yes, 384 kbps"
+      },
+      "Launch": {
+        "Announced": "2006, April. Released 2006, August",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "110 x 49 x 19 mm (4.33 x 1.93 x 0.75 in)",
+        "Weight": "116 g (4.09 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "2.4 inches, 36 x 48 mm, 17.8 cm<sup>2</sup> (~33.1% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)",
+        "Features": "Downloadable themes"
+      },
+      "Platform": {
+        "OS": "Symbian OS 9.1, S60 3rd edition",
+        "CPU": "220 MHz Dual ARM 9"
+      },
+      "Memory": {
+        "Card slot": "miniSD",
+        "Internal": "42MB 64MB RAM"
+      },
+      "Main Camera": {
+        "Single": "3.15 MP, AF",
+        "Features": "Carl Zeiss optics, LED flash",
+        "Video": "CIF"
+      },
+      "Selfie camera": {
+        "Single": "VGA videocall camera",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.0, A2DP (latest firmware)",
+        "Positioning": "No",
+        "Infrared port": "Yes",
+        "Radio": "Stereo FM radio",
+        "USB": "Pop-Port 2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Browser": "WAP 2.0/xHTML, HTML",
+        "Features": "Push to talk\n\nVideo download\n\nWMV/RV/MP4/3GP player\n\nMP3/WMA/WAV/RA/AAC/M4A player\n\nPredictive text input\n\nVoice command/dial\n\nOrganizer\n\nPrinting\n\nDocument viewer (Word, Excel, PowerPoint, PDF)\n\nPhoto/video editor"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1100 mAh battery (BP-6M )",
+        "Stand-by": "Up to 350 h (2G) / 370 h (3G)",
+        "Talk time": "Up to 6 h (2G) / 3 h 46 min (3G)"
+      },
+      "Misc": {
+        "Colors": "Silver Grey/Deep Plum, Frost White/Metallic Red, Black (Music Edition)",
+        "SAR": "1.22 W/kg (head) &nbsp; &nbsp; 0.69 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "1.13 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 100 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-n73-00.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-n73-01.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-n73-02.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_n73-pictures-1550.php"
+    }
+  }
+}

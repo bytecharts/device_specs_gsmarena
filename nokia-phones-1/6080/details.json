@@ -1,0 +1,96 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 6080",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-6080-00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-6080.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2006, June",
+    "dimensions": "91g, 18.6mm thickness",
+    "os": "Feature phone",
+    "storage": "4.3MB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "GPRS": "Class 10",
+        "EDGE": "Class 6",
+        "Features": "GSM 850 / 1800 / 1900 - US version"
+      },
+      "Launch": {
+        "Announced": "2006, June",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "105.4 x 44.3 x 18.6 mm (4.15 x 1.74 x 0.73 in)",
+        "Weight": "91 g (3.21 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 65K colors",
+        "Size": "1.78 inches, 10.0 cm<sup>2</sup> (~21.4% screen-to-body ratio)",
+        "Resolution": "128 x 160 pixels (~115 ppi density)",
+        "Features": "Downloadable wallpapers, screensavers"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "Yes, Photo call",
+        "Call records": "20 dialed, 20 received, 20 missed calls",
+        "Internal": "4.3MB"
+      },
+      "Main Camera": {
+        "Single": "VGA",
+        "Video": "SQCIF"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "Alert types": "Vibration; Downloadable polyphonic, MP3, monophonic ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Infrared port": "Yes",
+        "Radio": "Stereo FM radio",
+        "USB": "Pop-Port"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS, Email, Instant Messaging",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "Yes  + Downloadable",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "Push to talk\n\nVideo player\n\nVoice memo\n\nVoice command\n\nPredictive text input\n\nOrganizer"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 820 mAh battery (BL-5B)",
+        "Stand-by": "Up to 300 h",
+        "Talk time": "Up to 3 h 30 min"
+      },
+      "Misc": {
+        "Colors": "Black, Gold",
+        "SAR": "1.06 W/kg (head) &nbsp; &nbsp; 0.46 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.73 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 70 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-6080-00.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-6080-01.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_6080-pictures-1597.php"
+    }
+  }
+}

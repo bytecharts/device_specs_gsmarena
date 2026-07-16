@@ -1,0 +1,94 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 6108",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/no6108_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/no6108.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2003, Q3",
+    "dimensions": "98g, 22.8mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "GPRS": "Yes",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2003, Q3",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "106 x 46.4 x 22.8 mm, 82 cc (4.17 x 1.83 x 0.90 in)",
+        "Weight": "98 g (3.46 oz)",
+        "SIM": "Mini-SIM",
+        "Features": "Stylus"
+      },
+      "Display": {
+        "Type": "CSTN, 4096 colors",
+        "Size": "",
+        "Resolution": "128 x 128 pixels, 8 lines, 1:1 ratio",
+        "Features": "Touchpad under the keyboard\n\nAdjustable display brightness\n\nFour-way scroll\n\nDynamic font size"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "300 names x3 numbers",
+        "Call records": "10 dialed, 10 received, 10 missed calls",
+        "Features": "In shared memory:\n\n- Phonebook\n\n- Calendar"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "Alert types": "Vibration; Downloadable polyphonic ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Infrared port": "Yes",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS, Email",
+        "Browser": "WAP, xHTML",
+        "Clock": "Yes",
+        "Alarm": "Yes",
+        "Games": "Sky Diver, Triple Pop, Bounce + Java downloadable",
+        "Languages": "Major European and Asian languages",
+        "Java": "Yes",
+        "Features": "Handwriting recognition\n\nEnglish \n\nChinese dictionary (100,000 words)\n\nPredictive text input\n\nOrganizer\n\nXpress-on covers\n\nProfiles"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 850 mAh battery (BL-5C)",
+        "Stand-by": "Up to 170 h - 410 h",
+        "Talk time": "Up to 3 h - 7 h"
+      },
+      "Misc": {
+        "Colors": "3 -  Silver Blue, Silver Yellow and Silver Rose",
+        "SAR": "0.55 W/kg (head) &nbsp; &nbsp; 0.80 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.60 W/kg (head) &nbsp; &nbsp;"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/no6108_00.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/no6108_01.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_6108-pictures-443.php"
+    }
+  }
+}

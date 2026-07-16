@@ -1,0 +1,82 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 8855",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/no8855.gif",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/no8855.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2002, Q1",
+    "dimensions": "98g, 21mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2002, Q1",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "102 x 46 x 21 mm, 85 cc (4.02 x 1.81 x 0.83 in)",
+        "Weight": "98 g (3.46 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "Monochrome graphic",
+        "Size": "",
+        "Resolution": "5 lines",
+        "Features": "Bright white backlight\n\nDynamic font size\n\nSoftkey\n\nRhythmic backlight and vibra"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "250",
+        "Call records": "10 dialed, 10 received, 10 missed calls",
+        "Features": "Memory for 8 voice dialnumbers\n\n50 calendar notes"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Downloadable monophonic ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS",
+        "Browser": "WAP",
+        "Clock": "Yes",
+        "Alarm": "Yes",
+        "Games": "3",
+        "Java": "No",
+        "Features": "Picture messaging\n\nPredictive text input\n\nSmart Messaging\n\nOrganizer\n\nInfrared transfer of names and phone numbers\n\nAnalog clock\n\nFull display Profile Logos"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1000 mAh battery (BLB-3)",
+        "Stand-by": "75 h – 225 h",
+        "Talk time": "3h 20min - 4h 15min"
+      },
+      "Misc": {
+        "Colors": "Black"
+      }
+    }
+  }
+}

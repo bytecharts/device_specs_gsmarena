@@ -1,0 +1,94 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 7710",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/no7710_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/no7710.gif"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/nokia_7710-review-31.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2004, Q4",
+    "dimensions": "189g, 19mm thickness",
+    "os": "Symbian 7.0s, Series 90 UI",
+    "storage": "90MB storage, MMC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "GPRS": "Class 10",
+        "EDGE": "Class 10"
+      },
+      "Launch": {
+        "Announced": "2004, Q4",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "128 x 69.5 x 19 mm, 142 cc (5.04 x 2.74 x 0.75 in)",
+        "Weight": "189 g (6.67 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT resistive touchscreen, 65K colors",
+        "Size": "3.5 inches, 79 x 40 mm, 31.6 cm<sup>2</sup> (~35.5% screen-to-body ratio)",
+        "Resolution": "640 x 320 pixels, 18:9 ratio (~204 ppi density)",
+        "Features": "Pen input \n\nPartial mode display (640 x 48 pixels) for saving power"
+      },
+      "Platform": {
+        "OS": "Symbian 7.0s, Series 90 UI",
+        "Chipset": "TI OMAP 1510",
+        "CPU": "168 MHz ARM925T"
+      },
+      "Memory": {
+        "Card slot": "MMC, 128 MB included",
+        "Internal": "90MB"
+      },
+      "Main Camera": {
+        "Single": "1 MP",
+        "Video": "QCIF"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "Alert types": "Vibration; Downloadable polyphonic ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "1.2",
+        "Positioning": "No",
+        "Radio": "FM radio",
+        "USB": "Pop-Port"
+      },
+      "Features": {
+        "Sensors": "",
+        "Browser": "WAP/xHTML, HTML with Flash 6 support",
+        "Features": "Stereo audio/video player\n\nDocument viewer (Word, Excel, PowerPoint, PDF)\n\nOrganizer\n\nVoice recorder\n\nVoice memo"
+      },
+      "Battery": {
+        "Type": "Removable Li-Po 1300 mAh battery (BP-5L)",
+        "Stand-by": "Up to 210 h",
+        "Talk time": "Up to 12 h"
+      },
+      "Misc": {
+        "Colors": "",
+        "SAR": "0.22 W/kg (head) &nbsp; &nbsp; 0.54 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.53 W/kg (head) &nbsp; &nbsp;"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/no7710_00.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/no7710_01.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_7710-pictures-921.php"
+    }
+  }
+}

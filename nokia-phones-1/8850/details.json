@@ -1,0 +1,92 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 8850",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/no8890_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/no8850t.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 1999",
+    "dimensions": "91g, 17mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "1999",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "100 x 44 x 17 mm, 70 cc (3.94 x 1.73 x 0.67 in)",
+        "Weight": "91 g (3.21 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "Monochrome graphic",
+        "Size": "",
+        "Resolution": "5 lines",
+        "Features": "Dynamic font size \n\nSoftkey"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "250",
+        "Call records": "Yes",
+        "Features": "Memory for 8 voice dialnumbers50 calendar notes"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Downloadable monophonic ringtones",
+        "3.5mm jack": "No",
+        "Features": "Space for 5 received ringing tones"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS",
+        "Browser": "",
+        "Clock": "Yes",
+        "Alarm": "Yes",
+        "Games": "3",
+        "Languages": "32 total",
+        "Java": "No",
+        "Features": "Picture messaging\n\nPredictive text input\n\nSmart Messaging\n\nOrganizer\n\nInfrared transfer of names and phone numbers"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 830 mAh battery (BLB-2)",
+        "Stand-by": "50 - 150 h",
+        "Talk time": "2 h - 3 h 20 min"
+      },
+      "Misc": {
+        "Colors": "Metallic",
+        "SAR EU": "0.43 W/kg (head) &nbsp; &nbsp;"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/no8890_00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_8850-pictures-21.php"
+    }
+  }
+}

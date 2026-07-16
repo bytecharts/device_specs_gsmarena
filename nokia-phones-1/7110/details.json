@@ -1,0 +1,92 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 7110",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/no7110_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/no7110b.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released",
+    "dimensions": "141g, 24mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "125 x 53 x 24 mm, 125 cc (4.92 x 2.09 x 0.94 in)",
+        "Weight": "141 g (4.97 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "Monochrome graphic",
+        "Size": "",
+        "Resolution": "96 x 65 pixels, 6 lines, 3:2 ratio",
+        "Features": "Dynamic font size \n\nSoftkey"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "1000",
+        "Call records": "10 dialed, 10 received, 10 missed calls",
+        "Features": "3 numbers and 1 text field for each name"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Downloadable monophonic ringtones",
+        "3.5mm jack": "No",
+        "Features": "Profile Selection\n\nAscending ringing tones\n\nPersonal alert tones"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS",
+        "Browser": "WAP",
+        "Clock": "Yes",
+        "Alarm": "Yes",
+        "Games": "4",
+        "Languages": "34 total",
+        "Java": "No",
+        "Features": "Predictive text input\n\nNavi roller\n\nOrganizer"
+      },
+      "Battery": {
+        "Type": "Slim, Li-Ion 900 mAh, 141 g (BLS-2N)",
+        "Stand-by": "Up to 260 h",
+        "Talk time": "Up to 4 h 30 min"
+      },
+      "Misc": {
+        "Colors": "Dark green"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/no7110_00.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/no7110_01.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_7110-pictures-15.php"
+    }
+  }
+}

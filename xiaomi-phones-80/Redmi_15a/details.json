@@ -1,0 +1,97 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Xiaomi Redmi 15a",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-15a-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-15a.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2026, April 03",
+    "dimensions": "210g, 8.2mm thickness",
+    "os": "Android 16, HyperOS 3, up to 4 major upgrades",
+    "storage": "64GB/128GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "1, 3, 5, 8, 28, 40, 41",
+        "5G bands": "1, 3, 5, 8, 28, 40, 41, 78 SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2026, March 27",
+        "Status": "Available. Released 2026, April 03"
+      },
+      "Body": {
+        "Dimensions": "171.6 x 79.5 x 8.2 mm (6.76 x 3.13 x 0.32 in)",
+        "Weight": "210 g (7.41 oz)",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "Dust and splash resistant"
+      },
+      "Display": {
+        "Type": "IPS LCD, 120Hz, 800 nits (peak)",
+        "Size": "6.9 inches, 114.9 cm<sup>2</sup> (~84.3% screen-to-body ratio)",
+        "Resolution": "720 x 1600 pixels, 20:9 ratio (~254 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 16, HyperOS 3, up to 4 major Android upgrades",
+        "Chipset": "Unisoc T8300 (6 nm)",
+        "CPU": "Octa-core (2x2.2 GHz Cortex-A78 &amp; 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "64GB 4GB RAM, 128GB 4GB RAM, 128GB 6GB RAM",
+        "Features": "UFS 2.2"
+      },
+      "Main Camera": {
+        "Dual": "32 MP, f/2.0, (wide), 1.12µm, AF\n\nAuxiliary lens",
+        "Features": "LED flash, HDR",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, f/2.0, (wide), 1/4.0\", 1.12µm",
+        "Features": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.4, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS",
+        "NFC": "No",
+        "Radio": "FM radio, recording",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, compass",
+        "Features": "Virtual proximity sensing"
+      },
+      "Battery": {
+        "Type": "6300 mAh",
+        "Charging": "15W wired\n\n7.5W reverse wired"
+      },
+      "Misc": {
+        "Colors": "Black, Blue, Purple",
+        "Price": "About 120 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-15a-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-15a-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/xiaomi_redmi_15a_5g-pictures-14565.php"
+    }
+  }
+}

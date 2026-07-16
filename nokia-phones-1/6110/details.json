@@ -1,0 +1,92 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 6110",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/no6110_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/no6110b.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 1998",
+    "dimensions": "137g, 28mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "1998",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "130 x 47 x 28 mm, 130 cc (5.12 x 1.85 x 1.10 in)",
+        "Weight": "137 g (4.83 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "Monochrome graphic",
+        "Size": "",
+        "Resolution": "5 lines",
+        "Features": "Dynamic font size \n\nSoftkey\n\nWelcome message"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "50",
+        "Call records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Downloadable monophonic ringtones",
+        "3.5mm jack": "No",
+        "Features": "6 Ringing tone levels \n\n10 Volume levels\n\nProfile function"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS",
+        "Browser": "",
+        "Clock": "Yes",
+        "Alarm": "Yes",
+        "Games": "3",
+        "Languages": "26",
+        "Java": "No",
+        "Features": "Organizer"
+      },
+      "Battery": {
+        "Type": "Slim, Li-Ion 900 mAh, 143 g (BLS-2N)",
+        "Stand-by": "60-270 h",
+        "Talk time": "3-5 h"
+      },
+      "Misc": {
+        "Colors": "2",
+        "SAR": "1.25 W/kg (head) &nbsp; &nbsp; 0.51 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "1.52 W/kg (head) &nbsp; &nbsp;"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/no6110_00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_6110-pictures-8.php"
+    }
+  }
+}

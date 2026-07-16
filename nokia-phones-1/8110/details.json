@@ -1,0 +1,84 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 8110",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/no8110b.gif",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/no8110b.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "nokia_8110_4g-9089"
+    ],
+    "release_date": "Released 1996",
+    "dimensions": "152g, 25mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "1996",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "141 x 48 x 25 mm (5.55 x 1.89 x 0.98 in)",
+        "Weight": "152 g (5.36 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "Monochrome graphic",
+        "Size": "",
+        "Resolution": "4 x 13 characters",
+        "Features": "Dynamic font size \n\nSoftkey\n\nWelcome message"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "125",
+        "Call records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Monophonic ringtones",
+        "3.5mm jack": "No",
+        "Features": "6 Ringing tone levels \n\n10 Volume levels"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS",
+        "Browser": "",
+        "Clock": "No",
+        "Alarm": "No",
+        "Games": "No",
+        "Languages": "31 total",
+        "Java": "No",
+        "Features": "Conference calling (1+5 persons)"
+      },
+      "Battery": {
+        "Type": "Extended 900 mAh Li-Ion",
+        "Stand-by": "80 - 150 h",
+        "Talk time": "3 - 5 h"
+      },
+      "Misc": {
+        "Colors": "black"
+      }
+    }
+  }
+}

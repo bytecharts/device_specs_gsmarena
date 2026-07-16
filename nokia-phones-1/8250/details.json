@@ -1,0 +1,89 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 8250",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/no8250_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/no8250.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2000",
+    "dimensions": "81g, 19mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2000",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "102.5 x 45 x 19 mm, 69 cc (4.04 x 1.77 x 0.75 in)",
+        "Weight": "81 g (2.86 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "Monochrome graphic",
+        "Size": "",
+        "Resolution": "84 x 48 pixels, 5 lines, 16:9 ratio",
+        "Features": "Blue backlight\n\nDynamic font size\n\nSoftkey\n\nDownloadable profiles, screensavers"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "250",
+        "Call records": "20 dialed, 20 received, 20 missed calls",
+        "Features": "Memory for 8 voice dial numbers\n\n50 calendar notes"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Downloadable monophonic ringtones, composer",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, EMS",
+        "Browser": "",
+        "Clock": "Yes",
+        "Alarm": "Yes",
+        "Games": "4 - Memory, Snake, Logic, Opposite",
+        "Java": "No",
+        "Features": "SMS chat\n\nPredictive text input\n\nOver-the-air activation for sending/receiving phone numbers\n\nBusiness card sending/receiving\n\nOrganizer"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 830 mAh battery (BLB-2)",
+        "Stand-by": "50 h - 150 h",
+        "Talk time": "2 h - 3 h 20 min"
+      },
+      "Misc": {
+        "Colors": "Xpress-on covers"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/no8250_00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_8250-pictures-217.php"
+    }
+  }
+}

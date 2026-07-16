@@ -1,0 +1,116 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Xiaomi 17T Pro",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-17t-pro-0.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-17t-pro.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/xiaomi_17t_pro-review-2965.php",
+    "siblingDeviceSlugs": [
+      "xiaomi_17t_5g-14652"
+    ],
+    "release_date": "Released 2026, May 28",
+    "dimensions": "219g, 8.3mm thickness",
+    "os": "Android 16, HyperOS 3",
+    "storage": "256GB/512GB/1TB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 32, 34, 38, 39, 40, 41, 42, 48, 66, 71",
+        "5G bands": "1, 2, 3, 5, 7, 8, 12, 20, 25, 26, 28, 34, 38, 39, 40, 41, 48, 66, 71, 75, 77, 78 SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2026, May 28",
+        "Status": "Available. Released 2026, May 28"
+      },
+      "Body": {
+        "Dimensions": "162.2 x 77.5 x 8.3 mm (6.39 x 3.05 x 0.33 in)",
+        "Weight": "219 g (7.72 oz)",
+        "Build": "Glass front (Gorilla Glass 7i), aluminum frame, glass back (Gorilla Glass 7i)",
+        "SIM": "· Nano-SIM + Nano-SIM + <a href=\"glossary.php3?term=esim\">eSIM</a> + eSIM (max 2 at a time)\n· Nano-SIM + Nano-SIM",
+        "Features": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)"
+      },
+      "Display": {
+        "Type": "AMOLED, 68B colors, 144Hz, 3840Hz PWM, Dolby Vision, HDR10+, 600 nits (typ), 2000 nits (HBM), 3500 nits (peak)",
+        "Size": "6.83 inches, 114.5 cm<sup>2</sup> (~91.1% screen-to-body ratio)",
+        "Resolution": "1280 x 2772 pixels, 19.5:9 ratio (~447 ppi density)",
+        "Protection": "Corning Gorilla Glass 7i, Mohs level 5"
+      },
+      "Platform": {
+        "OS": "Android 16, HyperOS 3",
+        "Chipset": "Mediatek Dimensity 9500 (3 nm)",
+        "CPU": "Octa-core (1x4.21 GHz C1-Ultra &amp; 3x3.5 GHz C1-Premium &amp; 4x2.7 GHz C1-Pro)",
+        "GPU": "Mali-G1 Ultra MC12"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 12GB RAM, 512GB 12GB RAM, 512GB 16GB RAM, 1TB 12GB RAM",
+        "Features": "UFS 4.1"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, f/1.7, 23mm (wide), 1/1.31\", 1.2µm, multi-directional PDAF (9.5cm - ∞), OIS\n\n50 MP, f/3.0, 115mm (periscope telephoto), 1/2.76\", 0.64µm, PDAF (30cm - ∞), OIS, 5x optical zoom\n\n12 MP, f/2.2, 15mm, 120˚ (ultrawide), 1/3.06\", 1.12µm",
+        "Features": "Leica lens, Color spectrum sensor, Ultra HDR, LED flash, HDR, panorama",
+        "Video": "8K@30fps, 4K@30/60/120fps, 1080p@30/60/120/240/960fps, gyro-EIS, 10-bit Rec. 2020, HDR10+, Log"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.2, 21mm (wide), 1/3.42\", 0.64µm",
+        "Features": "HDR",
+        "Video": "4K@30fps, 1080p@30/60fps, HDR10+"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers (with Dolby Atmos)",
+        "3.5mm jack": "No",
+        "Features": "24-bit/192kHz Hi-Res &amp; Hi-Res Wireless audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, dual-band, Wi-Fi Direct",
+        "Bluetooth": "6.0, A2DP, LE",
+        "Positioning": "GPS (L1+L5), BDS (B1I+B1C+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), NavIC (L5), GLONASS",
+        "NFC": "Yes (market/region dependent)",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Si/C Li-Ion 7000 mAh",
+        "Charging": "100W wired, 100W PPS, PD3.0, QC4\n\n50W wireless\n\n22.5W reverse wired"
+      },
+      "Misc": {
+        "Colors": "Deep Blue, Deep Violet, Black",
+        "Models": "2602EPTC0G",
+        "Price": "<a href=\"xiaomi_17t_pro_5g-price-14651.php\">$ 849.50 / £ 757.02 / € 739.99</a>"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 2795030 (v10), 3352325 (v11)\n\nGeekBench: 9766 (v6)\n\n3DMark: 6939 (Wild Life Extreme)",
+        "Display": "<a class=\"noUnd\" href=\"xiaomi_17t_pro-review-2965p3.php#dt\">1069 nits max brightness (measured)</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"xiaomi_17t_pro-review-2965p3.php#lt\">-25.6 LUFS (Very good)</a>",
+        "Battery": "<div style=\"position:relative;\">\n<a href=\"xiaomi_17t_pro-review-2965p3.php#bt\" data-battery2=\"36:45_21:44_28:21_12:17\" onclick=\"showBatteryPopup(event, 14651); \" class=\"v2\">Active use score 21:41h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      },
+      "EU LABEL": {
+        "Energy": "Class A",
+        "Battery": "70:55h endurance, 1000 cycles",
+        "Free fall": "Class B (180 falls)",
+        "Repairability": "Class C"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-17t-pro-0.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-17t-pro-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/xiaomi_17t_pro_5g-pictures-14651.php"
+    }
+  }
+}

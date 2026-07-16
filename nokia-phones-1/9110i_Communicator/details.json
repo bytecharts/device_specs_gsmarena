@@ -1,0 +1,93 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 9110i Communicator",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/no9110_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/no9110ib.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 1999",
+    "dimensions": "253g, 27mm thickness",
+    "os": "Feature phone",
+    "storage": "8MB storage, MMC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "1999",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "158 x 56 x 27 mm, 218 cc (6.22 x 2.20 x 1.06 in)",
+        "Weight": "253 g (8.92 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "Grayscale LCD",
+        "Size": "4.5 inches, 110 x 35 mm, 37.2 cm<sup>2</sup> (~42.0% screen-to-body ratio)",
+        "Resolution": "640 x 200 pixels (~149 ppi density)",
+        "Features": "Second display"
+      },
+      "Platform": {
+        "CPU": "AMD 486"
+      },
+      "Memory": {
+        "Card slot": "MMC",
+        "Phonebook": "Many",
+        "Call records": "Yes",
+        "Internal": "8MB",
+        "Features": "4 MB Operating System and applications \n\n2 MB program execution\n\n2 MB user data storage \n\nOperating System: GEOSE-mail protocols: SMTP, IMAP4, POP3 and MIME1"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Downloadable monophonic ringtones, composer",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, Email, Fax",
+        "Browser": "WAP, HTML",
+        "Clock": "Yes",
+        "Alarm": "Yes",
+        "Games": "Available separately",
+        "Java": "No",
+        "Features": "Telnet\n\nTerminal\n\nOrganizer\n\nHelp\n\nSystem &amp; security"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1100 mAh battery (BLN-3)",
+        "Stand-by": "60 - 170 h",
+        "Talk time": "3 - 6 h"
+      },
+      "Misc": {
+        "Colors": "Black"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/no9110_00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_9110i_communicator-pictures-18.php"
+    }
+  }
+}

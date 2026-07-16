@@ -1,0 +1,102 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Xiaomi Redmi Turbo 5 Max",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-turbo-5-max-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-turbo-5-max.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "xiaomi_redmi_turbo_4_pro-13617",
+      "xiaomi_redmi_turbo_5_5g-14454"
+    ],
+    "release_date": "Released 2026, January 29",
+    "dimensions": "219g, 8.2mm thickness",
+    "os": "Android 16, HyperOS 3",
+    "storage": "256GB/512GB/1TB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / CDMA2000 / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 2100",
+        "4G bands": "1, 3, 5, 8, 18, 19, 26, 28, 34, 38, 39, 40, 41, 42, 43, 48",
+        "5G bands": "1, 3, 5, 8, 18, 26, 28, 34, 38, 39, 40, 41, 48, 77, 78 SA/NSA/Sub6",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "CDMA 800\nCDMA2000 1x"
+      },
+      "Launch": {
+        "Announced": "2026, January 29",
+        "Status": "Available. Released 2026, January 29"
+      },
+      "Body": {
+        "Dimensions": "163 x 77.9 x 8.2 mm (6.42 x 3.07 x 0.32 in)",
+        "Weight": "219 g (7.72 oz)",
+        "Build": "Glass front, aluminum frame, glass back",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "IP68/IP69K dust tight and water resistant (high pressure water jets; immersible up to 2m for 30 min)"
+      },
+      "Display": {
+        "Type": "AMOLED, 68B colors, 120Hz, 3840Hz PWM, Dolby Vision, HDR10+, HDR Vivid, 3500 nits (peak)",
+        "Size": "6.83 inches, 114.5 cm<sup>2</sup> (~90.2% screen-to-body ratio)",
+        "Resolution": "1280 x 2772 pixels, 19.5:9 ratio (~447 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 16, HyperOS 3",
+        "Chipset": "Mediatek Dimensity 9500s (3 nm)",
+        "CPU": "Octa-core (1x3.73 GHz Cortex-X925 &amp; 3xX.X GHz Cortex-X4 &amp; 4xX.X GHz Cortex-A720)",
+        "GPU": "Immortalis-G925 MC12"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 12GB RAM, 256GB 16GB RAM, 512GB 12GB RAM, 512GB 16GB RAM, 1TB 16GB RAM",
+        "Features": "UFS 4.1"
+      },
+      "Main Camera": {
+        "Dual": "50 MP, f/1.5, 26mm (wide), 1/1.95\", 0.8µm, PDAF, OIS\n\n8 MP, f/2.2, 15mm (ultrawide), 1/4.0\", 1.12µm",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "4K@30/60fps, 1080p@30/60/120/240/960fps, gyro-EIS, HDR10+"
+      },
+      "Selfie camera": {
+        "Single": "20 MP, f/2.2, (wide), 1/4\"",
+        "Video": "1080p@30/60fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No",
+        "Features": "24-bit/192kHz Hi-Res &amp; Hi-Res Wireless audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.4, A2DP, LE, aptX HD, LHDC 5, Auracast, ASHA, MIHC",
+        "Positioning": "GPS (L1+L5), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), NavIC (L1+L5), GLONASS",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, gyro, compass, proximity"
+      },
+      "Battery": {
+        "Type": "Si/C Li-Ion 9000 mAh",
+        "Charging": "100W wired, 100W PPS, PD3.0\n\n27W reverse wired"
+      },
+      "Misc": {
+        "Colors": "Black, White, Blue, Orange",
+        "Price": "About 260 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-turbo-5-max-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-turbo-5-max-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/xiaomi_redmi_turbo_5_max_5g-pictures-14453.php"
+    }
+  }
+}

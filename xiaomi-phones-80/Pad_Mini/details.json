@@ -1,0 +1,109 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Xiaomi Pad Mini",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-pad-mini-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-pad-mini-new.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/xiaomi_pad_mini_unboxing-news-69682.php",
+    "siblingDeviceSlugs": [
+      "oppo_pad_mini-14624",
+      "huawei_matepad_mini_5g-14122",
+      "xiaomi_pad_8-14184",
+      "xiaomi_redmi_k_pad-13960",
+      "xiaomi_redmi_k_pad_2-14625"
+    ],
+    "release_date": "Released 2025, September 24",
+    "dimensions": "326g, 6.5mm thickness",
+    "os": "Android 15, HyperOS 2",
+    "storage": "256GB/512GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">No cellular connectivity</a>",
+        "2G bands": "N/A",
+        "3G bands": "N/A",
+        "GPRS": "N/A",
+        "EDGE": "N/A"
+      },
+      "Launch": {
+        "Announced": "2025, September 24",
+        "Status": "Available. Released 2025, September 24"
+      },
+      "Body": {
+        "Dimensions": "205.1 x 132 x 6.5 mm (8.07 x 5.20 x 0.26 in)",
+        "Weight": "326 g (11.50 oz)",
+        "SIM": "No",
+        "Features": "Stylus support (magnetic)"
+      },
+      "Display": {
+        "Type": "IPS LCD, 68B colors, 165Hz, HDR10, Dolby Vision, 700 nits (HBM)",
+        "Size": "8.8 inches, 224.5 cm<sup>2</sup> (~82.9% screen-to-body ratio)",
+        "Resolution": "1880 x 3008 pixels, 16:10 ratio (~403 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 15, HyperOS 2",
+        "Chipset": "Mediatek Dimensity 9400+ (3 nm)",
+        "CPU": "Octa-core (1x3.73 GHz Cortex-X925 &amp; 3x3.3 GHz Cortex-X4 &amp; 4x2.4 GHz Cortex-A720)",
+        "GPU": "Immortalis-G925"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 8GB RAM, 512GB 12GB RAM",
+        "Features": "UFS 4.1"
+      },
+      "Main Camera": {
+        "Single": "13 MP, f/2.2, (wide), 1/3.06\" 1.12μm, PDAF",
+        "Features": "LED flash, HDR",
+        "Video": "4K@30fps, 1080p@30/60fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, f/2.3, (wide), 1/4\" 1.12μm",
+        "Features": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers (with Dolby Atmos)",
+        "3.5mm jack": "No",
+        "Features": "24-bit/192kHz Hi-Res &amp; Hi-Res Wireless audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.4, A2DP, LE, LHDC 5.0, ASHA",
+        "Positioning": "No",
+        "NFC": "No",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "1x USB Type-C 3.2, 1x USB Type-C 2.0, Display Port 1.4, accessory connector"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "7500 mAh",
+        "Charging": "67W wired, PD3.0, QC3+\n\n18W reverse wired\n\nBypass charging"
+      },
+      "Misc": {
+        "Colors": "Gray, Purple",
+        "Models": "25079RPDCG",
+        "Price": "About 370 EUR"
+      },
+      "Our Tests": {
+        "Loudspeaker": "<a class=\"noUnd\" href=\"\">-24.9 LUFS (Very good)</a>",
+        "Battery": "<div style=\"position:relative;\">\n<a href=\"our_xiaomi_pad_mini_battery_life_and_charging_test-news-70240.php\" data-battery2=\"59:15_12:05_16:35_7:25\" onclick=\"showBatteryPopup(event, 14179); \" class=\"v2\">Active use score 13:39h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-pad-mini-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-pad-mini-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/xiaomi_pad_mini-pictures-14179.php"
+    }
+  }
+}

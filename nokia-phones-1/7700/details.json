@@ -1,0 +1,92 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 7700",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/no7700_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/no7700.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Cancelled",
+    "dimensions": "183g, 22mm thickness",
+    "os": "Symbian, Series 90 UI, .2.0",
+    "storage": "25MB storage, MMC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "GPRS": "Class 10",
+        "EDGE": "Class 10"
+      },
+      "Launch": {
+        "Announced": "2003, Q4",
+        "Status": "Cancelled"
+      },
+      "Body": {
+        "Dimensions": "134 x 80 x 22 mm, 165 cc (5.28 x 3.15 x 0.87 in)",
+        "Weight": "183 g (6.46 oz)",
+        "SIM": "Mini-SIM",
+        "Features": "Stylus"
+      },
+      "Display": {
+        "Type": "TFT resistive touchscreen, 65K colors",
+        "Size": "3.5 inches, 79 x 40 mm, 31.6 cm<sup>2</sup> (~29.5% screen-to-body ratio)",
+        "Resolution": "640 x 320 pixels, 18:9 ratio (~204 ppi density)",
+        "Features": "Virtual keyboard\n\nFive-way directional controller\n\nPartial mode 640x65 pixels"
+      },
+      "Platform": {
+        "OS": "Symbian, Series 90 UI, .2.0",
+        "Chipset": "TI OMAP 1510",
+        "CPU": "150 MHz ARM925T"
+      },
+      "Memory": {
+        "Card slot": "MMC, 64 MB included",
+        "Internal": "25MB"
+      },
+      "Main Camera": {
+        "Single": "VGA",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "Yes",
+        "Positioning": "No",
+        "Radio": "FM radio",
+        "USB": "Pop-Port"
+      },
+      "Features": {
+        "Sensors": "",
+        "Browser": "WAP, xHTML, HTML (Opera)",
+        "Features": "Series 90 UI, v.2.0\n\nAudio/video player\n\nDocument viewer (Word, Excel, PowerPoint, PDF)\n\nVoice recorder\n\nOrganizer\n\nFlight and offline modes"
+      },
+      "Battery": {
+        "Type": "Removable Li-Po 1300 mAh battery (BP-5L)",
+        "Stand-by": "Up to 240 - 264 h",
+        "Talk time": "Up to 3 - 4 h"
+      },
+      "Misc": {
+        "Colors": "2 - Black, White"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/no7700_00.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/no7700_01.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_7700-pictures-570.php"
+    }
+  }
+}

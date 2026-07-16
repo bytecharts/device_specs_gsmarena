@@ -1,0 +1,90 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 3210 (1999)",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/no3210_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/no3210b.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 1999",
+    "dimensions": "151g, 22.5mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "1999",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "123.8 x 50.5 x 16.7-22.5 mm",
+        "Weight": "151 g (5.33 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "Monochrome graphic",
+        "Size": "",
+        "Resolution": "5 lines",
+        "Features": "Dynamic font size\n\nSoftkey\n\nWelcome message"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "SIM only",
+        "Call records": "8 dialed, 8 received, 8 missed calls"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Downloadable monophonic ringtones, composer",
+        "3.5mm jack": "No",
+        "Features": "6 Ringing tone levels\n\n10 Volume levels"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS",
+        "Browser": "",
+        "Clock": "Yes",
+        "Alarm": "Yes",
+        "Games": "Rotation, Snake, and Memory",
+        "Languages": "11 from 35 total",
+        "Java": "No",
+        "Features": "Predictive text input\n\nSmart messaging (Over the Air SMS) \n\nCalculator"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion battery"
+      },
+      "Misc": {
+        "Colors": "User exchangeable front and back covers"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/no3210_00.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/no3210_01.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/no3210_02.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/no3210_03.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_3210_(1999)-pictures-6.php"
+    }
+  }
+}

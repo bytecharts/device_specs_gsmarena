@@ -1,0 +1,93 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 6610i",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/no6610i_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/no6610i.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2004, Q1",
+    "dimensions": "87g, 19mm thickness",
+    "os": "Feature phone",
+    "storage": "4MB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "GPRS": "Class 6",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2004, Q1",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "106 x 44 x 19 mm, 72 cc (4.17 x 1.73 x 0.75 in)",
+        "Weight": "87 g (3.07 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "CSTN, 4096 colors",
+        "Size": "1.5 inches, 7.3 cm<sup>2</sup> (~15.6% screen-to-body ratio)",
+        "Resolution": "128 x 128 pixels, 8 lines, 1:1 ratio (~121 ppi density)",
+        "Features": "Four-way scroll\n\nDownloadable pictures"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "500 entries, Photo call",
+        "Call records": "10 dialed, 10 received, 10 missed calls",
+        "Internal": "4MB"
+      },
+      "Main Camera": {
+        "Single": "CIF",
+        "Video": "No"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "Alert types": "Vibration; Downloadable polyphonic, monophonic ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Infrared port": "Yes",
+        "Radio": "Stereo FM radio",
+        "USB": "Pop-Port"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS",
+        "Browser": "WAP 1.2.1, xHTML",
+        "Games": "2 - PuzzleChess and Bounce + downloadable",
+        "Java": "Yes, MIDP 1.0",
+        "Features": "Predictive text input\n\nOrganizer\n\nIR transfer between compatible phones"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 780 mAh battery (BLD-3)",
+        "Stand-by": "144 h - 432 h",
+        "Talk time": "3 h - 3 h 30 min"
+      },
+      "Misc": {
+        "Colors": "3 - Black, White, Grey",
+        "SAR": "0.97 W/kg (head) &nbsp; &nbsp; 1.05 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.73 W/kg (head) &nbsp; &nbsp;"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/no6610i_00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_6610i-pictures-742.php"
+    }
+  }
+}

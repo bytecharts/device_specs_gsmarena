@@ -1,0 +1,93 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 7210",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/no7210_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/no7210.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2002",
+    "dimensions": "83g, 17.5mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "GPRS": "Class 6",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2002",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "106 x 45 x 17.5 mm, 83 cc (4.17 x 1.77 x 0.69 in)",
+        "Weight": "83 g (2.93 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "CSTN, 4096 colors",
+        "Size": "1.5 inches, 7.3 cm<sup>2</sup> (~15.2% screen-to-body ratio)",
+        "Resolution": "128 x 128 pixels, 1:1 ratio (~121 ppi density)",
+        "Features": "Dynamic font size\n\nSoftkey"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "500 names x3 numbers",
+        "Call records": "10 dialed, 10 received, 10 missed calls",
+        "Features": "3 phone numbers per name\n\n150 text messages\n\n100-250 calendar notes"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Downloadable polyphonic, monophonic ringtones",
+        "3.5mm jack": "No",
+        "Features": "Ascending ringing tones\n\nPersonal alert tones"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Infrared port": "Yes",
+        "Radio": "Stereo FM radio",
+        "USB": "Pop-Port"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS",
+        "Browser": "WAP 1.2.1",
+        "Clock": "Yes",
+        "Alarm": "Yes",
+        "Games": "2 preinstalled, More via WAP",
+        "Languages": "Country dependant",
+        "Java": "Yes",
+        "Features": "Predictive text input\n\nOrganizer\n\nInfrared transfer of data between compatible phones\n\nXpress-on covers\n\nProfiles"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 780 mAh battery (BLD-3)",
+        "Stand-by": "up to 10 days",
+        "Talk time": "up to 4 h"
+      },
+      "Misc": {
+        "Colors": "3 - Turquoise, Orange, and Brown",
+        "SAR": "1.00 W/kg (head) &nbsp; &nbsp; 0.87 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "1.29 W/kg (head) &nbsp; &nbsp;"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/no7210_00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_7210-pictures-318.php"
+    }
+  }
+}

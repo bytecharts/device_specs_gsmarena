@@ -1,0 +1,93 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 3510",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/no3510_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/no3510.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "nokia_3510i-344"
+    ],
+    "release_date": "Released 2002",
+    "dimensions": "105g, 21mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "Class 4",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2002",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "118 x 42-50 x 18-21 mm, 98 cc",
+        "Weight": "105 g (3.70 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "Monochrome graphic",
+        "Size": "",
+        "Resolution": "5 lines",
+        "Features": "Dynamic font size\n\nSoftkey\n\nAnimated screensavers\n\nWelcome message\n\nPicture messaging(7 predefined + 1 empty)"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "500 (3 + 1 text)",
+        "Call records": "20 dialed, 10 received, 10 missed calls",
+        "Features": "Dynamic phonebook memory\n\nEditable message templates\n\n14 voice dial numbers\n\n100-500 Calendar notes"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Downloadable polyphonic, monophonic ringtones",
+        "3.5mm jack": "No",
+        "Features": "6 Ringing tone levels\n\n10 Volume levels"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, EMS",
+        "Browser": "WAP 1.2.1",
+        "Clock": "Yes",
+        "Alarm": "Yes",
+        "Games": "5 (Kart Racing, Bumper, Space Impact 2, Dance2Music, Link5 )",
+        "Languages": "Country dependant",
+        "Java": "No",
+        "Features": "Downloadable game packs via WAP\n\nPredictive text input\n\nSmart messaging\n\nOrganizer\n\nVoice Dial\n\nCustomizable and downloadable profiles"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 950 mAh battery (BLC-2)",
+        "Stand-by": "up to 13 days",
+        "Talk time": "2h 30min - 4h 30 min"
+      },
+      "Misc": {
+        "Colors": "Xpress-on covers",
+        "SAR EU": "0.66 W/kg (head) &nbsp; &nbsp;"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/no3510_00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_3510-pictures-316.php"
+    }
+  }
+}

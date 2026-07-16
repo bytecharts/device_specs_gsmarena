@@ -1,0 +1,94 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 3250",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-3250-00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-3250.gif"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/nokia_3250-review-75.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2005, September",
+    "dimensions": "130g, 19.8mm thickness",
+    "os": "Symbian 9.1, Series 60 rel. 3.0",
+    "storage": "10MB 64MB RAM storage, microSD slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "GPRS": "Class 10",
+        "EDGE": "Class 10"
+      },
+      "Launch": {
+        "Announced": "2005, September",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "103.8 x 50 x 19.8 mm (4.09 x 1.97 x 0.78 in)",
+        "Weight": "130 g (4.59 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "2.1 inches, 35 x 41 mm, 14.0 cm<sup>2</sup> (~27.0% screen-to-body ratio)",
+        "Resolution": "176 x 208 pixels (~130 ppi density)",
+        "Features": "Downloadable screensavers, \n\nwallpapers"
+      },
+      "Platform": {
+        "OS": "Symbian 9.1, Series 60 rel. 3.0",
+        "CPU": "235 MHz ARM 9"
+      },
+      "Memory": {
+        "Card slot": "microSD (dedicated slot)",
+        "Internal": "10MB 64MB RAM"
+      },
+      "Main Camera": {
+        "Single": "2 MP",
+        "Video": "QCIF"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "Yes",
+        "Positioning": "No",
+        "Radio": "Stereo FM radio",
+        "USB": "Pop-Port"
+      },
+      "Features": {
+        "Sensors": "",
+        "Browser": "WAP 2.0/xHTML, HTML",
+        "Features": "Predictive text input (iTAP)\n\nBio-rhythm\n\nStopwatch\n\nCalculator\n\nVoice memo"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1100 mAh battery (BP-6M)",
+        "Stand-by": "Up to 245 h",
+        "Talk time": "Up to 3 h"
+      },
+      "Misc": {
+        "Colors": "Black, Green, Pink, Silver",
+        "SAR": "0.88 W/kg (head) &nbsp; &nbsp; 0.44 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.64 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 160 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-3250-00.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-3250-01.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_3250-pictures-1296.php"
+    }
+  }
+}

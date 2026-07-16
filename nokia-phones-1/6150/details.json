@@ -1,0 +1,83 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 6150",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/no6150b.gif",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/no6150b.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 1998",
+    "dimensions": "141g, 28mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "1998",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "129 x 47 x 28 mm, 130 cc (5.08 x 1.85 x 1.10 in)",
+        "Weight": "141 g (4.97 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "Monochrome graphic",
+        "Size": "",
+        "Resolution": "5 lines",
+        "Features": "Dynamic font size \n\nSoftkey\n\nWelcome message"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "150",
+        "Call records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Downloadable monophonic ringtones",
+        "3.5mm jack": "No",
+        "Features": "6 Ringing tone levels \n\n10 Volume levels\n\nProfile function"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS",
+        "Browser": "",
+        "Clock": "Yes",
+        "Alarm": "Yes",
+        "Games": "3",
+        "Languages": "31 total",
+        "Java": "No",
+        "Features": "Organizer"
+      },
+      "Battery": {
+        "Type": "Slim, Li-Ion 900 mAh, 143 g (BLS-2N)",
+        "Stand-by": "50-250 h",
+        "Talk time": "2 h 30 min - 4 h 30"
+      },
+      "Misc": {
+        "Colors": "2"
+      }
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 8810",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/no8810t.gif",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/no8810t.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 1998",
+    "dimensions": "118g, 18mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "1998",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "107 x 46 x 18 mm, 74 cc (4.21 x 1.81 x 0.71 in)",
+        "Weight": "118 g (4.16 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "Monochrome graphic",
+        "Size": "",
+        "Resolution": "5 lines",
+        "Features": "Dynamic font size \n\nSoftkey"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "250",
+        "Call records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Downloadable monophonic ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS",
+        "Browser": "",
+        "Clock": "Yes",
+        "Alarm": "Yes",
+        "Games": "Yes",
+        "Languages": "32 total",
+        "Java": "No",
+        "Features": "Smart messaging\n\nOrganizer"
+      },
+      "Battery": {
+        "Type": "Lightweight, 400 mAh Li-Ion (BLH-1A)",
+        "Stand-by": "15 - 60 h",
+        "Talk time": "30 min-1 h"
+      },
+      "Misc": {
+        "Colors": "Metallic"
+      }
+    }
+  }
+}

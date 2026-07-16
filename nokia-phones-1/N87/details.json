@@ -1,0 +1,88 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia N87",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-n87-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-n87.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Cancelled",
+    "dimensions": "",
+    "os": "Symbian OS",
+    "storage": "microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 900 / 2100",
+        "Speed": "HSPA"
+      },
+      "Launch": {
+        "Announced": "Not officially announced yet",
+        "Status": "Cancelled"
+      },
+      "Body": {
+        "Dimensions": "-",
+        "Weight": "-",
+        "SIM": "Mini-SIM",
+        "Features": "Optical trackpad"
+      },
+      "Display": {
+        "Type": "AMOLED, 16M colors",
+        "Size": "",
+        "Resolution": "",
+        "Protection": "Scratch-resistant glass"
+      },
+      "Platform": {
+        "OS": "Symbian OS"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)"
+      },
+      "Main Camera": {
+        "Single": "12 MP, AF",
+        "Features": "Carl Zeiss lens, Xenon flash",
+        "Video": "720p"
+      },
+      "Selfie camera": {
+        "Single": "VGA videocall camera",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n",
+        "Bluetooth": "3.0, A2DP",
+        "Positioning": "GPS, A-GPS",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, compass",
+        "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash Lite",
+        "Features": "TV-out\n\nSNS integration\n\nMP4/WMV/H.264 player\n\nMP3/WMA/WAV/eAAC+ player\n\nOrganizer\n\nDocument viewer (Word, Excel, PowerPoint, PDF) \n\nVoice memo/dial/commands\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion battery"
+      },
+      "Misc": {
+        "Colors": "Black, Brown"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-n87-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-n87-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_n87-pictures-3670.php"
+    }
+  }
+}

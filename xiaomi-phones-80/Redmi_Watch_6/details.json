@@ -1,0 +1,94 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Xiaomi Redmi Watch 6",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-watch6-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-watch6.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "xiaomi_redmi_watch_5-13658",
+      "xiaomi_redmi_watch_5_lite-13361",
+      "huawei_watch_fit_4-14113",
+      "huawei_watch_fit_5-14613",
+      "xiaomi_redmi_watch_5_active-13286",
+      "xiaomi_watch_s5-14696"
+    ],
+    "release_date": "Released 2025, October 23",
+    "dimensions": "31g, 9.9mm thickness",
+    "os": "HyperOS 3",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">No cellular connectivity</a>",
+        "2G bands": "N/A",
+        "3G bands": "N/A",
+        "4G bands": "N/A",
+        "Speed": "No",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2025, October 23",
+        "Status": "Available. Released 2025, October 23"
+      },
+      "Body": {
+        "Dimensions": "46.5 x 40 x 9.9 mm (1.83 x 1.57 x 0.39 in)",
+        "Weight": "31 g (1.09 oz)",
+        "Build": "Plastic back, aluminum frame",
+        "SIM": "<a href=\"glossary.php3?term=esim\">eSIM</a> (China only)",
+        "Features": "Waterproof (5ATM)\n\n50m water resistant"
+      },
+      "Display": {
+        "Type": "AMOLED, 2000 nits (peak)",
+        "Size": "2.1 inches",
+        "Resolution": "432 x 514 pixels (~324 ppi density)"
+      },
+      "Platform": {
+        "OS": "HyperOS 3"
+      },
+      "Memory": {
+        "Card slot": "No"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "5.4, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS, QZSS; dual L1 antennas",
+        "NFC": "NFC (China only)",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, heart rate, compass, gyro, SpO2"
+      },
+      "Battery": {
+        "Type": "550 mAh"
+      },
+      "Misc": {
+        "Colors": "Black, Silver",
+        "Models": "M2523W1",
+        "Price": "About 70 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-watch6-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-watch6-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-watch6-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/xiaomi_redmi_watch_6-pictures-14281.php"
+    }
+  }
+}

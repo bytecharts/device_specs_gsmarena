@@ -1,0 +1,105 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Xiaomi Redmi K Pad 2",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-k-pad2-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-k-pad2.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "xiaomi_redmi_k_pad-13960",
+      "xiaomi_pad_mini-14179",
+      "oppo_pad_mini-14624",
+      "xiaomi_pad_8_pro-14183",
+      "xiaomi_redmi_pad_2-13908"
+    ],
+    "release_date": "Released 2026, April 22",
+    "dimensions": "345g, 6.6mm thickness",
+    "os": "Android 16, HyperOS 3",
+    "storage": "256GB/512GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">No cellular connectivity</a>",
+        "2G bands": "N/A",
+        "3G bands": "N/A",
+        "GPRS": "N/A",
+        "EDGE": "N/A"
+      },
+      "Launch": {
+        "Announced": "2026, April 22",
+        "Status": "Available. Released 2026, April 22"
+      },
+      "Body": {
+        "Dimensions": "205 x 133.8 x 6.6 mm (8.07 x 5.27 x 0.26 in)",
+        "Weight": "345 g (12.17 oz)",
+        "SIM": "No",
+        "Features": "Stylus support (magnetic)"
+      },
+      "Display": {
+        "Type": "IPS LCD, 68B colors, 165Hz, HDR10, HDR Vivid, Dolby Vision, 1100 nits (HBM)",
+        "Size": "8.8 inches, 224.5 cm<sup>2</sup> (~81.9% screen-to-body ratio)",
+        "Resolution": "1880 x 3008 pixels, 16:10 ratio (~403 ppi density)",
+        "Protection": "Corning Gorilla Glass 5"
+      },
+      "Platform": {
+        "OS": "Android 16, HyperOS 3",
+        "Chipset": "Mediatek Dimensity 9500 (3 nm)",
+        "CPU": "Octa-core (1x4.21 GHz C1-Ultra &amp; 3x3.5 GHz C1-Premium &amp; 4x2.7 GHz C1-Pro)",
+        "GPU": "Arm G1-Ultra"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 8GB RAM, 256GB 12GB RAM, 512GB 16GB RAM",
+        "Features": "UFS 4.1"
+      },
+      "Main Camera": {
+        "Single": "13 MP, f/2.2, (wide), 1/3.06\" 1.12μm, PDAF",
+        "Features": "LED flash, HDR",
+        "Video": "4K@30fps, 1080p@30/60fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, f/2.3, (wide), 1/4\" 1.12μm",
+        "Features": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers (with Dolby Atmos)",
+        "3.5mm jack": "No",
+        "Features": "24-bit/192kHz Hi-Res &amp; Hi-Res Wireless audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.4, A2DP, LE, LHDC 5, Auracast, ASHA, MIHC",
+        "Positioning": "No",
+        "NFC": "No",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "1x USB Type-C 3.2, 1x USB Type-C 2.0, Display Port 1.4, accessory connector"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "9100 mAh",
+        "Charging": "67W wired, PD3.0, QC3+\n\n22.5W reverse wired\n\nBypass charging"
+      },
+      "Misc": {
+        "Colors": "Black, Silver, Violet",
+        "Price": "About 430 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-k-pad2-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-k-pad2-4.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-k-pad2-5.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/xiaomi_redmi_k_pad_2-pictures-14625.php"
+    }
+  }
+}

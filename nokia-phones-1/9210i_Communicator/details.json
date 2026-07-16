@@ -1,0 +1,89 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 9210i Communicator",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/no9210i_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/no9210i.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2002",
+    "dimensions": "244g, 27mm thickness",
+    "os": "Open Symbian, based on Symbian v6.0",
+    "storage": "40MB 8MB RAM storage, MMC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2002",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "158 x 56 x 27 mm (6.22 x 2.20 x 1.06 in)",
+        "Weight": "244 g (8.61 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 4096 colors",
+        "Size": "4.5 inches, 110 x 35 mm, 37.2 cm<sup>2</sup> (~42.0% screen-to-body ratio)",
+        "Resolution": "640 x 200 pixels (~149 ppi density)",
+        "Features": "Second display (80x48 pixels)"
+      },
+      "Platform": {
+        "OS": "Open Symbian, based on Symbian v6.0, Series 80 UI",
+        "CPU": "52 MHz ARM 9"
+      },
+      "Memory": {
+        "Card slot": "MMC",
+        "Internal": "40MB 8MB RAM"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Downloadable monophonic, Wav ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Browser": "WAP, HTML, Flash 5 animations",
+        "Clock": "Yes",
+        "Alarm": "Yes",
+        "Features": "Video Streaming\n\nAttachment viewers\n\nVideo player\n\nDocument viewer (Word, Excel, PowerPoint, PDF)\n\nImaging (Camera connectivity)"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1300 mAh battery (BLL-3)",
+        "Stand-by": "Up to 230 h",
+        "Talk time": "Up to 4 - 10 h"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "SAR EU": "0.34 W/kg (head) &nbsp; &nbsp;"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/no9210i_00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_9210i_communicator-pictures-319.php"
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Xiaomi Black Shark GS3 Ultra",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-black-shark-gs3-ultra-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-black-shark-gs3-ultra.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2025, December",
+    "dimensions": "",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">No cellular connectivity</a>",
+        "2G bands": "N/A",
+        "3G bands": "N/A",
+        "4G bands": "N/A",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2025, November 21",
+        "Status": "Available. Released 2025, December"
+      },
+      "Body": {
+        "Dimensions": "-",
+        "Weight": "-",
+        "Build": "Glass front (Gorilla Glass), aluminum frame",
+        "SIM": "No",
+        "Features": "IP68/IP69K dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)\n\nMIL-STD-810H compliant\n\nWaterproof (5ATM)"
+      },
+      "Display": {
+        "Type": "AMOLED, 1000 nits",
+        "Size": "1.43 inches",
+        "Resolution": "466 x 466 pixels (~326 ppi density)",
+        "Protection": "Corning Gorilla Glass"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "No",
+        "Call records": "Yes"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS",
+        "NFC": "Unspecified",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, compass, barometer, heart rate, SpO2",
+        "Messaging": "SMS(threaded view), Email, IM",
+        "Games": "No",
+        "Java": "No"
+      },
+      "Battery": {
+        "Type": ""
+      },
+      "Misc": {
+        "Colors": "Black, Silver"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-black-shark-gs3-ultra-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-black-shark-gs3-ultra-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-black-shark-gs3-ultra-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/xiaomi_black_shark_gs3_ultra-pictures-14309.php"
+    }
+  }
+}

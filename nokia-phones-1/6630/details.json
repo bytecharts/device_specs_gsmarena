@@ -1,0 +1,95 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 6630",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/no6630_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/no6630.gif"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/nokia_6630-review-20.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2004, Q2",
+    "dimensions": "127g, 21mm thickness",
+    "os": "Symbian 8.0, Series 60 v2.0 UI",
+    "storage": "10MB storage, RS-DV-MMC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / UMTS</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "3G bands": "UMTS 2100",
+        "Speed": "Yes, 384 kbps"
+      },
+      "Launch": {
+        "Announced": "2004, Q2",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "110 x 60 x 21 mm (4.33 x 2.36 x 0.83 in)",
+        "Weight": "127 g (4.48 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 65k colors",
+        "Size": "2.1 inches, 35 x 41 mm, 14.0 cm<sup>2</sup> (~21.3% screen-to-body ratio)",
+        "Resolution": "176 x 208 pixels (~130 ppi density)",
+        "Features": "5-way navigation key\n\nDownloadable themes"
+      },
+      "Platform": {
+        "OS": "Symbian 8.0, Series 60 v2.0 UI",
+        "Chipset": "TI OMAP 1710",
+        "CPU": "220 MHz ARM926EJ-S"
+      },
+      "Memory": {
+        "Card slot": "RS-DV-MMC, 64 MB included",
+        "Internal": "10MB",
+        "Features": "Voice dial/memo"
+      },
+      "Main Camera": {
+        "Single": "1.3 MP",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "Alert types": "Vibration; Downloadable polyphonic, monophonic, MP3 ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "1.2",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": "Pop-Port"
+      },
+      "Features": {
+        "Sensors": "",
+        "Browser": "WAP 2.0/xHTML, HTML",
+        "Languages": "Major Europe and Asia-Pacific",
+        "Features": "MP3, AAC, MP4 player\n\nPredictive text input\n\nSyncML"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 900 mAh battery (BL-5C)",
+        "Stand-by": "Up to 264 h",
+        "Talk time": "Up to 3 h"
+      },
+      "Misc": {
+        "Colors": "Light Gray",
+        "SAR": "0.55 W/kg (head) &nbsp; &nbsp; 0.58 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.83 W/kg (head) &nbsp; &nbsp;"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/no6630_00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_6630-pictures-811.php"
+    }
+  }
+}

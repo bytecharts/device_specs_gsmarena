@@ -1,0 +1,91 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 6250",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/no6250_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/no6250b.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2000",
+    "dimensions": "167g, 27mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2000",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "142 x 50-58 x 23-27 mm, 159 cc",
+        "Weight": "167 g (5.89 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "Monochrome graphic",
+        "Size": "",
+        "Resolution": "96 x 60 pixels, 6 lines, 16:10 ratio",
+        "Features": "Dynamic font size \n\nSoftkey"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "500",
+        "Call records": "10 dialed, 10 received, 10 missed calls",
+        "Features": "3 phone numbers per name\n\n150 text messages\n\n10 voice dial numbers"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Downloadable monophonic ringtones",
+        "3.5mm jack": "No",
+        "Features": "Profile Selection\n\nAscending ringing tones\n\nPersonal alert tones"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "Sound level meter",
+        "Messaging": "SMS",
+        "Browser": "WAP 1.1",
+        "Clock": "Yes",
+        "Alarm": "Yes",
+        "Games": "3 Games (Snake II, Opposite, Pairs II)",
+        "Languages": "Major European and Asian languages",
+        "Java": "No",
+        "Features": "Voice recognition\n\nPredictive text input\n\nOrganizer\n\nInfrared transfer of data between compatible phones\n\nTask journal \n\nStopwatch"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1200 mAh battery (BLL-2)",
+        "Stand-by": "Up to 336 h",
+        "Talk time": "Up to 5 h 50 min"
+      },
+      "Misc": {
+        "Colors": "Black Night, Grey Dusk and Red Sunset"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/no6250_00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_6250-pictures-13.php"
+    }
+  }
+}

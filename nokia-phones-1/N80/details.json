@@ -1,0 +1,98 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia N80",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-n80-00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-n80.gif"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/nokia_n80-review-84.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2006,  April",
+    "dimensions": "134g, 26mm thickness",
+    "os": "Symbian, Series 60 UI",
+    "storage": "40MB 64MB RAM storage, miniSD slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / UMTS</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "UMTS 2100",
+        "Speed": "Yes, 384 kbps",
+        "Features": "UMTS 1900 - American version"
+      },
+      "Launch": {
+        "Announced": "2005, Q4. Released 2006,  April",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "95 x 50 x 26 mm, 97 cc (3.74 x 1.97 x 1.02 in)",
+        "Weight": "134 g (4.73 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "2.1 inches, 35 x 41 mm, 14.0 cm<sup>2</sup> (~29.5% screen-to-body ratio)",
+        "Resolution": "352 x 416 pixels (~259 ppi density)"
+      },
+      "Platform": {
+        "OS": "Symbian, Series 60 UI",
+        "CPU": "220 MHz Dual ARM 9"
+      },
+      "Memory": {
+        "Card slot": "miniSD, up to 2 GB, 128 MB included",
+        "Internal": "40MB 64MB RAM"
+      },
+      "Main Camera": {
+        "Single": "3.15 MP",
+        "Features": "LED flash",
+        "Video": "CIF"
+      },
+      "Selfie camera": {
+        "Single": "VGA videocall camera",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "Alert types": "Vibration; Downloadable polyphonic, monophonic, MP3 ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11g",
+        "Bluetooth": "1.2",
+        "Positioning": "No",
+        "Infrared port": "Yes",
+        "Radio": "Stereo FM radio",
+        "USB": "Pop-Port 2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Browser": "WAP 2.0/xHTML, HTML",
+        "Features": "Push to Talk\n\nMono MP3 player\n\nPredictive text input\n\nOrganizer\n\nVoice dial/memo"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 820 mAh battery (BL-5B)",
+        "Stand-by": "Up to 192 h",
+        "Talk time": "Up to 3 h"
+      },
+      "Misc": {
+        "Colors": "Silver, Black",
+        "SAR": "0.86 W/kg (head) &nbsp; &nbsp; 1.05 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.68 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 240 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-n80-00.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-n80-01.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-n80-02.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_n80-pictures-1347.php"
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 7270",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/no7270_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/no7270.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2004, Q3",
+    "dimensions": "121g, 22mm thickness",
+    "os": "Feature phone",
+    "storage": "32MB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "GPRS": "Class 10",
+        "EDGE": "Class 10"
+      },
+      "Launch": {
+        "Announced": "2004, Q3",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "88 x 46 x 22 mm, 78 cc (3.46 x 1.81 x 0.87 in)",
+        "Weight": "121 g (4.27 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 65K colors",
+        "Size": "2.0 inches, 31 x 39 mm, 12.6 cm<sup>2</sup> (~31.1% screen-to-body ratio)",
+        "Resolution": "128 x 160 pixels,  6 lines (~102 ppi density)",
+        "Features": "Second external 4096 colors display (96 x 65 pixels)"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "255 x 10 fields, Photo call",
+        "Call records": "10 dialed, 10 received, 10 missed calls",
+        "Internal": "32MB"
+      },
+      "Main Camera": {
+        "Single": "VGA",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "Alert types": "Vibration; Downloadable polyphonic, monophonic, MP3/AAC ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Infrared port": "Yes",
+        "Radio": "Stereo FM radio",
+        "USB": "Pop-Port"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS, EMail, Instant Messaging",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "2 - Chic Pinball and Disco + downloadable",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "Push to talk (VoIP service)\n\nSyncML\n\nVoice memo/dial\n\nPredictive text input\n\nOrganizer\n\nPresence enhanced contacts\n\nChangeable textile covers"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 780 mAh battery (BL-4C)",
+        "Stand-by": "Up to 270 h",
+        "Talk time": "Up to 4 h"
+      },
+      "Misc": {
+        "Colors": "",
+        "SAR": "1.05 W/kg (head) &nbsp; &nbsp; 0.61 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.59 W/kg (head) &nbsp; &nbsp;"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/no7270_00.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/no7270_01.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_7270-pictures-883.php"
+    }
+  }
+}

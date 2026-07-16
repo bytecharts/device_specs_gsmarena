@@ -1,0 +1,91 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 6210",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/no6210_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/no6210b.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2000",
+    "dimensions": "114g, 18.8mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2000",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "129.5 x 47.3 x 18.8 mm, 95 cc (5.10 x 1.86 x 0.74 in)",
+        "Weight": "114 g (4.02 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "Monochrome graphic",
+        "Size": "",
+        "Resolution": "96 x 60 pixels, 6 lines, 16:10 ratio",
+        "Features": "Dynamic font size \n\nSoftkey"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "500 names x3 numbers",
+        "Call records": "10 dialed, 10 received, 10 missed calls",
+        "Features": "3 phone numbers per name\n\n150 text messages\n\n10 voice dial numbers"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Downloadable monophonic ringtones",
+        "3.5mm jack": "No",
+        "Features": "Profile Selection\n\nAscending ringing tones\n\nPersonal alert tones"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS",
+        "Browser": "WAP 1.1",
+        "Clock": "Yes",
+        "Alarm": "Yes",
+        "Games": "3 Games (Snake II, Opposite, Pairs II)",
+        "Languages": "Major European and Asian languages",
+        "Java": "No",
+        "Features": "Predictive text input\n\nOrganizer\n\nInfrared transfer of data between compatible phones"
+      },
+      "Battery": {
+        "Type": "Ultra Slim, Li-Polymer 1100 mAh (BPS-2)",
+        "Stand-by": "Up to 310 h",
+        "Talk time": "Up to 5 h 30 min"
+      },
+      "Misc": {
+        "Colors": "Black Night, Grey Dusk and Red Sunset"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/no6210_00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_6210-pictures-12.php"
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia N90",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-n90-00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-n90.gif"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/nokia_n90-review-44.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2005, Q2",
+    "dimensions": "173g, 24mm thickness",
+    "os": "Symbian OS 8.1a , Series 60 UI",
+    "storage": "31MB storage, RS-DV-MMC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / UMTS</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "3G bands": "UMTS 2100",
+        "Speed": "Yes, 384 kbps"
+      },
+      "Launch": {
+        "Announced": "2005, Q2",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "112 x 51 x 24 mm (4.41 x 2.01 x 0.94 in)",
+        "Weight": "173 g (6.10 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "2.1 inches, 35 x 41 mm, 14.0 cm<sup>2</sup> (~24.6% screen-to-body ratio)",
+        "Resolution": "352 x 416 pixels (~259 ppi density)",
+        "Features": "Second external TFT, 65K colors display (128 x 128 pixels)\n\n90 deg rotating screen\n\n5-way navigation key\n\nSide joystick"
+      },
+      "Platform": {
+        "OS": "Symbian OS 8.1a , Series 60 UI",
+        "Chipset": "TI OMAP 1710",
+        "CPU": "220 MHz ARM926EJ-S"
+      },
+      "Memory": {
+        "Card slot": "RS-DV-MMC, 64 MB included",
+        "Internal": "31MB"
+      },
+      "Main Camera": {
+        "Single": "2 MP, AF",
+        "Features": "Carl Zeiss optics, LED flash",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Downloadable polyphonic, monophonic, MP3 ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "1.2",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": "Pop-Port"
+      },
+      "Features": {
+        "Sensors": "",
+        "Browser": "WAP 2.0/xHTML, HTML",
+        "Features": "Push to talk\n\nVideo download\n\nMP3/AAC/MP4 player\n\nPredictive text input\n\nVoice command/memo\n\nOrganizer\n\nPrinting"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 760 mAh battery (BL-5B)",
+        "Stand-by": "Up to 290 h",
+        "Talk time": "Up to 3 h"
+      },
+      "Misc": {
+        "Colors": "",
+        "SAR": "0.22 W/kg (head) &nbsp; &nbsp; 0.54 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.29 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 250 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-n90-00.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-n90-01.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_n90-pictures-1155.php"
+    }
+  }
+}

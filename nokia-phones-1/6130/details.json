@@ -1,0 +1,83 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 6130",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/no6130b.gif",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/no6130b.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 1998",
+    "dimensions": "152g, 25mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 1800",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "1998",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "141 x 48 x 25 mm (5.55 x 1.89 x 0.98 in)",
+        "Weight": "152 g (5.36 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "Monochrome graphic",
+        "Size": "",
+        "Resolution": "5 lines",
+        "Features": "Dynamic font size \n\nSoftkey\n\nWelcome message"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "125",
+        "Call records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Downloadable monophonic ringtones",
+        "3.5mm jack": "No",
+        "Features": "6 Ringing tone levels \n\n10 Volume levels\n\nProfile function"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS",
+        "Browser": "",
+        "Clock": "Yes",
+        "Alarm": "Yes",
+        "Games": "3",
+        "Languages": "15",
+        "Java": "No",
+        "Features": "Organizer"
+      },
+      "Battery": {
+        "Type": "Slim Battery, 900 mAh, Li-Ion, 143 g",
+        "Stand-by": "60-230 h",
+        "Talk time": "3-5 h"
+      },
+      "Misc": {
+        "Colors": "2"
+      }
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 2100",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/no2100_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/no2100.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2003, Q1",
+    "dimensions": "85g, 20mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2003, Q1",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "105 x 44 x 20 mm, 77 cc (4.13 x 1.73 x 0.79 in)",
+        "Weight": "85 g (3.00 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "Monochrome graphic",
+        "Size": "",
+        "Resolution": "96 x 65 pixels, 3:2 ratio",
+        "Features": "White backlight\n\nRhythmic backlight alert\n\nFull display screensaver\n\nDynamic font size\n\nSoftkeys"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "100",
+        "Call records": "10 dialed, 10 received, 10 missed calls",
+        "Features": "Dynamic phonebook memory\n\nEditable message templates"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Downloadable monophonic ringtones, composer",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS",
+        "Browser": "",
+        "Clock": "Yes",
+        "Alarm": "Yes",
+        "Games": "3 - Link5, Space Impact, Snake II",
+        "Languages": "Major European languages",
+        "Java": "No",
+        "Features": "Predictive text input\n\nSMS to many\n\nCalculator\n\nCurrency converter\n\nStopwatch\n\nPicture messaging\n\nXpress-on front and back covers"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 720 mAh battery (BLD-3)",
+        "Stand-by": "Up to 50 - 150 h",
+        "Talk time": "Up to 2 h - 3 h 20 m"
+      },
+      "Misc": {
+        "Colors": "3 (Yellow, Green, and Grey) + Xpress-on covers",
+        "SAR EU": "0.55 W/kg (head) &nbsp; &nbsp;"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/no2100_00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_2100-pictures-366.php"
+    }
+  }
+}

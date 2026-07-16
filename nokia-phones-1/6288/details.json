@@ -1,0 +1,96 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 6288",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-6288_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-6288.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2006, September",
+    "dimensions": "115g, 21mm thickness",
+    "os": "Feature phone",
+    "storage": "6MB storage, miniSD slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / UMTS</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "3G bands": "UMTS 2100",
+        "Speed": "Yes, 384 kbps"
+      },
+      "Launch": {
+        "Announced": "2006, September",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "100 x 46 x 21 mm (3.94 x 1.81 x 0.83 in)",
+        "Weight": "115 g (4.06 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "2.2 inches, 35 x 45 mm, 15.0 cm<sup>2</sup> (~32.6% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~182 ppi density)",
+        "Features": "4-way navi key\n\nDownloadable screensavers, \n\nwallpapers"
+      },
+      "Memory": {
+        "Card slot": "miniSD, 512 MB included",
+        "Phonebook": "500 x 16 fields, Photocall",
+        "Call records": "20 dialed, 20 received, 20 missed calls",
+        "Internal": "6MB"
+      },
+      "Main Camera": {
+        "Single": "2 MP",
+        "Features": "LED flash",
+        "Video": "480p"
+      },
+      "Selfie camera": {
+        "Single": "VGA videocall camera",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.0, A2DP",
+        "Positioning": "No",
+        "Infrared port": "Yes",
+        "Radio": "Stereo FM radio",
+        "USB": "Pop-Port 2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS, Email, Instant Messaging",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "Yes  + downloadable",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "Push to Talk\n\nMP3/AAC/M4A/eAAC+ player \n\nPredictive text input\n\nOrganizer\n\nSyncML\n\nVoice dial/memo"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1100 mAh battery (BP-6M)",
+        "Stand-by": "Up to 250 h",
+        "Talk time": "Up to 4 h 30 min"
+      },
+      "Misc": {
+        "Colors": "White, Black, Red, Blue",
+        "SAR": "0.57 W/kg (head) &nbsp; &nbsp; 0.48 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.80 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 140 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-6288_00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_6288-pictures-1711.php"
+    }
+  }
+}

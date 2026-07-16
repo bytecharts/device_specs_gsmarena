@@ -1,0 +1,97 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 3200",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/no3200_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/no3200.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2003, Q4",
+    "dimensions": "90g, 21mm thickness",
+    "os": "Feature phone",
+    "storage": "1MB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "GPRS": "Class 10",
+        "EDGE": "No",
+        "Features": "GSM 850 / 1800 / 1900 - US version"
+      },
+      "Launch": {
+        "Announced": "2003, Q4",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "108 x 45 x 21 mm, 81 cc (4.25 x 1.77 x 0.83 in)",
+        "Weight": "90 g (3.17 oz)",
+        "SIM": "Mini-SIM",
+        "Features": "Flashlight"
+      },
+      "Display": {
+        "Type": "CSTN, 4096 colors",
+        "Size": "1.56 inches, 7.9 cm<sup>2</sup> (~16.2% screen-to-body ratio)",
+        "Resolution": "128 x 128 pixels, 5 lines, 1:1 ratio (~116 ppi density)",
+        "Features": "Cut-out covers \n\nFour-way navigation\n\nWallpaper and screensavers"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "256 x 4 fields, Photo call",
+        "Call records": "10 dialed, 10 received, 10 missed calls",
+        "Internal": "1MB",
+        "Features": "50 short messages\n\n100 calendar notes\n\nIn shared memory\n\n . MMS, max 100 kB each\n\n . Ringtones\n\n . Images\n\n . Java apps, max 64 kB each\n\n . Voice memo"
+      },
+      "Main Camera": {
+        "Single": "CIF, night mode",
+        "Video": "No"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "Alert types": "Vibration; Downloadable polyphonic, monophonic ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Infrared port": "Yes",
+        "Radio": "Stereo FM radio",
+        "USB": "Pop-Port"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "Virtual Me, Bounce + Java",
+        "Languages": "Major European , Africa and APAC  languages",
+        "Java": "Yes",
+        "Features": "Predictive text input\n\nOrganizer\n\nVoice memo\n\nPhoto editor\n\nProfiles\n\nPersonal shortcuts"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 780 mAh battery (BLD-3)",
+        "Stand-by": "Up to 144 h - 288 h",
+        "Talk time": "Up to 2 h - 4 h"
+      },
+      "Misc": {
+        "Colors": "",
+        "SAR": "0.97 W/kg (head) &nbsp; &nbsp; 0.97 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.63 W/kg (head) &nbsp; &nbsp;"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/no3200_00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_3200-pictures-528.php"
+    }
+  }
+}

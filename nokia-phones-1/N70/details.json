@@ -1,0 +1,97 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia N70",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-n70-00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-n70.gif"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/nokia_n70-review-52.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2005, Q2",
+    "dimensions": "126g, 21.8mm thickness",
+    "os": "Symbian OS 8.1a , Series 60 UI",
+    "storage": "22MB storage, RS-DV-MMC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / UMTS</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "3G bands": "UMTS 2100",
+        "Speed": "Yes, 384 kbps"
+      },
+      "Launch": {
+        "Announced": "2005, Q2",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "108.8 x 53 x 21.8 mm, 95.9 cc (4.28 x 2.09 x 0.86 in)",
+        "Weight": "126 g (4.44 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "2.1 inches, 35 x 41 mm, 14.0 cm<sup>2</sup> (~24.3% screen-to-body ratio)",
+        "Resolution": "176 x 208 pixels (~130 ppi density)",
+        "Features": "Five-way scroll key\n\nDownloadable themes"
+      },
+      "Platform": {
+        "OS": "Symbian OS 8.1a , Series 60 UI",
+        "Chipset": "TI OMAP 1710",
+        "CPU": "220 MHz"
+      },
+      "Memory": {
+        "Card slot": "RS-DV-MMC, 64 MB included",
+        "Internal": "22MB"
+      },
+      "Main Camera": {
+        "Single": "2 MP",
+        "Features": "LED flash",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Single": "VGA videocall camera",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "Alert types": "Vibration; Downloadable polyphonic, monophonic, MP3 ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.0",
+        "Positioning": "No",
+        "Radio": "FM radio",
+        "USB": "Pop-Port"
+      },
+      "Features": {
+        "Sensors": "",
+        "Browser": "WAP 2.0/xHTML, HTML",
+        "Features": "Predictive text input\n\nSyncML\n\nOrganizer\n\nStopwatch\n\nPhoto editor\n\nXpress-on covers\n\nProfiles"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 970 mAh battery (BL-5C)",
+        "Stand-by": "Up to 265 h",
+        "Talk time": "Up to 3 h 30 min"
+      },
+      "Misc": {
+        "Colors": "Silver, Ivory/Pearl, Black (Music Edition)",
+        "SAR": "0.51 W/kg (head) &nbsp; &nbsp; 0.65 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.93 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 110 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-n70-00.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-n70-01.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_n70-pictures-1153.php"
+    }
+  }
+}

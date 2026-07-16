@@ -1,0 +1,96 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 7380",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-7380-00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/nokia-7380.gif"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/nokia_7380-review-64.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2005, October",
+    "dimensions": "80g, 20mm thickness",
+    "os": "Feature phone",
+    "storage": "52MB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "GPRS": "Class 10",
+        "EDGE": "Class 8"
+      },
+      "Launch": {
+        "Announced": "2005, October",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "114 x 30 x 20 mm, 63 cc (4.49 x 1.18 x 0.79 in)",
+        "Weight": "80 g (2.82 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 65K colors",
+        "Size": "",
+        "Resolution": "104 x 208 pixels, 18:9 ratio",
+        "Features": "Mirror surface"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "1000 x 10 fields, Photo call",
+        "Call records": "10 dialed, 10 received, 10 missed calls",
+        "Internal": "52MB"
+      },
+      "Main Camera": {
+        "Single": "2 MP",
+        "Features": "LED flash",
+        "Video": "QCIF"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "Alert types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.0",
+        "Positioning": "No",
+        "Radio": "Stereo FM radio",
+        "USB": "Pop-Port"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "No",
+        "Java": "No",
+        "Features": "Voice memo/dial\n\nPredictive text input\n\nOrganizer\n\nPresence enhanced contacts"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 700 mAh battery (BL-8N)",
+        "Stand-by": "Up to 240 h",
+        "Talk time": "Up to 3 h"
+      },
+      "Misc": {
+        "Colors": "White, Amber",
+        "SAR": "0.44 W/kg (head) &nbsp; &nbsp; 0.62 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.65 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 260 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-7380-00.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-7380-01.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_7380-pictures-1332.php"
+    }
+  }
+}

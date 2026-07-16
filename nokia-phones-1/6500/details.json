@@ -1,0 +1,92 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 6500",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/no6500_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/no6500.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2002, Q1",
+    "dimensions": "88g, 21mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "Class 4",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2002, Q1",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "97 x 43 x 21 mm, 75 cc (3.82 x 1.69 x 0.83 in)",
+        "Weight": "88 g (3.10 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "Monochrome graphic",
+        "Size": "",
+        "Resolution": "96 x 60 pixels, 5 lines, 16:10 ratio",
+        "Features": "Pastel blue backlight\n\nDynamic font size\n\nSoftkey"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "500 names x3 numbers",
+        "Call records": "20 dialed, 10 received, 10 missed calls",
+        "Features": "3 phone numbers per name\n\n150 text messages\n\n15 voice dial numbers\n\nMessage templates"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Downloadable monophonic ringtones",
+        "3.5mm jack": "No",
+        "Features": "Ascending ringing tones\n\nPersonal alert tones"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Infrared port": "Yes",
+        "Radio": "FM radio",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS",
+        "Browser": "WAP 1.2.1",
+        "Clock": "Yes",
+        "Alarm": "Yes",
+        "Games": "4 Games (Snake II, Pairs II, Space Impact, Bumper)",
+        "Java": "No",
+        "Features": "Electronic wallet\n\nPredictive text input\n\nOrganizer\n\nVoice record\n\nVoice command\n\nProfile Selection"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 750 mAh battery (BLB-2)",
+        "Stand-by": "100 h - 350 h",
+        "Talk time": "2 h 15 min - 4 h"
+      },
+      "Misc": {
+        "Colors": "Beige, four Xpress-on front-back covers as accessories",
+        "SAR": "1.28 W/kg (head) &nbsp; &nbsp; 0.94 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.92 W/kg (head) &nbsp; &nbsp;"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/no6500_00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_6500-pictures-295.php"
+    }
+  }
+}

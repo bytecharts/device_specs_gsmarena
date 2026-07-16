@@ -1,0 +1,89 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 3120",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/no3120_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/no3120.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2004, Q2",
+    "dimensions": "84g, 20mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "GPRS": "Class 4",
+        "EDGE": "No",
+        "Features": "GSM 850 / 1800 / 1900 - US version"
+      },
+      "Launch": {
+        "Announced": "2004, Q2",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "102 x 43 x 20 mm, 67 cc (4.02 x 1.69 x 0.79 in)",
+        "Weight": "84 g (2.96 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "CSTN, 4096 colors",
+        "Size": "1.6 inches, 8.3 cm<sup>2</sup> (~18.8% screen-to-body ratio)",
+        "Resolution": "128 x 128 pixels, 5 lines, 1:1 ratio (~113 ppi density)",
+        "Features": "Four-way navigation\n\nWallpaper and animated screensavers\n\nDownloadable screensavers"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "256 x 4 fields",
+        "Call records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "Alert types": "Vibration; Downloadable polyphonic ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": "Pop-Port"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS, Instant Messaging",
+        "Browser": "WAP 1.2.1, xHTML",
+        "Games": "3 - Snake EX2, Beach Rally, Nature Park + downloadable",
+        "Languages": "Major European and Asia languages",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "Predictive text input\n\nOrganizer\n\nStopwatch\n\nPreloaded content from Smileyworld\n\nOptional digital camera"
+      },
+      "Battery": {
+        "Type": "Standard, Li-Ion  850 mAh (BR-5C)",
+        "Stand-by": "Up to 410 h",
+        "Talk time": "Up to 6 h"
+      },
+      "Misc": {
+        "Colors": "Lime Tree Green, Iron Blue",
+        "SAR": "0.75 W/kg (head) &nbsp; &nbsp; 0.59 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.79 W/kg (head) &nbsp; &nbsp;"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/no3120_00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_3120-pictures-747.php"
+    }
+  }
+}

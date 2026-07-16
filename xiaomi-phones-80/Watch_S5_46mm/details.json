@@ -1,0 +1,89 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Xiaomi Watch S5 46mm",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-watch-s5-2.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-watch-s5-.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2026, May 28",
+    "dimensions": "46g, 11mm thickness",
+    "os": "Xiaomi HyperOS 3",
+    "storage": "Unspecified storage storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">HSPA / LTE</a>",
+        "2G bands": "",
+        "3G bands": "HSDPA - cellular model only",
+        "4G bands": "LTE - cellular model only",
+        "Speed": "HSPA, LTE",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2026, May 28",
+        "Status": "Available. Released 2026, May 28"
+      },
+      "Body": {
+        "Dimensions": "46 x 46 x 11 mm (1.81 x 1.81 x 0.43 in)",
+        "Weight": "46 g (1.62 oz)",
+        "Build": "Glass front, stainless steel frame, stainless steel/ceramic/forged carbon bezel",
+        "SIM": "<a href=\"glossary.php3?term=esim\">eSIM</a> (market/region dependent)",
+        "Features": "Waterproof (5ATM)"
+      },
+      "Display": {
+        "Type": "AMOLED, 1500 nits (HBM), 2500 nits (peak)",
+        "Size": "1.48 inches",
+        "Resolution": "480 x 480 pixels (~323 ppi density)",
+        "Protection": "Drop-proof glass"
+      },
+      "Platform": {
+        "OS": "Xiaomi HyperOS 3"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "Unspecified storage"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Yes (file transfer only)",
+        "Bluetooth": "5.4, LE",
+        "Positioning": "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS",
+        "NFC": "Yes (market/region dependent)",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, compass, barometer, heart rate, SpO2"
+      },
+      "Battery": {
+        "Type": "Li-Po 815 mAh"
+      },
+      "Misc": {
+        "Colors": "Black, Silver, Ceramic Blue, Jungle Green, Beige (eSIM)",
+        "Models": "M2530W1, M2517W1",
+        "Price": "<a href=\"xiaomi_watch_s5-price-14696.php\">€ 150.64</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-watch-s5-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-watch-s5-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-watch-s5-4.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/xiaomi_watch_s5-pictures-14696.php"
+    }
+  }
+}

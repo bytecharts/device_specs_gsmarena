@@ -1,0 +1,96 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 6101",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/no6101_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/no6101.gif"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/nokia_6101-review-40.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2005, Q1",
+    "dimensions": "97g, 24mm thickness",
+    "os": "Feature phone",
+    "storage": "4.4MB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "GPRS": "Class 10",
+        "EDGE": "Class 6",
+        "Features": "GSM 850 / 1800 / 1900 - US version"
+      },
+      "Launch": {
+        "Announced": "2005, Q1",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "85 x 45 x 24 mm (3.35 x 1.77 x 0.94 in)",
+        "Weight": "97 g (3.42 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 65k colors",
+        "Size": "1.8 inches, 29 x 35 mm, 10.2 cm<sup>2</sup> (~26.7% screen-to-body ratio)",
+        "Resolution": "128 x 160 pixels (~114 ppi density)",
+        "Features": "Second external display 4096 colors (96 x 65 pixels)\n\n5-way navi key\n\nDownloadable themes"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "500 x 10 fields, Photo call",
+        "Call records": "20 dialed, 20 received, 20 missed calls",
+        "Internal": "4.4MB"
+      },
+      "Main Camera": {
+        "Single": "VGA",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Infrared port": "Yes",
+        "Radio": "FM radio",
+        "USB": "Pop-Port"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS, Email, Instant Messaging",
+        "Browser": "WAP, xHTML",
+        "Games": "3 + downloadable",
+        "Languages": "Major European and Asia-Pacific languages",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "Voice record\n\nVoice command\n\nPicture messaging\n\nPredictive text input\n\nBusiness card sending/receiving\n\nOrganizer\n\nRadio headset"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 760 mAh battery (BL-4C)",
+        "Stand-by": "Up to 350 h",
+        "Talk time": "Up to 4 h"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "SAR": "0.95 W/kg (head) &nbsp; &nbsp; 0.59 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.68 W/kg (head) &nbsp; &nbsp;"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/no6101_00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_6101-pictures-1044.php"
+    }
+  }
+}

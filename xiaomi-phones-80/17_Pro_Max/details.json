@@ -1,0 +1,117 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Xiaomi 17 Pro Max",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-17-pro-max-3.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-17-pro-max.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/xiaomi_17_pro_max-review-2895.php",
+    "siblingDeviceSlugs": [
+      "xiaomi_17_pro_5g-14182",
+      "apple_iphone_17_pro_max-13964",
+      "xiaomi_17_ultra_5g-14380",
+      "xiaomi_17t_pro_5g-14651",
+      "xiaomi_17_5g-14134"
+    ],
+    "release_date": "Released 2025, September 25",
+    "dimensions": "219g, 8mm thickness",
+    "os": "Android 16, HyperOS 3",
+    "storage": "512GB/1TB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 34, 38, 39, 40, 41, 42, 48, 66, 71",
+        "5G bands": "1, 2, 3, 5, 7, 8, 12, 13, 18, 20, 25, 26, 28, 38, 40, 41, 48, 66, 70, 71, 77, 78, 79, 80, 81, 83, 84, 89 SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2025, September 25",
+        "Status": "Available. Released 2025, September 25"
+      },
+      "Body": {
+        "Dimensions": "162.9 x 77.6 x 8 mm (6.41 x 3.06 x 0.31 in)",
+        "Weight": "219 g (7.72 oz)",
+        "Build": "Glass front (Dragon Crystal Glass 3), aluminum frame",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "IP68 dust tight and water resistant (immersible up to 6m for 30 min)"
+      },
+      "Display": {
+        "Type": "LTPO AMOLED, 68B colors, 2160Hz PWM, 120Hz, Dolby Vision, HDR Vivid, HDR10+, 3500 nits (peak)",
+        "Size": "6.9 inches, 116.6 cm<sup>2</sup> (~92.3% screen-to-body ratio)",
+        "Resolution": "1200 x 2608 pixels, 19.5:9 ratio (~416 ppi density)",
+        "Protection": "Xiaomi Dragon Crystal Glass 3",
+        "Features": "Secondary display (on the back):\n\nLTPO AMOLED, 120Hz, Dolby Vision, HDR Vivid, HDR10+, 3500 nits (peak)\n\n2.9 inches, 596 x 976 pixels"
+      },
+      "Platform": {
+        "OS": "Android 16, HyperOS 3",
+        "Chipset": "Qualcomm SM8850-AC Snapdragon 8 Elite Gen 5 (3 nm)",
+        "CPU": "Octa-core (2x4.6 GHz Oryon V3 Phoenix L + 6x3.62 GHz Oryon V3 Phoenix M)",
+        "GPU": "Adreno 840"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "512GB 12GB RAM, 512GB 16GB RAM, 1TB 16GB RAM",
+        "Features": "UFS 4.1"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, f/1.7, 23mm (wide), 1/1.28\", 1.22µm, dual pixel PDAF, OIS\n\n50 MP, f/2.6, 115mm (periscope telephoto), 1/1.95\", 0.8µm, PDAF (30cm - ∞), OIS, 5x optical zoom\n\n50 MP, f/2.4, 17mm, 102˚ (ultrawide), 1/2.88\", 0.61µm, PDAF",
+        "Features": "Laser AF, color spectrum sensor, Leica lens, Dual-LED dual-tone flash, HDR, panorama",
+        "Video": "8K@30fps (HDR), 4K@30/60/120fps (HDR10+, 10-bit Dolby Vision HDR, 10-bit LOG), 1080p@30/60/120/240/960fps, 720p@1920fps, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "50 MP, f/2.2, 21mm (wide), 1/2.88\", 0.61µm, PDAF",
+        "Features": "HDR, panorama",
+        "Video": "4K@30/60fps, 1080p@30/60fps, HDR10+, gyro-EIS"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers (with Dolby Atmos)",
+        "3.5mm jack": "No",
+        "Features": "24-bit/192kHz Hi-Res &amp; Hi-Res wireless audio\n\nSnapdragon sound"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.4, A2DP, LE, aptX HD, aptX Adaptive, LHDC 5",
+        "Positioning": "GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5), GLONASS",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 3.2, Display Port, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, proximity, gyro, compass, barometer",
+        "Features": "Ultra Wideband (UWB) support"
+      },
+      "Battery": {
+        "Type": "Si/C Li-Ion 7500 mAh",
+        "Charging": "100W wired, PD3.0, QC3+, 100W PPS\n\n50W wireless\n\n22.5W reverse wireless"
+      },
+      "Misc": {
+        "Colors": "Black, White, Purple, Green",
+        "Models": "2509FPN0BC",
+        "Price": "About 720 EUR"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 2456317 (v10), 3543388 (v11)\n\nGeekBench: 10600 (v6)\n\n3DMark: 6761 (Wild Life Extreme)",
+        "Display": "<a class=\"noUnd\" href=\"xiaomi_17_pro_max-review-2895p3.php\">1026 nits max brightness (measured)</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"xiaomi_17_pro_max-review-2895p3.php#lt\">-26.1 LUFS (Good)</a>",
+        "Battery": "<div style=\"position:relative;\">\n<a href=\"xiaomi_17_pro_max-review-2895p3.php#bt\" data-battery2=\"40:18_19:37_29:00_11:29\" onclick=\"showBatteryPopup(event, 14181); \" class=\"v2\">Active use score 20:50h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-17-pro-max-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-17-pro-max-4.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-17-pro-max-5.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/xiaomi_17_pro_max_5g-pictures-14181.php"
+    }
+  }
+}

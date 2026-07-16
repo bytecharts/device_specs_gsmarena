@@ -1,0 +1,86 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 9000 Communicator",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/no9000b.gif",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/no9000b.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 1998",
+    "dimensions": "397g, 38mm thickness",
+    "os": "Feature phone",
+    "storage": "8MB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "1998",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "173 x 64 x 38 mm (6.81 x 2.52 x 1.50 in)",
+        "Weight": "397 g (14.00 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "Grayscale LCD",
+        "Size": "",
+        "Resolution": "640 x 200 pixels",
+        "Features": "Second display"
+      },
+      "Platform": {
+        "CPU": "Intel 386"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "200",
+        "Call records": "10 dialed, 10 received, 10 missed calls",
+        "Internal": "8MB",
+        "Features": "4 MB Operating System and applications \n\n2 MB program execution\n\n2 MB user data storage\n\nOperating System: GEOSTM 3.0"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Monophonic ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, Email, Fax",
+        "Browser": "HTML",
+        "Clock": "Yes",
+        "Alarm": "Yes",
+        "Games": "",
+        "Java": "No",
+        "Features": "Telnet\n\nTerminal\n\nOrganizer\n\nRinging tone composer\n\nHelp\n\nSystem &amp; security"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion battery",
+        "Stand-by": "35 h",
+        "Talk time": "3 h"
+      },
+      "Misc": {
+        "Colors": "Black"
+      }
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 9210 Communicator",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/no9210_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/no9210.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "nokia_9210i_communicator-319"
+    ],
+    "release_date": "Released 2000",
+    "dimensions": "244g, 27mm thickness",
+    "os": "Open Symbian, based on Symbian v6.0",
+    "storage": "MMC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2000",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "158 x 56 x 27 mm (6.22 x 2.20 x 1.06 in)",
+        "Weight": "244 g (8.61 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 4096 colors",
+        "Size": "4.5 inches, 110 x 35 mm, 37.2 cm<sup>2</sup> (~42.0% screen-to-body ratio)",
+        "Resolution": "640 x 200 pixels (~149 ppi density)",
+        "Features": "Second display (80x48 pixels)"
+      },
+      "Platform": {
+        "OS": "Open Symbian, based on Symbian v6.0, Series 80 UI",
+        "CPU": "52 MHz ARM 9"
+      },
+      "Memory": {
+        "Card slot": "MMC, 16 MB included",
+        "Features": "14 MB application memory\n\n2 MB + card capacity user memory\n\nProcessor: 32-bit ARM9-based RISC CPU at 52 MHz"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Downloadable monophonic, WAV ringtones",
+        "3.5mm jack": "No",
+        "Features": "Audio Speaker\n\nRingtone formats: RNG, WAV, AU, WVE"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Browser": "WAP, HTML",
+        "Clock": "Yes",
+        "Alarm": "Yes",
+        "Features": "Attachment viewers\n\nVideo player\n\nDocument viewer (Word, Excel, PowerPoint, PDF)\n\nAll PDA functions\n\nImaging (Digital camera connectivity)"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1300 mAh battery (BLL-3)",
+        "Stand-by": "Up to 230 h",
+        "Talk time": "Up to 4 - 10 h"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "SAR EU": "0.34 W/kg (head) &nbsp; &nbsp;"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/no9210_00.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/no9210_01.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/no9210_02.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_9210_communicator-pictures-210.php"
+    }
+  }
+}

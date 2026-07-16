@@ -1,0 +1,99 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 9500",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/no9500_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/no9500.gif"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/nokia_9500-review-21.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2004, Q1",
+    "dimensions": "230g, 24mm thickness",
+    "os": "Symbian 7.0s, Series 80 v2.0 UI",
+    "storage": "80MB storage, MMC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "GPRS": "Class 10",
+        "EDGE": "Class 6",
+        "Features": "GSM 850 / 1800 / 1900 - US version"
+      },
+      "Launch": {
+        "Announced": "2004, Q1",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "148 x 57 x 24 mm (5.83 x 2.24 x 0.94 in)",
+        "Weight": "230 g (8.11 oz)",
+        "Keyboard": "QWERTY",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 65K colors",
+        "Size": "4.5 inches, 110 x 35 mm, 37.2 cm<sup>2</sup> (~44.1% screen-to-body ratio)",
+        "Resolution": "640 x 200 pixels (~149 ppi density)",
+        "Features": "Second LCD (128 x 128\n\npixels) with 65K color"
+      },
+      "Platform": {
+        "OS": "Symbian 7.0s, Series 80 v2.0 UI",
+        "Chipset": "TI OMAP 1510",
+        "CPU": "150 MHz ARM925T"
+      },
+      "Memory": {
+        "Card slot": "MMC",
+        "Internal": "80MB"
+      },
+      "Main Camera": {
+        "Single": "VGA",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "Alert types": "Downloadable polyphonic, monophonic, MP3/AAC ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11b",
+        "Bluetooth": "1.1",
+        "Positioning": "No",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "Pop-Port"
+      },
+      "Features": {
+        "Sensors": "",
+        "Browser": "WAP/xHTML, Opera HTML browser",
+        "Languages": "Major European languages",
+        "Features": "Music player MP3, MP4(AAC), RA, MIDI\n\nDocument viewer (Word, Excel, PowerPoint, PDF)\n\nOrganizer\n\nXpress-on covers"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1300 mAh battery (BP-5L)",
+        "Stand-by": "Up to 300 h",
+        "Talk time": "Up to 6 h"
+      },
+      "Misc": {
+        "Colors": "Tin Grey",
+        "SAR": "0.99 W/kg (head) &nbsp; &nbsp; 1.15 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.52 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 430 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/no9500_00.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/nokia/no9500_01.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_9500-pictures-678.php"
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 8910",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/no8910_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/no8910.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "nokia_8910i-370"
+    ],
+    "release_date": "Released 2002, Q2",
+    "dimensions": "110g, 20mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "Class 4",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2002, Q2",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "103 x 46 x 20 mm, 83 cc (4.06 x 1.81 x 0.79 in)",
+        "Weight": "110 g (3.88 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "Monochrome graphic",
+        "Size": "",
+        "Resolution": "4 lines",
+        "Features": "Gray scale\n\nBright white backlight\n\nDynamic font size\n\nSoftkey\n\nScreensavers"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "500 names x3 numbers",
+        "Call records": "20 dialed, 10 received, 10 missed calls",
+        "Features": "3 minutes voice memo3 phone numbers per name150 text messages15 voice dial numbersMessage templates"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Downloadable monophonic ringtones",
+        "3.5mm jack": "No",
+        "Features": "Ascending ringing tones\n\nPersonal alert tones"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "1.1",
+        "Positioning": "No",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS",
+        "Browser": "WAP 1.2.1",
+        "Clock": "Yes",
+        "Alarm": "Yes",
+        "Games": "4 Games (Snowboarding, Snake II, Bantumi, Pairs II)",
+        "Languages": "Major European and Asian languages",
+        "Java": "No",
+        "Features": "Predictive text input\n\nOrganizer\n\nVoice record\n\nVoice command\n\nMobile Chat\n\nTitanium casing\n\nDownloadable game levels\n\nProfile Selection"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 830 mAh battery (BLB-2)",
+        "Stand-by": "100 - 300 h",
+        "Talk time": "2 - 4 h"
+      },
+      "Misc": {
+        "Colors": "2 - Natural Titanium and Black",
+        "SAR EU": "0.52 W/kg (head) &nbsp; &nbsp;"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/no8910_00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_8910-pictures-310.php"
+    }
+  }
+}

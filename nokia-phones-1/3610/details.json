@@ -1,0 +1,91 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 3610",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/no3610_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/no3610.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2002",
+    "dimensions": "92g, 22mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2002",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "105 x 45 x 22 mm, 79 cc (4.13 x 1.77 x 0.87 in)",
+        "Weight": "92 g (3.25 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "Backlit full graphics",
+        "Size": "",
+        "Resolution": "96 x 65 pixels, 5 lines, 3:2 ratio",
+        "Features": "Dynamic font size\n\nSoftkey\n\nAnimated screensavers\n\nWelcome message"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "200",
+        "Call records": "20 dialed, 10 received, 10 missed calls",
+        "Features": "Editable message templates"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Monophonic ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, EMS",
+        "Browser": "WAP 1.1",
+        "Clock": "Yes",
+        "Alarm": "Yes",
+        "Games": "6 - Dance 2 Music, Link5, Magic Draw, Space Impact, Snake II, Bumper",
+        "Languages": "Country dependant",
+        "Java": "No",
+        "Features": "Downloadable game packs via WAP\n\nPredictive text input\n\nSmart messaging\n\nCalculator\n\nStopwatch\n\nRhythmic backlight alert\n\nPhoto editor\n\nPicture messaging"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 830 mAh battery (BLB-2)",
+        "Stand-by": "Up to 170 h",
+        "Talk time": "Up to 3 h 50 min"
+      },
+      "Misc": {
+        "Colors": "Ttranslucent Xpress-on covers",
+        "SAR": "0.83 W/kg (head) &nbsp; &nbsp; 0.83 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.63 W/kg (head) &nbsp; &nbsp;"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/no3610_00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_3610-pictures-342.php"
+    }
+  }
+}

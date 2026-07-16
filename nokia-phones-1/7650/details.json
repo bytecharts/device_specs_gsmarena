@@ -1,0 +1,96 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 7650",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/no7650_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/no7650.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2002, Q1",
+    "dimensions": "154g, 26mm thickness",
+    "os": "Symbian 6.1, Series 60 v1.0 UI",
+    "storage": "4MB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "Class 5",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2002, Q1",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "114 x 56 x 26 mm, 138 cc (4.49 x 2.20 x 1.02 in)",
+        "Weight": "154 g (5.43 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 4096 colors",
+        "Size": "2.1 inches, 14.0 cm<sup>2</sup> (~22.0% screen-to-body ratio)",
+        "Resolution": "176 x 208 pixels, 35 x 41mm (~130 ppi density)",
+        "Features": "Act as a camera viewfinder \n\nAdvanced User Interface\n\nJoystick with 5-way navigation \n\nPhoto album"
+      },
+      "Platform": {
+        "OS": "Symbian 6.1, Series 60 v1.0 UI",
+        "CPU": "104 MHz ARM 9"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "4MB",
+        "Features": "3 phone numbers per name\n\n25 voice dial numbers"
+      },
+      "Main Camera": {
+        "Single": "VGA",
+        "Video": "No"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Downloadable polyphonic, monophonic ringtones",
+        "3.5mm jack": "No",
+        "Features": "Ascending ringing tones\n\nPersonal alert tones"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "1.1",
+        "Positioning": "No",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Browser": "WAP 1.2.1, xHTML",
+        "Clock": "Yes",
+        "Alarm": "Yes",
+        "Languages": "English + 2 other per phone (28 total)",
+        "Features": "Predictive text input\n\nCalculator\n\nProfile Selection"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 750 mAh battery (BLB-2)",
+        "Stand-by": "90 h - 230 h",
+        "Talk time": "2 h - 4 h"
+      },
+      "Misc": {
+        "Colors": "",
+        "SAR EU": "0.35 W/kg (head) &nbsp; &nbsp;"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/no7650_00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_7650-pictures-288.php"
+    }
+  }
+}

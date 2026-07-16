@@ -1,0 +1,106 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Xiaomi Redmi K90",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-k90-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-90.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "xiaomi_redmi_k90_pro_max_5g-14252",
+      "xiaomi_redmi_k90_ultra_5g-14757",
+      "xiaomi_redmi_k90_max_5g-14618"
+    ],
+    "release_date": "Released 2025, October 23",
+    "dimensions": "206g, 8mm thickness",
+    "os": "Android 16, HyperOS 3",
+    "storage": "256GB/512GB/1TB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 3, 4, 5, 7, 8, 19, 28, 34, 38, 39, 40, 41, 42, 48, 66",
+        "5G bands": "1, 3, 5, 7, 8, 28, 66, 38, 40, 41, 48, 77, 78 SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2025, October 23",
+        "Status": "Available. Released 2025, October 23"
+      },
+      "Body": {
+        "Dimensions": "157.5 x 75.3 x 8 mm (6.20 x 2.96 x 0.31 in)",
+        "Weight": "206 g (7.27 oz)",
+        "Build": "Glass front, aluminum frame",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)"
+      },
+      "Display": {
+        "Type": "AMOLED, 68B colors, 2560Hz PWM, 120Hz, Dolby Vision, HDR Vivid, HDR10+, 3500 nits (peak)",
+        "Size": "6.59 inches, 106.5 cm<sup>2</sup> (~89.8% screen-to-body ratio)",
+        "Resolution": "1156 x 2510 pixels, 19.5:9 ratio (~419 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 16, HyperOS 3",
+        "Chipset": "Qualcomm SM8750-AB Snapdragon 8 Elite (3 nm)",
+        "CPU": "Octa-core (2x4.32 GHz Oryon V2 Phoenix L + 6x3.53 GHz Oryon V2 Phoenix M)",
+        "GPU": "Adreno 830"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 12GB RAM, 256GB 12GB RAM,512GB 12GB RAM, 512GB 16GB RAM, 1TB 16GB RAM",
+        "Features": "UFS"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, f/1.9, 24mm (wide), 1/1.55\", 1.0µm, PDAF, OIS\n\n50 MP, f/2.2, 60mm (telephoto), PDAF, 2.5x optical zoom\n\n8 MP, f/2.2, 15mm, 120˚ (ultrawide)",
+        "Features": "Color spectrum sensor, LED flash, HDR, panorama",
+        "Video": "8K@30fps, 4K@30/60fps, 1080p@30/60/120/240/960fps, gyro-EIS, HDR10+"
+      },
+      "Selfie camera": {
+        "Single": "20 MP, (wide), 1/2.0\", 0.8µm",
+        "Video": "1080p@30/60fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No",
+        "Features": "Tuned by Bose\n\n24-bit/192kHz Hi-Res &amp; Hi-Res wireless audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.4, A2DP, LE, LHDC 5.0, ASHA",
+        "Positioning": "GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC, GLONASS",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Si/C Li-Po 7100 mAh",
+        "Charging": "100W wired, PD3.0, QC3+, 100W PPS\n\n22.5W reverse wired"
+      },
+      "Misc": {
+        "Colors": "Black, White, Blue, Purple",
+        "Models": "2510DRK44C",
+        "Price": "About 350 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-k90-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-k90-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-k90-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-k90-4.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-k90-5.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/xiaomi_redmi_k90_5g-pictures-14280.php"
+    }
+  }
+}

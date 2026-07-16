@@ -1,0 +1,92 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 6510",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/no6510_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/no6510.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2002, Q1",
+    "dimensions": "84g, 20mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "Class 4",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2002, Q1",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "97 x 43 x 20 mm, 67 cc (3.82 x 1.69 x 0.79 in)",
+        "Weight": "84 g (2.96 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "Monochrome graphic",
+        "Size": "",
+        "Resolution": "96 x 60 pixels, 5 lines, 16:10 ratio",
+        "Features": "Pastel blue backlight Dynamic font size Softkey"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "500 names x3 numbers",
+        "Call records": "20 dialed, 10 received, 10 missed calls",
+        "Features": "3 phone numbers per name150 text messages15 voice dial numbersMessage templates"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Downloadable monophonic ringtones",
+        "3.5mm jack": "No",
+        "Features": "Ascending ringing tones\n\nPersonal alert tones"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Infrared port": "Yes",
+        "Radio": "FM radio",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS",
+        "Browser": "WAP 1.2.1",
+        "Clock": "Yes",
+        "Alarm": "Yes",
+        "Games": "4 Games (Snake II, Pairs II, Space Impact, Bumper)",
+        "Languages": "Major European and Asian languages",
+        "Java": "No",
+        "Features": "Electronic wallet\n\nPredictive text input\n\nOrganizer\n\nVoice dial\n\nVoice command\n\nProfile Selection"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 750 mAh battery (BLB-2)",
+        "Stand-by": "up to 12 days",
+        "Talk time": "up to 3 h 30 min"
+      },
+      "Misc": {
+        "Colors": "Beige, four Xpress-on front-back covers as accessories",
+        "SAR EU": "0.81 W/kg (head) &nbsp; &nbsp;"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/no6510_00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_6510-pictures-287.php"
+    }
+  }
+}

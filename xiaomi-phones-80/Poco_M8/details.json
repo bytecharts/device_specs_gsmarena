@@ -1,0 +1,118 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Xiaomi Poco M8",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-poco-m8-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-m8.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/poco_m8_5g-review-2928.php",
+    "siblingDeviceSlugs": [
+      "xiaomi_poco_m8_pro_5g-14390",
+      "xiaomi_poco_m8s_5g-14615"
+    ],
+    "release_date": "Released 2026, January 08",
+    "dimensions": "178g, 7.4mm thickness",
+    "os": "Android 15, up to 4 major upgrades, HyperOS 2",
+    "storage": "128GB/256GB/512GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 18, 19, 20, 26, 28, 38, 40, 41, 42, 48, 66, 71",
+        "5G bands": "1, 2, 3, 5, 7, 8, 20, 26, 28, 38, 40, 41, 48, 66, 71, 77, 78 SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2026, January 08",
+        "Status": "Available. Released 2026, January 08"
+      },
+      "Body": {
+        "Dimensions": "164 x 75.4 x 7.4 mm (6.46 x 2.97 x 0.29 in)",
+        "Weight": "178 g (6.28 oz)",
+        "Build": "Glass front, plastic frame, plastic back",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "IP66 dust tight and water resistant (high pressure water jets)\n\nIP65 dust tight and water resistant (low pressure water jets) - Europe only\n\nDrop resistant up to 1.7m"
+      },
+      "Display": {
+        "Type": "AMOLED, 68B colors, 120Hz, 3840Hz PWM, HDR, 800 nits (typ), 3200 nits (peak)",
+        "Size": "6.77 inches, 110.9 cm<sup>2</sup> (~89.7% screen-to-body ratio)",
+        "Resolution": "1080 x 2392 pixels (~388 ppi density)",
+        "Protection": "Mohs level 6"
+      },
+      "Platform": {
+        "OS": "Android 15, up to 4 major Android upgrades, HyperOS 2",
+        "Chipset": "Qualcomm SM6475-AB Snapdragon 6 Gen 3 (4 nm)",
+        "CPU": "Octa-core (4x2.4 GHz Cortex-A78 &amp; 4x1.8 GHz Cortex-A55)",
+        "GPU": "Adreno 710"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (uses shared SIM slot)",
+        "Internal": "128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM, 512GB 8GB RAM",
+        "Features": "UFS 2.2"
+      },
+      "Main Camera": {
+        "Dual": "50 MP, f/1.8, (wide), 1/2.88\", 0.61µm, PDAF\n\nAuxiliary lens",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@30/60fps"
+      },
+      "Selfie camera": {
+        "Single": "20 MP, f/2.2, (wide), 1/4.0\"",
+        "Features": "HDR, panorama",
+        "Video": "1080p@30/60fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers (with Dolby Atmos)",
+        "3.5mm jack": "No",
+        "Features": "24-bit/192kHz Hi-Res audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.1, A2DP, LE",
+        "Positioning": "GPS, GALILEO, GLONASS, QZSS, BDS",
+        "NFC": "Yes (market/region dependent)",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, compass",
+        "Features": "Virtual proximity sensing"
+      },
+      "Battery": {
+        "Type": "Si/C Li-Ion 5520 mAh",
+        "Charging": "45W wired\n\n18W reverse wired"
+      },
+      "Misc": {
+        "Colors": "Black, Green, Silver",
+        "Models": "25118PC98G",
+        "Price": "<a href=\"xiaomi_poco_m8_5g-price-14391.php\">$ 212.00 / £ 169.00 / € 219.90</a>"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 631693 (v10)\n\nGeekBench: 2898 (v6)\n\n3DMark: 866 (Wild Life Extreme)",
+        "Display": "<a class=\"noUnd\" href=\"poco_m8-review-2928p3.php#dt\">1473 nits max brightness (measured)</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"poco_m8-review-2928p3.php#lt\">-23.4 LUFS (Very good)</a>",
+        "Battery": "<div style=\"position:relative;\">\n<a href=\"poco_m8-review-2928p3.php#bt\" data-battery2=\"29:36_14:09_18:29_7:13\" onclick=\"showBatteryPopup(event, 14391); \" class=\"v2\">Active use score 13:54h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      },
+      "EU LABEL": {
+        "Energy": "Class B",
+        "Battery": "50:08h endurance, 1000 cycles",
+        "Free fall": "Class A (270 falls)",
+        "Repairability": "Class C"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-poco-m8-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-poco-m8-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/xiaomi_poco_m8_5g-pictures-14391.php"
+    }
+  }
+}

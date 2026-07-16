@@ -1,0 +1,99 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Xiaomi Watch 5",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-watch5-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-watch5.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/xiaomi_watch_5_review-news-72156.php",
+    "siblingDeviceSlugs": [
+      "xiaomi_watch_s5-14696",
+      "xiaomi_watch_2_pro-12587",
+      "oneplus_watch_4-14622",
+      "samsung_galaxy_watch8-13997",
+      "huawei_watch_gt_6_pro-14167",
+      "google_pixel_watch_4-14088"
+    ],
+    "release_date": "Released 2025, December 26",
+    "dimensions": "56g, 12.3mm thickness",
+    "os": "Android Wear OS 6, HyperOS 3",
+    "storage": "32GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - cellular model only",
+        "3G bands": "HSDPA - cellular model only",
+        "4G bands": "LTE - cellular model only",
+        "Speed": "HSPA, LTE - cellular model only",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2025, December 26",
+        "Status": "Available. Released 2025, December 26"
+      },
+      "Body": {
+        "Dimensions": "47 x 47 x 12.3 mm (1.85 x 1.85 x 0.48 in)",
+        "Weight": "56 g (1.98 oz)",
+        "Build": "Sapphire crystal front, stainless steel frame (316L)",
+        "SIM": "<a href=\"glossary.php3?term=esim\">eSIM</a> (market/region dependent) - cellular model only",
+        "Features": "Waterproof (5ATM)\n\nECG certified"
+      },
+      "Display": {
+        "Type": "AMOLED, 1500 nits (HBM)",
+        "Size": "1.54 inches",
+        "Resolution": "480 x 480 pixels (~312 ppi density)",
+        "Protection": "Sapphire Glass, Mohs level 9"
+      },
+      "Platform": {
+        "OS": "Android Wear OS 6 (Global), HyperOS 3 (China)",
+        "Chipset": "Qualcomm Snapdragon W5 Gen 1 (4 nm)",
+        "CPU": "Dual-core"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "32GB 2GB RAM"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Yes, 2.4 GHz",
+        "Bluetooth": "5.4, A2DP, LE",
+        "Positioning": "GPS (L1+L5), BDS, GALILEO, QZSS, GLONASS",
+        "NFC": "Yes (market/region dependent)",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, compass, barometer, heart rate, SpO2, EMG"
+      },
+      "Battery": {
+        "Type": "Si/C Li-Po 930 mAh"
+      },
+      "Misc": {
+        "Colors": "Gray, Silver",
+        "Price": "<a href=\"xiaomi_watch_5-price-14383.php\">$ 420.07 / € 131.90</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-watch5-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-watch5-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-watch5-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-watch5-4.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/xiaomi_watch_5-pictures-14383.php"
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 7250",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/no7250_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/no7250.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "nokia_7250i-445"
+    ],
+    "release_date": "Released 2003, Q1",
+    "dimensions": "92g, 19mm thickness",
+    "os": "Feature phone",
+    "storage": "725 KB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "GPRS": "Class 4",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2003, Q1",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "105 x 44 x 19 mm, 73 cc (4.13 x 1.73 x 0.75 in)",
+        "Weight": "92 g (3.25 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "CSTN, 4096 colors",
+        "Size": "1.5 inches, 7.3 cm<sup>2</sup> (~15.7% screen-to-body ratio)",
+        "Resolution": "128 x 128 pixels, 8 lines, 1:1 ratio (~121 ppi density)",
+        "Features": "Wallpapers \n\nDigital clock screensaver\n\nDynamic font size\n\nSoftkey"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "300 x 3 fields",
+        "Call records": "20 dialed, 10 received, 10 missed calls",
+        "Internal": "725 KB",
+        "Features": "150 text messages\n\n250 calendar notes\n\n30 To-do entries\n\nIn 725 kB memory pool \n\nMMS, max 45 kB each \n\nUp to 35 images \n\nJava apps, max 64 kB each"
+      },
+      "Main Camera": {
+        "Single": "CIF",
+        "Video": "No"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Downloadable polyphonic, monophonic ringtones",
+        "3.5mm jack": "No",
+        "Features": "Ascending ringing tones\n\nPersonal alert tones"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Infrared port": "Yes",
+        "Radio": "Stereo FM radio",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS",
+        "Browser": "WAP 1.2.1",
+        "Clock": "Yes",
+        "Alarm": "Yes",
+        "Games": "Pop and Bounce + Java",
+        "Languages": "Major European languages",
+        "Java": "Yes",
+        "Features": "Predictive text input\n\nSyncML\n\nOrganizer\n\nStopwatch\n\nXpress-on covers\n\nProfiles"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 780 mAh battery (BLD-3)",
+        "Stand-by": "Up to 150 - 300 h",
+        "Talk time": "Up to 2 - 5 h"
+      },
+      "Misc": {
+        "Colors": "2 - Blue and Plum,",
+        "SAR": "0.69 W/kg (head) &nbsp; &nbsp;",
+        "SAR EU": "0.69 W/kg (head) &nbsp; &nbsp; 0.70 W/kg (body) &nbsp; &nbsp;"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/no7250_00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_7250-pictures-371.php"
+    }
+  }
+}

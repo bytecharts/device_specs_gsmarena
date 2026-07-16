@@ -1,0 +1,96 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Nokia 3230",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/no3230_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/no3230.gif"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/nokia_3230-review-33.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2004, Q4",
+    "dimensions": "110g, 19mm thickness",
+    "os": "Symbian 7.0s, Series 60 SE UI",
+    "storage": "6MB storage, RS-MMC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "GPRS": "Class 10",
+        "EDGE": "Yes, 118.4 kbps"
+      },
+      "Launch": {
+        "Announced": "2004, Q4",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "109 x 49 x 19 mm, 90 cc (4.29 x 1.93 x 0.75 in)",
+        "Weight": "110 g (3.88 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 65K colors",
+        "Size": "2.1 inches, 35 x 41 mm, 14.0 cm<sup>2</sup> (~26.3% screen-to-body ratio)",
+        "Resolution": "176 x 208 pixels (~130 ppi density)",
+        "Features": "5-way navi key\n\nDownloadable screensavers, \n\nwallpapers"
+      },
+      "Platform": {
+        "OS": "Symbian 7.0s, Series 60 SE UI",
+        "Chipset": "TI OMAP 1510",
+        "CPU": "123 MHz ARM925T"
+      },
+      "Memory": {
+        "Card slot": "RS-MMC, 32 MB included",
+        "Internal": "6MB",
+        "Features": "Up to 60 min video clips"
+      },
+      "Main Camera": {
+        "Single": "1.23 MP",
+        "Video": "QCIF"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "1.1",
+        "Positioning": "No",
+        "Infrared port": "Yes",
+        "Radio": "Stereo FM radio",
+        "USB": "Pop-Port"
+      },
+      "Features": {
+        "Sensors": "",
+        "Browser": "WAP 2.0/xHTML, HTML",
+        "Features": "Push to Talk\n\nMono MP3 player\n\nPredictive text input\n\nOrganizer\n\nVoice dial/memo"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 760 mAh battery (BL-5B)",
+        "Stand-by": "Up to 150 h",
+        "Talk time": "Up to 4 h"
+      },
+      "Misc": {
+        "Colors": "Black, Red",
+        "SAR": "0.81 W/kg (head) &nbsp; &nbsp; 0.23 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.41 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 100 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/nokia/no3230_00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/nokia_3230-pictures-923.php"
+    }
+  }
+}
