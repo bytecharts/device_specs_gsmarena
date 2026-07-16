@@ -1,0 +1,88 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Oppo R821T FInd Muse",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-find-muse.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oppo-find-muse.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2013",
+    "dimensions": "9.9mm thickness",
+    "os": "Android 4.2",
+    "storage": "4GB 512MB RAM storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 &amp; SIM 2",
+        "3G bands": "HSDPA 2100",
+        "Speed": "HSPA"
+      },
+      "Launch": {
+        "Announced": "2013. Released 2013",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "123 x 63.5 x 9.9 mm (4.84 x 2.5 x 0.39 in)",
+        "Weight": "-",
+        "SIM": "Dual SIM (Mini-SIM, dual stand-by)"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "4.0 inches, 45.5 cm<sup>2</sup> (~58.3% screen-to-body ratio)",
+        "Resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 4.2 (Jelly Bean)",
+        "Chipset": "Mediatek MT6572 (28 nm)",
+        "CPU": "Dual-core 1.2 GHz Cortex-A7",
+        "GPU": "Mali-400"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Internal": "4GB 512MB RAM"
+      },
+      "Main Camera": {
+        "Single": "3.15 MP",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Single": "VGA",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g, hotspot",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity"
+      },
+      "Battery": {
+        "Type": "Li-Ion 1700 mAh, removable"
+      },
+      "Misc": {
+        "Colors": "White",
+        "Price": "About 290 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-find-muse.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oppo_r821t_find_muse-pictures-5763.php"
+    }
+  }
+}

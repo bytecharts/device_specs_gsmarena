@@ -1,0 +1,93 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Oppo F7 Youth",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-f7-yough-5.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oppo-f7-yough-5.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2018, June",
+    "dimensions": "155g, 7.8mm thickness",
+    "os": "Android 8.1, ColorOS 5.2",
+    "storage": "64GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100 - Taiwan",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 18, 19, 20, 26, 28, 38, 39, 40, 41 - Taiwan",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE (2CA) Cat13 600/100 Mbps",
+        "Features": "HSDPA 850 / 900 / 2100 - Asia Pacific\n1, 3, 5, 7, 8, 38, 40, 41 - Asia Pacific"
+      },
+      "Launch": {
+        "Announced": "2018, May. Released 2018, June",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "156.5 x 75.2 x 7.8 mm (6.16 x 2.96 x 0.31 in)",
+        "Weight": "155 g (5.47 oz)",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "6.0 inches, 92.9 cm<sup>2</sup> (~78.9% screen-to-body ratio)",
+        "Resolution": "1080 x 2160 pixels, 18:9 ratio (~402 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 8.1 (Oreo), ColorOS 5.2",
+        "Chipset": "Mediatek MT6771 Helio P60 (12 nm)",
+        "CPU": "Octa-core (4x2.0 GHz Cortex-A73 &amp; 4x2.0 GHz Cortex-A53)",
+        "GPU": "Mali-G72 MP3"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "64GB 4GB RAM",
+        "Features": "eMMC 5.1"
+      },
+      "Main Camera": {
+        "Single": "13 MP, f/2.2, PDAF",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, f/2.2",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
+        "Bluetooth": "4.2, A2DP, LE",
+        "Positioning": "GPS",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "microUSB 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Ion 3410 mAh, non-removable"
+      },
+      "Misc": {
+        "Colors": "Solar Red, Diamond Black",
+        "Price": "About 250 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-f7-yough-5.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-f7-yough-6.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oppo_f7_youth-pictures-9208.php"
+    }
+  }
+}

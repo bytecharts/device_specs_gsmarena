@@ -1,0 +1,97 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Oppo RX17 Neo",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-k1-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oppo-k1-.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2018, November",
+    "dimensions": "156g, 7.4mm thickness",
+    "os": "Android 8.1, ColorOS 5.2",
+    "storage": "128GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 18, 19, 20, 26, 28, 38, 39, 40, 41",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE (2CA) Cat12 600/150 Mbps"
+      },
+      "Launch": {
+        "Announced": "2018, November. Released 2018, November",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "158.3 x 75.5 x 7.4 mm (6.23 x 2.97 x 0.29 in)",
+        "Weight": "156 g (5.50 oz)",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "Super AMOLED",
+        "Size": "6.41 inches, 100.9 cm<sup>2</sup> (~84.4% screen-to-body ratio)",
+        "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~402 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 8.1 (Oreo), ColorOS 5.2",
+        "Chipset": "Qualcomm SDM660 Snapdragon 660 (14 nm)",
+        "CPU": "Octa-core (4x2.0 GHz Kryo 260 Gold &amp; 4x1.8 GHz Kryo 260 Silver)",
+        "GPU": "Adreno 512"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "128GB 4GB RAM",
+        "Features": "eMMC 5.1"
+      },
+      "Main Camera": {
+        "Dual": "16 MP, f/1.8, 1/2.8\", 1.12µm, PDAF\n\nAuxiliary lens",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "25 MP, f/2.0, 1/2.8\", 0.9µm",
+        "Features": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS",
+        "NFC": "No",
+        "Radio": "No",
+        "USB": "microUSB 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Ion 3600 mAh, non-removable",
+        "Charging": "10W wired"
+      },
+      "Misc": {
+        "Colors": "Mocha Red, Astral Blue",
+        "Models": "CPH1893",
+        "Price": "About 330 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-k1-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-k1-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-k1-4.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oppo_rx17_neo-pictures-9393.php"
+    }
+  }
+}

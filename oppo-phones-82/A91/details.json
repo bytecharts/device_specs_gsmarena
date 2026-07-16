@@ -1,0 +1,99 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Oppo A91",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-a91-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oppo-a91.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2019, December",
+    "dimensions": "172g, 7.9mm thickness",
+    "os": "Android 9.0, up to Android 11, ColorOS 11",
+    "storage": "128GB/256GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 1700(AWS) / 1900 / 2100 - International",
+        "4G bands": "1, 3, 5, 7, 8, 20, 28, 38, 40, 41 - International",
+        "Speed": "HSPA, LTE",
+        "Features": "CDMA 800 &amp; TD-SCDMA\nHSDPA 850 / 900 / 2100 - Southeast Asia\n1, 3, 5, 7, 8, 38, 40, 41\n1, 3, 5, 8, 38, 40, 41 - Southeast Asia\n1, 3, 4, 5, 8, 34, 38, 39, 40, 41 - China"
+      },
+      "Launch": {
+        "Announced": "2019, December 20. Released 2019, December",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "160.2 x 73.3 x 7.9 mm (6.31 x 2.89 x 0.31 in)",
+        "Weight": "172 g (6.07 oz)",
+        "Build": "Glass front (Gorilla Glass 5), plastic back, plastic frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED, 430 nits (typ)",
+        "Size": "6.4 inches, 100.4 cm<sup>2</sup> (~85.5% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~408 ppi density)",
+        "Protection": "Corning Gorilla Glass 5"
+      },
+      "Platform": {
+        "OS": "Android 9.0 (Pie), upgradable to Android 11, ColorOS 11",
+        "Chipset": "Mediatek MT6771V Helio P70 (12 nm)",
+        "CPU": "Octa-core (4x2.1 GHz Cortex-A73 &amp; 4x2.0 GHz Cortex-A53)",
+        "GPU": "Mali-G72 MP3"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "128GB 4GB RAM, 128GB 8GB RAM, 256GB 8GB RAM",
+        "Features": "UFS 2.1"
+      },
+      "Main Camera": {
+        "Quad": "48 MP, f/1.8, 26mm (wide), 1/2.0\", 0.8µm, PDAF\n\n8 MP, f/2.3, 119˚ (ultrawide), 1/4.0\", 1.12µm\n\n2 MP B/W, f/2.4, 1/5.0\", 1.75µm\n\nAuxiliary lens",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "1080p@30fps, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "16 MP, f/2.0, 26mm (wide), 1/3.06\", 1.0µm",
+        "Features": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "4.2, A2DP, LE",
+        "Positioning": "GPS, GLONASS, BDS",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Po 4025 mAh, non-removable",
+        "Charging": "20W wired, 50% in 30 min"
+      },
+      "Misc": {
+        "Colors": "Lightening Black, Unicorn White, Blazing Blue, Red",
+        "Models": "PCPM00, CPH2001, CPH2021",
+        "Price": "About 200 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-a91-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-a91-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-a91-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oppo_a91-pictures-10000.php"
+    }
+  }
+}

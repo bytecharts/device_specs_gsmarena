@@ -1,0 +1,100 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Oppo Find X Lamborghini",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-find-x-lamborgini-edition.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oppo-find-x-lamborgini-edition.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/oppo_find_x_lamborghini_edition-review-1840.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2018, August",
+    "dimensions": "186g, 9.4mm thickness",
+    "os": "Android 8.1, up to Android 10, ColorOS 7.0",
+    "storage": "512GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 29, 32, 66, 34, 38, 39, 40, 41",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE (4CA) Cat16 1024/150 Mbps"
+      },
+      "Launch": {
+        "Announced": "2018, June. Released 2018, August",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "156.7 x 74.2 x 9.4 mm (6.17 x 2.92 x 0.37 in)",
+        "Weight": "186 g (6.56 oz)",
+        "Build": "Glass front (Gorilla Glass 5), glass back (Gorilla Glass 5), aluminum frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED",
+        "Size": "6.42 inches, 101.2 cm<sup>2</sup> (~87.0% screen-to-body ratio)",
+        "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~401 ppi density)",
+        "Protection": "Corning Gorilla Glass 5"
+      },
+      "Platform": {
+        "OS": "Android 8.1 (Oreo), upgradable to Android 10, ColorOS 7.0",
+        "Chipset": "Qualcomm SDM845 Snapdragon 845 (10 nm)",
+        "CPU": "Octa-core (4x2.8 GHz Kryo 385 Gold &amp; 4x1.7 GHz Kryo 385 Silver)",
+        "GPU": "Adreno 630"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "512GB 8GB RAM",
+        "Features": "UFS 2.1"
+      },
+      "Main Camera": {
+        "Dual": "Motorized pop-up 16 MP, f/2.0, 1/2.6\", 1.22µm, PDAF, OIS\n\nMotorized pop-up 20 MP, f/2.0, 1/2.8\", 1.0µm",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@240fps, 720p@480fps"
+      },
+      "Selfie camera": {
+        "Single": "Motorized pop-up 25 MP, f/2.0\n\nMotorized pop-up SL 3D, (depth/biometrics sensor)",
+        "Features": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS, GLONASS, BDS",
+        "NFC": "No",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Face ID, accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Ion 3400 mAh, non-removable",
+        "Charging": "50W wired, 100% in 35 min"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "Models": "PAFM00, PAFT00, CPH1875, PAHM00",
+        "Price": "About 1350 EUR"
+      },
+      "Our Tests": {
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 9248); \">Endurance rating 82h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-find-x-lamborgini-edition.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oppo_find_x_lamborghini-pictures-9248.php"
+    }
+  }
+}

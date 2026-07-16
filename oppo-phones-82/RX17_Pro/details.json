@@ -1,0 +1,106 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Oppo RX17 Pro",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-r17-pro-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oppo-r17-pro.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/oppo_rx17_pro-review-1864.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2018, November",
+    "dimensions": "183g, 7.9mm thickness",
+    "os": "Android 8.1, up to Android 10, ColorOS 7.0",
+    "storage": "128GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 25, 26, 28, 32, 34, 38, 39, 40, 41",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat15 800/150 Mbps"
+      },
+      "Launch": {
+        "Announced": "2018, August. Released 2018, November",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "157.6 x 74.6 x 7.9 mm (6.20 x 2.94 x 0.31 in)",
+        "Weight": "183 g (6.46 oz)",
+        "Build": "Glass front (Gorilla Glass 6), glass back (Gorilla Glass 5), aluminum frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED",
+        "Size": "6.4 inches, 101.0 cm<sup>2</sup> (~85.9% screen-to-body ratio)",
+        "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~402 ppi density)",
+        "Protection": "Corning Gorilla Glass 6"
+      },
+      "Platform": {
+        "OS": "Android 8.1 (Oreo), upgradable to Android 10, ColorOS 7.0",
+        "Chipset": "Qualcomm SDM710 Snapdragon 710 (10 nm)",
+        "CPU": "Octa-core (2x2.2 GHz Kryo 360 Gold &amp; 6x1.7 GHz Kryo 360 Silver)",
+        "GPU": "Adreno 616"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (uses shared SIM slot)",
+        "Internal": "128GB 6GB RAM, 128GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Dual": "12 MP, f/1.5-2.4, 26mm (wide), 1/2.55\", 1.4µm, dual pixel PDAF, OIS\n\n20 MP, f/2.6, AF\n\nTOF 3D, (depth)",
+        "Features": "Dual-LED flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "25 MP, f/2.0, 1/2.8\", 0.9µm",
+        "Features": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.0, A2DP, LE, EDR",
+        "Positioning": "GPS, GLONASS, BDS, GALILEO",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 3.1, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Po 3700 mAh, non-removable",
+        "Charging": "50W wired, 40% in 10 min"
+      },
+      "Misc": {
+        "Colors": "Radiant Mist, Emerald Green",
+        "Models": "CPH1877, PBDM00",
+        "Price": "About 600 EUR"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 154861 (v7)\n\nGeekBench: 5944 (v4.4)\n\nGFXBench: 11fps (ES 3.1 onscreen)",
+        "Display": "<a class=\"noUnd\" href=\"oppo_rx17_pro-review-1864p3.php#dt\">Contrast ratio: Infinite (nominal), 4.434 (sunlight)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=9288&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=9288&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"oppo_rx17_pro-review-1864p3.php#lt\">Voice 68dB / Noise 72dB / Ring 81dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 9288); \">Endurance rating 80h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-r17-pro-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-r17pro-colors.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-r17-pro-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-r17-pro-5.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oppo_rx17_pro-pictures-9288.php"
+    }
+  }
+}

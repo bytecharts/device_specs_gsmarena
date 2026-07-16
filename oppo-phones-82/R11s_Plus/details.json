@@ -1,0 +1,96 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Oppo R11s Plus",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-r11s-plus-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oppo-r11s-plus.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2017, November",
+    "dimensions": "182g, 7.3mm thickness",
+    "os": "Android 7.1.1, ColorOS 3.2",
+    "storage": "64GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / EVDO / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 &amp; SIM 2",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 8, 34, 38, 39, 40, 41 - R11s Plus",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE (2CA) Cat6 300/50 Mbps",
+        "Features": "CDMA 800\nCDMA2000 1xEV-DO &amp; TD-SCDMA\n1, 2, 3, 4, 5, 7, 8, 12, 17, 34, 38, 39, 40, 41 - R11s Plus t"
+      },
+      "Launch": {
+        "Announced": "2017, November. Released 2017, November",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "164.8 x 80.2 x 7.3 mm (6.49 x 3.16 x 0.29 in)",
+        "Weight": "182 g (6.42 oz)",
+        "Build": "Glass front (Gorilla Glass 5), aluminum back, aluminum frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED",
+        "Size": "6.43 inches, 106.7 cm<sup>2</sup> (~80.7% screen-to-body ratio)",
+        "Resolution": "1080 x 2160 pixels, 18:9 ratio (~376 ppi density)",
+        "Protection": "Corning Gorilla Glass 5"
+      },
+      "Platform": {
+        "OS": "Android 7.1.1 (Nougat), ColorOS 3.2",
+        "Chipset": "Qualcomm SDM660 Snapdragon 660 (14 nm)",
+        "CPU": "Octa-core (4x2.2 GHz Kryo 260 Gold &amp; 4x1.8 GHz Kryo 260 Silver)",
+        "GPU": "Adreno 512"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (uses shared SIM slot)",
+        "Internal": "64GB 6GB RAM",
+        "Features": "eMMC 5.1"
+      },
+      "Main Camera": {
+        "Dual": "16 MP, f/1.7, 1/2.8\", 1.12µm, PDAF\n\n20 MP, f/1.7, 1/2.8\", 1.0µm, AF",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "20 MP, f/2.0, (wide), 1/2.8\", 1.0µm",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "4.2, A2DP, LE, EDR",
+        "Positioning": "GPS, GLONASS",
+        "NFC": "No",
+        "Radio": "No",
+        "USB": "microUSB 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Po 4000 mAh, non-removable",
+        "Charging": "20W wired"
+      },
+      "Misc": {
+        "Colors": "Black, Champagne",
+        "Models": "CPH1721",
+        "Price": "About 580 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-r11s-plus-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oppo_r11s_plus-pictures-8927.php"
+    }
+  }
+}

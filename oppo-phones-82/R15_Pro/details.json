@@ -1,0 +1,108 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Oppo R15 Pro",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-r15-dme.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oppo-r15-dme.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/oppo_r15_pro-review-1748.php",
+    "siblingDeviceSlugs": [
+      "oppo_r15-9108"
+    ],
+    "release_date": "Released 2018, April",
+    "dimensions": "180g, 8mm thickness",
+    "os": "Android 8.1, ColorOS 5",
+    "storage": "128GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 34, 38, 39, 40, 41",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE (2CA) Cat6 300/50 Mbps",
+        "Features": "CDMA 800 &amp; TD-SCDMA"
+      },
+      "Launch": {
+        "Announced": "2018, March. Released 2018, April",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "156.5 x 75.2 x 8 mm (6.16 x 2.96 x 0.31 in)",
+        "Weight": "180 g (6.35 oz)",
+        "Build": "Glass front (Gorilla Glass 5), ceramic back, aluminum frame",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "IP67 dust/water resistant (up to 1m for 30 min)"
+      },
+      "Display": {
+        "Type": "AMOLED",
+        "Size": "6.28 inches, 98.9 cm<sup>2</sup> (~84.1% screen-to-body ratio)",
+        "Resolution": "1080 x 2280 pixels, 19:9 ratio (~401 ppi density)",
+        "Protection": "Corning Gorilla Glass 5"
+      },
+      "Platform": {
+        "OS": "Android 8.1 (Oreo), ColorOS 5",
+        "Chipset": "Qualcomm SDM660 Snapdragon 660 (14 nm)",
+        "CPU": "Octa-core (4x2.2 GHz Kryo 260 Gold &amp; 4x1.8 GHz Kryo 260 Silver)",
+        "GPU": "Adreno 512"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (uses shared SIM slot)",
+        "Internal": "128GB 6GB RAM",
+        "Features": "eMMC 5.1"
+      },
+      "Main Camera": {
+        "Dual": "16 MP, f/1.7, 25mm (wide), 1/2.6\", 1.22µm, PDAF\n\n20 MP, f/1.7, 25mm (wide), 1/2.8\", 1.0µm",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@60/120fps, 720p@240fps"
+      },
+      "Selfie camera": {
+        "Single": "20 MP, f/2.0, 20mm (wide), 1/2.8\", 1.0µm",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.0, A2DP, LE, EDR",
+        "Positioning": "GPS, GLONASS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "microUSB 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Po 3430 mAh, non-removable",
+        "Charging": "20W wired"
+      },
+      "Misc": {
+        "Colors": "Ceramic Black, Dream Mirror Red",
+        "Models": "CPH1831, PAAM00",
+        "Price": "About 510 EUR"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 146526 (v7)\n\nGeekBench: 5809 (v4.4)\n\nGFXBench: 7.6fps (ES 3.1 onscreen)",
+        "Display": "<a class=\"noUnd\" href=\"oppo_r15_pro-review-1748p3.php#dt\">Contrast ratio: Infinite (nominal), 4.251 (sunlight)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=9118&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=9118&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"oppo_r15_pro-review-1748p3.php#lt\">Voice 69dB / Noise 73dB / Ring 76dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"oppo_r15_pro-review-1748p3.php#aq\">Noise -93.7dB / Crosstalk -92.0dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 9118); \">Endurance rating 86h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-r15-dme.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oppo_r15_pro-pictures-9118.php"
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Oppo Reno3 Youth",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-reno3-vitality-edition-pclm50-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oppo-reno3-vitality-edition-pclm50.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2020, February 14",
+    "dimensions": "180g, 8mm thickness",
+    "os": "Android 10, ColorOS 7",
+    "storage": "128GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / EVDO / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 26, 34, 38, 39, 40, 41",
+        "5G bands": "1, 41, 78, 79 SA/NSA",
+        "Speed": "HSPA, LTE, 5G (1.9 Gbps DL)",
+        "Features": "CDMA 800 &amp; TD-SCDMA\nCDMA2000 1xEV-DO"
+      },
+      "Launch": {
+        "Announced": "2020, February 08. Released 2020, February 14",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "160.3 x 74.3 x 8 mm (6.31 x 2.93 x 0.31 in)",
+        "Weight": "180 g (6.35 oz)",
+        "Build": "Glass front (Gorilla Glass 5), glass back (Gorilla Glass 5), aluminum frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED, 430 nits (typ)",
+        "Size": "6.4 inches, 98.9 cm<sup>2</sup> (~83.0% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~411 ppi density)",
+        "Protection": "Corning Gorilla Glass 5"
+      },
+      "Platform": {
+        "OS": "Android 10, ColorOS 7",
+        "Chipset": "Qualcomm SM7250 Snapdragon 765G 5G (7 nm)",
+        "CPU": "Octa-core (1x2.4 GHz Kryo 475 Prime &amp; 1x2.2 GHz Kryo 475 Gold &amp; 6x1.8 GHz Kryo 475 Silver)",
+        "GPU": "Adreno 620"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 8GB RAM",
+        "Features": "UFS 2.1"
+      },
+      "Main Camera": {
+        "Quad": "48 MP, f/1.7, 26mm (wide), 1/2.0\", 0.8µm, PDAF, OIS\n\n8 MP, f/2.2, 13mm (ultrawide), 1/3.2\", 1.4µm\n\n2 MP B/W, f/2.4, 1/5.0\", 1.75µm\n\nAuxiliary lens",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@30/60/120fps; gyro-EIS, OIS"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.0, 26mm (wide), 1/2.8\", 0.8µm",
+        "Features": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.1, A2DP, LE, aptX HD",
+        "Positioning": "GPS (L1+L5), GLONASS, BDS (B1I+B2a), GALILEO, QZSS",
+        "NFC": "Yes",
+        "Radio": "Unspecified",
+        "USB": "USB Type-C 3.1, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Po 4025 mAh",
+        "Charging": "30W wired, 50% in 20 min"
+      },
+      "Misc": {
+        "Colors": "White, Black, Gold",
+        "Models": "PCLM50",
+        "Price": "About 400 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-reno3-vitality-edition-pclm50-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-reno3-vitality-edition-pclm50-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oppo_reno3_youth-pictures-10077.php"
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Oppo N3",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-n3-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oppo-n3-new1.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/oppo_n3-review-1184.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2015, January",
+    "dimensions": "192g, 9.9mm thickness",
+    "os": "Android 4.4.4, ColorOS 2",
+    "storage": "32GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 &amp; SIM 2",
+        "3G bands": "HSDPA 850 / 900 / 1700 / 1900 / 2100",
+        "4G bands": "1, 3, 4, 7, 8, 17, 20, 28, 40",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2014, October. Released 2015, January",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "161.2 x 77 x 9.9 mm (6.35 x 3.03 x 0.39 in)",
+        "Weight": "192 g (6.77 oz)",
+        "SIM": "Nano-SIM + Micro-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "5.5 inches, 82.6 cm<sup>2</sup> (~66.5% screen-to-body ratio)",
+        "Resolution": "1080 x 1920 pixels, 16:9 ratio (~403 ppi density)",
+        "Protection": "Corning Gorilla Glass 3"
+      },
+      "Platform": {
+        "OS": "Android 4.4.4 (KitKat), ColorOS 2",
+        "Chipset": "Qualcomm MSM8974AA Snapdragon 801 (28 nm)",
+        "CPU": "Quad-core 2.3 GHz Krait 400",
+        "GPU": "Adreno 330"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (uses shared SIM slot)",
+        "Internal": "32GB 2GB RAM",
+        "Features": "eMMC 5.0"
+      },
+      "Main Camera": {
+        "Single": "16 MP, f/2.2, 1/2.3\", 1.34µm, AF",
+        "Features": "Dual-LED flash, HDR, Schneider Kreuznach certified optics, auto panorama (motorized rotation)",
+        "Video": "1080p@60fps, 720p@120fps"
+      },
+      "Selfie camera": {
+        "Single": "Motorized rotating pop-up main camera module",
+        "Features": "Dual-LED flash, HDR, Schneider Kreuznach certified optics, auto panorama (motorized rotation)",
+        "Video": "1080p@60fps, 720p@120fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, Wi-Fi Direct, DLNA, hotspot",
+        "Bluetooth": "4.0, A2DP",
+        "Positioning": "GPS, GLONASS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "microUSB 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",
+        "Features": "O-Click 2.0 bluetooth remote control"
+      },
+      "Battery": {
+        "Type": "Li-Po 3000 mAh, non-removable",
+        "Charging": "20W wired, 75% in 30 min"
+      },
+      "Misc": {
+        "Colors": "White",
+        "Models": "N5206, N5207",
+        "Price": "About 550 EUR"
+      },
+      "Our Tests": {
+        "Performance": "Basemark OS II 2.0: 1241\nBasemark X: 10095",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=6752&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=6752&amp;nSuggest=1\">Video</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 6752); \">Endurance rating 64h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-n3-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-n3-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oppo_n3-pictures-6752.php"
+    }
+  }
+}

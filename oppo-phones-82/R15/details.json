@@ -1,0 +1,104 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Oppo R15",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-r15-2.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oppo-r15-.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/oppo_r15_pro-review-1748.php",
+    "siblingDeviceSlugs": [
+      "oppo_r15_pro-9118"
+    ],
+    "release_date": "Released 2018, April",
+    "dimensions": "175g, 7.4mm thickness",
+    "os": "Android 8.1, ColorOS 5",
+    "storage": "128GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 34, 38, 39, 40, 41",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE (2CA) Cat13 600/100 Mbps",
+        "Features": "CDMA 800 &amp; TD-SCDMA"
+      },
+      "Launch": {
+        "Announced": "2018, March. Released 2018, April",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "155.1 x 75.2 x 7.4 mm (6.11 x 2.96 x 0.29 in)",
+        "Weight": "175 g (6.17 oz)",
+        "Build": "Glass front (Gorilla Glass 5), glass back, aluminum frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED",
+        "Size": "6.28 inches, 98.9 cm<sup>2</sup> (~84.8% screen-to-body ratio)",
+        "Resolution": "1080 x 2280 pixels, 19:9 ratio (~401 ppi density)",
+        "Protection": "Corning Gorilla Glass 5"
+      },
+      "Platform": {
+        "OS": "Android 8.1 (Oreo), ColorOS 5",
+        "Chipset": "Mediatek MT6771 Helio P60 (12 nm)",
+        "CPU": "Octa-core (4x2.0 GHz Cortex-A73 &amp; 4x2.0 GHz Cortex-A53)",
+        "GPU": "Mali-G72 MP3"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (uses shared SIM slot)",
+        "Internal": "128GB 4GB RAM, 128GB 6GB RAM, 128GB 8GB RAM",
+        "Features": "eMMC 5.1"
+      },
+      "Main Camera": {
+        "Dual": "16 MP, f/1.7, 1/2.6\", 1.22µm, PDAF\n\nAuxiliary lens",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "20 MP, f/2.0, (wide), 1/2.8\", 1.0µm",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "4.2, A2DP, LE, EDR",
+        "Positioning": "GPS, GLONASS",
+        "NFC": "No",
+        "Radio": "No",
+        "USB": "microUSB 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Po 3450 mAh, non-removable",
+        "Charging": "20W wired"
+      },
+      "Misc": {
+        "Colors": "Hot Red, Snow White, Star Purple, Fantasy Pink",
+        "Models": "PACM00, CPH1835, PACT00, PAAT00",
+        "Price": "About 460 EUR"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 140161 (v7)\n\nGeekBench: 5806 (v4.4)"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-r15-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-r15-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-r15-4.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oppo_r15-pictures-9108.php"
+    }
+  }
+}

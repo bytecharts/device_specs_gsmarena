@@ -1,0 +1,93 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Oppo R3",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-r3.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oppo-r3.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2014, July",
+    "dimensions": "140g, 6.3mm thickness",
+    "os": "Android 4.3",
+    "storage": "8GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "TD-SCDMA",
+        "4G bands": "38, 39, 40",
+        "Speed": "HSPA, LTE",
+        "GPRS": "Yes",
+        "EDGE": "Yes"
+      },
+      "Launch": {
+        "Announced": "2014, June. Released 2014, July",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "142.3 x 70.4 x 6.3 mm (5.60 x 2.77 x 0.25 in)",
+        "Weight": "140 g (4.94 oz)",
+        "SIM": "Micro-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "5.0 inches, 68.9 cm<sup>2</sup> (~68.8% screen-to-body ratio)",
+        "Resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 4.3 (Jelly Bean)",
+        "Chipset": "Qualcomm Snapdragon 400 (28 nm)",
+        "CPU": "Quad-core 1.6 GHz Cortex-A7",
+        "GPU": "Adreno 305"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "8GB 1GB RAM",
+        "Features": "eMMC 4.5"
+      },
+      "Main Camera": {
+        "Single": "8 MP, AF",
+        "Features": "LED flash, panorama, HDR",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "5 MP",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, DLNA, hotspot",
+        "Bluetooth": "4.0, A2DP",
+        "Positioning": "GPS",
+        "NFC": "No",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, proximity"
+      },
+      "Battery": {
+        "Type": "Li-Ion 2410 mAh, non-removable"
+      },
+      "Misc": {
+        "Colors": "Black, white",
+        "Price": "About 270 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-r3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oppo_r3-pictures-6437.php"
+    }
+  }
+}

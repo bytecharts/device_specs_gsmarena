@@ -1,0 +1,106 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Oppo R7 Plus",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-r7-plus-01.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oppo-r7-plus.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/oppo_r7_plus-review-1305.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2015, May",
+    "dimensions": "192g, 7.8mm thickness",
+    "os": "Android 5.1.1, ColorOS 2.1",
+    "storage": "32GB/64GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 &amp; SIM 2",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100 - Global, Taiwan",
+        "4G bands": "1, 3, 5, 7, 8, 40 - Global",
+        "Speed": "HSPA, LTE Cat4 150/50 Mbps",
+        "Features": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - USA\n1, 3, 5, 7, 8, 28, 40 - Taiwan\n1, 2, 4, 7, 17 - USA"
+      },
+      "Launch": {
+        "Announced": "2015, May. Released 2015, May",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "158 x 82 x 7.8 mm (6.22 x 3.23 x 0.31 in)",
+        "Weight": "192 g (6.77 oz)",
+        "SIM": "Nano-SIM + Micro-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED",
+        "Size": "6.0 inches, 99.2 cm<sup>2</sup> (~76.6% screen-to-body ratio)",
+        "Resolution": "1080 x 1920 pixels, 16:9 ratio (~367 ppi density)",
+        "Protection": "Corning Gorilla Glass 3"
+      },
+      "Platform": {
+        "OS": "Android 5.1.1 (Lollipop), ColorOS 2.1",
+        "Chipset": "Qualcomm MSM8939 Snapdragon 615 (28 nm)",
+        "CPU": "Octa-core (4x1.5 GHz Cortex-A53 &amp; 4x1.0 GHz Cortex-A53)",
+        "GPU": "Adreno 405"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (uses shared SIM slot)",
+        "Internal": "32GB 3GB RAM, 64GB 4GB RAM",
+        "Features": "eMMC 4.5"
+      },
+      "Main Camera": {
+        "Single": "13 MP, f/2.2, 1/3.1\", 1.12µm",
+        "Features": "Laser AF, Schneider-Kreuznach optics, dual-LED flash, panorama, HDR",
+        "Video": "1080p@60fps, 720p@120fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, f/2.4",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+        "Bluetooth": "4.0, LE",
+        "Positioning": "GPS, GLONASS",
+        "NFC": "No",
+        "Radio": "No",
+        "USB": "microUSB 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (rear-mounted), accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Po 4100 mAh, non-removable",
+        "Charging": "20W wired, 75% in 30 min"
+      },
+      "Misc": {
+        "Colors": "Golden, Silver",
+        "Models": "R7plusf",
+        "Price": "About 430 EUR"
+      },
+      "Our Tests": {
+        "Performance": "Basemark OS II 2.0: 968\nBasemark X: 5349",
+        "Display": "<a class=\"noUnd\" href=\"oppo_r7_plus-review-1305p3.php\">Contrast ratio: Infinite (nominal), 3.499 (sunlight)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=7237&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=7237&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"oppo_r7_plus-review-1305p6.php\">Voice 73dB / Noise 72dB / Ring 79dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"oppo_r7_plus-review-1305p7.php#aq\">Noise -94.3dB / Crosstalk -94.9dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 7237); \">Endurance rating 94h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-r7-plus-01.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-r7-plus-02.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-r7-plus-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oppo_r7_plus-pictures-7237.php"
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Oppo K10 Energy",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-k10-energy-01.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/smartphone.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Cancelled",
+    "dimensions": "199g, 8.5mm thickness",
+    "os": "Android 11, ColorOS 11.2",
+    "storage": "256GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / CDMA2000 / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 3, 4, 5, 8, 19, 28, 34, 38, 39, 40, 41",
+        "5G bands": "1, 28, 41, 77, 78 SA/NSA",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "CDMA 800\nCDMA2000 1x"
+      },
+      "Launch": {
+        "Announced": "Not announced yet",
+        "Status": "Cancelled"
+      },
+      "Body": {
+        "Dimensions": "164.4 x 75.9 x 8.5 mm (6.47 x 2.99 x 0.33 in)",
+        "Weight": "199 g (7.02 oz)",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD, 120Hz, 480 nits (typ), 600 nits (HBM)",
+        "Size": "6.59 inches, 104.5 cm<sup>2</sup> (~83.7% screen-to-body ratio)",
+        "Resolution": "1080 x 2412 pixels, 20:9 ratio (~401 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 11, ColorOS 11.2",
+        "Chipset": "Qualcomm SM7325 Snapdragon 778G 5G (6 nm)",
+        "CPU": "Octa-core (1x2.4 GHz Cortex-A78 &amp; 3x2.2 GHz Cortex-A78 &amp; 4x1.9 GHz Cortex-A55)",
+        "GPU": "Adreno 642L"
+      },
+      "Memory": {
+        "Card slot": "microSDXC",
+        "Internal": "256GB 12GB RAM",
+        "Features": "UFS 2.2"
+      },
+      "Main Camera": {
+        "Triple": "64 MP, f/1.7, 26mm (wide), PDAF\n\n8 MP, f/2.2, 120˚ (ultrawide)\n\n2 MP (macro)",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@30/60/120fps; gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "16 MP, f/2.0, 26mm (wide)",
+        "Features": "Panorama",
+        "Video": "1080p@30fps, gyro-EIS"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.2, A2DP, LE, aptX HD",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS, QZSS",
+        "NFC": "Unspecified",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Po 5000 mAh",
+        "Charging": "30W wired\n\n5W reverse wired"
+      },
+      "Misc": {
+        "Colors": "Black, Blue"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-k10-energy-01.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oppo_k10_energy-pictures-11713.php"
+    }
+  }
+}

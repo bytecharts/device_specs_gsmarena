@@ -1,0 +1,110 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Oppo Find 7 (2014)",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-find-7-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oppo-find-7-new.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/oppo_find_7-review-1098.php",
+    "siblingDeviceSlugs": [
+      "oppo_find_7a-6215",
+      "oppo_find_x9_ultra_5g-14548",
+      "oppo_find_x9_pro-14094"
+    ],
+    "release_date": "Released 2014, May",
+    "dimensions": "171g, 9.2mm thickness",
+    "os": "Android 4.3, ColorOS",
+    "storage": "32GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - all models",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100  - international model",
+        "4G bands": "1, 3, 7, 20 - International model",
+        "Speed": "HSPA, LTE",
+        "Features": "HSDPA 850 / 900 / 1700 / 1900 / 2100 - Mexico &amp; US model\nLTE 700 / 1700 / 2100 - Mexico &amp; US model"
+      },
+      "Launch": {
+        "Announced": "2014, March. Released 2014, May",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "152.6 x 75 x 9.2 mm (6.01 x 2.95 x 0.36 in)",
+        "Weight": "171 g (6.03 oz)",
+        "SIM": "Micro-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "5.5 inches, 83.4 cm<sup>2</sup> (~72.9% screen-to-body ratio)",
+        "Resolution": "1440 x 2560 pixels, 16:9 ratio (~534 ppi density)",
+        "Protection": "Corning Gorilla Glass 3"
+      },
+      "Platform": {
+        "OS": "Android 4.3 (Jelly Bean), ColorOS",
+        "Chipset": "Qualcomm MSM8974AC Snapdragon 801 (28 nm)",
+        "CPU": "Quad-core 2.5 GHz Krait 400",
+        "GPU": "Adreno 330"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "32GB 3GB RAM",
+        "Features": "eMMC 5.0"
+      },
+      "Main Camera": {
+        "Single": "13 MP, f/2.0, 1/3.0\", AF",
+        "Features": "Dual-LED flash, panorama, HDR",
+        "Video": "4K@30fps, 1080p@60fps, 720p@120fps"
+      },
+      "Selfie camera": {
+        "Single": "5 MP, f/2.0",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, DLNA, Wi-Fi Direct, hotspot",
+        "Bluetooth": "4.0, A2DP",
+        "Positioning": "GPS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "microUSB 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Po 3000 mAh, removable",
+        "Charging": "20W wired, 75% in 30 min"
+      },
+      "Misc": {
+        "Colors": "White, Black, Astro Black",
+        "Models": "X9076, X9007, X9077",
+        "Price": "About 440 EUR"
+      },
+      "Our Tests": {
+        "Performance": "Basemark X: 14968",
+        "Display": "<a class=\"noUnd\" href=\"oppo_find_7-review-1098p3.php\">Contrast ratio: 1123:1 (nominal), 1.691 (sunlight)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=6214&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=6214&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"oppo_find_7-review-1098p6.php\">Voice 69dB / Noise 70dB / Ring 75dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"oppo_find_7-review-1098p7.php#aq\">Noise -93.8dB / Crosstalk -94.4dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 6214); \">Endurance rating 44h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-find-7-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-find-7.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-find-7-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oppo_find_7-pictures-6214.php"
+    }
+  }
+}

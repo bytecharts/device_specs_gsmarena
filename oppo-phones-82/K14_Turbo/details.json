@@ -1,0 +1,95 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Oppo K14 Turbo",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-k14-turbo-11.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oppo-k13-turbo-.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Cancelled",
+    "dimensions": "197 g",
+    "os": "Android 16, ColorOS 16",
+    "storage": "256GB/512GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4G bands": "LTE",
+        "5G bands": "SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "Not announced yet",
+        "Status": "Cancelled"
+      },
+      "Body": {
+        "Dimensions": "8.3 mm thickness",
+        "Weight": "197 g (6.95 oz)",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "Built-in cooling fan IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min) RGB LED lights (on the back)"
+      },
+      "Display": {
+        "Type": "AMOLED, 1B colors, 144Hz",
+        "Size": "6.59 inches, 105.9 cm<sup>2</sup>",
+        "Resolution": "1280 x 2800 pixels, 19.5:9 ratio (~467 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 16, ColorOS 16",
+        "Chipset": "Mediatek Dimensity 8500 (4 nm)",
+        "CPU": "Octa-core (1x3.4 GHz Cortex-A725 &amp; 3x3.2 GHz Cortex-A725 &amp; 4x2.2 GHz Cortex-A725)",
+        "GPU": "Mali-G720 MC8"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 12GB RAM, 512GB 12GB RAM",
+        "Features": "UFS 4.0"
+      },
+      "Main Camera": {
+        "Dual": "50 MP, f/1.8, 27mm (wide), PDAF\n\n8 MP, (ultrawide)",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "4K@30/60fps, 1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "16 MP, f/2.4, 22mm (wide)",
+        "Features": "1080p@30fps",
+        "Video": "Yes"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+        "Bluetooth": "5.4, A2DP, LE, aptX HD, LHDC 5",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS, QZSS",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Si/C Li-Ion 7500 mAh",
+        "Charging": "80W wired, 44W UFCS, 33W PPS, 13.5W PD\n\nReverse wired"
+      },
+      "Misc": {
+        "Colors": "Gray, Silver, Pink, Gold"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-k14-turbo-11.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oppo_k14_turbo_5g-pictures-14560.php"
+    }
+  }
+}

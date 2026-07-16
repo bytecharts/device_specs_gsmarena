@@ -1,0 +1,109 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Oppo Reno2",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-reno2-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oppo-reno2.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/oppo_reno2-review-1998.php",
+    "siblingDeviceSlugs": [
+      "oppo_reno2_z-9809",
+      "oppo_reno2_f-9810"
+    ],
+    "release_date": "Released 2019, September",
+    "dimensions": "189g, 9.5mm thickness",
+    "os": "Android 9.0, planned upgrade to 10",
+    "storage": "256GB/128GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 18, 19, 20, 26, 28, 32, 38, 39, 40, 41",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2019, August 28. Released 2019, September",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "160 x 74.3 x 9.5 mm (6.30 x 2.93 x 0.37 in)",
+        "Weight": "189 g (6.67 oz)",
+        "Build": "Glass front (Gorilla Glass 6), glass back (Gorilla Glass 5), aluminum frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED",
+        "Size": "6.5 inches, 104.1 cm<sup>2</sup> (~87.5% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~401 ppi density)",
+        "Protection": "Corning Gorilla Glass 6"
+      },
+      "Platform": {
+        "OS": "Android 9.0 (Pie), planned upgrade to Android 10, ColorOS 7.0",
+        "Chipset": "Qualcomm SDM730 Snapdragon 730G (8 nm)",
+        "CPU": "Octa-core (2x2.2 GHz Kryo 470 Gold &amp; 6x1.8 GHz Kryo 470 Silver)",
+        "GPU": "Adreno 618"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (uses shared SIM slot)",
+        "Internal": "128GB 8GB RAM, 256GB 8GB RAM",
+        "Features": "UFS 2.1"
+      },
+      "Main Camera": {
+        "Quad": "48 MP, f/1.7, 26mm (wide), 1/2.0\", 0.8µm, PDAF, OIS\n\n13 MP, f/2.4, 53mm (telephoto), 1/3.4\", 1.0µm, PDAF, 2x optical zoom\n\n8 MP, f/2.2, 13mm (ultrawide), 1/3.2\", 1.4µm\n\n2 MP B/W, f/2.4, 1/5.0\", 1.75µm",
+        "Features": "Dual-LED flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@30/60fps (gyro-EIS); video rec. only with main camera"
+      },
+      "Selfie camera": {
+        "Single": "Motorized pop-up 16 MP, f/2.0, 26mm (wide), 1/3.06\", 1.0µm",
+        "Features": "LED flash, HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS",
+        "NFC": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 3.1, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Po 4000 mAh, non-removable",
+        "Charging": "20W wired"
+      },
+      "Misc": {
+        "Colors": "Luminous Black, Ocean Blue, Sunset Pink",
+        "Models": "PCKM70, PCKT00, PCKM00, CPH1907",
+        "Price": "About 500 EUR"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 214097 (v7), 261990 (v8)\n\nGeekBench: 7001 (v4.4)\n\nGFXBench: 14fps (ES 3.1 onscreen)",
+        "Display": "<a class=\"noUnd\" href=\"oppo_reno2-review-1998p3.php#dt\">509 nits max brightness (measured)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=9798&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=9798&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"oppo_reno2-review-1998p3.php#lt\">Voice 67dB / Noise 71dB / Ring 81dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"oppo_reno2-review-1998p3.php#aq\">Noise -92.9dB / Crosstalk -92.4dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 9798); \">Endurance rating 102h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-reno2-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-reno2-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oppo_reno2-pictures-9798.php"
+    }
+  }
+}

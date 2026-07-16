@@ -1,0 +1,90 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Oppo Find X9+",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/oppo-find-x8s-plus.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oppo-find-x8s-plus.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Cancelled",
+    "dimensions": "",
+    "os": "Android 16, ColorOS 16",
+    "storage": "256GB/512GB/1TB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "LTE",
+        "5G bands": "SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "Not announced yet",
+        "Status": "Cancelled"
+      },
+      "Body": {
+        "Dimensions": "-",
+        "Weight": "-",
+        "Build": "Glass front, glass back, aluminum frame",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)"
+      },
+      "Display": {
+        "Type": "LTPO AMOLED, 1B colors, 120Hz, 2160Hz PWM, Dolby Vision, HDR Vivid, HDR10+",
+        "Size": "6.59 inches, 105.6 cm<sup>2</sup>",
+        "Resolution": "1256 x 2760 pixels (~460 ppi density)",
+        "Features": "Ultra HDR image support"
+      },
+      "Platform": {
+        "OS": "Android 16, ColorOS 16",
+        "Chipset": "Mediatek Dimensity 9500 (3 nm)",
+        "CPU": "Octa-core (1x4.21 GHz C1-Ultra &amp; 3x3.5 GHz C1-Premium &amp; 4x2.7 GHz C1-Pro)",
+        "GPU": "Arm G1-Ultra"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 12GB RAM, 512GB 12GB RAM, 512GB 16GB RAM, 1TB 16GB RAM",
+        "Features": "UFS 4.0"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, (wide), 1/1.4\", 1.12µm, multi-directional PDAF, OIS\n\n50 MP, (periscope telephoto), 1/1.57\", 1.0µm, 3x optical zoom, multi-directional PDAF, OIS\n\n50 MP, f/2.0, 15mm, 120˚ (ultrawide), 1/2.76\", 0.64µm, multi-directional PDAF",
+        "Features": "Laser AF, color spectrum sensor, Hasselblad Color Calibration, LED flash, HDR, panorama",
+        "Video": "4K@30/60fps, 1080p@30/60/240fps; gyro-EIS; HDR, 10‑bit video, Dolby Vision"
+      },
+      "Selfie camera": {
+        "Single": "50 MP, (wide), 1/2.76\", 0.64µm, AF",
+        "Features": "Panorama, HDR",
+        "Video": "4K@30/60fps, 1080p@30/60fps, gyro-EIS"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.4, A2DP, LE, aptX HD, LHDC 5",
+        "Positioning": "GPS (L1+L5), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), GLONASS, NavIC (L5)",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, proximity, gyro, compass"
+      },
+      "Battery": {
+        "Type": "Si/C Li-Ion 7025 mAh",
+        "Charging": "80W wired, 12W PD, 33W PPS\n\n50W wireless\n\n10W reverse wireless"
+      },
+      "Misc": {
+        "Colors": "Black; other colors"
+      }
+    }
+  }
+}
