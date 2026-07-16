@@ -1,0 +1,104 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Oppo Pad SE",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-pad-se-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oppo-pad-se.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "xiaomi_redmi_pad_2-13908",
+      "honor_pad_x8a-13259",
+      "oppo_pad_neo-12796",
+      "honor_pad_x8b-14489",
+      "oneplus_pad_lite-13956"
+    ],
+    "release_date": "Released 2025, May 23",
+    "dimensions": "527g or 530g, 7.4mm thickness",
+    "os": "Android 15, ColorOS 15",
+    "storage": "128GB/256GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - cellular model only",
+        "3G bands": "HSDPA 2100 - cellular model only",
+        "4G bands": "LTE - cellular model only",
+        "Speed": "LTE - cellular model only"
+      },
+      "Launch": {
+        "Announced": "2025, May 15",
+        "Status": "Available. Released 2025, May 23"
+      },
+      "Body": {
+        "Dimensions": "254.9 x 166.5 x 7.4 mm (10.04 x 6.56 x 0.29 in)",
+        "Weight": "527 g or 530 g (1.16 lb)",
+        "Build": "Glass front, aluminum frame, aluminum back",
+        "SIM": "Nano-SIM - cellular model only",
+        "Features": "Stylus support"
+      },
+      "Display": {
+        "Type": "IPS LCD, 1B colors, 90Hz, 500 nits (peak)",
+        "Size": "11.0 inches, 350.9 cm<sup>2</sup> (~82.7% screen-to-body ratio)",
+        "Resolution": "1200 x 1920 pixels, 16:10 ratio (~206 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 15, ColorOS 15",
+        "Chipset": "Mediatek Helio G100 (6 nm)",
+        "CPU": "Octa-core (2x2.2 GHz Cortex-A76 &amp; 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 4GB RAM, 128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM",
+        "Features": "UFS 2.2"
+      },
+      "Main Camera": {
+        "Single": "5 MP, f/2.2, (wide), AF",
+        "Features": "Panorama",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "5 MP, f/2.2, (wide)",
+        "Features": "Panorama",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No",
+        "Features": "24-bit/192kHz Hi-Res &amp; Hi-Res wireless audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.4, A2DP, LE",
+        "Positioning": "GPS, GLONASS (cellular model only)",
+        "NFC": "No",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity (accessories only), compass (LTE model only)"
+      },
+      "Battery": {
+        "Type": "9340 mAh",
+        "Charging": "33W wired, 33W UFCS, PD"
+      },
+      "Misc": {
+        "Colors": "Twilight Blue, Starlight Silver",
+        "Models": "OPD2417",
+        "Price": "About 110 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-pad-se-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-pad-se-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oppo_pad_se-pictures-13867.php"
+    }
+  }
+}

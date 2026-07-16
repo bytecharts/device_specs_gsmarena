@@ -1,0 +1,87 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Oppo Watch X2 Mini",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-watch-x2-mini-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oppo-watch-x2-mini.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2025, April 10",
+    "dimensions": "37.8g, 11mm thickness",
+    "os": "ColorOS Watch 7.0 + Wear OS 5.0",
+    "storage": "32GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">LTE</a>",
+        "2G bands": "N/A",
+        "3G bands": "N/A",
+        "4G bands": "LTE - cellular model only",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2025, April 10",
+        "Status": "Available. Released 2025, April 10"
+      },
+      "Body": {
+        "Dimensions": "43.2 x 43.2 x 11 mm (1.70 x 1.70 x 0.43 in)",
+        "Weight": "37.8 g (1.34 oz)",
+        "Build": "Stainless steel frame or 18K gold plated frame, plastic back",
+        "SIM": "<a href=\"glossary.php3?term=esim\">eSIM</a> - cellular model only",
+        "Features": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)\n\nWaterproof (5ATM/50m)"
+      },
+      "Display": {
+        "Type": "AMOLED, 1000 nits (peak)",
+        "Size": "1.32 inches",
+        "Resolution": "466 x 466 pixels (~352 ppi density)"
+      },
+      "Platform": {
+        "OS": "ColorOS Watch 7.0 + Wear OS 5.0",
+        "Chipset": "Qualcomm Snapdragon W5 Gen 1 (4 nm)"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "32GB 2GB RAM"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band",
+        "Bluetooth": "5.2, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS, QZSS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, barometer, compass, heart rate, SpO2"
+      },
+      "Battery": {
+        "Type": "Li-Ion 354 mAh"
+      },
+      "Misc": {
+        "Colors": "Black, Silver, Gold",
+        "Price": "About 220 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-watch-x2-mini-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-watch-x2-mini-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-watch-x2-mini-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oppo_watch_x2_mini-pictures-13787.php"
+    }
+  }
+}

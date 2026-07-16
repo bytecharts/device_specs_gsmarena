@@ -1,0 +1,114 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Oppo Find X9",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-find-x9-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oppo-find-x9.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/oppo_find_x9_handson-news-69922.php",
+    "siblingDeviceSlugs": [
+      "oppo_find_x9_pro-14094",
+      "oppo_find_x9s_5g-14617",
+      "oppo_find_x9_ultra_5g-14548"
+    ],
+    "release_date": "Released 2025, October 22",
+    "dimensions": "203g, 8mm thickness",
+    "os": "Android 16, up to 5 major upgrades",
+    "storage": "256GB/512GB/1TB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100 - International, China",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 26, 28, 32, 38, 39, 40, 41, 42, 48, 66 - International",
+        "5G bands": "1, 2, 3, 5, 7, 8, 12, 20, 26, 28, 38, 40, 41, 48, 66, 75, 77, 78 SA/NSA - International",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "HSDPA 900 / 2100\n1, 2, 3, 4, 5, 7, 8, 18, 19, 25, 26, 28, 34, 38, 39, 40, 41, 42, 43, 48, 66 - China\n1, 3, 5, 8, 40 - India\n1, 2, 3, 5, 7, 8, 18, 25, 26, 28, 34, 38, 39, 40, 41, 48, 66, 77, 78 SA/NSA - China\n1, 3, 5, 8, 40 SA/NSA - India"
+      },
+      "Launch": {
+        "Announced": "2025, October 16",
+        "Status": "Available. Released 2025, October 22"
+      },
+      "Body": {
+        "Dimensions": "157 x 73.9 x 8 mm (6.18 x 2.91 x 0.31 in)",
+        "Weight": "203 g (7.16 oz)",
+        "Build": "Glass front (Gorilla Glass 7i), glass back, aluminum frame",
+        "SIM": "· Nano-SIM + <a href=\"glossary.php3?term=esim\">eSIM</a>\n· Nano-SIM + Nano-SIM",
+        "Features": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)"
+      },
+      "Display": {
+        "Type": "AMOLED, 1B colors, 120Hz, 3840Hz PWM, Dolby Vision, HDR10+, HDR Vivid, 800 nits (typ), 1800 nits (HBM), 3600 nits (peak)",
+        "Size": "6.59 inches, 105.6 cm<sup>2</sup> (~91.0% screen-to-body ratio)",
+        "Resolution": "1256 x 2760 pixels (~460 ppi density)",
+        "Protection": "Corning Gorilla Glass 7i, Mohs level 5",
+        "Features": "Ultra HDR image support"
+      },
+      "Platform": {
+        "OS": "Android 16, up to 5 major Android upgrades, ColorOS 16",
+        "Chipset": "Mediatek Dimensity 9500 (3 nm)",
+        "CPU": "Octa-core (1x4.21 GHz C1-Ultra &amp; 3x3.5 GHz C1-Premium &amp; 4x2.7 GHz C1-Pro)",
+        "GPU": "Arm G1-Ultra"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 12GB RAM, 256GB 16GB RAM, 512GB 12GB RAM, 512GB 16GB RAM, 1TB 16GB RAM",
+        "Features": "UFS 4.1"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, f/1.6, 23mm (wide), 1/1.4\", 1.12µm, multi-directional PDAF, OIS\n\n50 MP, f/2.6, 73mm (periscope telephoto), 1/1.95\", 0.61µm, 3x optical zoom, multi-directional PDAF, OIS\n\n50 MP, f/2.0, 15mm, 120˚ (ultrawide), 1/2.76\", 0.64µm, multi-directional PDAF",
+        "Features": "Laser AF, color spectrum sensor, Hasselblad Color Calibration, LED flash, HDR, panorama",
+        "Video": "4K@30/60/120fps, 1080p@30/60/240fps; gyro-EIS; HDR, 10‑bit video, Dolby Vision, LOG"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.4, 21mm (wide), 1/2.74\", 0.8µm",
+        "Features": "Panorama",
+        "Video": "4K@30/60fps, 1080p@30/60fps, gyro-EIS"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+        "Bluetooth": "6.0, A2DP, LE, aptX HD, LHDC 5",
+        "Positioning": "GPS (L1+L5), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), GLONASS, NavIC (L5)",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Si/C Li-Ion 7025 mAh",
+        "Charging": "80W wired, 80W UFCS, 55W PPS, 11.7W PD\n\n50W wireless \n\n10W reverse wireless"
+      },
+      "Misc": {
+        "Colors": "Space Black, Titanium Grey, Velvet Red, White",
+        "Models": "CPH2797, PLJ110",
+        "Price": "<a href=\"oppo_find_x9_5g-price-14235.php\">£ 749.97 / € 928.00</a>"
+      },
+      "EU LABEL": {
+        "Energy": "Class A",
+        "Battery": "69:18h endurance, 1300 cycles",
+        "Free fall": "Class D (45 falls)",
+        "Repairability": "Class B"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-find-x9-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-find-x9-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-find-x9-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oppo_find_x9_5g-pictures-14235.php"
+    }
+  }
+}

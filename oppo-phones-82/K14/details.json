@@ -1,0 +1,101 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Oppo K14",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-k14-5g-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oppo-a6t-pro.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "oppo_k14x_5g-14458"
+    ],
+    "release_date": "Released 2026, March 20",
+    "dimensions": "216g, 8.6mm thickness",
+    "os": "Android 15, ColorOS 15",
+    "storage": "128GB/256GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "LTE",
+        "5G bands": "SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2026, March 20",
+        "Status": "Available. Released 2026, March 20"
+      },
+      "Body": {
+        "Dimensions": "166.6 x 78.5 x 8.6 mm (6.56 x 3.09 x 0.34 in)",
+        "Weight": "216 g (7.62 oz)",
+        "Build": "Glass front, plastic frame, plastic back",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)"
+      },
+      "Display": {
+        "Type": "IPS LCD, 120Hz, 1125 nits (HBM)",
+        "Size": "6.75 inches, 111.4 cm<sup>2</sup> (~85.2% screen-to-body ratio)",
+        "Resolution": "720 x 1570 pixels, 19.5:9 ratio (~256 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 15, ColorOS 15",
+        "Chipset": "Mediatek Dimensity 6300 (6 nm)",
+        "CPU": "Octa-core (2x2.4 GHz Cortex-A76 &amp; 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC",
+        "Internal": "128GB 6GB RAM, 256GB 6GB RAM, 256GB 8GB RAM",
+        "Features": "UFS 2.2"
+      },
+      "Main Camera": {
+        "Dual": "50 MP, f/1.8, (wide), PDAF\n\nAuxiliary lens",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "1080p@30/60fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, f/2.0, (wide)",
+        "Features": "Panorama",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.4, A2DP, LE, aptX HD",
+        "Positioning": "GPS, GALILEO, GLONASS, QZSS",
+        "NFC": "No",
+        "Radio": "Unspecified",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Si/C Li-Ion 7000 mAh",
+        "Charging": "45W wired, 33W PPS, 13.5W PD, 37% in 30 min\n\n5W reverse wired"
+      },
+      "Misc": {
+        "Colors": "Prism Violet, Prism White, Icy Blue",
+        "Models": "CPH2869",
+        "SAR": "1.14 W/kg (head) &nbsp; &nbsp; 0.89 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 170 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-k14-5g-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-k14-5g-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oppo_k14_5g-pictures-14530.php"
+    }
+  }
+}

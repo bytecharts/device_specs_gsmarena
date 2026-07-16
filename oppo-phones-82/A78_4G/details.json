@@ -1,0 +1,97 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Oppo A78 4G",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-a78-4g-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oppo-a78-4g.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "oppo_a78-12073"
+    ],
+    "release_date": "Released 2023, July 10",
+    "dimensions": "180g, 7.9mm thickness",
+    "os": "Android 13, ColorOS 13.1",
+    "storage": "128GB/256GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "LTE",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2023, July 10",
+        "Status": "Available. Released 2023, July 10"
+      },
+      "Body": {
+        "Dimensions": "160 x 73.2 x 7.9 mm (6.30 x 2.88 x 0.31 in)",
+        "Weight": "180 g (6.35 oz)",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "IP54 dust protected and water resistant (water splashes)"
+      },
+      "Display": {
+        "Type": "AMOLED, 90Hz, 430 nits",
+        "Size": "6.43 inches, 99.8 cm<sup>2</sup> (~85.2% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~409 ppi density)",
+        "Protection": "Corning Gorilla Glass 5"
+      },
+      "Platform": {
+        "OS": "Android 13, ColorOS 13.1",
+        "Chipset": "Qualcomm SM6225 Snapdragon 680 4G (6 nm)",
+        "CPU": "Octa-core (4x2.4 GHz Kryo 265 Gold &amp; 4x1.9 GHz Kryo 265 Silver)",
+        "GPU": "Adreno 610"
+      },
+      "Memory": {
+        "Card slot": "microSDXC",
+        "Internal": "128GB 8GB RAM, 256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Dual": "50 MP, f/1.8, (wide), PDAF\n\nAuxiliary lens",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, f/2.0, (wide)",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS, GALILEO, GLONASS, BDS",
+        "NFC": "Yes (market/region dependent)",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Po 5000 mAh",
+        "Charging": "67W wired, PD, 76% in 30 min"
+      },
+      "Misc": {
+        "Colors": "Mist Black, Aqua Green",
+        "Models": "CPH2565",
+        "Price": "About 200 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-a78-4g-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-a78-4g-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oppo_a78_4g-pictures-12387.php"
+    }
+  }
+}

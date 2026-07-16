@@ -1,0 +1,105 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Oppo Pad 3 Pro",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-pad-3-pro-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oppo-pad-3-pro.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "oppo_pad_3-13516",
+      "oppo_pad_air5-14382",
+      "oneplus_pad_2-13210",
+      "vivo_pad2-12231",
+      "oppo_pad_5_pro-14621"
+    ],
+    "release_date": "Released 2024, October 30",
+    "dimensions": "586g, 6.5mm thickness",
+    "os": "Android 14, ColorOS 14.1",
+    "storage": "256GB/512GB/1TB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">No cellular connectivity</a>",
+        "2G bands": "N/A",
+        "3G bands": "N/A",
+        "4G bands": "N/A",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2024, October 24",
+        "Status": "Available. Released 2024, October 30"
+      },
+      "Body": {
+        "Dimensions": "268.7 x 195.1 x 6.5 mm (10.58 x 7.68 x 0.26 in)",
+        "Weight": "586 g (1.29 lb)",
+        "Build": "Glass front, aluminum frame, aluminum back",
+        "SIM": "No",
+        "Features": "Stylus support, 2.0ms latency"
+      },
+      "Display": {
+        "Type": "IPS LCD, 68B colors, Dolby Vision, 144Hz, 900 nits (HBM)",
+        "Size": "12.1 inches, 445.2 cm<sup>2</sup> (~84.9% screen-to-body ratio)",
+        "Resolution": "2120 x 3000 pixels (~304 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 14, ColorOS 14.1",
+        "Chipset": "Qualcomm SM8650-AC Snapdragon 8 Gen 3 (4 nm)",
+        "CPU": "8-core (1x3.39GHz Cortex-X4 &amp; 3x3.1GHz Cortex-A720 &amp; 2x2.9GHz Cortex-A720 &amp; 2x2.2GHz Cortex-A520)",
+        "GPU": "Adreno 750 (1 GHz)"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 8GB RAM, 256GB 12GB RAM, 512GB 16GB RAM, 1TB 16GB RAM",
+        "Features": "UFS 4.0"
+      },
+      "Main Camera": {
+        "Single": "13 MP, f/2.2, (wide), AF",
+        "Features": "Color spectrum sensor, LED flash",
+        "Video": "4K@30fps, 1080p@30ps, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, f/2.3, 103˚ (ultrawide)",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers (4 speakers)",
+        "3.5mm jack": "No",
+        "Features": "24-bit/192kHz audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band",
+        "Bluetooth": "5.4, A2DP, LE",
+        "Positioning": "No",
+        "NFC": "No",
+        "Radio": "No",
+        "USB": "USB Type-C 3.2, OTG, accessory connector"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity (accessories only), gyro, compass"
+      },
+      "Battery": {
+        "Type": "9510 mAh",
+        "Charging": "67W wired, PD, QC, UFCS"
+      },
+      "Misc": {
+        "Colors": "Blue, Gold",
+        "Models": "OPD2401",
+        "Price": "About 600 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-pad-3-pro-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-pad-3-pro-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-pad-3-pro-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oppo_pad_3_pro-pictures-13085.php"
+    }
+  }
+}

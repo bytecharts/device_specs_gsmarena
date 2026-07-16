@@ -1,0 +1,103 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Oppo F29 Pro",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-f29-pro-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oppo-f29-pro.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/oppo_f29_pro_hands_on_review-news-67206.php",
+    "siblingDeviceSlugs": [
+      "oppo_f29-13722"
+    ],
+    "release_date": "Released 2025, April 01",
+    "dimensions": "180g, 7.6mm thickness",
+    "os": "Android 15, ColorOS 15",
+    "storage": "128GB/256GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 900 / 2100",
+        "4G bands": "1, 3, 5, 8, 28, 40, 41",
+        "5G bands": "1, 3, 5, 8, 28, 40, 41, 77, 78 SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2025, March 20",
+        "Status": "Available. Released 2025, April 01"
+      },
+      "Body": {
+        "Dimensions": "161.5 x 74.9 x 7.6 mm (6.36 x 2.95 x 0.30 in)",
+        "Weight": "180 g (6.35 oz)",
+        "Build": "Glass front (Gorilla Glass Victus 2), fiber fabric back",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)\n\nMIL-STD-810H compliant*\n\n* does not guarantee ruggedness or use in extreme conditions"
+      },
+      "Display": {
+        "Type": "AMOLED, 1B colors, 120Hz, 600 nits (typ), 1200 nits (HBM)",
+        "Size": "6.7 inches, 108.0 cm<sup>2</sup> (~89.3% screen-to-body ratio)",
+        "Resolution": "1080 x 2412 pixels, 20:9 ratio (~394 ppi density)",
+        "Protection": "Corning Gorilla Glass Victus 2"
+      },
+      "Platform": {
+        "OS": "Android 15, ColorOS 15",
+        "Chipset": "Mediatek Dimensity 7300 Energy (4 nm)",
+        "CPU": "Octa-core (4x2.5 GHz Cortex-A78 &amp; 4x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G615 MC2"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM",
+        "Features": "UFS 3.1"
+      },
+      "Main Camera": {
+        "Dual": "50 MP, f/1.8, 27mm (wide), 1/2.88\", PDAF, OIS\n\nAuxiliary lens",
+        "Features": "Color spectrum sensor, LED flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@30/60/120/480fps, 720p@960fps, gyro-EIS, OIS"
+      },
+      "Selfie camera": {
+        "Single": "16 MP, f/2.4, (wide)",
+        "Video": "1080p@30fps, gyro-EIS"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+        "Bluetooth": "5.4, A2DP, LE, aptX HD",
+        "Positioning": "GPS, GALILEO, GLONASS, BDS, QZSS",
+        "NFC": "No",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Si/C Li-Ion 6000 mAh",
+        "Charging": "80W wired, PD, 45% in 20 min"
+      },
+      "Misc": {
+        "Colors": "Marble White, Granite Black",
+        "Models": "CPH2705",
+        "SAR": "1.00 W/kg (head) &nbsp; &nbsp; 0.77 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 300 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-f29-pro-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-f29-pro-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oppo_f29_pro-pictures-13720.php"
+    }
+  }
+}

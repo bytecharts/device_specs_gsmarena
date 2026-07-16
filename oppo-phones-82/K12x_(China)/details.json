@@ -1,0 +1,99 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Oppo K12x (China)",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-k12x-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oppo-k12x.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2024, May 20",
+    "dimensions": "191g, 8.1mm thickness",
+    "os": "Android 14, ColorOS 14",
+    "storage": "128GB/256GB/512GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 3, 4, 5, 8, 28, 34, 38, 39, 40, 41",
+        "5G bands": "1, 5, 8, 28, 41, 77, 78 SA/NSA",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "CDMA 800"
+      },
+      "Launch": {
+        "Announced": "2024, March 14",
+        "Status": "Available. Released 2024, May 20"
+      },
+      "Body": {
+        "Dimensions": "162.9 x 75.6 x 8.1 mm (6.41 x 2.98 x 0.32 in)",
+        "Weight": "191 g (6.74 oz)",
+        "Build": "Glass front, plastic frame, plastic back",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "OLED, 120Hz, 600 nits (typ), 1200 nits (HBM), 2100 nits (peak)",
+        "Size": "6.67 inches, 107.4 cm<sup>2</sup> (~87.2% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~395 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 14, ColorOS 14",
+        "Chipset": "Qualcomm SM6375 Snapdragon 695 5G (6 nm)",
+        "CPU": "Octa-core (2x2.2 GHz Kryo 660 Gold &amp; 6x1.7 GHz Kryo 660 Silver)",
+        "GPU": "Adreno 619"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (uses shared SIM slot)",
+        "Internal": "128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM, 512GB 12GB RAM",
+        "Features": "UFS 2.2"
+      },
+      "Main Camera": {
+        "Dual": "50 MP, f/1.8, (wide), 1/2.76\", PDAF\n\nAuxiliary lens",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "1080p@30fps, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "16 MP, f/2.4, (wide)",
+        "Features": "Panorama",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS, GALILEO, GLONASS, BDS, QZSS",
+        "NFC": "No",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5500 mAh",
+        "Charging": "80W wired, PD3.0, 100% in 50 min"
+      },
+      "Misc": {
+        "Colors": "Gray, Light Green",
+        "Models": "PJT110",
+        "Price": "About 170 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-k12x-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-k12x-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-k12x-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oppo_k12x_(china)-pictures-13001.php"
+    }
+  }
+}

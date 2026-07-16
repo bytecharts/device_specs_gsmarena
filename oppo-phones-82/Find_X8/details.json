@@ -1,0 +1,112 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Oppo Find X8",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-find-x8-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oppo-find-x8.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/oppo_find_x8-review-2767.php",
+    "siblingDeviceSlugs": [
+      "oppo_find_x8_pro-13467",
+      "oppo_find_x8s_5g-13769"
+    ],
+    "release_date": "Released 2024, October 30",
+    "dimensions": "193g, 7.9mm thickness",
+    "os": "Android 15, up to 5 major upgrades",
+    "storage": "256GB/512GB/1TB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 26, 28, 38, 39, 40, 41, 42, 66 - International",
+        "5G bands": "1, 2, 3, 5, 7, 8, 12, 20, 28, 38, 40, 41, 66, 77, 78 SA/NSA - International",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "1, 3, 4, 5, 7, 8, 18, 19, 26, 28, 34, 38, 39, 40, 41, 66 - China\n1, 3, 5, 7, 8, 28, 38, 40, 41, 66, 77, 78 SA/NSA - China"
+      },
+      "Launch": {
+        "Announced": "2024, October 24",
+        "Status": "Available. Released 2024, October 30"
+      },
+      "Body": {
+        "Dimensions": "157.4 x 74.3 x 7.9 mm (6.20 x 2.93 x 0.31 in)",
+        "Weight": "193 g (6.81 oz)",
+        "Build": "Glass front (Gorilla Glass 7i), glass back (Gorilla Glass 7i), aluminum frame",
+        "SIM": "· Nano-SIM + <a href=\"glossary.php3?term=esim\">eSIM</a>\n· Nano-SIM + Nano-SIM",
+        "Features": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)"
+      },
+      "Display": {
+        "Type": "AMOLED, 1B colors, 120Hz, 3840Hz PWM, Dolby Vision, HDR10+, 800 nits (typ), 1600 nits (HBM), 4500 nits (peak)",
+        "Size": "6.59 inches, 105.6 cm<sup>2</sup> (~90.3% screen-to-body ratio)",
+        "Resolution": "1256 x 2760 pixels (~460 ppi density)",
+        "Protection": "Corning Gorilla Glass 7i",
+        "Features": "Ultra HDR image support"
+      },
+      "Platform": {
+        "OS": "Android 15, up to 5 major Android upgrades, ColorOS 15",
+        "Chipset": "Mediatek Dimensity 9400 (3 nm)",
+        "CPU": "Octa-core (1x3.63 GHz Cortex-X925 &amp; 3x3.3 GHz Cortex-X4 &amp; 4x2.4 GHz Cortex-A720)",
+        "GPU": "Immortalis-G925"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 12GB RAM, 256GB 16GB RAM, 512GB 12GB RAM, 512GB 16GB RAM, 1TB 16GB RAM",
+        "Features": "UFS 4.0"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, f/1.8, 24mm (wide), 1/1.56\", 1.0µm, multi-directional PDAF, OIS\n\n50 MP, f/2.6, 73mm (periscope telephoto), 1/1.95\", 0.61µm, 3x optical zoom, multi-directional PDAF, OIS\n\n50 MP, f/2.0, 15mm, 120˚ (ultrawide), 1/2.76\", 0.64µm, multi-directional PDAF",
+        "Features": "Laser AF, color spectrum sensor, Hasselblad Color Calibration, LED flash, HDR, panorama",
+        "Video": "4K@30/60fps, 1080p@30/60/240fps; gyro-EIS; HDR, 10‑bit video, Dolby Vision"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.4, 21mm (wide), 1/2.74\", 0.8µm",
+        "Features": "Panorama",
+        "Video": "4K@30/60fps, 1080p@30/60fps, gyro-EIS"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.4, A2DP, LE, aptX HD, LHDC 5",
+        "Positioning": "GPS (L1+L5), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), GLONASS, NavIC (L5)",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 3.0 (Global), 2.0 (China), OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Si/C Li-Ion 5630 mAh",
+        "Charging": "80W wired, PD 55W, PPS, UFCS\n\n50W wireless\n\n10W reverse wireless"
+      },
+      "Misc": {
+        "Colors": "Star Grey, Space Black, Shell Pink, Blue",
+        "Models": "CPH2651, PKB110",
+        "Price": "<a href=\"oppo_find_x8-price-13407.php\">₹ 58,499</a>"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 2751909 (v10)\n\nGeekBench: 8885 (v6)\n\n3DMark: 6513 (Wild Life Extreme)",
+        "Display": "<a class=\"noUnd\" href=\"oppo_find_x8-review-2767p3.php#dt\">1364 nits max brightness (measured)</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"oppo_find_x8-review-2767p3.php#lt\">-24.0 LUFS (Very good)</a>",
+        "Battery": "<div style=\"position:relative;\">\n<a href=\"oppo_find_x8-review-2767p3.php#bt\" data-battery2=\"28:20_11:47_16:04_9:48\" onclick=\"showBatteryPopup(event, 13407); \" class=\"v2\">Active use score 13:58h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-find-x8-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-find-x8-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oppo_find_x8-pictures-13407.php"
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Oppo K11",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-k11-2.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oppo-k11-5g.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2023, August 01",
+    "dimensions": "184g, 8.2mm thickness",
+    "os": "Android 13, ColorOS 13.1",
+    "storage": "256GB/512GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / CDMA2000 / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 28, 34, 38, 39, 40, 41",
+        "5G bands": "1, 3, 5, 8, 28, 40, 41, 77, 78 SA/NSA",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "CDMA 800\nCDMA2000 1x"
+      },
+      "Launch": {
+        "Announced": "2023, July 25",
+        "Status": "Available. Released 2023, August 01"
+      },
+      "Body": {
+        "Dimensions": "162.7 x 75.5 x 8.2 mm (6.41 x 2.97 x 0.32 in)",
+        "Weight": "184 g (6.49 oz)",
+        "Build": "Glass front, plastic frame, plastic back",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED, 1B colors, 120Hz, HDR10+, 500 nits (typical), 1100 nits (peak)",
+        "Size": "6.7 inches, 108.4 cm<sup>2</sup> (~88.2% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~393 ppi density)",
+        "Protection": "Corning Gorilla Glass 5"
+      },
+      "Platform": {
+        "OS": "Android 13, ColorOS 13.1",
+        "Chipset": "Qualcomm Snapdragon 782G (6 nm)",
+        "CPU": "Octa-core (1x2.7 GHz Cortex-A78 &amp; 3x2.4 GHz Cortex-A78 &amp; 4x1.8 GHz Cortex-A55)",
+        "GPU": "Adreno 642L"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "256GB 8GB RAM, 256GB 12GB RAM, 512GB 12GB RAM",
+        "Features": "UFS 3.1"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, f/1.8, 24mm (wide), 1/1.56\", 1.0µm, multi-directional PDAF, OIS\n\n8 MP, f/2.2, 112˚ (ultrawide), 1/4.0\", 1.12µm\n\n2 MP (macro)",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@30/60/120fps, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "16 MP, f/2.4, 24mm (wide), 1.0µm",
+        "Features": "HDR",
+        "Video": "1080p@30fps, gyro-EIS"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No",
+        "Features": "24-bit/192kHz Hi-Res audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.2, A2DP, LE, aptX HD",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS, QZSS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Po 5000 mAh",
+        "Charging": "100W wired, 100% in 26 min"
+      },
+      "Misc": {
+        "Colors": "Moonshadow Gray; Glacier Blue",
+        "Models": "PJC110"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-k11-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oppo_k11-pictures-12390.php"
+    }
+  }
+}

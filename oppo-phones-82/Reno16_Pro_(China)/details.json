@@ -1,0 +1,99 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Oppo Reno16 Pro (China)",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-reno16-pro-cn-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oppo-reno16-pro-cn.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2026, May 29",
+    "dimensions": "205g or 208g, 7.7mm thickness",
+    "os": "Android 16, ColorOS 16",
+    "storage": "256GB/512GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 8, 18, 19, 25, 26, 28, 34, 38, 39, 40, 41, 42, 43, 48, 66",
+        "5G bands": "1, 2, 3, 5, 8, 18, 26, 28, 34, 38, 39, 40, 41, 48, 66, 77, 78, 79 SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2026, May 25",
+        "Status": "Available. Released 2026, May 29"
+      },
+      "Body": {
+        "Dimensions": "161.3 x 76.4 x 7.7 mm or 7.9 mm",
+        "Weight": "205 g or 208 g (7.23 oz)",
+        "Build": "Glass front, aluminum frame",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "IP68/IP69K dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)"
+      },
+      "Display": {
+        "Type": "LTPO AMOLED, 1B colors, 120Hz, 2160Hz PWM, 600 nits (typ), 1800 nits (HBM), 3600 nits (peak)",
+        "Size": "6.78 inches, 112.4 cm<sup>2</sup> (~91.2% screen-to-body ratio)",
+        "Resolution": "1272 x 2772 pixels, 19.5:9 ratio (~450 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 16, ColorOS 16",
+        "Chipset": "Mediatek Dimensity 9500s (3 nm)",
+        "CPU": "Octa-core (1x3.73 GHz Cortex-X925 &amp; 3x3.3 GHz Cortex-X4 &amp; 4x2.4 GHz Cortex-A720)",
+        "GPU": "Immortalis-G925 MC12"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 12GB RAM, 512GB 12GB RAM, 512GB 16GB RAM",
+        "Features": "UFS 3.1"
+      },
+      "Main Camera": {
+        "Triple": "200 MP, f/1.8, 24mm (wide), PDAF, gimbal OIS\n\n50 MP, f/2.8, 80mm (telephoto), PDAF, OIS, 3.5x optical zoom\n\n50 MP, f/2.0, 16mm, 116˚ (ultrawide), AF",
+        "Features": "Color spectrum sensor, Multi-focus LED flash, HDR, panorama",
+        "Video": "4K@30/60fps, 1080p@30/60/120/240fps, gyro-EIS, HDR"
+      },
+      "Selfie camera": {
+        "Single": "50 MP, f/2.0, 18mm, 100˚ (ultrawide), AF",
+        "Features": "Panorama, HDR",
+        "Video": "4K@30/60fps, 1080p@30/60fps, gyro-EIS, HDR"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band",
+        "Bluetooth": "5.4, A2DP, LE, aptX HD, LHDC 5",
+        "Positioning": "GPS (L1+L5), GALILEO (E1+E5a+E5b), QZSS (L1+L5), BDS (B1l+B1C+B2a+B2b), GLONASS, NavIC (L5)",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "7000 mAh",
+        "Charging": "80W wired, 55W PPS, 44W UFCS, 13.5W PD\n\n50W wireless\n\nReverse wired\n\nBypass charging"
+      },
+      "Misc": {
+        "Colors": "Black, Blue, White",
+        "Models": "PMK110",
+        "Price": "About 570 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-reno16-pro-cn-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-reno16-pro-cn-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oppo_reno16_pro_5g_(china)-pictures-14675.php"
+    }
+  }
+}

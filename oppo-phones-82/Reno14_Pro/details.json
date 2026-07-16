@@ -1,0 +1,104 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Oppo Reno14 Pro",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-reno14-pro-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oppo-reno14-pro.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "oppo_reno14_5g-13866"
+    ],
+    "release_date": "Released 2025, May 23",
+    "dimensions": "201g, 7.5mm thickness",
+    "os": "Android 15, ColorOS 15",
+    "storage": "256GB/512GB/1TB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100 - International",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 26, 28, 34, 38, 39, 40, 41, 42, 48, 66 - International",
+        "5G bands": "1, 2, 3, 5, 7, 8, 12, 20, 26, 28, 38, 40, 41, 48, 66, 77, 78 SA/NSA - International",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "CDMA 800\nHSDPA 850 / 1700(AWS) / 2100 - China\n1, 3, 4, 5, 8, 18, 19, 26, 28, 34, 38, 39, 40, 41, 42, 48, 66 - China\n1, 3, 5, 8, 28, 41, 48, 66, 77, 78, 79 SA/NSA - China"
+      },
+      "Launch": {
+        "Announced": "2025, May 15",
+        "Status": "Available. Released 2025, May 23"
+      },
+      "Body": {
+        "Dimensions": "163.4 x 77 x 7.5 mm (6.43 x 3.03 x 0.30 in)",
+        "Weight": "201 g (7.09 oz)",
+        "Build": "Glass front (Gorilla Glass 7i), aluminum frame, glass back",
+        "SIM": "· Nano-SIM + Nano-SIM + <a href=\"glossary.php3?term=esim\">eSIM</a> (max 2 at a time)\n· Nano-SIM + Nano-SIM",
+        "Features": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 2m for 30 min)"
+      },
+      "Display": {
+        "Type": "AMOLED, 1B colors, 120Hz, 3840Hz PWM, HDR10+, 600 nits (typ), 1200 nits (HBM)",
+        "Size": "6.83 inches, 113.3 cm<sup>2</sup> (~90.1% screen-to-body ratio)",
+        "Resolution": "1272 x 2800 pixels (~450 ppi density)",
+        "Protection": "Corning Gorilla Glass 7i or Crystal Shield Glass"
+      },
+      "Platform": {
+        "OS": "Android 15, ColorOS 15",
+        "Chipset": "Mediatek Dimensity 8450 (4 nm)",
+        "CPU": "Octa-core (1x3.25 GHz Cortex-A725 &amp; 3x3.0 GHz Cortex-A725 &amp; 4x2.1 GHz Cortex-A725)",
+        "GPU": "Mali-G720 MC7"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 12GB RAM, 512GB 12GB RAM, 512GB 16GB RAM, 1TB 16GB RAM",
+        "Features": "UFS 3.1"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, f/1.8, 24mm (wide), 1/1.55\", PDAF, OIS\n\n50 MP, f/2.8, 80mm (periscope telephoto), PDAF, OIS, 3.5x optical zoom\n\n50 MP, f/2.0, 16mm, 116˚ (ultrawide), AF",
+        "Features": "Color spectrum sensor, LED flash, HDR, panorama",
+        "Video": "4K@30/60fps, 1080p@30/60/120/240fps, gyro-EIS, HDR"
+      },
+      "Selfie camera": {
+        "Single": "50 MP, f/2.0, 21mm (wide), AF",
+        "Features": "Panorama, HDR",
+        "Video": "4K@30/60fps, 1080p@30/60fps, gyro-EIS, HDR"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band",
+        "Bluetooth": "5.4, A2DP, LE, aptX HD, LHDC 5",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS, QZSS",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "6200 mAh",
+        "Charging": "80W wired, 13.5W PD, 33W UFCS, 33W PPS\n\n50W wireless\n\nReverse wired"
+      },
+      "Misc": {
+        "Colors": "Titanium Gray, Brilliant White (Opal White), Purple",
+        "Models": "PKZ110, CPH2739",
+        "SAR": "1.16 W/kg (head) &nbsp; &nbsp; 1.14 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 800 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-reno14-pro-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-reno14-pro-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oppo_reno14_pro_5g-pictures-13865.php"
+    }
+  }
+}

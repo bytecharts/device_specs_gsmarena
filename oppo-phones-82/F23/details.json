@@ -1,0 +1,98 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Oppo F23",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-f23-5g-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oppo-f23-5g.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2023, May 18",
+    "dimensions": "192g, 8.2mm thickness",
+    "os": "Android 13, up to Android 14, ColorOS 14",
+    "storage": "128GB/256GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 900 / 2100",
+        "4G bands": "1, 3, 5, 8, 40, 41",
+        "5G bands": "1, 3, 5, 8, 28, 40, 41, 77, 78 SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2023, May 15",
+        "Status": "Available. Released 2023, May 18"
+      },
+      "Body": {
+        "Dimensions": "165.6 x 76.1 x 8.2 mm (6.52 x 3.00 x 0.32 in)",
+        "Weight": "192 g (6.77 oz)",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD, 120Hz, 550 nits (typ), 680 nits (HBM)",
+        "Size": "6.72 inches, 109.0 cm<sup>2</sup> (~86.5% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~392 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 13, upgradable to Android 14, ColorOS 14",
+        "Chipset": "Qualcomm SM6375 Snapdragon 695 5G (6 nm)",
+        "CPU": "Octa-core (2x2.2 GHz Kryo 660 Gold &amp; 6x1.7 GHz Kryo 660 Silver)",
+        "GPU": "Adreno 619"
+      },
+      "Memory": {
+        "Card slot": "microSDXC",
+        "Internal": "128GB 8GB RAM, 256GB 8GB RAM",
+        "Features": "UFS 2.2"
+      },
+      "Main Camera": {
+        "Dual": "64 MP, f/1.8, 26mm (wide), PDAF\n\n2 MP, f/3.3, 34mm (microscope)\n\nAuxiliary lens",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.4, 22mm (wide)",
+        "Features": "Panorama",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.1, A2DP, LE, aptX HD",
+        "Positioning": "GPS (L1), GLONASS (G1), BDS (B1I), GALILEO (E1), QZSS (L1)",
+        "NFC": "No",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Po 5000 mAh"
+      },
+      "Misc": {
+        "Colors": "Cool Black, Bold Gold",
+        "Models": "CPH2527",
+        "SAR": "1.19 W/kg (head) &nbsp; &nbsp; 0.96 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 270 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-f23-5g-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-f23-5g-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-f23-5g-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oppo_f23-pictures-12270.php"
+    }
+  }
+}

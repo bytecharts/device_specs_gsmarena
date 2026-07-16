@@ -1,0 +1,100 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Oppo Reno11 Pro (China)",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-reno11-pro-china-2.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oppo-reno11-pro-china-new.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2023, December 01",
+    "dimensions": "190g, 8.2mm thickness",
+    "os": "Android 14, ColorOS 14",
+    "storage": "256GB/512GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 1700(AWS) / 2100",
+        "4G bands": "1, 3, 4, 5, 8, 18, 19, 26, 28, 34, 38, 39, 40, 41",
+        "5G bands": "1, 3, 5, 8, 28, 41, 77, 78 SA/NSA",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "CDMA 800"
+      },
+      "Launch": {
+        "Announced": "2023, November 23",
+        "Status": "Available. Released 2023, December 01"
+      },
+      "Body": {
+        "Dimensions": "163 x 74.2 x 8.2 mm (6.42 x 2.92 x 0.32 in)",
+        "Weight": "190 g (6.70 oz)",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "OLED, 1B colors, 120Hz, HDR10+, 1200 nits (HBM), 1600 nits (peak)",
+        "Size": "6.74 inches, 109.2 cm<sup>2</sup> (~90.3% screen-to-body ratio)",
+        "Resolution": "1240 x 2772 pixels, 20:9 ratio (~451 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 14, ColorOS 14",
+        "Chipset": "Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm)",
+        "CPU": "Octa-core (1x3.2 GHz Cortex-X2 &amp; 3x2.5 GHz Cortex-A710 &amp; 4x1.80 GHz Cortex-A510)",
+        "GPU": "Adreno 730"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 12GB RAM, 512GB 12GB RAM",
+        "Features": "UFS 3.1"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, f/1.8, 24mm (wide), 1/1.56\", 1.0µm, multi-directional PDAF, OIS\n\n32 MP, f/2.0, 47mm (telephoto), 1/2.74\", 0.8µm, PDAF, 2x optical zoom\n\n8 MP, f/2.2, 16mm, 112˚ (ultrawide), 1/4.0\", 1.12µm",
+        "Features": "Color spectrum sensor, LED flash, HDR, panorama",
+        "Video": "4K@30/60fps, 1080p@30/60/120/240fps, gyro-EIS, HDR"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.4, 22mm (wide), 1/2.74\", 0.8µm, AF",
+        "Features": "Panorama, HDR",
+        "Video": "4K@30fps, 1080p@30fps, gyro-EIS"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No",
+        "Features": "24-bit/192kHz Hi-Res audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.3, A2DP, LE, aptX HD",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS, QZSS",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Po 4700 mAh",
+        "Charging": "80W wired, PD, QC3, 50% in 11 min, 100% in 27 min\n\nReverse wired"
+      },
+      "Misc": {
+        "Colors": "Black, Green, Silver",
+        "Models": "PJJ110",
+        "Price": "About 450 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-reno11-pro-china-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-reno11-pro-china-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-reno11-pro-china-4.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oppo_reno11_pro_(china)-pictures-12706.php"
+    }
+  }
+}

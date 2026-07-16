@@ -1,0 +1,103 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Oppo A6 Max",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-f31-pro-plus-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oppo-a6-max-.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "oppo_a6_gt_5g-14135",
+      "oppo_a6_pro_5g-14171"
+    ],
+    "release_date": "Released 2025, September 01",
+    "dimensions": "198 g",
+    "os": "Android 15, ColorOS 15",
+    "storage": "256GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 1700 / 2100",
+        "4G bands": "LTE",
+        "5G bands": "SA/NSA",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "CDMA 800"
+      },
+      "Launch": {
+        "Announced": "2025, September 01",
+        "Status": "Available. Released 2025, September 01"
+      },
+      "Body": {
+        "Dimensions": "7.7 mm thickness",
+        "Weight": "198 g (6.98 oz)",
+        "Build": "Glass front, plastic frame, plastic back",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)"
+      },
+      "Display": {
+        "Type": "AMOLED, 1B colors, 120Hz, 1600 nits (peak)",
+        "Size": "6.8 inches, 112.8 cm<sup>2</sup>",
+        "Resolution": "1280 x 2800 pixels, 19.5:9 ratio (~453 ppi density)",
+        "Protection": "Crystal Shield Glass"
+      },
+      "Platform": {
+        "OS": "Android 15, ColorOS 15",
+        "Chipset": "Qualcomm SM7550-AB Snapdragon 7 Gen 3 (4 nm)",
+        "CPU": "Octa-core (1x2.63 GHz Cortex-A715 &amp; 3x2.4 GHz Cortex-A715 &amp; 4x1.8 GHz Cortex-A510)",
+        "GPU": "Adreno 720"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 8GB RAM",
+        "Features": "UFS"
+      },
+      "Main Camera": {
+        "Dual": "50 MP, f/1.8, (wide), PDAF\n\n2 MP",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "4K@30/60fps, 1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, (wide)",
+        "Features": "1080p@30fps",
+        "Video": "Yes"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Yes",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS, QZSS",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Si/C Li-Ion 7000 mAh",
+        "Charging": "80W wired, 13.5W PD, 44W UFCS, 33W PPS, 50% in 24 min\n\nReverse wired"
+      },
+      "Misc": {
+        "Colors": "Blue, Silver, Pink (A6L)",
+        "Price": "About 190 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-f31-pro-plus-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-a6-max.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oppo_a6_max_5g-pictures-14108.php"
+    }
+  }
+}

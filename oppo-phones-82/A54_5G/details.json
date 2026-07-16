@@ -1,0 +1,97 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Oppo A54 5G",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-a54-5g-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oppo-a54-5g.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "oppo_a54-10818"
+    ],
+    "release_date": "Released 2021, April 14",
+    "dimensions": "190g, 8.4mm thickness",
+    "os": "Android 11, ColorOS 11.1",
+    "storage": "64GB/128GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 26, 28, 38, 39, 40, 41, 66",
+        "5G bands": "1, 3, 5, 7, 8, 20, 28, 38, 40, 41, 77, 78 SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2021, April 14",
+        "Status": "Available. Released 2021, April 14"
+      },
+      "Body": {
+        "Dimensions": "162.9 x 74.7 x 8.4 mm (6.41 x 2.94 x 0.33 in)",
+        "Weight": "190 g (6.70 oz)",
+        "SIM": "· Nano-SIM\n· Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD, 90Hz, 480 nits (typ)",
+        "Size": "6.5 inches, 102.0 cm<sup>2</sup> (~83.8% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~405 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 11, ColorOS 11.1",
+        "Chipset": "Qualcomm SM4350 Snapdragon 480 5G (8 nm)",
+        "CPU": "Octa-core (2x2.0 GHz Kryo 460 &amp; 6x1.8 GHz Kryo 460)",
+        "GPU": "Adreno 619"
+      },
+      "Memory": {
+        "Card slot": "microSDXC",
+        "Internal": "64GB 4GB RAM, 128GB 4GB RAM",
+        "Features": "UFS 2.1 (single lane)"
+      },
+      "Main Camera": {
+        "Quad": "48 MP, f/1.7, 26mm (wide), 1/2.0\", 0.8µm, PDAF\n\n8 MP, f/2.2, 119˚ (ultrawide), 1/4.0\", 1.12µm\n\n2 MP (macro)\n\nAuxiliary lens",
+        "Features": "LED flash, panorama",
+        "Video": "1080p@30fps, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "16 MP, f/2.0, 26mm (wide)",
+        "Features": "Panorama",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.1, A2DP, LE, aptX HD",
+        "Positioning": "GPS, GLONASS, BDS, QZSS",
+        "NFC": "Yes (market/region dependent)",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Po 5000 mAh",
+        "Charging": "10W wired"
+      },
+      "Misc": {
+        "Colors": "Fluid Black, Fantastic Purple, Space Silver",
+        "Models": "CPH2195, OPG02",
+        "Price": "About 120 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-a54-5g-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oppo_a54_5g-pictures-10866.php"
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Oppo Reno12 Pro (China)",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-reno12-pro-cn-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oppo-reno12-pro-cn.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2024, May 31",
+    "dimensions": "183g, 7.6mm thickness",
+    "os": "Android 14, ColorOS 14.1",
+    "storage": "256GB/512GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 1700(AWS) / 2100",
+        "4G bands": "1, 3, 4, 5, 8, 18, 19, 26, 28, 34, 38, 39, 40, 41",
+        "5G bands": "1, 3, 5, 8, 28, 41, 77, 78 SA/NSA",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "CDMA 800"
+      },
+      "Launch": {
+        "Announced": "2024, May 23",
+        "Status": "Available. Released 2024, May 31"
+      },
+      "Body": {
+        "Dimensions": "161.4 x 74.8 x 7.6 mm (6.35 x 2.94 x 0.30 in)",
+        "Weight": "183 g (6.46 oz)",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "IP65 dust tight and water resistant (low pressure water jets)"
+      },
+      "Display": {
+        "Type": "AMOLED, 1B colors, 120Hz, HDR10+, 1200 nits (peak)",
+        "Size": "6.7 inches, 108.0 cm<sup>2</sup> (~89.5% screen-to-body ratio)",
+        "Resolution": "1080 x 2412 pixels, 20:9 ratio (~394 ppi density)",
+        "Protection": "Corning Gorilla Glass (unspecified version)"
+      },
+      "Platform": {
+        "OS": "Android 14, ColorOS 14.1",
+        "Chipset": "Mediatek Dimensity 9200+ (4 nm)",
+        "CPU": "Octa-core (1x3.35 GHz Cortex-X3 &amp; 3x3.0 GHz Cortex-A715 &amp; 4x2.0 GHz Cortex-A510)",
+        "GPU": "Immortalis-G715 MC11"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 12GB RAM, 256GB 16GB RAM, 512GB 16GB RAM",
+        "Features": "UFS 3.1"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, f/1.8, 24mm (wide), 1/1.56\", 1.0µm, multi-directional PDAF, OIS\n\n50 MP, f/2.0, 47mm (telephoto), PDAF, 2x optical zoom\n\n8 MP, f/2.2, 16mm, 112˚ (ultrawide), 1/4.0\", 1.12µm",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "4K@30/60fps, 1080p@30/60/120/240fps, 720p@480fps, gyro-EIS, HDR"
+      },
+      "Selfie camera": {
+        "Single": "50 MP, f/2.0, (wide), AF",
+        "Features": "Panorama, HDR",
+        "Video": "4K@30/60fps, 1080p@30/60fps, gyro-EIS"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+        "Bluetooth": "5.4, A2DP, LE, aptX HD, LHDC",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS, QZSS",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "80W wired, PD\n\nReverse wired"
+      },
+      "Misc": {
+        "Colors": "Black, Purple, Rose Gold",
+        "Models": "PJW110",
+        "Price": "About 440 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-reno12-pro-cn-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-reno12-pro-cn-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oppo_reno12_pro_(china)-pictures-13045.php"
+    }
+  }
+}

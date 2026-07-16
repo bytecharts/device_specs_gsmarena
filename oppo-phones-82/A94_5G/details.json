@@ -1,0 +1,98 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Oppo A94 5G",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-a94-5g-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oppo-a94-5g.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "oppo_a94-10765"
+    ],
+    "release_date": "Released 2021, May 03",
+    "dimensions": "173g, 7.8mm thickness",
+    "os": "Android 11, ColorOS 11.1",
+    "storage": "128GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "1, 3, 5, 7, 8, 38, 40, 41",
+        "5G bands": "1, 41, 77, 78 SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2021, April 16",
+        "Status": "Available. Released 2021, May 03"
+      },
+      "Body": {
+        "Dimensions": "160.1 x 73.4 x 7.8 mm (6.30 x 2.89 x 0.31 in)",
+        "Weight": "173 g (6.10 oz)",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "Super AMOLED, 430 nits (typ), 800 nits (peak)",
+        "Size": "6.43 inches, 99.8 cm<sup>2</sup> (~84.9% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~409 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 11, ColorOS 11.1",
+        "Chipset": "Mediatek Dimensity 800U (7 nm)",
+        "CPU": "Octa-core (2x2.4 GHz Cortex-A76 &amp; 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC3"
+      },
+      "Memory": {
+        "Card slot": "microSDXC",
+        "Internal": "128GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Quad": "48 MP, f/1.7, 25mm (wide), 1/2.0\", 0.8µm, PDAF\n\n8 MP, f/2.2, 16mm, 119˚ (ultrawide), 1/4.0\", 1.12µm\n\n2 MP (macro)\n\nAuxiliary lens",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@30fps; gyro-EIS, HDR"
+      },
+      "Selfie camera": {
+        "Single": "16 MP, f/2.4, 26mm (wide), 1/3.09\", 1.0µm",
+        "Features": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.1, A2DP, LE, aptX HD",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS",
+        "NFC": "Yes",
+        "Radio": "Unspecified",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Po 4310 mAh",
+        "Charging": "30W wired, PD, QC"
+      },
+      "Misc": {
+        "Colors": "Fluid Black, Space Silver, Cosmo Blue",
+        "Models": "CPH2211",
+        "Price": "About 280 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-a94-5g-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-f19-pro-plus-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-f19-pro-plus-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oppo_a94_5g-pictures-10799.php"
+    }
+  }
+}

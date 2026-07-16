@@ -1,0 +1,117 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Oppo Reno13 Pro",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-reno13-pro-cn-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oppo-reno13-pro-cn.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/oppo_reno13_vs_reno13_pro_review_battery_camera_price_compared-news-66911.php",
+    "siblingDeviceSlugs": [
+      "oppo_reno13-13515"
+    ],
+    "release_date": "Released 2024, November 29",
+    "dimensions": "195g or 197g, 7.6mm thickness",
+    "os": "Android 15, ColorOS 15",
+    "storage": "256GB/512GB/1TB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100 - International",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 26, 28, 32, 34, 38, 39, 40, 41, 66 - International",
+        "5G bands": "1, 2, 3, 5, 7, 8, 12, 20, 26, 28, 66, 38, 40, 41, 77, 78 SA/NSA - International",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "CDMA 800\nHSDPA 850 / 1700(AWS) / 2100 - China\n1, 3, 4, 5, 8, 18, 19, 26, 28, 34, 38, 39, 40, 41 - China\n1, 3, 5, 8, 28, 41, 77, 78 SA/NSA - China"
+      },
+      "Launch": {
+        "Announced": "2024, November 25",
+        "Status": "Available. Released 2024, November 29"
+      },
+      "Body": {
+        "Dimensions": "162.8 x 76.6 x 7.6 mm (6.41 x 3.02 x 0.30 in)",
+        "Weight": "195 g or 197 g (6.88 oz)",
+        "Build": "Glass front (Gorilla Glass 7i), aluminum frame, glass back",
+        "SIM": "· Nano-SIM + Nano-SIM + <a href=\"glossary.php3?term=esim\">eSIM</a> (max 2 at a time)\n· Nano-SIM + Nano-SIM",
+        "Features": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 2m for 30 min)"
+      },
+      "Display": {
+        "Type": "AMOLED, 1B colors, 120Hz, 3840Hz PWM, HDR10+, 1200 nits (peak)",
+        "Size": "6.83 inches, 113.3 cm<sup>2</sup> (~90.9% screen-to-body ratio)",
+        "Resolution": "1272 x 2800 pixels (~450 ppi density)",
+        "Protection": "Corning Gorilla Glass 7i, Mohs level 4"
+      },
+      "Platform": {
+        "OS": "Android 15, ColorOS 15",
+        "Chipset": "Mediatek Dimensity 8350 (4 nm)",
+        "CPU": "Octa-core (1x3.35 GHz Cortex-A715 &amp; 3x3.20 GHz Cortex-A715 &amp; 4x2.20 GHz Cortex-A510)",
+        "GPU": "Mali G615-MC6"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 12GB RAM, 512GB 12GB RAM, 512GB 16GB RAM, 1TB 16GB RAM",
+        "Features": "UFS 3.1"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, f/1.8, 24mm (wide), 1/1.56\", 1.0µm, multi-directional PDAF, OIS\n\n50 MP, f/2.8, 85mm (telephoto), PDAF, OIS, 3.5x optical zoom\n\n8 MP, f/2.2, 15mm, 116˚ (ultrawide), 1/4.0\", 1.12µm",
+        "Features": "Color spectrum sensor, LED flash, HDR, panorama",
+        "Video": "4K@30/60fps, 1080p@30/60/120fps, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "50 MP, f/2.0, 21mm (wide), AF",
+        "Features": "Panorama, HDR",
+        "Video": "4K@30/60fps, 1080p@30/60fps, gyro-EIS"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band",
+        "Bluetooth": "5.4, A2DP, LE, aptX HD, LHDC 5",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS, QZSS",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5800 mAh",
+        "Charging": "80W wired, PD, UFCS 33W, PPS 33W\n\n50W wireless (China only)\n\nReverse wired"
+      },
+      "Misc": {
+        "Colors": "Graphite Grey, Plume Purple, Pink",
+        "Models": "CPH2697, PKK110",
+        "Price": "<a href=\"oppo_reno13_pro-price-13514.php\">£ 419.99 / € 419.00</a>"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 1154641 (v10)\n\nGeekBench: 4138 (v6)\n\n3DMark: 2914 (Wild Life Extreme)",
+        "Display": "<a class=\"noUnd\" href=\"\">1168 nits max brightness (measured)</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"\">-25.0 LUFS (Very good)</a>",
+        "Battery": "<div style=\"position:relative;\">\n<a href=\"\" data-battery2=\"38:03_14:27_20:41_10:20\" onclick=\"showBatteryPopup(event, 13514); \" class=\"v2\">Active use score 16:42h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      },
+      "EU LABEL": {
+        "Energy": "Class B",
+        "Battery": "57:36h endurance, 1600 cycles",
+        "Free fall": "Class C (120 falls)",
+        "Repairability": "Class B"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-reno13-pro-cn-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-reno13-pro-cn-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-reno13-pro-cn-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oppo_reno13_pro-pictures-13514.php"
+    }
+  }
+}

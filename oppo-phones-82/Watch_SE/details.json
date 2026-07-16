@@ -1,0 +1,86 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Oppo Watch SE",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-watch-se-01.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oppo-watch-se.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2023, September",
+    "dimensions": "31g, 11.7mm thickness",
+    "os": "ColorOS Watch 3.0 - China",
+    "storage": "8GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">HSPA / LTE</a>",
+        "2G bands": "N/A",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "LTE",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2023, August 29",
+        "Status": "Available. Released 2023, September"
+      },
+      "Body": {
+        "Dimensions": "43 x 37 x 11.7 mm (1.69 x 1.46 x 0.46 in)",
+        "Weight": "31 g (1.09 oz)",
+        "SIM": "<a href=\"glossary.php3?term=esim\">eSIM</a> (market/region dependent)",
+        "Features": "5ATM water resistant"
+      },
+      "Display": {
+        "Type": "AMOLED",
+        "Size": "1.75 inches",
+        "Resolution": "372 x 430 pixels (~325 ppi density)"
+      },
+      "Platform": {
+        "OS": "ColorOS Watch 3.0 - China",
+        "Chipset": "Qualcomm Snapdragon Wear 4100 (12 nm)",
+        "CPU": "Quad-core 1.7 GHz Cortex-A53",
+        "GPU": "Adreno 504"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "8GB 1GB RAM"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, heart rate, compass, barometer, SpO2"
+      },
+      "Battery": {
+        "Type": "Li-Ion 400 mAh"
+      },
+      "Misc": {
+        "Colors": "Gray, Purple, Brown",
+        "Price": "About 130 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-watch-se-01.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-watch-se-02.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oppo_watch_se-pictures-12533.php"
+    }
+  }
+}

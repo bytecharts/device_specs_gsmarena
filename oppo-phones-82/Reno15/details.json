@@ -1,0 +1,115 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Oppo Reno15",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-reno-15c-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oppo-reno15-global.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/oppo_reno15-review-2924.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2026, January 02",
+    "dimensions": "197g, 7.8mm thickness",
+    "os": "Android 16, ColorOS 16",
+    "storage": "256GB/512GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - International",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 18, 19, 20, 26, 28, 38, 40, 41, 42, 43, 48, 66, 71 - International",
+        "5G bands": "1, 2, 3, 5, 7, 8, 20, 26, 28, 38, 40, 41, 48, 66, 71, 77, 78, 80, 83 SA/NSA - International",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "HSDPA 900 / 2100 - Asia\n1, 3, 5, 8, 40 - Asia\n1, 3, 5, 8, 40 SA/NSA - Asia"
+      },
+      "Launch": {
+        "Announced": "2026, January 02",
+        "Status": "Available. Released 2026, January 02"
+      },
+      "Body": {
+        "Dimensions": "158 x 74.8 x 7.8 mm (6.22 x 2.94 x 0.31 in)",
+        "Weight": "197 g (6.95 oz)",
+        "Build": "Glass front (Gorilla Glass 7i), aluminum frame, glass back",
+        "SIM": "Nano-SIM + Nano-SIM + <a href=\"glossary.php3?term=esim\">eSIM</a> (max 2 at a time)",
+        "Features": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)"
+      },
+      "Display": {
+        "Type": "AMOLED, 1B colors, 120Hz, HDR10+, 600 nits (typ), 1200 nits (HBM)",
+        "Size": "6.59 inches, 105.6 cm<sup>2</sup> (~89.4% screen-to-body ratio)",
+        "Resolution": "1256 x 2760 pixels (~460 ppi density)",
+        "Protection": "Corning Gorilla Glass 7i, Mohs level 5"
+      },
+      "Platform": {
+        "OS": "Android 16, ColorOS 16",
+        "Chipset": "Qualcomm SM7750-AB Snapdragon 7 Gen 4 (4 nm)",
+        "CPU": "Octa-core (1x2.8 GHz Cortex-720 &amp; 4x2.4 GHz Cortex-720 &amp; 3x1.8 GHz Cortex-520)",
+        "GPU": "Adreno 722"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 8GB RAM, 256GB 12GB RAM, 512GB 8GB RAM, 512GB 12GB RAM",
+        "Features": "UFS 3.1"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, f/1.8, 26mm (wide), PDAF, OIS\n\n50 MP, f/2.8, 80mm (telephoto), PDAF, OIS, 3.5x optical zoom\n\n8 MP, f/2.2, 15mm, 116˚ (ultrawide), 1/4.0\", 1.12µm, AF",
+        "Features": "Color spectrum sensor, LED flash, HDR, panorama",
+        "Video": "4K@30/60fps, 1080p@30/60/120fps, gyro-EIS, HDR"
+      },
+      "Selfie camera": {
+        "Single": "50 MP, f/2.0, 18mm (ultrawide), AF",
+        "Features": "Panorama, HDR",
+        "Video": "4K@30/60fps, 1080p@30/60fps, gyro-EIS, HDR"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.4, A2DP, LE, aptX HD, aptX Adaptive, LHDC 5",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS, QZSS",
+        "NFC": "Yes (market/region dependent)",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "6500 mAh",
+        "Charging": "80W wired, 80W UFCS, 55W PPS, 13.5W PD, 13.5W QC, 100% in 50 min\n\nReverse wired"
+      },
+      "Misc": {
+        "Colors": "Aurora Blue, Twilight Blue, Aurora White",
+        "Models": "CPH2825",
+        "Price": "<a href=\"oppo_reno15_5g_(global)-price-14395.php\">₹ 47,999 / £ 596.00 / € 489.00</a>"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 1086657 (v10), 1429374 (v11)\n\nGeekBench: 1188 (v6)\n\n3DMark: 2049 (Wild Life Extreme)",
+        "Display": "<a class=\"noUnd\" href=\"oppo_reno15-review-2924p3.php#dt\">1188 nits max brightness (measured)</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"oppo_reno15-review-2924p3.php#lt\">-25.3 LUFS (Very good)</a>",
+        "Battery": "<div style=\"position:relative;\">\n<a href=\"oppo_reno15-review-2924p3.php#bt\" data-battery2=\"39:35_18:40_20:20_7:57\" onclick=\"showBatteryPopup(event, 14395); \" class=\"v2\">Active use score 16:23h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      },
+      "EU LABEL": {
+        "Energy": "Class A",
+        "Battery": "71:17h endurance, 1600 cycles",
+        "Free fall": "Class C (90 falls)",
+        "Repairability": "Class B"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-reno-15c-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-reno15-global-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-reno15-global-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oppo_reno15_5g_(global)-pictures-14395.php"
+    }
+  }
+}

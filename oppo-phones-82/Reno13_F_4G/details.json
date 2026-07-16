@@ -1,0 +1,100 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Oppo Reno13 F 4G",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-reno-13f-4g-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oppo-reno-13f-4g.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "oppo_reno13_f-13607",
+      "oppo_reno13-13515"
+    ],
+    "release_date": "Released 2025, January 10",
+    "dimensions": "192g, 7.8mm thickness",
+    "os": "Android 15, ColorOS 15",
+    "storage": "256GB/512GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100 - version 1",
+        "4G bands": "1, 3, 5, 7, 8, 20, 28, 38, 40, 41 - version 1",
+        "Speed": "HSPA, LTE",
+        "Features": "HSDPA 850 / 2100 - version 2\n1, 3, 5, 8, 40 - version 2"
+      },
+      "Launch": {
+        "Announced": "2025, January 04",
+        "Status": "Available. Released 2025, January 10"
+      },
+      "Body": {
+        "Dimensions": "162.2 x 75.1 x 7.8 mm (6.39 x 2.96 x 0.31 in)",
+        "Weight": "192 g (6.77 oz)",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 2m for 30 min)"
+      },
+      "Display": {
+        "Type": "AMOLED, 120Hz, 600 nits (typ), 1200 nits (HMB), 2100 nits (peak)",
+        "Size": "6.67 inches, 107.4 cm<sup>2</sup> (~88.2% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~395 ppi density)",
+        "Protection": "Asahi Glass AGC DT-Star2"
+      },
+      "Platform": {
+        "OS": "Android 15, ColorOS 15",
+        "Chipset": "Mediatek Helio G100 (6 nm)",
+        "CPU": "Octa-core (2x2.2 GHz Cortex-A76 &amp; 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC",
+        "Internal": "256GB 8GB RAM, 512GB 8GB RAM",
+        "Features": "UFS 2.2"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, f/1.8, 26mm (wide), PDAF, OIS\n\n8 MP, f/2.2, 16mm, 112˚ (ultrawide), 1/4.0\", 1.12µm\n\n2 MP (macro)",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "1080p@30/60, gyro-EIS, OIS"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.4, 22mm (wide), 1/2.74\", 0.8µm",
+        "Features": "Panorama",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.3, A2DP, LE, aptX HD",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS, QZSS",
+        "NFC": "Yes (market/region dependent)",
+        "Radio": "Unspecified",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5800 mAh",
+        "Charging": "45W wired, PD, 45% in 30 min\n\nReverse wired"
+      },
+      "Misc": {
+        "Colors": "Graphite Grey, Skyline Blue, Plume Purple",
+        "Models": "CPH2701"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-reno-13f-4g-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-reno-13f-4g-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oppo_reno13_f_4g-pictures-13608.php"
+    }
+  }
+}

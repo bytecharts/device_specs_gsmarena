@@ -1,0 +1,104 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Oppo Pad 4 Pro",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-pad4-pro-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oppo-pad4-pro.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "xiaomi_pad_8_pro-14183",
+      "oppo_pad_5_pro-14621",
+      "oneplus_pad_2_pro-13860",
+      "oneplus_pad_4-14630",
+      "oppo_pad_5-14236"
+    ],
+    "release_date": "Released 2025, April 10",
+    "dimensions": "675g, 6mm thickness",
+    "os": "Android 15, ColorOS 15",
+    "storage": "256GB/512GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">No cellular connectivity</a>",
+        "2G bands": "N/A",
+        "3G bands": "N/A",
+        "4G bands": "N/A",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2025, April 10",
+        "Status": "Available. Released 2025, April 10"
+      },
+      "Body": {
+        "Dimensions": "289.6 x 209.7 x 6 mm (11.40 x 8.26 x 0.24 in)",
+        "Weight": "675 g (1.49 lb)",
+        "Build": "Glass front, aluminum frame, aluminum back",
+        "SIM": "No",
+        "Features": "Stylus support"
+      },
+      "Display": {
+        "Type": "IPS LCD, 68B colors, Dolby Vision, 144Hz, 900 nits (HBM)",
+        "Size": "13.2 inches, 530.0 cm<sup>2</sup> (~87.3% screen-to-body ratio)",
+        "Resolution": "2400 x 3392 pixels (~315 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 15, ColorOS 15",
+        "Chipset": "Qualcomm SM8750-AB Snapdragon 8 Elite (3 nm)",
+        "CPU": "Octa-core (2x4.32 GHz Oryon V2 Phoenix L + 6x3.53 GHz Oryon V2 Phoenix M)",
+        "GPU": "Adreno 830"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 8GB RAM, 256GB 12GB RAM, 512GB 12GB RAM, 512GB 16GB RAM",
+        "Features": "UFS 4.0"
+      },
+      "Main Camera": {
+        "Single": "13 MP",
+        "Features": "Color spectrum sensor, LED flash",
+        "Video": "4K@30fps, 1080p@30ps, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "8 MP",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers (4 speakers)",
+        "3.5mm jack": "No",
+        "Features": "24-bit/192kHz audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band",
+        "Bluetooth": "5.4, A2DP, LE",
+        "Positioning": "No",
+        "NFC": "No",
+        "Radio": "No",
+        "USB": "USB Type-C 3.2, OTG, accessory connector"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity (accessories only), gyro, compass"
+      },
+      "Battery": {
+        "Type": "12140 mAh",
+        "Charging": "67W wired"
+      },
+      "Misc": {
+        "Colors": "Gray, Silver, Gold",
+        "Models": "OPD2409",
+        "Price": "About 400 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-pad4-pro-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-pad4-pro-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oppo_pad_4_pro-pictures-13786.php"
+    }
+  }
+}

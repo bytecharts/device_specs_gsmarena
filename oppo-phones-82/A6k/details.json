@@ -1,0 +1,96 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Oppo A6k",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-a6k-0.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oppo-a6k.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2026, April 7",
+    "dimensions": "216g, 8.6mm thickness",
+    "os": "Android 15, ColorOS 15",
+    "storage": "512GB/256GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 900 / 1800",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "1, 3, 5, 8, 28, 34, 38, 40, 41",
+        "5G bands": "1, 3, 5, 8, 28, 41, 48, 77, 78 SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2026, April 7",
+        "Status": "Available. Released 2026, April 7"
+      },
+      "Body": {
+        "Dimensions": "166.6 x 78.5 x 8.6 mm (6.56 x 3.09 x 0.34 in)",
+        "Weight": "216 g (7.62 oz)",
+        "Build": "Glass front, plastic frame, plastic back",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "IP66/IP68/IP69K dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)\n\nDrop resistant frame"
+      },
+      "Display": {
+        "Type": "IPS LCD, 120Hz, 900 nits (typ), 1125 nits (peak)",
+        "Size": "6.75 inches, 111.4 cm<sup>2</sup> (~85.2% screen-to-body ratio)",
+        "Resolution": "720 x 1570 pixels, 19.5:9 ratio (~256 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 15, ColorOS 15",
+        "Chipset": "Mediatek Dimensity 6300 (6 nm)",
+        "CPU": "Octa-core (2x2.4 GHz Cortex-A76 &amp; 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC",
+        "Internal": "256GB 4GB RAM, 256GB 8GB RAM, 256GB 12GB RAM, 512GB 8GB RAM",
+        "Features": "UFS 2.2"
+      },
+      "Main Camera": {
+        "Dual": "50 MP, f/1.8, 27mm (wide), PDAF\n\nAuxiliary lens",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "1080p@30/60fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, f/2.0, 25mm (wide)",
+        "Features": "Panorama",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.4, A2DP, LE, aptX HD",
+        "Positioning": "GPS, GALILEO, GLONASS, QZSS",
+        "NFC": "No",
+        "Radio": "Unspecified",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "7000 mAh",
+        "Charging": "45 wired, 33W PPS, 13.5W PD"
+      },
+      "Misc": {
+        "Colors": "Twilight Blue, Seashell White, Dawn Gold",
+        "Price": "About 280 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-a6k-0.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oppo_a6k-pictures-14588.php"
+    }
+  }
+}

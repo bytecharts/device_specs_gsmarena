@@ -1,0 +1,104 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Oppo Pad 2",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-pad2-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oppo-pad2-.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "oppo_pad_3-13516",
+      "oppo_pad-11322",
+      "oneplus_pad-12112",
+      "oneplus_pad_2-13210",
+      "xiaomi_pad_7-13475",
+      "oppo_pad_3_pro-13085"
+    ],
+    "release_date": "Released 2023, March 24",
+    "dimensions": "552g, 6.5mm thickness",
+    "os": "Android 13, ColorOS 13.1",
+    "storage": "256GB/512GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">No cellular connectivity</a>",
+        "2G bands": "N/A",
+        "3G bands": "N/A",
+        "4G bands": "N/A",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2023, March 21",
+        "Status": "Available. Released 2023, March 24"
+      },
+      "Body": {
+        "Dimensions": "258 x 189.4 x 6.5 mm (10.16 x 7.46 x 0.26 in)",
+        "Weight": "552 g (1.22 lb)",
+        "Build": "Glass front, aluminum frame",
+        "SIM": "No",
+        "Features": "Stylus support, 2.0ms latency"
+      },
+      "Display": {
+        "Type": "IPS LCD, 1B colors, Dolby Vision, 144Hz, 500 nits (typ)",
+        "Size": "11.61 inches, 411.3 cm<sup>2</sup> (~84.2% screen-to-body ratio)",
+        "Resolution": "2000 x 2800 pixels (~296 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 13, ColorOS 13.1",
+        "Chipset": "Mediatek Dimensity 9000 (4 nm)",
+        "CPU": "Octa-core (1x3.05 GHz Cortex-X2 &amp; 3x2.85 GHz Cortex-A710 &amp; 4x1.80 GHz Cortex-A510)",
+        "GPU": "Mali-G710 MC10"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 8GB RAM, 256GB 12GB RAM, 512GB 12GB RAM",
+        "Features": "UFS 3.1"
+      },
+      "Main Camera": {
+        "Single": "13 MP, f/2.2, (wide), AF",
+        "Features": "Color spectrum sensor, LED flash",
+        "Video": "4K@30fps, 1080p@30ps, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, f/2.3, 103˚ (ultrawide)",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers (4 speakers)",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+        "Bluetooth": "5.3, A2DP, LE, aptX HD",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS (B1I+B1c)",
+        "NFC": "No",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG, accessory connector"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, compass"
+      },
+      "Battery": {
+        "Type": "Li-Po 9510 mAh",
+        "Charging": "67W wired, PD, QC 2.0"
+      },
+      "Misc": {
+        "Colors": "Gray, Gold",
+        "Models": "OPD2201, X22N2",
+        "Price": "About 410 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-pad2-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-pad2-10.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oppo_pad_2-pictures-12177.php"
+    }
+  }
+}

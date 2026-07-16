@@ -1,0 +1,101 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Oppo Find X9s Pro",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-find-x9s-pro-new-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oppo-find-x9s-pro-new.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "oppo_find_x9s_5g-14617"
+    ],
+    "release_date": "Released 2026, April",
+    "dimensions": "198g or 200g, 8.4mm thickness",
+    "os": "Android 16, ColorOS 16.0",
+    "storage": "256GB/512GB/1TB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1800 / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 18, 19, 25, 26, 28, 34, 38, 39, 40, 41, 42, 43, 48, 66",
+        "5G bands": "1, 2, 3, 5, 7, 8, 18, 25, 26, 28, 34, 38, 39, 40, 41, 48, 66, 77, 78, 79 SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2026, April 21",
+        "Status": "Available. Released 2026, April"
+      },
+      "Body": {
+        "Dimensions": "150.5 x 71.7 x 8.4 mm or 8.6 mm",
+        "Weight": "198 g or 200 g (6.98 oz)",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)"
+      },
+      "Display": {
+        "Type": "AMOLED, 1B colors, 144Hz, 3840Hz PWM, Dolby Vision, HDR Vivid, 800 nits (typ), 1800 nits (peak)",
+        "Size": "6.32 inches, 97.9 cm<sup>2</sup> (~90.7% screen-to-body ratio)",
+        "Resolution": "1216 x 2640 pixels, 19.5:9 ratio (~460 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 16, ColorOS 16.0",
+        "Chipset": "Mediatek Dimensity 9500 (3 nm)",
+        "CPU": "Octa-core (1x4.21 GHz C1-Ultra &amp; 3x3.5 GHz C1-Premium &amp; 4x2.7 GHz C1-Pro)",
+        "GPU": "Immortalis-G925"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 12GB RAM, 512GB 12GB RAM, 512GB 16GB RAM, 1TB 16GB RAM",
+        "Features": "UFS 4.1"
+      },
+      "Main Camera": {
+        "Triple": "200 MP, f/1.6, 23mm (wide), 1/1.4\", 0.56µm, PDAF, OIS\n\n200 MP, f/2.6, 65mm (periscope telephoto), 1/1.56\", PDAF, OIS, 2.8x optical zoom\n\n50 MP, f/2.0, 15mm, 120˚ (ultrawide), PDAF",
+        "Features": "Laser AF, color spectrum sensor, Hasselblad Color Calibration, Hasselblad Ultra HD, HDR, panorama, Multi-focus LED flash",
+        "Video": "8K@30fps (10-bit Log), 4K@30/60/120fps, 1080p@30/60/120/240fps, gyro-EIS, OIS, Dolby Vision HDR, 3D LUT"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.4, 21mm (wide)",
+        "Features": "Panorama, HDR",
+        "Video": "4K@30/60fps, 1080p@30/60fps, gyro-EIS"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+        "Bluetooth": "6.1, A2DP, LE, aptX HD, LHDC 5",
+        "Positioning": "GPS (L1+L5), GALILEO (E1+E5a+E5b), QZSS (L1+L5), BDS (B1l+B1C+ B2a+B2b), GLONASS, NavIC (L5)",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Si/C Li-Ion 7025 mAh",
+        "Charging": "80W wired, 44W/80W UFCS, 55W PPS, 13.5W PD\n\n50W wireless"
+      },
+      "Misc": {
+        "Colors": "Blue/Green, Orange, Titanium, White",
+        "Models": "PME110",
+        "Price": "About 750 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-find-x9s-pro-new-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-find-x9s-pro-new-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-find-x9s-pro-new-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oppo_find_x9s_pro-pictures-14592.php"
+    }
+  }
+}

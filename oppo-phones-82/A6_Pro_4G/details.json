@@ -1,0 +1,104 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Oppo A6 Pro 4G",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-a6-pro-4g-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oppo-a6-pro-4g.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "oppo_a6_pro_5g-14171",
+      "oppo_a6_5g-14412",
+      "oppo_a6-14413"
+    ],
+    "release_date": "Released 2025, September 23",
+    "dimensions": "188g, 8mm thickness",
+    "os": "Android 15, ColorOS 15",
+    "storage": "128GB/256GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100 - International",
+        "4G bands": "1, 3, 5, 7, 8, 20, 28, 38, 40, 41 - International",
+        "Speed": "HSPA, LTE",
+        "Features": "HSDPA 900 / 2100 - ROW\n1, 3, 5, 8, 40 - ROW"
+      },
+      "Launch": {
+        "Announced": "2025, September 23",
+        "Status": "Available. Released 2025, September 23"
+      },
+      "Body": {
+        "Dimensions": "158.2 x 75 x 8 mm (6.23 x 2.95 x 0.31 in)",
+        "Weight": "188 g (6.63 oz)",
+        "Build": "Glass front, plastic frame, plastic back",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)\n\nMIL-STD-810H compliant*\n\n* does not guarantee ruggedness or use in extreme conditions"
+      },
+      "Display": {
+        "Type": "AMOLED, 1B colors, 120Hz, 600 nits (typ), 1400 nits (HBM)",
+        "Size": "6.57 inches, 105.0 cm<sup>2</sup> (~88.5% screen-to-body ratio)",
+        "Resolution": "1080 x 2372 pixels (~397 ppi density)",
+        "Protection": "AGC DT-Star D+"
+      },
+      "Platform": {
+        "OS": "Android 15, ColorOS 15",
+        "Chipset": "Mediatek Helio G100 (6 nm)",
+        "CPU": "Octa-core (2x2.2 GHz Cortex-A76 &amp; 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC",
+        "Internal": "128GB 8GB RAM, 256GB 8GB RAM",
+        "Features": "UFS 2.2"
+      },
+      "Main Camera": {
+        "Dual": "50 MP, f/1.8, (wide), PDAF\n\nAuxiliary lens",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "1080p@30/60/120fps"
+      },
+      "Selfie camera": {
+        "Single": "16 MP, f/2.4, (wide)",
+        "Features": "Panorama",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.4, A2DP, LE, aptX HD",
+        "Positioning": "GPS, GALILEO, GLONASS, BDS, QZSS",
+        "NFC": "Yes (market/region dependent)",
+        "Radio": "Unspecified",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity"
+      },
+      "Battery": {
+        "Type": "Market-dependent versions:\n· Si/C Li-Ion 7000 mAh - version 1\n· 6500 mAh - version 2",
+        "Charging": "80W wired, 33W PPS, 13.5W PD\n\n5W reverse wired"
+      },
+      "Misc": {
+        "Colors": "Lunar Titanium, Stellar Blue, Coral Pink, Rosewood Red",
+        "Models": "CPH2799",
+        "Price": "About 200 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-a6-pro-4g-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-a6-pro-4g-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-a6-pro-4g-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oppo_a6_pro-pictures-14170.php"
+    }
+  }
+}

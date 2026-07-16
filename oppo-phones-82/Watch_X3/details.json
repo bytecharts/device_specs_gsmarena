@@ -1,0 +1,90 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Oppo Watch X3",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-watch-x3-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oppo-watch-x3.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/oppo_watch_x3_in_for_review-news-72148.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2026, March 20",
+    "dimensions": "43g, 11mm thickness",
+    "os": "ColorOS Watch 7.0 + Wear OS 5.0",
+    "storage": "32GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">HSPA / LTE</a>",
+        "2G bands": "N/A",
+        "3G bands": "HSDPA 850 / 900 / 2100 - cellular model only",
+        "4G bands": "1, 3, 5, 8, 34, 38, 39, 40, 41 - cellular model only",
+        "Speed": "No"
+      },
+      "Launch": {
+        "Announced": "2026, March 17",
+        "Status": "Available. Released 2026, March 20"
+      },
+      "Body": {
+        "Dimensions": "47.4 x 47.4 x 11 mm (1.87 x 1.87 x 0.43 in)",
+        "Weight": "43 g (1.52 oz)",
+        "Build": "Sapphire crystal front, titanium alloy frame, plastic back",
+        "SIM": "<a href=\"glossary.php3?term=esim\">eSIM</a> (market/region dependent) - cellular model only",
+        "Features": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)\n\nWaterproof (5ATM)\n\nMIL-STD-810H compliant\n\nCompatible with standard 22mm straps\n\nECG certified"
+      },
+      "Display": {
+        "Type": "LTPO AMOLED, 1500 nits (peak)",
+        "Size": "1.5 inches",
+        "Resolution": "466 x 466 pixels (~310 ppi density)",
+        "Protection": "Sapphire crystal glass"
+      },
+      "Platform": {
+        "OS": "ColorOS Watch 7.0 + Wear OS 5.0",
+        "Chipset": "Qualcomm Snapdragon W5 Gen 1 (4 nm)"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "32GB 2GB RAM"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band",
+        "Bluetooth": "5.2, A2DP, LE",
+        "Positioning": "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, barometer, compass, heart rate, SpO2, thermometer (skin temperature)"
+      },
+      "Battery": {
+        "Type": "Li-Ion 646 mAh",
+        "Charging": "7.5W wired, 100% in 75 min"
+      },
+      "Misc": {
+        "Colors": "Black, Titanium",
+        "Models": "OWW261",
+        "Price": "About 330 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-watch-x3-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-watch-x3-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-watch-x3-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oppo_watch_x3-pictures-14547.php"
+    }
+  }
+}

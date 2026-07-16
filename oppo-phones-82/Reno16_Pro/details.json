@@ -1,0 +1,117 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Oppo Reno16 Pro",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-reno16-pro-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oppo-reno16-pro.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/oppo_reno16_pro-review-2973.php",
+    "siblingDeviceSlugs": [
+      "oppo_reno16_5g-14747",
+      "oppo_reno16_f_5g-14751"
+    ],
+    "release_date": "Released 2026, July 13",
+    "dimensions": "188g or 191g, 8.2mm thickness",
+    "os": "Android 16, ColorOS 16",
+    "storage": "256GB/512GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100 - version 1",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 26, 28, 32, 34, 38, 39, 40, 41, 66, 71 - version 1",
+        "5G bands": "1, 2, 3, 5, 7, 8, 12, 20, 26, 28, 38, 40, 41, 48, 66, 71, 77, 78 SA/NSA - version 1",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "HSDPA 900 / 2100 - version 2\n1, 3, 5, 8, 40 - version 2\n1, 3, 5, 8, 40 SA/NSA - version 2"
+      },
+      "Launch": {
+        "Announced": "2026, June 25",
+        "Status": "Available. Released 2026, July 13"
+      },
+      "Body": {
+        "Dimensions": "151.2 x 72.4 x 8.2 mm or 8.4 mm",
+        "Weight": "188 g or 191 g (6.63 oz)",
+        "Build": "Glass front, aluminum frame, glass back or composite plastic back",
+        "SIM": "Nano-SIM + Nano-SIM + <a href=\"glossary.php3?term=esim\">eSIM</a> (max 2 at a time)",
+        "Features": "IP68/IP69K dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)"
+      },
+      "Display": {
+        "Type": "AMOLED, 1B colors, 144Hz, 3840Hz PWM, HDR10+, 600 nits (typ), 1800 nits (HBM), 3600 nits (peak)",
+        "Size": "6.32 inches, 97.9 cm<sup>2</sup> (~89.5% screen-to-body ratio)",
+        "Resolution": "1216 x 2640 pixels, 19.5:9 ratio (~460 ppi density)",
+        "Protection": "Crystal Guard, Mohs level 4"
+      },
+      "Platform": {
+        "OS": "Android 16, ColorOS 16",
+        "Chipset": "Mediatek Dimensity 8550 Super (4 nm)",
+        "CPU": "Octa-core (1x3.4 GHz Cortex-A725 &amp; 3x3.2 GHz Cortex-A725 &amp; 4x2.2 GHz Cortex-A725)",
+        "GPU": "Mali-G720 MC8"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 12GB RAM, 512GB 12GB RAM",
+        "Features": "UFS 3.1"
+      },
+      "Main Camera": {
+        "Triple": "200 MP, f/1.8, 24mm (wide), 1/1.56\", 0.5µm, PDAF, OIS\n\n50 MP, f/2.8, 80mm (telephoto), 1/2.75\", 0.64µm, PDAF, OIS, 3.5x optical zoom\n\n50 MP, f/2.0, 16mm, 116˚ (ultrawide), 1/2.88\", 0.61µm, AF",
+        "Features": "Color spectrum sensor, Multi-focus LED flash, HDR, panorama",
+        "Video": "4K@30/60fps, 1080p@30/60/120/240/480fps, 720p@960fps, gyro-EIS, HDR, OIS"
+      },
+      "Selfie camera": {
+        "Single": "50 MP, f/2.0, 18mm, 100˚ (ultrawide), 1/2.75\", 0.64µm, AF",
+        "Features": "Panorama, HDR",
+        "Video": "4K@30/60fps, 1080p@30/60fps, gyro-EIS, HDR"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+        "Bluetooth": "5.4, A2DP, LE, aptX HD, LHDC 5",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS, QZSS",
+        "NFC": "Yes (market/region dependent)",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Si/C Li-Ion 6700 mAh (International) or 6000 mAh (Europe)",
+        "Charging": "80W wired, 44/80W UFCS, 55W PPS, 13.5W PD, 100% in 57 min\n\nReverse wired"
+      },
+      "Misc": {
+        "Colors": "Pop White, Starlight Black",
+        "Models": "CPH2863",
+        "Price": "<a href=\"oppo_reno16_pro_5g-price-14746.php\">€ 899.00</a>"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 1762580 (v10), 2294761 (v11)\n\nGeekBench: 6208 (v6)\n\n3DMark: 4450 (Wild Life Extreme)",
+        "Display": "<a class=\"noUnd\" href=\"oppo_reno16_pro-review-2973p3.php#dt\">1568 nits max brightness (measured)</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"oppo_reno16_pro-review-2973p3.php#lt\">-23.8 LUFS (Very good)</a>",
+        "Battery": "<div style=\"position:relative;\">\n<a href=\"oppo_reno16_pro-review-2973p3.php#bt\" data-battery2=\"39:35_17:38_26:09_11:14\" onclick=\"showBatteryPopup(event, 14746); \" class=\"v2\">Active use score 19:29h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      },
+      "EU LABEL": {
+        "Energy": "Class A",
+        "Battery": "62:00h endurance, 1200 cycles",
+        "Free fall": "Class A (270 falls)",
+        "Repairability": "Class B"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-reno16-pro-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-reno16-pro-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oppo_reno16_pro_5g-pictures-14746.php"
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Oppo Watch S",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-watch-s-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oppo-watch-s.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "oneplus_watch_lite-14365",
+      "oneplus_watch_4-14622",
+      "nothing_cmf_watch_3_pro-14217",
+      "oppo_watch_x3-14547"
+    ],
+    "release_date": "Released 2025, October 22",
+    "dimensions": "35g, 8.9mm thickness",
+    "os": "ColorOS Watch 7.1",
+    "storage": "4GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">No cellular connectivity</a>",
+        "2G bands": "N/A",
+        "3G bands": "N/A",
+        "4G bands": "N/A",
+        "Speed": "No",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2025, October 16",
+        "Status": "Available. Released 2025, October 22"
+      },
+      "Body": {
+        "Dimensions": "45 x 45 x 8.9 mm (1.77 x 1.77 x 0.35 in)",
+        "Weight": "35 g (1.23 oz)",
+        "SIM": "No",
+        "Features": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)\n\nWaterproof (5ATM/50m)\n\nECG certified"
+      },
+      "Display": {
+        "Type": "AMOLED, 3000 nits (peak)",
+        "Size": "1.46 inches",
+        "Resolution": "464 x 464 pixels (~317 ppi density)"
+      },
+      "Platform": {
+        "OS": "ColorOS Watch 7.1",
+        "Chipset": "Qualcomm Snapdragon W5 Gen 1 (4 nm)"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "4GB"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "5.2, A2DP, LE",
+        "Positioning": "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, barometer, compass, heart rate, SpO2"
+      },
+      "Battery": {
+        "Type": "Li-Ion 339 mAh"
+      },
+      "Misc": {
+        "Colors": "Black, Silver"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-watch-s-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-watch-s-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-watch-s-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oppo_watch_s-pictures-14237.php"
+    }
+  }
+}

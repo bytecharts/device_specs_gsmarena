@@ -1,0 +1,98 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Oppo A6t 4G",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-k14x-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oppo-a6t-.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "oppo_a6t_5g-14417",
+      "oppo_a6t_pro-14415"
+    ],
+    "release_date": "Released 2026, January 13",
+    "dimensions": "210g, 8.6mm thickness",
+    "os": "Android 15, ColorOS 15",
+    "storage": "64GB/128GB/256GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "1, 3, 5, 7, 8, 20, 28, 38, 40, 41",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2026, January 13",
+        "Status": "Available. Released 2026, January 13"
+      },
+      "Body": {
+        "Dimensions": "166.6 x 78.5 x 8.6 mm (6.56 x 3.09 x 0.34 in)",
+        "Weight": "210 g (7.41 oz)",
+        "Build": "Glass front, plastic frame, plastic back",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "IP64 dust tight and water resistant (water splashes)"
+      },
+      "Display": {
+        "Type": "IPS LCD, 120Hz, 1125 nits (peak)",
+        "Size": "6.75 inches, 111.4 cm<sup>2</sup> (~85.2% screen-to-body ratio)",
+        "Resolution": "720 x 1570 pixels, 19.5:9 ratio (~256 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 15, ColorOS 15",
+        "Chipset": "Qualcomm SM6225 Snapdragon 685 (6 nm)",
+        "CPU": "Octa-core (4x2.8 GHz Cortex-A73 &amp; 4x1.9 GHz Cortex-A53)",
+        "GPU": "Adreno 610"
+      },
+      "Memory": {
+        "Card slot": "microSDXC",
+        "Internal": "64GB 4GB RAM, 128GB 4GB RAM, 128GB 6GB RAM, 256GB 6GB RAM",
+        "Features": "UFS 2.2"
+      },
+      "Main Camera": {
+        "Single": "13 MP, f/2.2, (wide), AF",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "1080p@30/60fps"
+      },
+      "Selfie camera": {
+        "Single": "5 MP, f/2.2, (wide)",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.0, A2DP, LE, aptX",
+        "Positioning": "GPS, GALILEO, GLONASS, BDS, QZSS",
+        "NFC": "No",
+        "Radio": "Unspecified",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "6500 mAh",
+        "Charging": "Wired\n\n5W reverse wired"
+      },
+      "Misc": {
+        "Colors": "Crystal Violet, Crystal Blue",
+        "Models": "CPH2847"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-k14x-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-k14x-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oppo_a6t-pictures-14416.php"
+    }
+  }
+}

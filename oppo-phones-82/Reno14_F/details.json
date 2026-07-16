@@ -1,0 +1,109 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Oppo Reno14 F",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-reno-14f-5g-b.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oppo-reno-14f-5g.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "oppo_reno14_5g-13866"
+    ],
+    "release_date": "Released 2025, July 16",
+    "dimensions": "180g, 7.7mm thickness",
+    "os": "Android 15, ColorOS 15",
+    "storage": "256GB/512GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100 - version 1",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 26, 28, 38, 39, 40, 41, 42, 48, 66 - version 1",
+        "5G bands": "1, 2, 3, 5, 7, 8, 12, 20, 26, 28, 38, 40, 41, 66, 71, 77, 78 SA/NSA - version 1",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "HSDPA 850 / 900 / 2100 - version 2\nHSDPA 900 / 2100 - version 2\n1, 3, 5, 7, 8, 20, 28, 38, 40, 41, 42 - version 2\n1, 3, 5, 8, 40 - version 3\n1, 3, 5, 7, 8, 20, 28, 38, 40, 41, 71, 77, 78 SA/NSA - version 2\n1, 3, 5, 8, 40 SA/NSA - version 3"
+      },
+      "Launch": {
+        "Announced": "2025, June 25",
+        "Status": "Available. Released 2025, July 16"
+      },
+      "Body": {
+        "Dimensions": "158.1 x 75 x 7.7 mm (6.22 x 2.95 x 0.30 in)",
+        "Weight": "180 g (6.35 oz)",
+        "SIM": "· Nano-SIM + Nano-SIM\n· Nano-SIM + <a href=\"glossary.php3?term=esim\">eSIM</a>",
+        "Features": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 2m for 30 min)"
+      },
+      "Display": {
+        "Type": "AMOLED, 1B colors, 120Hz, 600 nits (typ), 1400 nits (HBM)",
+        "Size": "6.57 inches, 105.0 cm<sup>2</sup> (~88.6% screen-to-body ratio)",
+        "Resolution": "1080 x 2372 pixels (~397 ppi density)",
+        "Protection": "AGC Dragontrail DT-Star D+, Mohs level 5"
+      },
+      "Platform": {
+        "OS": "Android 15, ColorOS 15",
+        "Chipset": "Qualcomm SM6450 Snapdragon 6 Gen 1 (4 nm)",
+        "CPU": "Octa-core (4x2.2 GHz Cortex-A78 &amp; 4x1.8 GHz Cortex-A55)",
+        "GPU": "Adreno 710"
+      },
+      "Memory": {
+        "Card slot": "microSDXC",
+        "Internal": "256GB 8GB RAM, 256GB 12GB RAM, 512GB 12GB RAM",
+        "Features": "UFS 3.1"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, f/1.8, 26mm (wide), 1/1.95\", 0.8µm, PDAF, OIS\n\n8 MP, f/2.2, 16mm, 112˚ (ultrawide), 1/4.0\", 1.12µm, AF\n\n2 MP (macro)",
+        "Features": "Color spectrum sensor, LED flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@30/60/120fps, gyro-EIS, OIS"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.0, 22mm (wide), 1/2.74\", 0.8µm, AF",
+        "Features": "Panorama",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.1, A2DP, LE, aptX HD, LHDC 5",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS, QZSS",
+        "NFC": "Yes (market/region dependent)",
+        "Radio": "Unspecified",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "6000 mAh",
+        "Charging": "45W wired, PD2, QC2.0, 44W PPS\n\nReverse wired"
+      },
+      "Misc": {
+        "Colors": "Glossy Pink, Luminous Green, Opal Blue",
+        "Models": "CPH2743",
+        "Price": "<a href=\"oppo_reno14_f_5g-price-13977.php\">$ 386.25 / £ 370.00 / € 312.50</a>"
+      },
+      "EU LABEL": {
+        "Energy": "Class A",
+        "Battery": "63:00h endurance, 1600 cycles",
+        "Free fall": "Class A (300 falls)",
+        "Repairability": "Class B"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-reno-14f-5g-b.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-reno-14f-5g-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-reno-14f-5g-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-reno-14f-5g-4.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oppo_reno14_f_5g-pictures-13977.php"
+    }
+  }
+}

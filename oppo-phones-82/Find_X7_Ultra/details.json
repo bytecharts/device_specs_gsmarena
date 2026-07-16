@@ -1,0 +1,111 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Oppo Find X7 Ultra",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-find-x7-ultra-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oppo-find-x7-ultra.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/oppo_find_x7_ultra-review-2678.php",
+    "siblingDeviceSlugs": [
+      "oppo_find_x7-12778"
+    ],
+    "release_date": "Released 2024, January 12",
+    "dimensions": "221g, 9.5mm thickness",
+    "os": "Android 14, up to 16, ColorOS 16",
+    "storage": "256GB/512GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / CDMA2000 / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 26, 28, 34, 38, 39, 40, 41, 66",
+        "5G bands": "1, 2, 3, 5, 7, 8, 20, 28, 38, 40, 41, 66, 77, 78, 79 SA/NSA",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "CDMA 800\nCDMA2000 1x"
+      },
+      "Launch": {
+        "Announced": "2024, January 08",
+        "Status": "Available. Released 2024, January 12"
+      },
+      "Body": {
+        "Dimensions": "164.3 x 76.2 x 9.5 mm (6.47 x 3.00 x 0.37 in)",
+        "Weight": "221 g (7.80 oz)",
+        "Build": "Glass front (Gorilla Glass Victus 2), glass back (Gorilla Glass) or eco leather back, aluminum frame",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)"
+      },
+      "Display": {
+        "Type": "LTPO AMOLED, 1B colors, 120Hz, Dolby Vision, HDR10+, 1600 nits (typ), 2600 nits (HBM), 4500 nits (peak)",
+        "Size": "6.82 inches, 113.0 cm<sup>2</sup> (~90.3% screen-to-body ratio)",
+        "Resolution": "1440 x 3168 pixels (~510 ppi density)",
+        "Protection": "Corning Gorilla Glass Victus 2"
+      },
+      "Platform": {
+        "OS": "Android 14, upgradable to Android 16, ColorOS 16, up to 4 major Android upgrades",
+        "Chipset": "Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm)",
+        "CPU": "Octa-core (1x3.3 GHz Cortex-X4 &amp; 3x3.2 GHz Cortex-A720 &amp; 2x3.0 GHz Cortex-A720 &amp; 2x2.3 GHz Cortex-A520)",
+        "GPU": "Adreno 750"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 12GB RAM, 256GB 16GB RAM, 512GB 16GB RAM",
+        "Features": "UFS 4.0"
+      },
+      "Main Camera": {
+        "Quad": "50 MP, f/1.8, 23mm (wide), 1.0\"-type, 1.6µm, dual pixel PDAF, OIS\n\n50 MP, f/2.6, 65mm (periscope telephoto), 1/1.56\", 1.0µm, 2.8x optical zoom, multi-directional PDAF (25cm - ∞), OIS\n\n50 MP, f/4.3, 135mm (periscope telephoto), 1/2.51\", 0.7µm, 6x optical zoom, dual pixel PDAF (35cm - ∞), OIS\n\n50 MP, f/2.0, 14mm, 123˚ (ultrawide), 1/1.95\", 1.0µm, PDAF",
+        "Features": "Laser AF, color spectrum sensor, Hasselblad Color Calibration, LED flash, HDR, panorama",
+        "Video": "4K@30/60fps, 1080p@30/60/240fps; gyro-EIS; HDR, 10‑bit video, Dolby Vision"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.4, 21mm (wide), 1/2.74\", 0.8µm, PDAF",
+        "Features": "Panorama",
+        "Video": "4K@30/60fps, 1080p@30fps, gyro-EIS"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.4, A2DP, LE, aptX HD, LHDC",
+        "Positioning": "GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), GLONASS",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 3.2, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",
+        "Features": "Emergency SOS via satellite (messages and calls) - available in Oppo Find X7 Ultra Satellite version (PHY120)"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "100W wired, PD, 50% in 10 min, 100% in 26 min\n\n50W wireless\n\n10W reverse wireless"
+      },
+      "Misc": {
+        "Colors": "Black, Dark Blue, Light Brown",
+        "Models": "PHY110, PHY120",
+        "Price": "<a href=\"oppo_find_x7_ultra-price-12752.php\">$ 163.91</a>"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 1994239 (v10)\n\nGeekBench: 6472 (v6)\n\n3DMark: 4869 (Wild Life Extreme)",
+        "Display": "<a class=\"noUnd\" href=\"oppo_find_x7_ultra-review-2678p3.php#dt\">1165 nits max brightness (measured)</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"oppo_find_x7_ultra-review-2678p3.php#lt\">-25.0 LUFS (Very good)</a>",
+        "Battery": "<div style=\"position:relative;\">\n<a href=\"oppo_find_x7_ultra-review-2678p3.php#bt\" data-battery2=\"27:54_12:51_16:45_6:42\" onclick=\"showBatteryPopup(event, 12752); \" class=\"v2\">Active use score 12:47h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-find-x7-ultra-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-find-x7-ultra-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oppo_find_x7_ultra-pictures-12752.php"
+    }
+  }
+}

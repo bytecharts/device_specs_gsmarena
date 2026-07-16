@@ -1,0 +1,110 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Oppo Reno7 Lite",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-f21-pro-5g-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oppo-reno7-z-5g.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/oppo_reno7_lite_5g_reno7_z_5g_f21_pro_5g-review-2435.php",
+    "siblingDeviceSlugs": [
+      "oppo_reno7-11448",
+      "oppo_reno7_5g-11350"
+    ],
+    "release_date": "Released 2022, June",
+    "dimensions": "173g, 7.5mm thickness",
+    "os": "Android 11, ColorOS 12",
+    "storage": "128GB/256GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1900 / 2100",
+        "4G bands": "1, 3, 5, 7, 8, 28, 34, 38, 39, 40, 41",
+        "5G bands": "1, 8, 28, 41, 77, 78 SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2022, April 14",
+        "Status": "Available. Released 2022, June"
+      },
+      "Body": {
+        "Dimensions": "159.9 x 73.2 x 7.5 mm (6.30 x 2.88 x 0.30 in)",
+        "Weight": "173 g (6.10 oz)",
+        "Build": "Glass front, plastic frame, glass back",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "IPX4, dust and water resistant\n\nRGB ring lights around the cameras (notifications, charging progress)"
+      },
+      "Display": {
+        "Type": "AMOLED, 430 nits (typ), 600 nits (HBM)",
+        "Size": "6.43 inches, 99.8 cm<sup>2</sup> (~85.3% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~409 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 11, ColorOS 12",
+        "Chipset": "Qualcomm SM6375 Snapdragon 695 5G (6 nm)",
+        "CPU": "Octa-core (2x2.2 GHz Kryo 660 Gold &amp; 6x1.7 GHz Kryo 660 Silver)",
+        "GPU": "Adreno 619"
+      },
+      "Memory": {
+        "Card slot": "microSDXC",
+        "Internal": "128GB 8GB RAM, 256GB 8GB RAM",
+        "Features": "UFS 2.2"
+      },
+      "Main Camera": {
+        "Triple": "64 MP, f/1.7, 26mm (wide), PDAF\n\n2 MP (macro)\n\nAuxiliary lens",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "16 MP, f/2.4, 27mm (wide), 1.0µm",
+        "Features": "HDR, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.1, A2DP, LE, aptX HD",
+        "Positioning": "GPS, GLONASS, BDS, GALILEO, QZSS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, proximity, gyro, compass"
+      },
+      "Battery": {
+        "Type": "Li-Po 4500 mAh",
+        "Charging": "33W wired, PD, 31% in 15 min, 100% in 63 min\n\nReverse wired"
+      },
+      "Misc": {
+        "Colors": "Cosmic Black, Champagne Silver",
+        "Models": "CPH2343",
+        "Price": "About 350 EUR"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 315250 (v8), 376819 (v9)\n\nGeekBench: 1996 (v5.1)\n\nGFXBench: 17fps (ES 3.1 onscreen)",
+        "Display": "<a class=\"noUnd\" href=\"oppo_reno7_lite_5g-review-2435p3.php#dt\">657 nits max brightness (measured)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=11458&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=11458&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"oppo_reno7_lite_5g-review-2435p3.php#lt\">-28.5 LUFS (Average)</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 11458); \">Endurance rating 125h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-f21-pro-5g-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-reno7-z-5g-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-reno7-z-5g-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oppo_reno7_lite-pictures-11458.php"
+    }
+  }
+}

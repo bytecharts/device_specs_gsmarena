@@ -1,0 +1,101 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Oppo F17 Pro",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-f17-pro-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oppo-f17-pro---.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/oppo_f17_pro_hands_on-review-2159.php",
+    "siblingDeviceSlugs": [
+      "oppo_f17-10413"
+    ],
+    "release_date": "Released 2020, September 07",
+    "dimensions": "164g, 7.5mm thickness",
+    "os": "Android 10, ColorOS 7.2",
+    "storage": "128GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "1, 3, 5, 8, 38, 40, 41",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2020, September 02. Released 2020, September 07",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "160.1 x 73.8 x 7.5 mm (6.30 x 2.91 x 0.30 in)",
+        "Weight": "164 g (5.78 oz)",
+        "Build": "Glass front (Gorilla Glass 3), plastic back",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "Super AMOLED, 430 nits (typ), 800 nits (peak)",
+        "Size": "6.43 inches, 100.3 cm<sup>2</sup> (~84.9% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~408 ppi density)",
+        "Protection": "Corning Gorilla Glass 3"
+      },
+      "Platform": {
+        "OS": "Android 10, ColorOS 7.2",
+        "Chipset": "Mediatek MT6779V Helio P95 (12 nm)",
+        "CPU": "Octa-core (2x2.2 GHz Cortex-A75 &amp; 6x2.0 GHz Cortex-A55)",
+        "GPU": "PowerVR GM9446"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "128GB 8GB RAM",
+        "Features": "UFS 2.1"
+      },
+      "Main Camera": {
+        "Quad": "48 MP, f/1.8, 26mm (wide), 1/2.0\", 0.8µm, PDAF\n\n8 MP, f/2.2, 119˚, 16mm (ultrawide), 1/4.0\", 1.12µm\n\nAuxiliary lens",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@30/120fps, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Dual": "16 MP, f/2.4, (wide), 1/3.09\", 1.0µm\n\n2 MP, f/2.4, (depth)",
+        "Features": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.1, A2DP, LE, aptX HD",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS, QZSS",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Po 4015 mAh",
+        "Charging": "30W wired, 50% in 30 min, 100% in 53 min"
+      },
+      "Misc": {
+        "Colors": "Magic Blue, Matte Black, Metallic White",
+        "Models": "CPH2119",
+        "SAR": "1.44 W/kg (head) &nbsp; &nbsp; 1.41 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 270 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-f17-pro-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-f17-pro-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oppo_f17_pro-pictures-10388.php"
+    }
+  }
+}

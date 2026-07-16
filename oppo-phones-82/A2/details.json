@@ -1,0 +1,102 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Oppo A2",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-a2-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oppo-a2.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "oppo_a2_pro-12551",
+      "oppo_a2x-12621"
+    ],
+    "release_date": "Released 2023, November 06",
+    "dimensions": "193g, 8mm thickness",
+    "os": "Android 13, ColorOS 13.1",
+    "storage": "256GB/512GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "1, 3, 5, 8, 28, 34, 38, 39, 40, 41",
+        "5G bands": "1, 5, 8, 28, 41, 77, 78 SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2023, November 03",
+        "Status": "Available. Released 2023, November 06"
+      },
+      "Body": {
+        "Dimensions": "165.6 x 76 x 8 mm (6.52 x 2.99 x 0.31 in)",
+        "Weight": "193 g (6.81 oz)",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "IP54 dust protected and water resistant (water splashes)"
+      },
+      "Display": {
+        "Type": "IPS LCD, 90Hz, 680 nits (peak)",
+        "Size": "6.72 inches, 109.0 cm<sup>2</sup> (~86.6% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~392 ppi density)",
+        "Protection": "Panda glass"
+      },
+      "Platform": {
+        "OS": "Android 13, ColorOS 13.1",
+        "Chipset": "Mediatek Dimensity 6020 (7 nm)",
+        "CPU": "Octa-core (2x2.2 GHz Cortex-A76 &amp; 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC",
+        "Internal": "256GB 12GB RAM, 512GB 12GB RAM",
+        "Features": "UFS 2.2"
+      },
+      "Main Camera": {
+        "Dual": "50 MP, f/1.8, (wide), PDAF\n\nAuxiliary lens",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, f/2.0, (wide)",
+        "Features": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.3, A2DP, LE, aptX HD",
+        "Positioning": "GPS, GALILEO, GLONASS, BDS, QZSS",
+        "NFC": "No",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Po 5000 mAh",
+        "Charging": "33W wired, 51% in 30 min"
+      },
+      "Misc": {
+        "Colors": "Mystery Black, Glowing Green, Violet",
+        "Models": "PJB110",
+        "Price": "About 220 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-a2-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-a79-5g-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-a79-5g-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oppo_a2-pictures-12683.php"
+    }
+  }
+}

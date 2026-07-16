@@ -1,0 +1,99 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Oppo K11x",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oppo/k11x-01.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oppo-k11x.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2023, May 25",
+    "dimensions": "195g, 8.3mm thickness",
+    "os": "Android 13, ColorOS 13.1",
+    "storage": "128GB/256GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 2100",
+        "4G bands": "1, 3, 4, 5, 8, 28, 34, 38, 39, 40, 41",
+        "5G bands": "1, 5, 8, 28, 41, 77, 78 SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2023, May 25",
+        "Status": "Available. Released 2023, May 25"
+      },
+      "Body": {
+        "Dimensions": "165.5 x 76 x 8.3 mm (6.52 x 2.99 x 0.33 in)",
+        "Weight": "195 g (6.88 oz)",
+        "Build": "Glass front, plastic frame, plastic back",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD, 120Hz, 550 nits (typ), 680 nits (peak)",
+        "Size": "6.72 inches, 109.0 cm<sup>2</sup> (~86.7% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~392 ppi density)",
+        "Protection": "Corning Gorilla Glass"
+      },
+      "Platform": {
+        "OS": "Android 13, ColorOS 13.1",
+        "Chipset": "Qualcomm SM6375 Snapdragon 695 5G (6 nm)",
+        "CPU": "Octa-core (2x2.2 GHz Kryo 660 Gold &amp; 6x1.7 GHz Kryo 660 Silver)",
+        "GPU": "Adreno 619"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (uses shared SIM slot)",
+        "Internal": "128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM",
+        "Features": "UFS 2.2"
+      },
+      "Main Camera": {
+        "Dual": "108 MP, f/1.8, 24mm (wide), 1/1.67\", 0.64µm, PDAF\n\nAuxiliary lens",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "16 MP, f/2.4, (wide), 1.0µm",
+        "Features": "HDR, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.1, A2DP, LE, aptX HD",
+        "Positioning": "GPS, GALILEO, GLONASS, BDS, QZSS",
+        "NFC": "No",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Po 5000 mAh",
+        "Charging": "67W wired, 80% in 33 min"
+      },
+      "Misc": {
+        "Colors": "Jade Black, Pearl Blue",
+        "Price": "About 250 EUR"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 412006 (v9)\n\nGeekBench: 2052 (v5)\n\nGFXBench: 17fps (ES 3.1 onscreen)"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oppo/k11x-01.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oppo_k11x-pictures-12295.php"
+    }
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Oppo A5 Pro 4G",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-a5-yough-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oppo-a5-yough.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "oppo_a5_pro-13675",
+      "oppo_a5_4g-13871"
+    ],
+    "release_date": "Released 2025, March 17",
+    "dimensions": "194g, 7.8mm thickness",
+    "os": "Android 15, ColorOS 15",
+    "storage": "128GB/256GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100 - International",
+        "4G bands": "1, 3, 5, 7, 8, 20, 28, 38, 40, 41 - International",
+        "Speed": "HSPA, LTE",
+        "Features": "HSDPA 900 / 2100 - Indonesia\n1, 3, 5, 8, 40 - Indonesia"
+      },
+      "Launch": {
+        "Announced": "2025, March 12",
+        "Status": "Available. Released 2025, March 17"
+      },
+      "Body": {
+        "Dimensions": "164.8 x 75.5 x 7.8 mm (6.49 x 2.97 x 0.31 in)",
+        "Weight": "194 g (6.84 oz)",
+        "SIM": "· Nano-SIM\n· Nano-SIM + Nano-SIM",
+        "Features": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)\n\nMIL-STD-810H compliant*\n\n* does not guarantee ruggedness or use in extreme conditions"
+      },
+      "Display": {
+        "Type": "IPS LCD, 90Hz, 1000 nits (HBM)",
+        "Size": "6.67 inches, 107.2 cm<sup>2</sup> (~86.2% screen-to-body ratio)",
+        "Resolution": "720 x 1604 pixels, 20:9 ratio (~264 ppi density)",
+        "Protection": "Corning Gorilla Glass 7i or AGC DT-Star D+, Mohs level 4"
+      },
+      "Platform": {
+        "OS": "Android 15, ColorOS 15",
+        "Chipset": "Qualcomm SM-6115 Snapdragon 6s 4G Gen1 (11 nm)",
+        "CPU": "Octa-core (4x2.1 GHz Cortex-A73 &amp; 4x1.8 GHz Cortex-A53)",
+        "GPU": "Adreno 610"
+      },
+      "Memory": {
+        "Card slot": "microSDXC",
+        "Internal": "128GB 8GB RAM, 256GB 8GB RAM",
+        "Features": "UFS 2.1"
+      },
+      "Main Camera": {
+        "Dual": "50 MP, f/1.8, (wide), PDAF\n\nAuxiliary lens",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "1080p@30/60fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, f/2.0, (wide)",
+        "Features": "Panorama",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.0, A2DP, LE, aptX",
+        "Positioning": "GPS, GALILEO, GLONASS, BDS",
+        "NFC": "Yes (market/region dependent)",
+        "Radio": "Unspecified",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5800 mAh",
+        "Charging": "45W wired, PD"
+      },
+      "Misc": {
+        "Colors": "Mocha Brown (Mocha Chocolate), Olive Green (Moss Green), Silk Blue (Feather Blue)",
+        "Models": "CPH2711",
+        "Price": "About 170 EUR"
+      },
+      "EU LABEL": {
+        "Energy": "Class B",
+        "Battery": "57:26h endurance, 1600 cycles",
+        "Free fall": "Class A (270 falls)",
+        "Repairability": "Class B"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-a5-yough-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-a5-pro-4g-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-a5-pro-4g-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oppo_a5_pro_4g-pictures-13738.php"
+    }
+  }
+}

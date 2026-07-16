@@ -1,0 +1,99 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Oppo Reno10 (China)",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-reno10-10.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oppo-reno10.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2023, May 24",
+    "dimensions": "180g, 7.6mm thickness",
+    "os": "Android 13, up to Android 14, ColorOS 14",
+    "storage": "256GB/512GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "1, 3, 5, 7, 8, 28, 34, 38, 39, 40, 41",
+        "5G bands": "1, 5, 8, 28, 41, 77, 78 SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2023, May 24",
+        "Status": "Available. Released 2023, May 24"
+      },
+      "Body": {
+        "Dimensions": "162.4 x 74.2 x 7.6 mm (6.39 x 2.92 x 0.30 in)",
+        "Weight": "180 g (6.35 oz)",
+        "Build": "Glass front, plastic frame, glass back",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED, 1B colors, 120Hz, HDR10+, 950 nits (peak)",
+        "Size": "6.7 inches, 108.0 cm<sup>2</sup> (~89.6% screen-to-body ratio)",
+        "Resolution": "1080 x 2412 pixels, 20:9 ratio (~394 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 13, upgradable to Android 14, ColorOS 14",
+        "Chipset": "Qualcomm SM7325 Snapdragon 778G 5G (6 nm)",
+        "CPU": "Octa-core (1x2.4 GHz Cortex-A78 &amp; 3x2.2 GHz Cortex-A78 &amp; 4x1.9 GHz Cortex-A55)",
+        "GPU": "Adreno 642L"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 8GB RAM, 256GB 12GB RAM, 512GB 12GB RAM",
+        "Features": "UFS 2.2\n\nUFS 3.1 (512GB 12GB RAM only)"
+      },
+      "Main Camera": {
+        "Triple": "64 MP, f/1.7, (wide), 1/2\", 0.7µm, PDAF\n\n32 MP, f/2.0, (telephoto), 1/2.74\", 0.8µm, PDAF, 2x optical zoom\n\n8 MP, f/2.2, (ultrawide)",
+        "Features": "Color spectrum sensor, LED flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@30/60fps, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.4, 22mm (wide), 1/2.74\", 0.8µm, AF",
+        "Features": "Panorama, HDR",
+        "Video": "1080p@30fps, gyro-EIS"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No",
+        "Features": "24-bit/192kHz Hi-Res audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.2, A2DP, LE, aptX HD",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS, QZSS",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Po 4600 mAh",
+        "Charging": "80W wired, PD, QC3, 50% in 11 min\n\nReverse wired"
+      },
+      "Misc": {
+        "Colors": "Black, Gold, Blue",
+        "Models": "PHW110",
+        "Price": "About 330 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-reno10-10.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oppo/reno10-01.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oppo_reno10_(china)-pictures-12277.php"
+    }
+  }
+}

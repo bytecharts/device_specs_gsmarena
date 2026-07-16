@@ -1,0 +1,110 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Oppo Find N2 Flip",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-find-n2-flip-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oppo-find-n2-flip.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/oppo_find_n2_flip-review-2528.php",
+    "siblingDeviceSlugs": [
+      "oppo_find_n2-12002"
+    ],
+    "release_date": "Released 2022, December 23",
+    "dimensions": "191g, 7.5mm thickness",
+    "os": "Android 13, up to 4 major upgrades",
+    "storage": "128GB/256GB/512GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 25, 26, 28, 32, 38, 39, 40, 41, 66 - International",
+        "5G bands": "1, 2, 3, 5, 7, 8, 12, 20, 25, 28, 38, 40, 41, 66, 77, 78, 79 SA/NSA - International",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "CDMA 800\n1, 2, 3, 4, 5, 8, 18, 19, 26, 28, 34, 38, 39, 40, 41, 66 - China\n1, 3, 5, 8, 28, 41, 77, 78, 79 SA/NSA - China"
+      },
+      "Launch": {
+        "Announced": "2022, December 15",
+        "Status": "Available. Released 2022, December 23"
+      },
+      "Body": {
+        "Dimensions": "Unfolded: 166.2 x 75.2 x 7.5 mm\n Folded: 85.5 x 75.2 x 16 mm",
+        "Weight": "191 g (6.74 oz)",
+        "Build": "Plastic front (unfolded), plastic back (unfolded), aluminum frame",
+        "SIM": "· Nano-SIM + <a href=\"glossary.php3?term=esim\">eSIM</a>\n· Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "Foldable LTPO AMOLED, 120Hz, HDR10+, 1200 nits (HBM), 1600 nits (peak)",
+        "Size": "6.8 inches, 108.0 cm<sup>2</sup> (~86.4% screen-to-body ratio)",
+        "Resolution": "1080 x 2520 pixels, 21:9 ratio (~403 ppi density)",
+        "Features": "Cover display:\n\nAMOLED, Corning Gorilla Glass 5\n\n3.26 inches, 382 x 720 pixels, 250 PPI\n\n800 nits (HBM), 900 nits (peak)"
+      },
+      "Platform": {
+        "OS": "Android 13, up to 4 major Android upgrades, ColorOS 14",
+        "Chipset": "Mediatek Dimensity 9000+ (4 nm)",
+        "CPU": "Octa-core (1x3.20 GHz Cortex-X2 &amp; 3x2.85 GHz Cortex-A710 &amp; 4x1.80 GHz Cortex-A510)",
+        "GPU": "Mali-G710 MC10"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 8GB RAM, 256GB 12GB RAM, 512GB 16GB RAM",
+        "Features": "UFS 3.1"
+      },
+      "Main Camera": {
+        "Dual": "50 MP, f/1.8, 23mm (wide), 1/1.56\", 1.0µm, multi-directional PDAF\n\n8 MP, f/2.2, 112˚, (ultrawide)",
+        "Features": "Color spectrum sensor, LED flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@30/60/240fps"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.4, 22mm (wide), 1/2.74\", 0.8µm, AF",
+        "Features": "HDR, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, tri-band",
+        "Bluetooth": "5.3, A2DP, LE, aptX HD",
+        "Positioning": "GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5)",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, dual gyro, dual proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Po 4300 mAh",
+        "Charging": "44W wired, 50% in 23 min\n\nReverse wired"
+      },
+      "Misc": {
+        "Colors": "Astral Black, Moonlit Purple, Gold",
+        "Models": "CPH2437, PGT110",
+        "Price": "About 490 EUR"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 773574 (v9)\n\nGeekBench: 3265 (v5.1)\n\nGFXBench: 59fps (ES 3.1 onscreen)",
+        "Display": "<a class=\"noUnd\" href=\"oppo_find_n2_flip-review-2528p3.php\">1039 nits max brightness (measured)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=12014&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=12014&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"oppo_find_n2_flip-review-2528p3.php#lt\">-25.0 LUFS (Very good)</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 12014); \">Endurance rating 97h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-find-n2-flip-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-find-n2-flip-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-find-n2-flip-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oppo_find_n2_flip-pictures-12014.php"
+    }
+  }
+}

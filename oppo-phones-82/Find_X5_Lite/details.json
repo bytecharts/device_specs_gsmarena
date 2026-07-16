@@ -1,0 +1,107 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Oppo Find X5 Lite",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-find-x5-lite-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oppo-find-x5-lite.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/oppo_reno7_5g_find_x5_lite-review-2431.php",
+    "siblingDeviceSlugs": [
+      "oppo_find_x5-11378",
+      "oppo_find_x5_pro-11236"
+    ],
+    "release_date": "Released 2022, March 24",
+    "dimensions": "173g, 7.8mm thickness",
+    "os": "Android 11, ColorOS 12",
+    "storage": "256GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 26, 28, 38, 39, 40, 41, 66",
+        "5G bands": "1, 3, 5, 7, 8, 20, 28, 38, 40, 41, 66, 77, 78 SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2022, February 24",
+        "Status": "Available. Released 2022, March 24"
+      },
+      "Body": {
+        "Dimensions": "160.6 x 73.2 x 7.8 mm (6.32 x 2.88 x 0.31 in)",
+        "Weight": "173 g (6.10 oz)",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED, 90Hz, HDR10+, 430 nits (typ), 600 nits (HDR), 800 nits (peak)",
+        "Size": "6.43 inches, 99.8 cm<sup>2</sup> (~84.9% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~409 ppi density)",
+        "Protection": "Corning Gorilla Glass 5"
+      },
+      "Platform": {
+        "OS": "Android 11, ColorOS 12",
+        "Chipset": "Mediatek Dimensity 900 (6 nm)",
+        "CPU": "Octa-core (2x2.4 GHz Cortex-A78 &amp; 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G68 MC4"
+      },
+      "Memory": {
+        "Card slot": "microSDXC",
+        "Internal": "256GB 8GB RAM",
+        "Features": "UFS 2.2"
+      },
+      "Main Camera": {
+        "Triple": "64 MP, f/1.7, 26mm (wide), 1/2.0\", 0.7µm, PDAF\n\n8 MP, f/2.3, 119˚ (ultrawide)\n\n2 MP (macro)",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@30/60/120fps, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.4, 24mm (wide)",
+        "Features": "Panorama",
+        "Video": "1080p@30/120fps, gyro-EIS"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.2, A2DP, LE, aptX HD",
+        "Positioning": "GPS, GLONASS, BDS, GALILEO, QZSS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Po 4500 mAh",
+        "Charging": "65W wired, PD, 100% in 31 min\n\nReverse wired"
+      },
+      "Misc": {
+        "Colors": "Starlight Black, Startrails Blue",
+        "Models": "CPH2371",
+        "Price": "About 270 EUR"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 407040 (v8), 479608 (v9)\n\nGeekBench: 2276 (v5.1)\n\nGFXBench: 20fps (ES 3.1 onscreen)",
+        "Display": "<a class=\"noUnd\" href=\"oppo_reno7_5g-review-2431p3.php#dt\">Contrast ratio: Infinite (nominal)</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"oppo_reno7_5g-review-2431p3.php#lt\">-29.4 LUFS (Average)</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 11323); \">Endurance rating 123h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-find-x5-lite-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-find-x5-lite-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oppo_find_x5_lite-pictures-11323.php"
+    }
+  }
+}

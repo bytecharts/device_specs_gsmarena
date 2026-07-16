@@ -1,0 +1,97 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Oppo F17",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-f17-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oppo-f17.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "oppo_f17_pro-10388"
+    ],
+    "release_date": "Released 2020, September 24",
+    "dimensions": "163g, 7.5mm thickness",
+    "os": "Android 10, ColorOS 7.2",
+    "storage": "64GB/128GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "1, 3, 5, 8, 38, 40, 41",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2020, September 02. Released 2020, September 24",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "159.8 x 72.8 x 7.5 mm (6.29 x 2.87 x 0.30 in)",
+        "Weight": "163 g (5.75 oz)",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "Super AMOLED",
+        "Size": "6.44 inches, 100.1 cm<sup>2</sup> (~86.1% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~409 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 10, ColorOS 7.2",
+        "Chipset": "Qualcomm SM6115 Snapdragon 662 (11 nm)",
+        "CPU": "Octa-core (4x2.0 GHz Kryo 260 Gold &amp; 4x1.8 GHz Kryo 260 Silver)",
+        "GPU": "Adreno 610"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "64GB 4GB RAM, 128GB 4GB RAM, 128GB 6GB RAM, 128GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Quad": "16 MP, f/2.2, (wide), 1/3.06\", PDAF\n\n8 MP, f/2.2, 119˚ (ultrawide), 1/4.0\", 1.12µm\n\nAuxiliary lens",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "16 MP, f/2.0, 26mm (wide), 1/3.1\", 1.0µm",
+        "Features": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.1, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Po 4015 mAh",
+        "Charging": "30W wired, 50% in 30 min, 100% in 53 min"
+      },
+      "Misc": {
+        "Colors": "Dynamic Orange, Navy Blue, Classic Silver",
+        "Models": "CPH2095",
+        "SAR": "1.16 W/kg (head) &nbsp; &nbsp; 0.81 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 200 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-f17-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-f17-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oppo_f17-pictures-10413.php"
+    }
+  }
+}

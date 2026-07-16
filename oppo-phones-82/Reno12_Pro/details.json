@@ -1,0 +1,111 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Oppo Reno12 Pro",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-reno12-pro-cn-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oppo-reno12-pro-cn.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/oppo_reno12_pro-review-2716.php",
+    "siblingDeviceSlugs": [
+      "oppo_reno12-13133"
+    ],
+    "release_date": "Released 2024, June 18",
+    "dimensions": "180g, 7.4mm thickness",
+    "os": "Android 14, up to 3 major upgrades",
+    "storage": "256GB/512GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100 - version 1",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 26, 28, 38, 39, 40, 41, 66 - version 1",
+        "5G bands": "1, 2, 3, 5, 7, 8, 12, 20, 26, 28, 38, 40, 41, 66, 77, 78 SA/NSA - version 1",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "HSDPA 900 / 2100 - version 2\n1, 3, 5, 8, 40 - version 2\n1, 3, 5, 8, 40 SA/NSA - version 2"
+      },
+      "Launch": {
+        "Announced": "2024, June 18",
+        "Status": "Available. Released 2024, June 18"
+      },
+      "Body": {
+        "Dimensions": "161.5 x 74.8 x 7.4 mm (6.36 x 2.94 x 0.29 in)",
+        "Weight": "180 g (6.35 oz)",
+        "Build": "Glass front (Gorilla Glass Victus 2), plastic frame, glass back",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "IP65 dust tight and water resistant (low pressure water jets)"
+      },
+      "Display": {
+        "Type": "AMOLED, 1B colors, 120Hz, HDR10+, 1200 nits (peak)",
+        "Size": "6.7 inches, 108.0 cm<sup>2</sup> (~89.4% screen-to-body ratio)",
+        "Resolution": "1080 x 2412 pixels, 20:9 ratio (~394 ppi density)",
+        "Protection": "Corning Gorilla Glass Victus 2"
+      },
+      "Platform": {
+        "OS": "Android 14, up to 3 major Android upgrades, ColorOS 14.1",
+        "Chipset": "Mediatek Dimensity 7300 Energy (4 nm)",
+        "CPU": "Octa-core (4x2.5 GHz Cortex-A78 &amp; 4x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G615 MC2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC",
+        "Internal": "256GB 12GB RAM, 512GB 12GB RAM",
+        "Features": "UFS 3.1"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, f/1.8, 26mm (wide), 1/1.95\", 0.8µm, multi-directional PDAF, OIS\n\n50 MP, f/2.0, 47mm (telephoto), 1/2.75\", PDAF, 2x optical zoom\n\n8 MP, f/2.2, 16mm, 112˚ (ultrawide), 1/4.0\", 1.12µm",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@30/60/120/480fps, 720p@960fps, gyro-EIS, OIS, HDR"
+      },
+      "Selfie camera": {
+        "Single": "50 MP, f/2.0, 21mm (wide), 1/2.75\", PDAF",
+        "Features": "Panorama, HDR",
+        "Video": "4K@30fps, 1080p@30/60fps, gyro-EIS"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+        "Bluetooth": "5.4, A2DP, LE, aptX HD, LHDC",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS, QZSS",
+        "NFC": "Yes, 360˚ (market/region dependent)",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",
+        "Features": "BeaconLink calls via bluetooth, up to 200m"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "80W wired, PD2.0, 47% in 18 min, 100% in 46 min,\n\nReverse wired"
+      },
+      "Misc": {
+        "Colors": "Space Brown, Sunset Gold, Nebula Silver, Manish Malhotra",
+        "Models": "CPH2629",
+        "Price": "<a href=\"oppo_reno12_pro-price-13132.php\">£ 605.00 / € 399.00</a>"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 681677 (v10)\n\nGeekBench: 2625 (v6)\n\n3DMark: 854 (Wild Life Extreme)",
+        "Display": "<a class=\"noUnd\" href=\"oppo_reno12_pro-review-2716p3.php\">1380 nits max brightness (measured)</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"oppo_reno12_pro-review-2716p3.php#lt\">-24.0 LUFS (Very good)</a>",
+        "Battery": "<div style=\"position:relative;\">\n<a href=\"oppo_reno12_pro-review-2716p3.php#bt\" data-battery2=\"32:30_14:10_20:08_8:02\" onclick=\"showBatteryPopup(event, 13132); \" class=\"v2\">Active use score 14:54h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-reno12-pro-cn-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-reno12-pro-cn-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oppo_reno12_pro-pictures-13132.php"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Oppo A5x",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-a5x-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oppo-a5x.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "oppo_a5x-13873"
+    ],
+    "release_date": "Released 2025, May 25",
+    "dimensions": "193g, 8mm thickness",
+    "os": "Android 15, ColorOS 15",
+    "storage": "64GB/128GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "LTE",
+        "5G bands": "SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2025, May 23",
+        "Status": "Available. Released 2025, May 25"
+      },
+      "Body": {
+        "Dimensions": "165.7 x 76.2 x 8 mm (6.52 x 3.00 x 0.31 in)",
+        "Weight": "193 g (6.81 oz)",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "IP65 dust tight and water resistant (low pressure water jets)\n\nMIL-STD-810H compliant*\n\n* does not guarantee ruggedness or use in extreme conditions"
+      },
+      "Display": {
+        "Type": "IPS LCD, 120Hz, 1000 nits (HBM)",
+        "Size": "6.67 inches, 107.2 cm<sup>2</sup> (~84.9% screen-to-body ratio)",
+        "Resolution": "720 x 1604 pixels, 20:9 ratio (~264 ppi density)",
+        "Protection": "Unspecified"
+      },
+      "Platform": {
+        "OS": "Android 15, ColorOS 15",
+        "Chipset": "Mediatek Dimensity 6300 (6 nm)",
+        "CPU": "Octa-core (2x2.4 GHz Cortex-A76 &amp; 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC",
+        "Internal": "64GB 4GB RAM, 128GB 4GB RAM, 128GB 6GB RAM",
+        "Features": "UFS 2.2"
+      },
+      "Main Camera": {
+        "Single": "32 MP, f/1.9, (wide), AF",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Single": "5 MP, f/2.2, (wide)",
+        "Video": "Yes"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.1, A2DP, LE",
+        "Positioning": "GPS, GALILEO, GLONASS, BDS, QZSS",
+        "NFC": "No",
+        "Radio": "Unspecified",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "6000 mAh",
+        "Charging": "45W wired, 33W PPS, 13.5W PD, 50% in 37 min"
+      },
+      "Misc": {
+        "Colors": "Tranquil Lake Green, Laser White",
+        "Price": "About 150 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-a5x-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oppo_a5x_5g-pictures-13898.php"
+    }
+  }
+}
