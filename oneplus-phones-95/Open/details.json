@@ -1,0 +1,114 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "OnePlus Open",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-open-2.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-open-10.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/oneplus_open-review-2627.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2023, October 26",
+    "dimensions": "239g or 245g, 5.8mm thickness",
+    "os": "Android 13, up to Android 16, OxygenOS 16",
+    "storage": "512GB/1TB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 30, 32, 38, 39, 40, 41, 46, 48, 66, 71",
+        "5G bands": "1, 2, 3, 5, 7, 8, 12, 20, 25, 28, 30, 38, 40, 41, 66, 71, 75, 77, 78 SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2023, October 19",
+        "Status": "Available. Released 2023, October 26"
+      },
+      "Body": {
+        "Dimensions": "Unfolded: 153.4 x 143.1 x 5.8 mm\nFolded: 153.4 x 73.3 x 11.7 mm",
+        "Weight": "239 g or 245 g (8.43 oz)",
+        "Build": "Glass front (Ceramic Guard) (folded), plastic front (unfolded), glass back or eco leather back, aluminum frame",
+        "SIM": "Nano-SIM + Nano-SIM + <a href=\"glossary.php3?term=esim\">eSIM</a> (max 2 at a time)",
+        "Features": "IPX4 splash resistant"
+      },
+      "Display": {
+        "Type": "Foldable LTPO3 Flexi-fluid AMOLED, 1B colors, Dolby Vision, 120Hz, 2800 nits (peak)",
+        "Size": "7.82 inches, 196.7 cm<sup>2</sup> (~89.6% screen-to-body ratio)",
+        "Resolution": "2268 x 2440 pixels (~426 ppi density)",
+        "Features": "Cover display:\n\nLTPO3 Super Fluid OLED, 1B colors, Dolby Vision, 120Hz, 2800 nits (peak)\n\n6.31 inches, 1116 x 2484 pixels, 431 ppi, Ceramic Guard"
+      },
+      "Platform": {
+        "OS": "Android 13, upgradable to Android 16, OxygenOS 16",
+        "Chipset": "Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm)",
+        "CPU": "Octa-core (1x3.2 GHz Cortex-X3 &amp; 2x2.8 GHz Cortex-A715 &amp; 2x2.8 GHz Cortex-A710 &amp; 3x2.0 GHz Cortex-A510)",
+        "GPU": "Adreno 740"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "512GB 16GB RAM, 1TB 16GB RAM",
+        "Features": "UFS 4.0"
+      },
+      "Main Camera": {
+        "Triple": "48 MP, f/1.7, 24mm (wide), 1/1.43\", 1.12µm, multi-directional PDAF, OIS\n\n64 MP, f/2.6, 70mm (telephoto), 1/2.0\", 0.7µm, PDAF, OIS, 3x optical zoom\n\n48 MP, f/2.2, 14mm, 114˚ (ultrawide), 1/2.0\", 0.8µm, PDAF",
+        "Features": "Hasselblad Color Calibration, LED flash, HDR, panorama",
+        "Video": "4K@30/60fps, 1080p@30/60/120/240/480fps gyro-EIS, HDR10+, Dolby Vision"
+      },
+      "Selfie camera": {
+        "Single": "20 MP, f/2.2, 20mm (ultrawide), 1/4.0\", 0.7µm\n\nCover camera:\n\n32 MP, f/2.4, 22mm (ultrawide), 1/3.14\", 0.7µm",
+        "Features": "HDR",
+        "Video": "4K@30fps, 1080p@30fps, gyro-EIS"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers (Dolby Atmos enhanced)",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band",
+        "Bluetooth": "5.3, A2DP, LE, aptX HD",
+        "Positioning": "GPS (L1+L5), GLONASS, BDS, GALILEO (E1+E5a), QZSS",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 3.1, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Po 4805 mAh",
+        "Charging": "67W wired, PD, 100% in 42 min\n\nReverse wired"
+      },
+      "Misc": {
+        "Colors": "Emerald Dusk, Voyager Black, Apex Edition",
+        "Models": "CPH2551",
+        "SAR": "0.98 W/kg (head) &nbsp; &nbsp; 0.76 W/kg (body) &nbsp; &nbsp;",
+        "Price": "<a href=\"oneplus_open-price-12619.php\">$ 1,007.99 / € 219.56</a>"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 968130 (v9), 1349633 (v10)\n\nGeekBench: 3969 (v5.5), 4169 (v6.0)\n\nGFXBench: 51fps (ES 3.1 onscreen)",
+        "Display": "<a class=\"noUnd\" href=\"oneplus_open-review-2627p3.php#dt\">1238 nits max brightness (measured)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=12619&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=12619&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"oneplus_open-review-2627p3.php#lt\">-28.2 LUFS (Average)</a>",
+        "Battery": "<div style=\"position:relative;\">\n<a href=\"oneplus_open-review-2627p3.php#bt\" data-battery2=\"29:04_12:45_15:13_6:00\" onclick=\"showBatteryPopup(event, 12619); \" class=\"v2\">Active use score 11:59h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 12619); \">Endurance rating 96h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-open-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-open-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-open-5.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-open-11.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-open-10.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-open-apex-edition.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oneplus_open-pictures-12619.php"
+    }
+  }
+}

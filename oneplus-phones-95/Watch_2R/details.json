@@ -1,0 +1,93 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "OnePlus Watch 2R",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-watch-2r-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-watch-2r.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/oneplus_watch_2r_review-news-63740.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2024, July 16",
+    "dimensions": "37g, 12.1mm thickness",
+    "os": "Android Wear OS, ColorOS Watch 6.0",
+    "storage": "32GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">No cellular connectivity</a>",
+        "2G bands": "N/A",
+        "3G bands": "N/A",
+        "4G bands": "N/A",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2024, July 16",
+        "Status": "Available. Released 2024, July 16"
+      },
+      "Body": {
+        "Dimensions": "47 x 46.6 x 12.1 mm (1.85 x 1.83 x 0.48 in)",
+        "Weight": "37 g (1.31 oz)",
+        "Build": "Glass front (Panda Glass), aluminum frame",
+        "SIM": "No",
+        "Features": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)\n\nWaterproof (5ATM)\n\nCompatible with standard 22mm straps"
+      },
+      "Display": {
+        "Type": "AMOLED, 1000 nits (HBM)",
+        "Size": "1.43 inches",
+        "Resolution": "466 x 466 pixels (~326 ppi density)",
+        "Protection": "Panda Glass"
+      },
+      "Platform": {
+        "OS": "Android Wear OS, ColorOS Watch 6.0",
+        "Chipset": "Qualcomm Snapdragon W5 Gen 1 (4 nm)",
+        "CPU": "Quad-core 1.7 GHz Cortex-A53",
+        "GPU": "Adreno 702"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "32GB 2GB RAM",
+        "Features": "eMMC"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, barometer, compass, heart rate, SpO2"
+      },
+      "Battery": {
+        "Type": "500 mAh",
+        "Charging": "7.5W wired"
+      },
+      "Misc": {
+        "Colors": "Forest Green, Gunmetal Gray",
+        "Price": "About 150 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-watch-2r-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-watch-2r-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-watch-2r-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oneplus_watch_2r-pictures-13209.php"
+    }
+  }
+}

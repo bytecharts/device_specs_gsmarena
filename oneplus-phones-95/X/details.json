@@ -1,0 +1,117 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "OnePlus X",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-x-champagne.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-x.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/one_plus_x-review-1337.php",
+    "siblingDeviceSlugs": [
+      "lg_nexus_5x-7556",
+      "oneplus_2-6902",
+      "oneplus_15_5g-14206",
+      "oneplus_n6-14760",
+      "oneplus_nord_6_5g-14558",
+      "oneplus_15r_5g-14358",
+      "oneplus_13-13477",
+      "oneplus_nord_ce6_5g-14611"
+    ],
+    "release_date": "Released 2015, November",
+    "dimensions": "138g / 160g, 6.9mm thickness",
+    "os": "Android 5.1.1, up to 6.0.1, OxygenOS 2.2.3",
+    "storage": "16GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 &amp; SIM 2",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100 - Europe",
+        "4G bands": "1, 3, 5, 7, 8, 20, 38, 40 - Europe",
+        "Speed": "HSPA, LTE",
+        "Features": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - USA\n1, 2, 4, 5, 7, 8 - USA"
+      },
+      "Launch": {
+        "Announced": "2015, October. Released 2015, November",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "140 x 69 x 6.9 mm (5.51 x 2.72 x 0.27 in)",
+        "Weight": "138 g / 160 g (4.87 oz)",
+        "Build": "Glass front (Gorilla Glass 3), glass back, aluminum frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED",
+        "Size": "5.0 inches, 68.9 cm<sup>2</sup> (~71.3% screen-to-body ratio)",
+        "Resolution": "1080 x 1920 pixels, 16:9 ratio (~441 ppi density)",
+        "Protection": "Corning Gorilla Glass 3"
+      },
+      "Platform": {
+        "OS": "Android 5.1.1 (Lollipop), upgradable to 6.0.1 (Marshmallow), OxygenOS 2.2.3",
+        "Chipset": "Qualcomm Snapdragon 801 (28 nm)",
+        "CPU": "Quad-core 2.3 GHz Krait 400",
+        "GPU": "Adreno 330"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (uses shared SIM slot)",
+        "Internal": "16GB 3GB RAM",
+        "Features": "eMMC 5.0"
+      },
+      "Main Camera": {
+        "Single": "13 MP, f/2.2, 1/3.1\", 1.14µm, PDAF",
+        "Features": "LED flash, panorama, HDR",
+        "Video": "1080p@30fps, 720p@120fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, f/2.4",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+        "Bluetooth": "4.0, A2DP",
+        "Positioning": "GPS, GLONASS, BDS",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, proximity"
+      },
+      "Battery": {
+        "Type": "Li-Po 2525 mAh, non-removable"
+      },
+      "Misc": {
+        "Colors": "Onyx, Ceramic, Champagne",
+        "Models": "ONE E1003, ONE E1001, ONE E1005",
+        "SAR": "1.11 W/kg (head) &nbsp; &nbsp; 1.11 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.32 W/kg (head) &nbsp; &nbsp; 0.42 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 270 EUR"
+      },
+      "Our Tests": {
+        "Performance": "Basemark OS II 2.0: 1213\nBasemark X: 10572",
+        "Display": "<a class=\"noUnd\" href=\"one_plus_x-review-1337p3.php#dt\">Contrast ratio: Infinite (nominal), 3.983 (sunlight)</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"one_plus_x-review-1337p6.php#lt\">Voice 65dB / Noise 66dB / Ring 70dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"one_plus_x-review-1337p6.php#aq\">Noise -94.4dB / Crosstalk -94.3dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 7630); \">Endurance rating 54h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-x-champagne.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-x-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-x-4.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-x-6.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oneplus_x-pictures-7630.php"
+    }
+  }
+}

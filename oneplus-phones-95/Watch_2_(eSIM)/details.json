@@ -1,0 +1,87 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "OnePlus Watch 2 (eSIM)",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-watch2-china-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-watch2-china.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2024, July 03",
+    "dimensions": "37g, 12.1mm thickness",
+    "os": "ColorOS Watch 6.0",
+    "storage": "32GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4G bands": "LTE",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2024, June 27",
+        "Status": "Available. Released 2024, July 03"
+      },
+      "Body": {
+        "Dimensions": "47.6 x 46.6 x 12.1 mm (1.87 x 1.83 x 0.48 in)",
+        "Weight": "37 g (1.31 oz)",
+        "SIM": "<a href=\"glossary.php3?term=esim\">eSIM</a>",
+        "Features": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)\n\nWaterproof (5ATM)\n\nCompatible with standard 22mm straps"
+      },
+      "Display": {
+        "Type": "AMOLED, 1000 nits (HBM)",
+        "Size": "1.43 inches",
+        "Resolution": "466 x 466 pixels (~326 ppi density)"
+      },
+      "Platform": {
+        "OS": "ColorOS Watch 6.0",
+        "Chipset": "Qualcomm Snapdragon W5 Gen 1 (4 nm)"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "32GB 2GB RAM",
+        "Features": "eMMC"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, barometer, compass, heart rate, SpO2"
+      },
+      "Battery": {
+        "Type": "500 mAh",
+        "Charging": "7.5W wired"
+      },
+      "Misc": {
+        "Colors": "Black, Silver",
+        "Price": "About 230 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-watch2-china-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-watch2-china-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-watch2-china-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oneplus_watch_2_(esim)-pictures-13181.php"
+    }
+  }
+}

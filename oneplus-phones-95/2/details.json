@@ -1,0 +1,117 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "OnePlus 2",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-two-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-two.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/oneplus_2-review-1287.php",
+    "siblingDeviceSlugs": [
+      "motorola_moto_x_style-7229",
+      "oneplus_nord_4-13200",
+      "oneplus_one-6327",
+      "motorola_moto_x_play-7454",
+      "samsung_galaxy_s6_edge-7079",
+      "oneplus_15_5g-14206",
+      "oneplus_n6-14760",
+      "oneplus_nord_6_5g-14558",
+      "oneplus_15r_5g-14358",
+      "oneplus_13-13477",
+      "oneplus_nord_ce6_5g-14611"
+    ],
+    "release_date": "Released 2015, August",
+    "dimensions": "175g, 9.9mm thickness",
+    "os": "Android 5.1, up to 6.0.1, Oxygen 3.5.6 UI",
+    "storage": "16GB/64GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 &amp; SIM 2",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4G bands": "1, 3, 5, 7, 8, 20, 38, 40, 41",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "Launch": {
+        "Announced": "2015, July. Released 2015, August",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "151.8 x 74.9 x 9.9 mm (5.98 x 2.95 x 0.39 in)",
+        "Weight": "175 g (6.17 oz)",
+        "Build": "Glass front (Gorilla Glass 3), plastic back, aluminum frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "5.5 inches, 83.4 cm<sup>2</sup> (~73.3% screen-to-body ratio)",
+        "Resolution": "1080 x 1920 pixels, 16:9 ratio (~401 ppi density)",
+        "Protection": "Corning Gorilla Glass 3"
+      },
+      "Platform": {
+        "OS": "Android 5.1 (Lollipop), upgradable to 6.0.1 (Marshmallow), Oxygen 3.5.6 UI",
+        "Chipset": "Qualcomm MSM8994 Snapdragon 810 (20 nm)",
+        "CPU": "Octa-core (4x1.56 GHz Cortex-A53 &amp; 4x1.82 GHz Cortex-A57)",
+        "GPU": "Adreno 430"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "16GB 3GB RAM, 64GB 4GB RAM",
+        "Features": "eMMC 5.0"
+      },
+      "Main Camera": {
+        "Single": "13 MP, f/2.0, 1/2.6\", 1.3µm, OIS",
+        "Features": "Laser AF, Dual-LED flash, panorama, HDR",
+        "Video": "4K@30fps, 4K(DCI)@24fps, 1080p@60fps, 720p@120fps, HDR, stereo sound rec."
+      },
+      "Selfie camera": {
+        "Single": "5 MP, f/2.4",
+        "Video": "720p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, Wi-Fi Direct, DLNA, hotspot",
+        "Bluetooth": "4.1, A2DP",
+        "Positioning": "GPS, GLONASS",
+        "NFC": "No",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (front-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Po 3300 mAh, non-removable"
+      },
+      "Misc": {
+        "Colors": "Sandstone Black",
+        "Models": "ONE A2003, ONE A2005, ONE A2001",
+        "SAR EU": "0.43 W/kg (head) &nbsp; &nbsp; 0.20 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 300 EUR"
+      },
+      "Our Tests": {
+        "Performance": "Basemark OS II 2.0: 1622\nBasemark X: 21937",
+        "Display": "<a class=\"noUnd\" href=\"oneplus_2-review-1287p3.php#dt\">Contrast ratio: 1187 (nominal),  2.165 (sunlight)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=6902&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=6902&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"oneplus_2-review-1287p6.php#lt\">Voice 75dB / Noise 73dB / Ring 80dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"oneplus_2-review-1287p6.php#aq\">Noise -94.2dB / Crosstalk -94.3dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 6902); \">Endurance rating 61h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-two-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-two-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oneplus_2-pictures-6902.php"
+    }
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "OnePlus 10 Pro",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-10-pro-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-10-pro.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/oneplus_10_pro_review-review-2401.php",
+    "siblingDeviceSlugs": [
+      "oneplus_10t-11622"
+    ],
+    "release_date": "Released 2022, January 13",
+    "dimensions": "201g, 8.6mm thickness",
+    "os": "Android 12, up to 14, OxygenOS 14, ColorOS",
+    "storage": "128GB/256GB/512GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / EVDO / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 30, 32, 38, 39, 40, 41, 46, 48, 66, 71 - International",
+        "5G bands": "1, 2, 3, 5, 7, 8, 20, 25, 28, 30, 38, 40, 41, 48, 66, 71, 77, 78 SA/NSA - International",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE (4CA) Cat18 1200/200 Mbps, 5G",
+        "Features": "CDMA 800\nCDMA2000 1xEV-DO\n1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 30, 32, 38, 39, 41, 46, 48, 66, 71 - USA\n1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 26, 28, 34, 38, 39, 40, 41 - China, India\n1, 2, 3, 5, 7, 8, 20, 25, 28, 30, 38, 41, 66, 71, 77 SA/NSA - USA\n1, 3, 40, 41, 78, 79 SA/NSA - China\n1, 3, 5, 8, 28, 40, 41, 78, 79 SA/NSA - India"
+      },
+      "Launch": {
+        "Announced": "2022, January 11",
+        "Status": "Available. Released 2022, January 13"
+      },
+      "Body": {
+        "Dimensions": "163 x 73.9 x 8.6 mm (6.42 x 2.91 x 0.34 in)",
+        "Weight": "201 g (7.09 oz)",
+        "Build": "Glass front (Gorilla Glass Victus), glass back (Gorilla Glass 5), aluminum frame",
+        "SIM": "· Nano-SIM\n· Nano-SIM + Nano-SIM",
+        "Features": "IP68 dust tight and water resistant - T-Mobile only (not for use underwater, liquid damage is not covered under warranty)"
+      },
+      "Display": {
+        "Type": "LTPO2 Fluid AMOLED, 1B colors, 120Hz, HDR10+, 500 nits (typ), 800 nits (HBM), 1300 nits (peak)",
+        "Size": "6.7 inches, 108.4 cm<sup>2</sup> (~90.0% screen-to-body ratio)",
+        "Resolution": "1440 x 3216 pixels, 20:9 ratio (~525 ppi density)",
+        "Protection": "Corning Gorilla Glass Victus"
+      },
+      "Platform": {
+        "OS": "Android 12, upgradable to Android 14, OxygenOS 14 (International), ColorOS (China)",
+        "Chipset": "Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm)",
+        "CPU": "Octa-core (1x3.00 GHz Cortex-X2 &amp; 3x2.50 GHz Cortex-A710 &amp; 4x1.80 GHz Cortex-A510)",
+        "GPU": "Adreno 730"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM, 512GB 12GB RAM",
+        "Features": "UFS 3.1"
+      },
+      "Main Camera": {
+        "Triple": "48 MP, f/1.8, 23mm (wide), 1/1.43\", 1.12µm, multi-directional PDAF, OIS\n\n8 MP, f/2.4, 77mm (telephoto), 1.0µm, PDAF, OIS, 3.3x optical zoom\n\n50 MP, f/2.2, 14mm, 150˚ (ultrawide), 1/2.76\", 0.64µm",
+        "Features": "Laser AF, color spectrum sensor, Hasselblad Color Calibration, Dual-LED dual-tone flash, HDR, panorama",
+        "Video": "8K@24fps, 4K@30/60/120fps, 1080p@30/60/240fps, Auto HDR, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.2, (wide), 1/2.74\", 0.8µm",
+        "Features": "HDR",
+        "Video": "1080p@30fps, gyro-EIS"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No",
+        "Features": "24-bit/192kHz Hi-Res audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.2, A2DP, LE, aptX HD",
+        "Positioning": "GPS (L1+L5), GLONASS (G1), BDS (B1), GALILEO (E1+E5a)",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 3.1, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, barometer"
+      },
+      "Battery": {
+        "Type": "Li-Po 5000 mAh",
+        "Charging": "80W wired, PD, 100% in 32 min (International)\n\n65W wired, PD, 58% in 15 min (North America)\n\n50W wireless\n\nReverse wireless"
+      },
+      "Misc": {
+        "Colors": "Volcanic Black, Emerald Forest, Panda White (Extreme Edition)",
+        "Models": "NE2210, NE2211, NE2213, NE2215, NE2217",
+        "SAR": "1.16 W/kg (head) &nbsp; &nbsp; 0.70 W/kg (body) &nbsp; &nbsp;",
+        "Price": "<a href=\"oneplus_10_pro-price-11234.php\">₹ 39,999 / $ 314.99 / £ 348.99 / € 180.00</a>"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 886248 (v9)\n\nGeekBench: 3447 (v5.1)\n\nGFXBench: 48fps (ES 3.1 onscreen)",
+        "Display": "<a class=\"noUnd\" href=\"oneplus_10_pro_review-review-2401p3.php#dt\">780 nits max brightness (measured)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=11234&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=11234&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"\">-25.2 LUFS (Very good)</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 11234); \">Endurance rating 107h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-10-pro-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-10-pro-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-10-pro-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-10-pro-extreme-edition.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oneplus_10_pro-pictures-11234.php"
+    }
+  }
+}

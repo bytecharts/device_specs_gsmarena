@@ -1,0 +1,121 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "OnePlus 8",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-8-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-8.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/oneplus_8-review-2103.php",
+    "siblingDeviceSlugs": [
+      "oneplus_8_pro-9919",
+      "oneplus_8t-10420",
+      "oneplus_9-10747",
+      "oneplus_nord-10289",
+      "oneplus_7_pro-9689",
+      "google_pixel_7-11903",
+      "oneplus_15_5g-14206",
+      "oneplus_n6-14760",
+      "oneplus_nord_6_5g-14558",
+      "oneplus_15r_5g-14358",
+      "oneplus_13-13477",
+      "oneplus_nord_ce6_5g-14611"
+    ],
+    "release_date": "Released 2020, April 21",
+    "dimensions": "180g, 8mm thickness",
+    "os": "Android 10, up to Android 13, OxygenOS 13",
+    "storage": "128GB/256GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1800 / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 32, 34, 38, 39, 40, 41, 42, 46, 66 - EU",
+        "5G bands": "1, 3, 7, 28, 78 SA/NSA - EU",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE (5CA) Cat18 1200/150 Mbps, 5G 7.5 Gbps DL",
+        "Features": "CDMA 800 / 1900 &amp; TD-SCDMA\n1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 29, 30, 34, 38, 39, 40, 41, 46, 48, 66, 71 - NA\n1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 26, 34, 38, 39, 40, 41, 46 - IN\n1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 26, 34, 38, 39, 40, 41 - CN\n2, 5, 41, 66, 71 SA/NSA - NA\n78 SA/NSA - IN\n41, 78, 79 SA/NSA - CN"
+      },
+      "Launch": {
+        "Announced": "2020, April 14",
+        "Status": "Available. Released 2020, April 21"
+      },
+      "Body": {
+        "Dimensions": "160.2 x 72.9 x 8 mm (6.31 x 2.87 x 0.31 in)",
+        "Weight": "180 g (6.35 oz)",
+        "Build": "Glass front (Gorilla Glass 5), glass back (Gorilla Glass 5), aluminum frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "Fluid AMOLED, 90Hz, HDR10+",
+        "Size": "6.55 inches, 103.6 cm<sup>2</sup> (~88.7% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~402 ppi density)",
+        "Protection": "Corning Gorilla Glass 5"
+      },
+      "Platform": {
+        "OS": "Android 10, upgradable to Android 13, OxygenOS 13",
+        "Chipset": "Qualcomm SM8250 Snapdragon 865 5G (7 nm+)",
+        "CPU": "Octa-core (1x2.84 GHz Cortex-A77 &amp; 3x2.42 GHz Cortex-A77 &amp; 4x1.80 GHz Cortex-A55)",
+        "GPU": "Adreno 650"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 6GB RAM, 128GB 8GB RAM, 256GB 12GB RAM",
+        "Features": "UFS 3.0, 2-LANE"
+      },
+      "Main Camera": {
+        "Triple": "48 MP, f/1.8, 26mm (wide), 1/2.0\", 0.8µm, PDAF, OIS\n\n16 MP, f/2.2, 14mm, 116˚ (ultrawide), 1/3.6\", 1.0µm\n\n2 MP (macro)",
+        "Features": "Dual-LED flash, HDR, panorama",
+        "Video": "4K@30/60fps, 1080p@30/60/240fps, Auto HDR, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "16 MP, f/2.4, (wide), 1/3.06\", 1.0µm",
+        "Features": "HDR",
+        "Video": "1080p@30fps, gyro-EIS"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct, DLNA",
+        "Bluetooth": "5.1, A2DP, LE, aptX HD",
+        "Positioning": "GPS (L1+L5), GLONASS (G1), BDS (B1), GALILEO (E1+E5a)",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 3.1, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Po 4300 mAh",
+        "Charging": "30W wired, 50% in 22 min"
+      },
+      "Misc": {
+        "Colors": "Onyx Black, Glacial Green, Interstellar Glow, Polar Silver",
+        "Models": "IN2013, IN2017, IN2010, IN2019, IN2011",
+        "Price": "About 840 EUR"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 564708 (v8)\n\nGeekBench: 13291 (v4.4), 3399 (v5.1)\n\nGFXBench: 46fps (ES 3.1 onscreen)",
+        "Display": "<a class=\"noUnd\" href=\"oneplus_8-review-2103p3.php\">803 nits max brightness (measured)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=10161&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=10161&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"oneplus_8-review-2103p3.php#lt\">-22.5 LUFS (Excellent)</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 10161); \">Endurance rating 108h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-8-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-8-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-8-polar-silver.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oneplus_8-pictures-10161.php"
+    }
+  }
+}

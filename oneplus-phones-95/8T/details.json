@@ -1,0 +1,108 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "OnePlus 8T",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-8t-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-8t.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/oneplus_8t-review-2183.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2020, October 16",
+    "dimensions": "188g, 8.4mm thickness",
+    "os": "Android 11, up to Android 14, OxygenOS 14",
+    "storage": "128GB/256GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1800 / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 32, 34, 38, 39, 40, 41, 42, 66 - EU",
+        "5G bands": "1, 3, 7, 28, 41, 78 SA/NSA - EU",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE (5CA) Cat18 1200/200 Mbps, 5G 7.5 Gbps DL",
+        "Features": "CDMA 800 / 1900 &amp; TD-SCDMA\n1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 29, 30, 34, 38, 39, 40, 41, 46, 48, 66, 71 - NA\n1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 26, 34, 38, 39, 40, 41, 46 - IN\n1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 26, 34, 38, 39, 40, 41 - CN\n1, 2, 3, 5, 25, 41, 66, 71 SA/NSA - NA\n1, 3, 78 SA/NSA - IN\n41, 78, 79 SA/NSA - CN"
+      },
+      "Launch": {
+        "Announced": "2020, October 14",
+        "Status": "Available. Released 2020, October 16"
+      },
+      "Body": {
+        "Dimensions": "160.7 x 74.1 x 8.4 mm (6.33 x 2.92 x 0.33 in)",
+        "Weight": "188 g (6.63 oz)",
+        "Build": "Glass front (Gorilla Glass 5), glass back (Gorilla Glass 5), aluminum frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "Fluid AMOLED, 120Hz, HDR10+",
+        "Size": "6.55 inches, 103.6 cm<sup>2</sup> (~87.0% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~402 ppi density)",
+        "Protection": "Corning Gorilla Glass 5"
+      },
+      "Platform": {
+        "OS": "Android 11, upgradable to Android 14, OxygenOS 14",
+        "Chipset": "Qualcomm SM8250 Snapdragon 865 5G (7 nm+)",
+        "CPU": "Octa-core (1x2.84 GHz Cortex-A77 &amp; 3x2.42 GHz Cortex-A77 &amp; 4x1.80 GHz Cortex-A55)",
+        "GPU": "Adreno 650"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 8GB RAM, 256GB 12GB RAM",
+        "Features": "UFS 3.1"
+      },
+      "Main Camera": {
+        "Quad": "48 MP, f/1.7, 26mm (wide), 1/2.0\", 0.8µm, PDAF, OIS\n\n16 MP, f/2.2, 14mm, 123˚ (ultrawide), 1/3.6\", 1.0µm\n\n5 MP (macro)\n\n2 MP, f/2.4, (monochrome)",
+        "Features": "Dual-LED flash, HDR, panorama",
+        "Video": "4K@30/60fps, 1080p@30/60/240fps, Auto HDR, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "16 MP, f/2.4, (wide), 1/3.06\", 1.0µm",
+        "Features": "HDR",
+        "Video": "1080p@30fps, gyro-EIS"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct, DLNA",
+        "Bluetooth": "5.1, A2DP, LE, aptX HD",
+        "Positioning": "GPS (L1+L5), GLONASS (G1), BDS (B1), GALILEO (E1+E5a)",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 3.1, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, barometer (market dependant)"
+      },
+      "Battery": {
+        "Type": "Li-Po 4500 mAh",
+        "Charging": "65W wired, 100% in 39 min"
+      },
+      "Misc": {
+        "Colors": "Aquamarine Green, Lunar Silver, Cyberpunk 2077 Edition",
+        "Models": "KB2001, KB2000, KB2003, KB2005",
+        "Price": "About 200 EUR"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 586000 (v8)\n\nGeekBench: 3126 (v5.1)\n\nGFXBench: 46fps (ES 3.1 onscreen)",
+        "Display": "<a class=\"noUnd\" href=\"oneplus_8t-review-2183p3.php#dt\">802 nits max brightness (measured)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=10420&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=10420&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"oneplus_8t-review-2183p3.php#lt\">-24.0 LUFS (Very good)</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 10420); \">Endurance rating 104h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-8t-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-8t-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-8t-lunar.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oneplus_8t-pictures-10420.php"
+    }
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "OnePlus 7",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-7-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-7--.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/oneplus_7-review-1954.php",
+    "siblingDeviceSlugs": [
+      "oneplus_7_pro-9689",
+      "oneplus_7t-9816",
+      "oneplus_6t-9350",
+      "oneplus_6-9109",
+      "oneplus_8-10161",
+      "oneplus_nord-10289",
+      "oneplus_15_5g-14206",
+      "oneplus_n6-14760",
+      "oneplus_nord_6_5g-14558",
+      "oneplus_15r_5g-14358",
+      "oneplus_13-13477",
+      "oneplus_nord_ce6_5g-14611"
+    ],
+    "release_date": "Released 2019, June 04",
+    "dimensions": "182g, 8.2mm thickness",
+    "os": "Android 9.0, up to Android 12, OxygenOS 12.1",
+    "storage": "128GB/256GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1800 / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 26, 28, 29, 32, 34, 38, 39, 40, 41",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE (5CA) Cat16 1024/150 Mbps",
+        "Features": "CDMA 800 / 1900 &amp; TD-SCDMA"
+      },
+      "Launch": {
+        "Announced": "2019, May 14. Released 2019, June 04",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "157.7 x 74.8 x 8.2 mm (6.21 x 2.94 x 0.32 in)",
+        "Weight": "182 g (6.42 oz)",
+        "Build": "Glass front (Gorilla Glass 6), glass back (Gorilla Glass 5), aluminum frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "Optic AMOLED, HDR10",
+        "Size": "6.41 inches, 100.9 cm<sup>2</sup> (~85.5% screen-to-body ratio)",
+        "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~402 ppi density)",
+        "Protection": "Corning Gorilla Glass 6"
+      },
+      "Platform": {
+        "OS": "Android 9.0 (Pie), upgradable to Android 12, OxygenOS 12.1",
+        "Chipset": "Qualcomm SM8150 Snapdragon 855 (7 nm)",
+        "CPU": "Octa-core (1x2.84 GHz Kryo 485 &amp; 3x2.42 GHz Kryo 485 &amp; 4x1.78 GHz Kryo 485)",
+        "GPU": "Adreno 640"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 6GB RAM, 256GB 8GB RAM, 256GB 12GB RAM",
+        "Features": "UFS 3.0"
+      },
+      "Main Camera": {
+        "Dual": "48 MP, f/1.7, (wide), 1/2.0\", 0.8µm, PDAF, OIS\n\nAuxiliary lens",
+        "Features": "Dual-LED flash, HDR, panorama",
+        "Video": "4K@30/60fps, 1080p@30/60/240fps, 720p@480fps, Auto HDR, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "16 MP, f/2.0, 25mm (wide), 1/3.06\", 1.0µm",
+        "Features": "HDR",
+        "Video": "1080p@30fps, gyro-EIS"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA",
+        "Bluetooth": "5.0, A2DP, LE, aptX HD",
+        "Positioning": "GPS (L1+L5), GLONASS (G1), BDS (B1), GALILEO (E1+E5a)",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 3.1, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Po 3700 mAh, non-removable",
+        "Charging": "20W wired"
+      },
+      "Misc": {
+        "Colors": "Mirror Gray, Red, Mirror Blue",
+        "Models": "GM1901, GM1900, GM1905, GM1903",
+        "Price": "About 400 EUR"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 367812 (v7)\n\nGeekBench: 11075 (v4.4)\n\nGFXBench: 36fps (ES 3.1 onscreen)",
+        "Display": "<a class=\"noUnd\" href=\"oneplus_7-review-1954p3.php#dt\">642 nits max brightness (measured)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=9623&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=9623&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"oneplus_7-review-1954p3.php#lt\">Voice 68dB / Noise 73dB / Ring 82dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 9623); \">Endurance rating 102h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-7-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oneplus_7-pictures-9623.php"
+    }
+  }
+}

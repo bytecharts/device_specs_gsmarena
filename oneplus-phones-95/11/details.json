@@ -1,0 +1,115 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "OnePlus 11",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-11-2.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-11.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/oneplus_11-review-2524.php",
+    "siblingDeviceSlugs": [
+      "oneplus_11r-11915"
+    ],
+    "release_date": "Released 2023, January 09",
+    "dimensions": "205g, 8.5mm thickness",
+    "os": "Android 13, up to 16, OxygenOS 16, ColorOS 16",
+    "storage": "128GB/256GB/512GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / EVDO / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 30, 32, 38, 39, 41, 40, 46, 48, 66, 71 - International",
+        "5G bands": "1, 2, 3, 5, 7, 8, 20, 25, 28, 30, 38, 40, 41, 66, 71, 75, 77, 78 SA/NSA - International",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "CDMA 800\nCDMA2000 1xEV-DO\n1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 26, 28, 34, 38, 39, 40, 41, 66 - China\n1, 3, 5, 7, 8, 20, 28, 38, 40, 41, 66, 77, 78 SA/NSA - China"
+      },
+      "Launch": {
+        "Announced": "2023, January 04",
+        "Status": "Available. Released 2023, January 09"
+      },
+      "Body": {
+        "Dimensions": "163.1 x 74.1 x 8.5 mm (6.42 x 2.92 x 0.33 in)",
+        "Weight": "205 g (7.23 oz)",
+        "Build": "Glass front (Gorilla Glass Victus), glass back (Gorilla Glass 5), aluminum frame",
+        "SIM": "· Nano-SIM\n· Nano-SIM + Nano-SIM + <a href=\"glossary.php3?term=esim\">eSIM</a> (max 2 at a time)",
+        "Features": "IP64 dust tight and water resistant (water splashes)"
+      },
+      "Display": {
+        "Type": "LTPO3 Fluid AMOLED, 1B colors, 120Hz, Dolby Vision, HDR10+, 500 nits (typ), 800 nits (HBM), 1300 nits (peak)",
+        "Size": "6.7 inches, 108.4 cm<sup>2</sup> (~89.7% screen-to-body ratio)",
+        "Resolution": "1440 x 3216 pixels, 20:9 ratio (~525 ppi density)",
+        "Protection": "Corning Gorilla Glass Victus"
+      },
+      "Platform": {
+        "OS": "Android 13, upgradable to Android 16, OxygenOS 16 (International), ColorOS 16 (China)",
+        "Chipset": "Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm)",
+        "CPU": "Octa-core (1x3.2 GHz Cortex-X3 &amp; 2x2.8 GHz Cortex-A715 &amp; 2x2.8 GHz Cortex-A710 &amp; 3x2.0 GHz Cortex-A510)",
+        "GPU": "Adreno 740"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 8GB RAM, 256GB 12GB RAM, 256GB 16GB RAM, 512GB 16GB RAM",
+        "Features": "UFS 3.1 - 128GB only\n\nUFS 4.0"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, f/1.8, 24mm (wide), 1/1.56\", 1.0µm, multi-directional PDAF, OIS\n\n32 MP, f/2.0, 48mm (telephoto), 1/2.74\", PDAF, 2x optical zoom\n\n48 MP, f/2.2, 115˚, (ultrawide), 1/2.0\", AF",
+        "Features": "Hasselblad Color Calibration, color spectrum sensor, Dual-LED flash, HDR, panorama",
+        "Video": "8K@24fps, 4K@30/60fps, 1080p@30/60/240fps, Auto HDR, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "16 MP, f/2.5, 25mm (wide), 1.0µm",
+        "Features": "HDR, panorama",
+        "Video": "1080p@30fps, gyro-EIS"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No",
+        "Features": "24-bit/192kHz Hi-Res audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.3, A2DP, LE, aptX HD",
+        "Positioning": "GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5)",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Po 5000 mAh",
+        "Charging": "100W wired, PD, 50% in 10 min, 100% in 25 min - International\n\n80W wired, PD - USA"
+      },
+      "Misc": {
+        "Colors": "Titan Black, Eternal Green, Jupiter Rock",
+        "Models": "PHB110, CPH2449, CPH2447, CPH2451",
+        "SAR": "1.19 W/kg (head) &nbsp; &nbsp; 0.99 W/kg (body) &nbsp; &nbsp;",
+        "Price": "<a href=\"oneplus_11-price-11893.php\">₹ 39,990 / $ 424.95 / € 436.11</a>"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 1140661 (v9)\n\nGeekBench: 4899 (v5.1)\n\nGFXBench: 57fps (ES 3.1 onscreen)",
+        "Display": "<a class=\"noUnd\" href=\"https://www.gsmarena.com/oneplus_11-review-2524p3.php\">767 nits max brightness (measured)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=11893&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=11893&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"https://www.gsmarena.com/oneplus_11-review-2524p3.php#lit\">-25.2 LUFS (Very good)</a>",
+        "Battery": "<div style=\"position:relative;\">\n<a href=\"https://www.gsmarena.com/oneplus_11-review-2524p3.php#bl\" data-battery2=\"30:12_9:29_14:23_6:26\" onclick=\"showBatteryPopup(event, 11893); \" class=\"v2\">Active use score 11:05h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 11893); \">Endurance rating 108h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-11-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-11-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-11-4.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-11-5.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oneplus_11-pictures-11893.php"
+    }
+  }
+}

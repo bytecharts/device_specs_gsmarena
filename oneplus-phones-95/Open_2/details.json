@@ -1,0 +1,96 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "OnePlus Open 2",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-open-10.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-open-10.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "oneplus_open-12619"
+    ],
+    "release_date": "Cancelled",
+    "dimensions": "",
+    "os": "Android 15, OxygenOS 15",
+    "storage": "512GB/1TB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "LTE",
+        "5G bands": "SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "Not announced yet",
+        "Status": "Cancelled"
+      },
+      "Body": {
+        "Dimensions": "Folded thickness: 10 mm",
+        "Weight": "-",
+        "SIM": "Nano-SIM + Nano-SIM + <a href=\"glossary.php3?term=esim\">eSIM</a> (max 2 at a time)",
+        "Features": "IPX8 water resistant (up to 1.5m for 30 min)"
+      },
+      "Display": {
+        "Type": "Foldable LTPO3 Flexi-fluid AMOLED, 1B colors, Dolby Vision, 120Hz",
+        "Size": "8.0 inches, 205.9 cm<sup>2</sup>",
+        "Resolution": "2268 x 2440 pixels* (~416 ppi density)",
+        "Features": "Cover display:\n\nLTPO3 Super Fluid OLED, 1B colors, Dolby Vision, 120Hz\n\n6.4 inches, 1116 x 2484 pixels*, Ceramic Guard\n\n* the final display resolutions are not specified"
+      },
+      "Platform": {
+        "OS": "Android 15, OxygenOS 15",
+        "Chipset": "Qualcomm SM8750-AB Snapdragon 8 Elite (3 nm)",
+        "CPU": "Octa-core (2x4.32 GHz Oryon V2 Phoenix L + 6x3.53 GHz Oryon V2 Phoenix M)",
+        "GPU": "Adreno 830"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "512GB 16GB RAM, 1TB 16GB RAM",
+        "Features": "UFS 4.0"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, (wide), PDAF, OIS\n\n50 MP, (telephoto), PDAF, OIS, 3x optical zoom\n\n50 MP, (ultrawide), PDAF",
+        "Features": "Hasselblad Color Calibration, LED flash, HDR, panorama",
+        "Video": "4K@30/60fps, 1080p@30/60/120/240/480fps gyro-EIS, HDR10+, Dolby Vision"
+      },
+      "Selfie camera": {
+        "Single": "20MP, f/2.2, 20mm (ultrawide), 1/4.0\", 0.7µm\n\nCover camera:\n\n32MP, f/2.4, 22mm (ultrawide), 1/3.14\", 0.7µm",
+        "Features": "HDR",
+        "Video": "4K@30fps, 1080p@30fps, gyro-EIS"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers (Dolby Atmos enhanced)",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band",
+        "Bluetooth": "5.4, A2DP, LE, aptX HD",
+        "Positioning": "GPS (L1+L5), GLONASS, BDS, GALILEO (E1+E5a), QZSS",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 3.1, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Si/C Li-Ion 5900 mAh",
+        "Charging": "80W wired\n\n50W wireless\n\nReverse wired"
+      },
+      "Misc": {
+        "Colors": "Black; other colors"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oneplus_open_2-pictures-13597.php"
+    }
+  }
+}

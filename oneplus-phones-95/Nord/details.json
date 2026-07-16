@@ -1,0 +1,113 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "OnePlus Nord",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-nord-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-nord.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/oneplus_nord-review-2146.php",
+    "siblingDeviceSlugs": [
+      "oneplus_nord_6_5g-14558",
+      "oneplus_nord_ce_5g-10944",
+      "oneplus_nord_2_5g-10960",
+      "oneplus_nord_ce6_5g-14611"
+    ],
+    "release_date": "Released 2020, August 04",
+    "dimensions": "184g, 8.2mm thickness",
+    "os": "Android 10, up to Android 12, OxygenOS 12",
+    "storage": "64GB/128GB/256GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1800 / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 26, 28, 32, 34, 38, 39, 40, 41, 66 - Europe",
+        "5G bands": "1, 3, 7, 28, 78 SA/NSA - Europe",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat18 1200/150 Mbps, 5G",
+        "Features": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 26, 38, 39, 40, 41, 46 - India\n78 SA/NSA - India"
+      },
+      "Launch": {
+        "Announced": "2020, July 21",
+        "Status": "Available. Released 2020, August 04"
+      },
+      "Body": {
+        "Dimensions": "158.3 x 73.3 x 8.2 mm (6.23 x 2.89 x 0.32 in)",
+        "Weight": "184 g (6.49 oz)",
+        "Build": "Glass front (Gorilla Glass 5), glass back (Gorilla Glass 5), plastic frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "Fluid AMOLED, 90Hz, HDR10+",
+        "Size": "6.44 inches, 100.6 cm<sup>2</sup> (~86.7% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~408 ppi density)",
+        "Protection": "Corning Gorilla Glass 5"
+      },
+      "Platform": {
+        "OS": "Android 10, upgradable to Android 12, OxygenOS 12",
+        "Chipset": "Qualcomm SM7250 Snapdragon 765G 5G (7 nm)",
+        "CPU": "Octa-core (1x2.4 GHz Kryo 475 Prime &amp; 1x2.2 GHz Kryo 475 Gold &amp; 6x1.8 GHz Kryo 475 Silver)",
+        "GPU": "Adreno 620"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "64GB 6GB RAM, 128GB 8GB RAM, 256GB 12GB RAM",
+        "Features": "UFS 2.1"
+      },
+      "Main Camera": {
+        "Quad": "48 MP, f/1.8, 26mm (wide), 1/2.0\", 0.8µm, PDAF, OIS\n\n8 MP, f/2.3, 119˚ (ultrawide)\n\n2 MP (macro)\n\nAuxiliary lens",
+        "Features": "Dual-LED flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@30/60/240fps, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Dual": "32 MP, f/2.5, (wide), 1/2.8\", 0.8µm\n\n8 MP, f/2.5, 105˚ (ultrawide), 1/4.0\", 1.12µm",
+        "Features": "HDR",
+        "Video": "4K@30/60fps, 1080p@30/60fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.1, A2DP, LE, aptX HD",
+        "Positioning": "GPS (L1+L5), GLONASS (G1), BDS (B1), GALILEO (E1+E5a), NavIC",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Po 4115 mAh",
+        "Charging": "30W wired, 70% in 30 min"
+      },
+      "Misc": {
+        "Colors": "Blue Marble, Gray Onyx (Gray Ash)",
+        "Models": "AC2001, AC2003",
+        "Price": "<a href=\"oneplus_nord-price-10289.php\">₹ 44,999 / £ 177.99 / € 183.04</a>"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 315641 (v8)\n\nGeekBench: 7844 (v4.4), 1953 (v5.1)\n\nGFXBench: 19fps (ES 3.1 onscreen)",
+        "Display": "<a class=\"noUnd\" href=\"oneplus_nord-review-2146p3.php#dt\">756 nits max brightness (measured)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=10289&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=10289&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"oneplus_nord-review-2146p3.php#lt\">-29.6 LUFS (Average)</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 10289); \">Endurance rating 100h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-nord-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-nord-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-nord-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oneplus_nord-pictures-10289.php"
+    }
+  }
+}

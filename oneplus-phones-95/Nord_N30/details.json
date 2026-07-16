@@ -1,0 +1,107 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "OnePlus Nord N30",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-nord-n30-5g-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-nord-n30-5g.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/oneplus_nord_n30_5g-review-2580.php",
+    "siblingDeviceSlugs": [
+      "oneplus_nord_n30_se-12811"
+    ],
+    "release_date": "Released 2023, June 08",
+    "dimensions": "195g, 8.3mm thickness",
+    "os": "Android 13, OxygenOS 13.1",
+    "storage": "128GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "LTE",
+        "5G bands": "SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2023, June 06",
+        "Status": "Available. Released 2023, June 08"
+      },
+      "Body": {
+        "Dimensions": "165.5 x 76 x 8.3 mm (6.52 x 2.99 x 0.33 in)",
+        "Weight": "195 g (6.88 oz)",
+        "Build": "Glass front, plastic frame, plastic back",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD, 120Hz",
+        "Size": "6.72 inches, 109.6 cm<sup>2</sup> (~87.1% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~391 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 13, OxygenOS 13.1",
+        "Chipset": "Qualcomm SM6375 Snapdragon 695 5G (6 nm)",
+        "CPU": "Octa-core (2x2.2 GHz Kryo 660 Gold &amp; 6x1.7 GHz Kryo 660 Silver)",
+        "GPU": "Adreno 619"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (uses shared SIM slot)",
+        "Internal": "128GB 8GB RAM",
+        "Features": "UFS 2.2"
+      },
+      "Main Camera": {
+        "Triple": "108 MP, f/1.7, (wide), 1/1.67\", 0.64µm, PDAF\n\n2 MP (macro)\n\nAuxiliary lens",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "16 MP, f/2.4, (wide), 1.0µm",
+        "Features": "HDR, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.1, A2DP, LE",
+        "Positioning": "GPS, GALILEO, GLONASS, BDS, QZSS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Po 5000 mAh",
+        "Charging": "50W wired"
+      },
+      "Misc": {
+        "Colors": "Chromatic Gray",
+        "Models": "CPH2515, CPH2513",
+        "Price": "<a href=\"oneplus_nord_n30-price-12220.php\">$ 118.91</a>"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 404120 (v9)\n\nGeekBench: 2032 (v5.1), 2121(v6)\n\nGFXBench: 16fps (ES 3.1 onscreen)",
+        "Display": "<a class=\"noUnd\" href=\"oneplus_nord_n30_5g-review-2580p3.php#dt\">1172:1 contrast ratio, 671 nits max brightness (measured)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=12220&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=12220&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"oneplus_nord_n30_5g-review-2580p3.php#lt\">-25.3 LUFS (Very good)</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 12220); \">Endurance rating 119h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-nord-n30-5g-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-nord-n30-5g-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oneplus_nord_n30-pictures-12220.php"
+    }
+  }
+}

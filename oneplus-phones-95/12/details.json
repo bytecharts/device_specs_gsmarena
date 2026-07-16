@@ -1,0 +1,114 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "OnePlus 12",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-12-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-12.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/oneplus_12-review-2659.php",
+    "siblingDeviceSlugs": [
+      "oneplus_12r-12727"
+    ],
+    "release_date": "Released 2023, December 11",
+    "dimensions": "220g, 9.2mm thickness",
+    "os": "Android 14, up to 4 major upgrades",
+    "storage": "256GB/512GB/1TB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / CDMA2000 / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - International",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 30, 32, 38, 39, 40, 41, 48, 66, 71 - International",
+        "5G bands": "1, 2, 3, 5, 7, 8, 12, 20, 25, 28, 30, 38, 40, 41, 66, 71, 77, 78 SA/NSA - International",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "CDMA 800\nHSDPA 850 / 900 / 1700(AWS) / 2100 - India, China\nCDMA2000 1x\n1, 3, 4, 5, 7, 8, 18, 19, 20, 26, 28, 34, 38, 39, 40, 41, 66 - India, China\n1, 3, 5, 7, 8, 20, 28, 38, 40, 41, 66, 77, 78 SA/NSA - India, China"
+      },
+      "Launch": {
+        "Announced": "2023, December 05",
+        "Status": "Available. Released 2023, December 11"
+      },
+      "Body": {
+        "Dimensions": "164.3 x 75.8 x 9.2 mm (6.47 x 2.98 x 0.36 in)",
+        "Weight": "220 g (7.76 oz)",
+        "Build": "Glass front (Gorilla Glass Victus 2), glass back (Gorilla Glass), aluminum frame",
+        "SIM": "· Nano-SIM\n· Nano-SIM + Nano-SIM + <a href=\"glossary.php3?term=esim\">eSIM</a> (max 2 at a time)\n· Nano-SIM + Nano-SIM",
+        "Features": "IP65 dust tight and water resistant (low pressure water jets)"
+      },
+      "Display": {
+        "Type": "LTPO AMOLED, 1B colors, 120Hz, 2160Hz PWM, Dolby Vision, HDR10+, 600 nits (typ), 1600 nits (HBM), 4500 nits (peak)",
+        "Size": "6.82 inches, 113.0 cm<sup>2</sup> (~90.8% screen-to-body ratio)",
+        "Resolution": "1440 x 3168 pixels (~510 ppi density)",
+        "Protection": "Corning Gorilla Glass Victus 2"
+      },
+      "Platform": {
+        "OS": "Android 14, up to 4 major Android upgrades, OxygenOS 16 (International), ColorOS 16 (China)",
+        "Chipset": "Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm)",
+        "CPU": "Octa-core (1x3.3 GHz Cortex-X4 &amp; 3x3.2 GHz Cortex-A720 &amp; 2x3.0 GHz Cortex-A720 &amp; 2x2.3 GHz Cortex-A520)",
+        "GPU": "Adreno 750"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 12GB RAM, 256GB 16GB RAM, 512GB 16GB RAM, 1TB 16GB RAM, 1TB 24GB RAM",
+        "Features": "UFS 4.0"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, f/1.6, 23mm (wide), 1/1.43\", 1.12µm, multi-directional PDAF, OIS\n\n64 MP, f/2.6, 70mm (periscope telephoto), 1/2.0\", 0.7µm, PDAF, OIS, 3x optical zoom\n\n48 MP, f/2.2, 14mm, 114˚ (ultrawide), 1/2.0\", 0.8µm, PDAF",
+        "Features": "Hasselblad Color Calibration, color spectrum sensor, Dual-LED flash, HDR, panorama",
+        "Video": "8K@24fps, 4K@30/60fps, 1080p@30/60/240/480fps, Auto HDR, gyro-EIS, Dolby Vision"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.4, 21mm (wide), 1/2.74\", 0.8µm",
+        "Features": "HDR, panorama",
+        "Video": "4K@30fps, 1080p@30fps, gyro-EIS"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No",
+        "Features": "24-bit/192kHz Hi-Res audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct",
+        "Bluetooth": "5.4, A2DP, LE, aptX HD, LHDC",
+        "Positioning": "GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 3.2, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Po 5400 mAh",
+        "Charging": "100W wired, PD, QC, 100% in 26 min (International)\n\n80W wired, PD, QC, 100% in 30 min (USA)\n\n50W wireless, 100% in 55 min\n\n10W reverse wireless"
+      },
+      "Misc": {
+        "Colors": "Flowy Emerald, Silky Black, Silver (Glacial White)",
+        "Models": "PJD110, CPH2573, CPH2581, CPH2583",
+        "SAR": "1.18 W/kg (head) &nbsp; &nbsp; 0.68 W/kg (body) &nbsp; &nbsp;",
+        "Price": "<a href=\"oneplus_12-price-12725.php\">₹ 54,889 / $ 819.99 / £ 1,249.00 / € 588.15</a>"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 1821801 (v10)\n\nGeekBench: 5124 (v6)\n\nGFXBench ES 3.1: 157fps (offscreen 1080p)",
+        "Display": "<a class=\"noUnd\" href=\"oneplus_12-review-2659p3.php#dt\">1155 nits max brightness (measured)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=12725&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=12725&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"oneplus_12-review-2659p3.php#lt\">-26.3 LUFS (Good)</a>",
+        "Battery": "<div style=\"position:relative;\">\n<a href=\"oneplus_12-review-2659p3.php#bt\" data-battery2=\"33:25_14:39_18:37_7:10\" onclick=\"showBatteryPopup(event, 12725); \" class=\"v2\">Active use score 14:11h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-12-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-12-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-12-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oneplus_12-pictures-12725.php"
+    }
+  }
+}

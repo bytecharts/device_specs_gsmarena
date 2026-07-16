@@ -1,0 +1,121 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "OnePlus 5",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-5-midnight-black-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-5.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/oneplus_5-review-1623.php",
+    "siblingDeviceSlugs": [
+      "oneplus_5t-8912",
+      "samsung_galaxy_s23_ultra-12024",
+      "samsung_galaxy_s7_edge-7945",
+      "nokia_8-8522",
+      "oneplus_6-9109",
+      "google_pixel_7_pro-11908",
+      "oneplus_15_5g-14206",
+      "oneplus_n6-14760",
+      "oneplus_nord_6_5g-14558",
+      "oneplus_15r_5g-14358",
+      "oneplus_13-13477",
+      "oneplus_nord_ce6_5g-14611"
+    ],
+    "release_date": "Released 2017, June",
+    "dimensions": "153g, 7.3mm thickness",
+    "os": "Android 7.1.1, up to 10, OxygenOS 10.0.0",
+    "storage": "64GB/128GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 &amp; SIM 2",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 25, 26, 28, 29, 30, 38, 39, 40, 41, 66",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE (3CA) Cat12 600/150 Mbps",
+        "Features": "CDMA 800 &amp; TD-SCDMA"
+      },
+      "Launch": {
+        "Announced": "2017, June. Released 2017, June",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "154.2 x 74.1 x 7.3 mm (6.07 x 2.92 x 0.29 in)",
+        "Weight": "153 g (5.40 oz)",
+        "Build": "Glass front (Gorilla Glass 5), aluminum back, aluminum frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "Optic AMOLED",
+        "Size": "5.5 inches, 83.4 cm<sup>2</sup> (~73.0% screen-to-body ratio)",
+        "Resolution": "1080 x 1920 pixels, 16:9 ratio (~401 ppi density)",
+        "Protection": "Corning Gorilla Glass 5"
+      },
+      "Platform": {
+        "OS": "Android 7.1.1 (Nougat), upgradable to Android 10, OxygenOS 10.0.0",
+        "Chipset": "Qualcomm MSM8998 Snapdragon 835 (10 nm)",
+        "CPU": "Octa-core (4x2.45 GHz Kryo &amp; 4x1.9 GHz Kryo)",
+        "GPU": "Adreno 540"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "64GB 6GB RAM, 128GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Dual": "16 MP, f/1.7, 24mm (wide), 1/2.8\", 1.12µm, PDAF\n\n20 MP, f/2.6, 36mm (standard), 1/2.8\", 1.0µm, 1.6x optical zoom, AF",
+        "Features": "HDR, panorama, dual-LED flash",
+        "Video": "4K@30fps, 1080p@30/60fps, 720p@30/120/480fps, Auto HDR"
+      },
+      "Selfie camera": {
+        "Single": "16 MP, f/2.0, 20mm (wide), 1/3.06\", 1.0µm",
+        "Features": "HDR",
+        "Video": "1080p (gyro-EIS)"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes",
+        "Features": "Dirac HD sound"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, Wi-Fi Direct, DLNA",
+        "Bluetooth": "5.0, A2DP, LE, aptX HD",
+        "Positioning": "GPS, GLONASS, BDS, GALILEO",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (front-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Po 3300 mAh, non-removable",
+        "Charging": "20W wired"
+      },
+      "Misc": {
+        "Colors": "Midnight Black, Slate Gray",
+        "Models": "A5000",
+        "Price": "About 500 EUR"
+      },
+      "Our Tests": {
+        "Performance": "GeekBench: 6604 (v4.4)\n\nGFXBench: 24fps (ES 3.1 onscreen)",
+        "Display": "<a class=\"noUnd\" href=\"oneplus_5-review-1623p3.php\">Contrast ratio: Infinite (nominal), 3.914 (sunlight)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=8647&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=8647&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"oneplus_5-review-1623p6.php\">Voice 69dB / Noise 72dB / Ring 77dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"oneplus_5-review-1623p7.php#aq\">Noise -94.1dB / Crosstalk -94.2dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 8647); \">Endurance rating 83h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-5-midnight-black-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-5-slate-gray-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-5-slate-gray-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oneplus_5-pictures-8647.php"
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "OnePlus One",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-one-02.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-one.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/oneplus_one-review-1101.php",
+    "siblingDeviceSlugs": [
+      "apple_iphone_13_pro_max-11089",
+      "oneplus_2-6902",
+      "oneplus_15_5g-14206",
+      "oneplus_n6-14760",
+      "oneplus_nord_6_5g-14558",
+      "oneplus_15r_5g-14358",
+      "oneplus_13-13477",
+      "oneplus_nord_ce6_5g-14611"
+    ],
+    "release_date": "Released 2014, June",
+    "dimensions": "162g, 8.9mm thickness",
+    "os": "Android 4.4.2, up to 6.0.1",
+    "storage": "16GB/64GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700 / 1900 / 2100",
+        "4G bands": "1, 3, 4, 7, 17, 38, 40",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "Launch": {
+        "Announced": "2014, April. Released 2014, June",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "152.9 x 75.9 x 8.9 mm (6.02 x 2.99 x 0.35 in)",
+        "Weight": "162 g (5.71 oz)",
+        "Build": "Glass front (Gorilla Glass 3), plastic back, plastic frame",
+        "SIM": "Micro-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "5.5 inches, 83.4 cm<sup>2</sup> (~71.9% screen-to-body ratio)",
+        "Resolution": "1080 x 1920 pixels, 16:9 ratio (~401 ppi density)",
+        "Protection": "Corning Gorilla Glass 3",
+        "Features": "CyanogenMod 13\n\nOxygen 2.1.4"
+      },
+      "Platform": {
+        "OS": "Android 4.4.2 (KitKat), upgradable to 6.0.1 (Marshmallow)",
+        "Chipset": "Qualcomm MSM8974AC Snapdragon 801 (28 nm)",
+        "CPU": "Quad-core 2.5 GHz Krait 400",
+        "GPU": "Adreno 330"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "16GB 3GB RAM, 64GB 3GB RAM",
+        "Features": "eMMC 5.0"
+      },
+      "Main Camera": {
+        "Single": "13 MP, f/2.0, 1/3.1\", 1.12µm, AF",
+        "Features": "Dual-LED flash, panorama, HDR",
+        "Video": "4K@30fps, 4K(DCI)@24fps, 1080p@60fps, 720p@120fps, HDR, stereo sound rec."
+      },
+      "Selfie camera": {
+        "Single": "5 MP, f/2.0",
+        "Video": "720p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, dual mono speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, Wi-Fi Direct, DLNA, hotspot",
+        "Bluetooth": "4.1, A2DP",
+        "Positioning": "GPS, GLONASS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "microUSB 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, proximity, compass",
+        "Features": "ANT+"
+      },
+      "Battery": {
+        "Type": "Li-Po 3100 mAh, non-removable"
+      },
+      "Misc": {
+        "Colors": "Silk White, Sandstone Black",
+        "Models": "A0001",
+        "SAR": "0.62 W/kg (head) &nbsp; &nbsp; 0.75 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 250 EUR"
+      },
+      "Our Tests": {
+        "Performance": "Basemark OS II 2.0: 1230\nBasemark X: 13129",
+        "Display": "<a class=\"noUnd\" href=\"oneplus_one-review-1101p3.php\">Contrast ratio: 799 (nominal), 1.961 (sunlight)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=6327&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=6327&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"oneplus_one-review-1101p6.php\">Voice 74dB / Noise 73dB / Ring 80dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"oneplus_one-review-1101p7.php#aq\">Noise -94.1dB / Crosstalk -94.3dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 6327); \">Endurance rating 66h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-one-02.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-one-05.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-one-04.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oneplus_one-pictures-6327.php"
+    }
+  }
+}

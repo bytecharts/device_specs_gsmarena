@@ -1,0 +1,107 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "OnePlus Nord CE4",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-nord-ce4-11.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-nord-ce4-.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/oneplus_nord_ce4_hands_on-review-2686.php",
+    "siblingDeviceSlugs": [
+      "oneplus_nord_ce4_lite-13166"
+    ],
+    "release_date": "Released 2024, April 04",
+    "dimensions": "186g, 8.4mm thickness",
+    "os": "Android 14, up to Android 16, OxygenOS 16",
+    "storage": "128GB/256GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 900 / 2100",
+        "4G bands": "1, 3, 5, 8, 28, 40, 41",
+        "5G bands": "1, 3, 5, 8, 28, 77, 78 SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2024, April 01",
+        "Status": "Available. Released 2024, April 04"
+      },
+      "Body": {
+        "Dimensions": "162.5 x 75.3 x 8.4 mm (6.40 x 2.96 x 0.33 in)",
+        "Weight": "186 g (6.56 oz)",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "IP54 dust protected and water resistant (water splashes)"
+      },
+      "Display": {
+        "Type": "Fluid AMOLED, 1B colors, 120Hz, HDR10+, 900 nits (HBM), 1100 nits (peak)",
+        "Size": "6.7 inches, 108.0 cm<sup>2</sup> (~88.3% screen-to-body ratio)",
+        "Resolution": "1080 x 2412 pixels, 20:9 ratio (~394 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 14, upgradable to Android 16, OxygenOS 16",
+        "Chipset": "Qualcomm SM7550-AB Snapdragon 7 Gen 3 (4 nm)",
+        "CPU": "Octa-core (1x2.63 GHz Cortex-A715 &amp; 4x2.4 GHz Cortex-A715 &amp; 3x1.8 GHz Cortex-A510)",
+        "GPU": "Adreno 720"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (uses shared SIM slot)",
+        "Internal": "128GB 8GB RAM, 256GB 8GB RAM",
+        "Features": "UFS 3.1"
+      },
+      "Main Camera": {
+        "Dual": "50 MP, f/1.8, 26mm (wide), 1/1.95\", 0.8µm, PDAF, OIS\n\n8 MP, f/2.2, 16mm, 112˚ (ultrawide), 1/4.0\", 1.12µm",
+        "Features": "Dual-LED flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@30/60/120fps, gyro-EIS, OIS"
+      },
+      "Selfie camera": {
+        "Single": "16 MP, f/2.4, 26mm (wide), 1/3.0\", 1.0µm",
+        "Features": "Panorama",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No",
+        "Features": "24-bit/192kHz Hi-Res &amp; Hi-Res wireless audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+        "Bluetooth": "5.4, A2DP, LE, aptX HD, LHDC",
+        "Positioning": "GPS, GALILEO, GLONASS, BDS, QZSS",
+        "NFC": "No",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5500 mAh",
+        "Charging": "100W wired, 100% in 29 min"
+      },
+      "Misc": {
+        "Colors": "Celadon Marble, Dark Chrome",
+        "Models": "CPH2613",
+        "SAR": "1.16 W/kg (head) &nbsp; &nbsp; 0.91 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 280 EUR"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 839564 (v10)\n\nGeekBench: 3029 (v6)\n\n3DMark: 1494 (Wild Life Extreme)"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-nord-ce4-11.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-nord-ce4-13.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-nord-ce4-12.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oneplus_nord_ce4-pictures-12892.php"
+    }
+  }
+}

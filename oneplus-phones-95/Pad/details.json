@@ -1,0 +1,107 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "OnePlus Pad",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-pad-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-pad.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/oneplus_pad-review-2563.php",
+    "siblingDeviceSlugs": [
+      "oneplus_pad_2-13210",
+      "oneplus_pad_go_2_5g-14343",
+      "xiaomi_pad_6-12237",
+      "oneplus_pad_go-12614"
+    ],
+    "release_date": "Released 2023, April 28",
+    "dimensions": "552g, 6.5mm thickness",
+    "os": "Android 13, up to Android 15, OxygenOS 15",
+    "storage": "128GB/256GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">No cellular connectivity</a>",
+        "2G bands": "N/A",
+        "3G bands": "N/A",
+        "4G bands": "N/A",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2023, February 07",
+        "Status": "Available. Released 2023, April 28"
+      },
+      "Body": {
+        "Dimensions": "258 x 189.4 x 6.5 mm (10.16 x 7.46 x 0.26 in)",
+        "Weight": "552 g (1.22 lb)",
+        "Build": "Glass front, aluminum back, aluminum frame",
+        "SIM": "No",
+        "Features": "Stylus support"
+      },
+      "Display": {
+        "Type": "IPS LCD, 1B colors, Dolby Vision, HDR10+, 144Hz, 500 nits (typ)",
+        "Size": "11.61 inches, 411.3 cm<sup>2</sup> (~84.2% screen-to-body ratio)",
+        "Resolution": "2000 x 2800 pixels (~296 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 13, upgradable to Android 15, OxygenOS 15",
+        "Chipset": "Mediatek Dimensity 9000 (4 nm)",
+        "CPU": "Octa-core (1x3.05 GHz Cortex-X2 &amp; 3x2.85 GHz Cortex-A710 &amp; 4x1.80 GHz Cortex-A510)",
+        "GPU": "Mali-G710 MC10"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 8GB RAM, 256GB 12GB RAM",
+        "Features": "UFS 3.1"
+      },
+      "Main Camera": {
+        "Single": "13 MP, f/2.2, 23mm (wide)",
+        "Features": "LED flash",
+        "Video": "4K@30fps, 1080p@30ps, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, f/2.3, (wide), 1/4.0\", 1.12µm",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers (4 speakers)",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+        "Bluetooth": "5.3, A2DP, LE, aptX HD",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS (B1+B1c)",
+        "NFC": "No",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG, accessory connector"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, compass"
+      },
+      "Battery": {
+        "Type": "Li-Po 9510 mAh",
+        "Charging": "67W wired"
+      },
+      "Misc": {
+        "Colors": "Halo Green",
+        "Price": "About 500 EUR"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 859019 (v9)\n\nGeekBench: 3158 (v5.1)\n\nGFXBench: 28fps (ES 3.1 onscreen)",
+        "Display": "<a class=\"noUnd\" href=\"oneplus_pad-review-2563.php.php#dt\">1195:1 contrast ratio, 442 nits max brightness (measured)</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"oneplus_pad-review-2563.php#lt\">-22.5 LUFS (Excellent)</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-pad-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-pad-.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oneplus_pad-pictures-12112.php"
+    }
+  }
+}
