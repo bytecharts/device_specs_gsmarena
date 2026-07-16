@@ -1,0 +1,111 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "vivo V25",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-v25-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/vivo-v25-.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/vivo_v25-review-2496.php",
+    "siblingDeviceSlugs": [
+      "vivo_v25e-11833",
+      "vivo_v25_pro-11771"
+    ],
+    "release_date": "Released 2022, September 21",
+    "dimensions": "186g, 7.8mm thickness",
+    "os": "Android 12, Funtouch 12",
+    "storage": "128GB/256GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4G bands": "1, 3, 5, 8, 38, 40, 41",
+        "5G bands": "1, 3, 41, 77, 78 SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2022, August 17",
+        "Status": "Available. Released 2022, September 21"
+      },
+      "Body": {
+        "Dimensions": "159.2 x 74.2 x 7.8 mm (6.27 x 2.92 x 0.31 in)",
+        "Weight": "186 g (6.56 oz)",
+        "Build": "Glass front, glass back",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "Color changing back panel color"
+      },
+      "Display": {
+        "Type": "AMOLED, 90Hz, HDR10+, 1300 nits (peak)",
+        "Size": "6.44 inches, 100.0 cm<sup>2</sup> (~84.7% screen-to-body ratio)",
+        "Resolution": "1080 x 2404 pixels, 20:9 ratio (~409 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 12, Funtouch 12",
+        "Chipset": "Mediatek Dimensity 900 (6 nm)",
+        "CPU": "Octa-core (2x2.4 GHz Cortex-A78 &amp; 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G68 MC4"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (uses shared SIM slot)",
+        "Internal": "128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM"
+      },
+      "Main Camera": {
+        "Triple": "64 MP, f/1.8, (wide), 0.7µm, PDAF, OIS\n\n8 MP, f/2.2, 16mm, 120˚ (ultrawide), 1/4.0\", 1.12µm\n\n2 MP (macro)",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "50 MP, f/2.0, (wide), AF",
+        "Features": "HDR",
+        "Video": "4K@30fps, 1080p@30fps, HDR"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No",
+        "Features": "24-bit/192kHz Hi-Res audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.2, A2DP, LE",
+        "Positioning": "GPS, GLONASS, BDS, GALILEO, QZSS, NavIC",
+        "NFC": "Yes (market/region dependent)",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "4500 mAh",
+        "Charging": "44W wired, 61% in 30 min"
+      },
+      "Misc": {
+        "Colors": "Elegant Black, Sunrise Gold, Surfing Blue",
+        "Models": "V2202",
+        "SAR": "0.94 W/kg (head) &nbsp; &nbsp; 1.24 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 350 EUR"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 461428 (v9)\n\nGeekBench: 2023 (v5.1)\n\nGFXBench: 21fps (ES 3.1 onscreen)",
+        "Display": "<a class=\"noUnd\" href=\"vivo_v25-review-2496p3.php#dt\">781 nits max brightness (measured)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=11772&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=11772&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"vivo_v25-review-2496p3.php#lt\">-28.3 LUFS (Average)</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 11772); \">Endurance rating 120h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-v25-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-x80-lite-0.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-x80-lite-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/vivo_v25-pictures-11772.php"
+    }
+  }
+}

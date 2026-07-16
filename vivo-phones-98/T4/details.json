@@ -1,0 +1,103 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "vivo T4",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-t4-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/vivo-t4.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "vivo_t4_pro_5g-14095",
+      "vivo_t4r_5g-14035",
+      "vivo_t4x-13707"
+    ],
+    "release_date": "Released 2025, April 29",
+    "dimensions": "199g, 7.9mm thickness",
+    "os": "Android 15, up to 2 major upgrades",
+    "storage": "128GB/256GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 2100",
+        "4G bands": "1, 3, 5, 8, 28, 38, 40, 41",
+        "5G bands": "1, 3, 5, 8, 28, 38, 40, 41, 77, 78 SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2025, April 22",
+        "Status": "Available. Released 2025, April 29"
+      },
+      "Body": {
+        "Dimensions": "163.4 x 76.4 x 7.9 mm (6.43 x 3.01 x 0.31 in)",
+        "Weight": "199 g (7.02 oz)",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "IP65 dust tight and water resistant (low pressure water jets)\n\nMIL-STD-810H compliant*\n\n* does not guarantee ruggedness or use in extreme conditions"
+      },
+      "Display": {
+        "Type": "AMOLED, 1B colors, 120Hz, 3840Hz PWM, HDR, 800 nits (typ), 1300 nits (HBM), 5000 nits (peak)",
+        "Size": "6.77 inches, 110.9 cm<sup>2</sup> (~88.8% screen-to-body ratio)",
+        "Resolution": "1080 x 2392 pixels (~388 ppi density)",
+        "Protection": "Shield Glass"
+      },
+      "Platform": {
+        "OS": "Android 15, up to 2 major Android upgrades, Funtouch 15",
+        "Chipset": "Qualcomm SM7635 Snapdragon 7s Gen 3 (4 nm)",
+        "CPU": "Octa-core (1x2.5 GHz Cortex-A720 &amp; 3x2.4 GHz Cortex-A720 &amp; 4x1.8 GHz Cortex-A520)",
+        "GPU": "Adreno 810"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM",
+        "Features": "UFS 2.2"
+      },
+      "Main Camera": {
+        "Dual": "50 MP, f/1.8, (wide), 1/1.95\", 0.8µm, PDAF, OIS\n\nAuxiliary lens",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@30fps, gyro-EIS, OIS"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.0, (wide)",
+        "Video": "4K@30fps, 1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+        "Bluetooth": "5.2, A2DP, LE, aptX HD, aptX Adaptive",
+        "Positioning": "GPS, GALILEO, GLONASS, BDS",
+        "NFC": "No",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Si/C Li-Ion 7300 mAh",
+        "Charging": "90W wired, 55W PPS, 44W UFCS, 50% in 33 min\n\n7.5W reverse wired\n\nBypass Charging"
+      },
+      "Misc": {
+        "Colors": "Emerald Blaze, Phantom Grey",
+        "Models": "V2502",
+        "SAR": "0.99 W/kg (head) &nbsp; &nbsp; 0.87 W/kg (body) &nbsp; &nbsp;",
+        "Price": "<a href=\"vivo_t4_5g-price-13781.php\">₹ 29,999</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-t4-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-t4-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/vivo_t4_5g-pictures-13781.php"
+    }
+  }
+}

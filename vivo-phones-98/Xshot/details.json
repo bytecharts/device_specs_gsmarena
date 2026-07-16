@@ -1,0 +1,103 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "vivo Xshot",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-xshot-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/vivo-xshot.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/vivo_xshot-review-1238.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2014",
+    "dimensions": "148g, 8mm thickness",
+    "os": "Android 4.3",
+    "storage": "16GB/32GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "1, 3, 7",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps, EV-DO Rev.A 3.1 Mbps"
+      },
+      "Launch": {
+        "Announced": "2014. Released 2014",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "146.5 x 73.3 x 8 mm (5.77 x 2.89 x 0.31 in)",
+        "Weight": "148 g (5.22 oz)",
+        "SIM": "Micro-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "5.2 inches, 74.5 cm<sup>2</sup> (~69.4% screen-to-body ratio)",
+        "Resolution": "1080 x 1920 pixels, 16:9 ratio (~424 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 4.3 (Jelly Bean)",
+        "Chipset": "Qualcomm MSM8974AA Snapdragon 801 (28 nm)",
+        "CPU": "Quad-core 2.3 GHz Krait 400",
+        "GPU": "Adreno 330"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "16GB 2GB RAM, 32GB 3GB RAM",
+        "Features": "eMMC 5.0"
+      },
+      "Main Camera": {
+        "Single": "13 MP, AF, OIS",
+        "Features": "Dual-LED flash, panorama, HDR",
+        "Video": "4K@30fps, 1080p@60fps, 720p@120fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP",
+        "Features": "LED flash",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+        "Bluetooth": "4.0, A2DP, EDR",
+        "Positioning": "GPS, GLONASS, BDS",
+        "NFC": "No",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "microUSB 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "2600 mAh, non-removable",
+        "Stand-by": "Up to 430 h (2G) / Up to 430 h (3G)",
+        "Talk time": "Up to 14 h (2G) / Up to 13 h (3G)",
+        "Music play": "Up to 32 h"
+      },
+      "Misc": {
+        "Colors": "White/Black",
+        "Models": "X710L",
+        "SAR": "0.47 W/kg (head) &nbsp; &nbsp; 1.33 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.32 W/kg (head) &nbsp; &nbsp; 0.98 W/kg (body) &nbsp; &nbsp;"
+      },
+      "Our Tests": {
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=6799&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=6799&amp;nSuggest=1\">Video</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-xshot-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-xshot-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/vivo_xshot-pictures-6799.php"
+    }
+  }
+}

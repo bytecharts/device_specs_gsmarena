@@ -1,0 +1,112 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "vivo iQOO 13",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-iqoo-13-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/vivo-iqoo-13.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/iqoo_13-review-2768.php",
+    "siblingDeviceSlugs": [
+      "oneplus_13-13477"
+    ],
+    "release_date": "Released 2024, November 08",
+    "dimensions": "207g or 213g, 8mm thickness",
+    "os": "Android 15, up to 4 major upgrades",
+    "storage": "256GB/512GB/1TB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 18, 19, 20, 26, 28, 38, 40, 41, 42, 66 - International",
+        "5G bands": "1, 3, 5, 7, 8, 20, 28, 38, 40, 41, 77, 78 SA/NSA - International",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "1, 2, 3, 4, 5, 7, 8, 18, 19, 26, 28, 34, 38, 39, 40, 41, 66 - China\n1, 3, 5, 8, 28, 38, 40, 41, 77, 78 SA/NSA - China"
+      },
+      "Launch": {
+        "Announced": "2024, October 30",
+        "Status": "Available. Released 2024, November 08"
+      },
+      "Body": {
+        "Dimensions": "163.4 x 76.7 x 8 mm (6.43 x 3.02 x 0.31 in)",
+        "Weight": "207 g or 213 g (7.30 oz)",
+        "Build": "Glass front, aluminum frame, glass back or glass-fiber reinforced plastic back",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)\n\nRGB LED light on the back"
+      },
+      "Display": {
+        "Type": "LTPO AMOLED, 1B colors, 144Hz, 2592Hz PWM, HDR10+, 800 nits (typ), 1800 nits (HBM), 4500 nits (peak)",
+        "Size": "6.82 inches, 113.0 cm<sup>2</sup> (~90.2% screen-to-body ratio)",
+        "Resolution": "1440 x 3168 pixels (~510 ppi density)",
+        "Protection": "Schott Xensation Alpha"
+      },
+      "Platform": {
+        "OS": "Android 15, up to 4 major Android upgrades, Funtouch 15 (International), OriginOS 5 (China)",
+        "Chipset": "Qualcomm SM8750-AB Snapdragon 8 Elite (3 nm)",
+        "CPU": "Octa-core (2x4.32 GHz Oryon V2 Phoenix L + 6x3.53 GHz Oryon V2 Phoenix M)",
+        "GPU": "Adreno 830"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 12GB RAM, 256GB 16GB RAM, 512GB 12GB RAM, 512GB 16GB RAM, 1TB 16GB RAM",
+        "Features": "UFS 4.0 or UFS 4.1"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, f/1.9, 23mm (wide), 1/1.56\", 1.0µm, PDAF, OIS\n\n50 MP, f/1.9, 50mm (telephoto), 1/2.93\", 0.6µm, PDAF, OIS, 2x optical zoom\n\n50 MP, f/2.0, 15mm (ultrawide), 1/2.76\", 0.64µm, AF",
+        "Features": "Color spectrum sensor, Dual-LED flash, HDR, panorama",
+        "Video": "8K@30fps, 4K@24/30/60fps, 1080p@30/60/120/240fps, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.5, 28mm (wide), 1/3.15\", 0.7µm",
+        "Features": "HDR",
+        "Video": "4K@30/60fps, 1080p@30/60fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No",
+        "Features": "24-bit/192kHz Hi-Res audio\n\nSnapdragon Sound"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.4, A2DP, LE, aptX HD, aptX Adaptive, aptX Lossless, LHDC 5",
+        "Positioning": "GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5)",
+        "NFC": "Yes, 360˚",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 3.2, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Market-dependent versions:\n· Si/C Li-Ion 6150 mAh (Global)\n· 6000 mAh (India only)",
+        "Charging": "120W wired, PPS, 100% in 30 min"
+      },
+      "Misc": {
+        "Colors": "Alpha (Black), Nardo Gray (Silver), White (BMW M branding), Ace Green",
+        "Models": "V2408A, I2401",
+        "Price": "About 590 EUR"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 2791585 (v10)\n\nGeekBench: 9522 (v6)\n\n3DMark: 6368 (Wild Life Extreme)",
+        "Display": "<a class=\"noUnd\" href=\"iqoo_13-review-2768p3.php\">1804 nits max brightness (measured)</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"iqoo_13-review-2768p3.php#lt\">-23.8 LUFS (Very good)</a>",
+        "Battery": "<div style=\"position:relative;\">\n<a href=\"iqoo_13-review-2768p3.php#bt\" data-battery2=\"36:47_17:24_20:33_11:02\" onclick=\"showBatteryPopup(event, 13462); \" class=\"v2\">Active use score 18:03h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-iqoo-13-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-iqoo-13-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-iqoo-13-11.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/vivo_iqoo_13-pictures-13462.php"
+    }
+  }
+}

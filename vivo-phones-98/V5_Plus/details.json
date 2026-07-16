@@ -1,0 +1,109 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "vivo V5 Plus",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-v5-plus1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/vivo-v5-plus.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/vivo_v5_plus-review-1570.php",
+    "siblingDeviceSlugs": [
+      "vivo_v5-8430"
+    ],
+    "release_date": "Released 2017, January",
+    "dimensions": "158.6g, 7.3mm thickness",
+    "os": "Android 6, Funtouch 3",
+    "storage": "64GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 &amp; SIM 2",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "1, 3, 5, 7, 8, 40",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2017, January. Released 2017, January",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "152.6 x 74 x 7.3 mm (6.01 x 2.91 x 0.29 in)",
+        "Weight": "158.6 g (5.61 oz)",
+        "Build": "Glass front (Gorilla Glass 5), aluminum back, aluminum frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "5.5 inches, 83.4 cm<sup>2</sup> (~73.8% screen-to-body ratio)",
+        "Resolution": "1080 x 1920 pixels, 16:9 ratio (~401 ppi density)",
+        "Protection": "Corning Gorilla Glass 5"
+      },
+      "Platform": {
+        "OS": "Android 6 (Marshmallow), Funtouch 3",
+        "Chipset": "Qualcomm MSM8953 Snapdragon 625 (14 nm)",
+        "CPU": "Octa-core 2.0 GHz Cortex-A53",
+        "GPU": "Adreno 506"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "64GB 4GB RAM",
+        "Features": "eMMC 5.1"
+      },
+      "Main Camera": {
+        "Single": "16 MP, f/2.0, PDAF",
+        "Features": "LED flash, panorama, HDR",
+        "Video": "4K@30fps, 1080p@30fps"
+      },
+      "Selfie camera": {
+        "Dual": "20 MP, f/2.0, (wide), 1/2.8\", 1.0µm\n\n8 MP",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes",
+        "Features": "32-bit/192kHz audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA",
+        "Bluetooth": "4.0, A2DP",
+        "Positioning": "GPS, GLONASS, BDS",
+        "NFC": "No",
+        "Radio": "No",
+        "USB": "microUSB 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (front-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Ion 3160 mAh, non-removable",
+        "Charging": "10W wired"
+      },
+      "Misc": {
+        "Colors": "Gold, Gray",
+        "Models": "1611",
+        "Price": "About 450 EUR"
+      },
+      "Our Tests": {
+        "Performance": "GFXBench: 3.4fps (ES 3.1 onscreen)",
+        "Display": "<a class=\"noUnd\" href=\"vivo_v5_plus-review-1570p3.php\">Contrast ratio: 1365 (nominal), 2.371 (sunlight)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=8528&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=8528&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"vivo_v5_plus-review-1570p7.php\">Voice 65dB / Noise 73dB / Ring 80dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"vivo_v5_plus-review-1570p7.php#aq\">Noise -92.0dB / Crosstalk -88.5dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 8528); \">Endurance rating 76h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-v5-plus1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-v5-plus2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-v5-plus3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/vivo_v5_plus-pictures-8528.php"
+    }
+  }
+}

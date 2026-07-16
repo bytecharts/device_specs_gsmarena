@@ -1,0 +1,104 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "OnePlus Pad 3 Pro",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-pad-4-new-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-pad-4-new.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "oneplus_pad_4-14630",
+      "honor_magicpad4-14511",
+      "oppo_pad_5_pro-14621",
+      "xiaomi_pad_8_pro-14183",
+      "motorola_moto_pad_70_pro-14756"
+    ],
+    "release_date": "Released 2026, June 18",
+    "dimensions": "672g, 5.9mm thickness",
+    "os": "Android 16, OxygenOS 16",
+    "storage": "256GB/512GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">No cellular connectivity</a>",
+        "2G bands": "N/A",
+        "3G bands": "N/A",
+        "4G bands": "N/A",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2026, June 18",
+        "Status": "Available. Released 2026, June 18"
+      },
+      "Body": {
+        "Dimensions": "289.7 x 209.8 x 5.9 mm (11.41 x 8.26 x 0.23 in)",
+        "Weight": "672 g (1.48 lb)",
+        "Build": "Glass front, aluminum frame, aluminum back",
+        "SIM": "No",
+        "Features": "Stylus support"
+      },
+      "Display": {
+        "Type": "IPS LCD, 68B colors, 144Hz, Dolby Vision, HDR Vivid, 700 nits (typ), 1000 nits (HBM)",
+        "Size": "13.2 inches, 530.0 cm<sup>2</sup> (~87.2% screen-to-body ratio)",
+        "Resolution": "2400 x 3392 pixels (~315 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 16, OxygenOS 16",
+        "Chipset": "Qualcomm SM8850-AC Snapdragon 8 Elite Gen 5 (3 nm)",
+        "CPU": "Octa-core (2x4.6 GHz Oryon V3 Phoenix L + 6x3.62 GHz Oryon V3 Phoenix M)",
+        "GPU": "Adreno 840"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 12GB RAM, 512GB 12GB RAM, 512GB 16GB RAM",
+        "Features": "UFS 4.1"
+      },
+      "Main Camera": {
+        "Single": "13 MP",
+        "Features": "LED flash",
+        "Video": "4K@30fps, 1080p@30ps, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "8 MP",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers (8 speakers)",
+        "3.5mm jack": "No",
+        "Features": "24-bit/192kHz Hi-Res audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band",
+        "Bluetooth": "6.0, A2DP, LE, aptX HD, aptX Adaptive, LHDC 5.0",
+        "Positioning": "No",
+        "NFC": "No",
+        "Radio": "No",
+        "USB": "USB Type-C 3.2, OTG, accessory connector pins"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity (accessories only), gyro, compass"
+      },
+      "Battery": {
+        "Type": "13380 mAh",
+        "Charging": "67W wired, 44W/67W UFCS, 55W PPS, 13.5W PD/QC"
+      },
+      "Misc": {
+        "Colors": "Dune Glow, Sage Mist",
+        "Models": "OPD2513",
+        "Price": "About 570 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-pad-4-new-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-pad-4-new-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oneplus_pad_3_pro-pictures-14739.php"
+    }
+  }
+}

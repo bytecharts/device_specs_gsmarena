@@ -1,0 +1,112 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "vivo V29",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-s17-pro-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/vivo-s17-pro.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/vivo_v29-review-2604.php",
+    "siblingDeviceSlugs": [
+      "vivo_v29_pro-12608",
+      "vivo_v29e-12633"
+    ],
+    "release_date": "Released 2023, September",
+    "dimensions": "186g, 7.5mm thickness",
+    "os": "Android 13, up to 3 major upgrades",
+    "storage": "128GB/256GB/512GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 26, 28, 32, 38, 39, 40, 41, 66",
+        "5G bands": "1, 2, 3, 5, 7, 8, 20, 26, 28, 66, 38, 40, 41, 77, 78 SA/NSA",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "CDMA 800"
+      },
+      "Launch": {
+        "Announced": "2023, July 31",
+        "Status": "Available. Released 2023, September"
+      },
+      "Body": {
+        "Dimensions": "164.2 x 74.4 x 7.5 mm (6.46 x 2.93 x 0.30 in)",
+        "Weight": "186 g (6.56 oz)",
+        "Build": "Glass front, glass back, plastic frame",
+        "SIM": "· Nano-SIM + <a href=\"glossary.php3?term=esim\">eSIM</a>\n· Nano-SIM + Nano-SIM",
+        "Features": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)"
+      },
+      "Display": {
+        "Type": "AMOLED, 1B colors, 120Hz, HDR10+",
+        "Size": "6.78 inches, 111.0 cm<sup>2</sup> (~90.8% screen-to-body ratio)",
+        "Resolution": "1260 x 2800 pixels, 20:9 ratio (~453 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 13, up to 3 major Android upgrades, Funtouch 13",
+        "Chipset": "Qualcomm SM7325 Snapdragon 778G 5G (6 nm)",
+        "CPU": "Octa-core (1x2.4 GHz Cortex-A78 &amp; 3x2.2 GHz Cortex-A78 &amp; 4x1.9 GHz Cortex-A55)",
+        "GPU": "Adreno 642L"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM, 512GB 12GB RAM",
+        "Features": "UFS 2.2"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, f/1.9, (wide), 1/1.56\", 1.0µm, PDAF, OIS\n\n8 MP, f/2.2, (ultrawide), 1/4.0\", 1.12µm\n\nAuxiliary lens",
+        "Features": "Ring-LED flash, panorama, HDR",
+        "Video": "4K@30fps, 1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "50 MP, f/2.0, 22mm (wide), 1/2.76\", 0.64µm, AF",
+        "Features": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No",
+        "Features": "24-bit/192kHz Hi-Res audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.2, A2DP, LE, aptX HD, aptX Adaptive",
+        "Positioning": "GPS (L1), GLONASS (G1), BDS (B1I), GALILEO (E1), QZSS (L1)",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "4600 mAh",
+        "Charging": "80W wired, 50% in 17 min"
+      },
+      "Misc": {
+        "Colors": "Space Black, Himalayan Blue, Purple Fairy, Majestic Red",
+        "Models": "V2250",
+        "SAR EU": "0.94 W/kg (head) &nbsp; &nbsp; 1.08 W/kg (body) &nbsp; &nbsp;",
+        "Price": "<a href=\"vivo_v29-price-12461.php\">€ 229.78</a>"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 544639 (v9), 620950 (v10)\n\nGeekBench: 2797 (v5.5), 3014 (v6.0)\n\nGFXBench: 22fps (ES 3.1 onscreen)",
+        "Display": "<a class=\"noUnd\" href=\"vivo_v29-review-2604p3.php#dt\">996 nits max brightness (measured)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=12461&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=12461&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"vivo_v29-review-2604p3.php#lt\">-28.7 LUFS (Average)</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 12461); \">Endurance rating 99h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-s17-pro-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-v29-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/vivo_v29-pictures-12461.php"
+    }
+  }
+}

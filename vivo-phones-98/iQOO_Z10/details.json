@@ -1,0 +1,101 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "vivo iQOO Z10",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-iqoo-z10-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/vivo-iqoo-z10.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "vivo_iqoo_z10r-14024",
+      "vivo_iqoo_z10x_5g-13773"
+    ],
+    "release_date": "Released 2025, April 16",
+    "dimensions": "199g, 7.9mm thickness",
+    "os": "Android 15, up to 2 major upgrades",
+    "storage": "128GB/256GB/512GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 2100",
+        "4G bands": "1, 3, 5, 8, 28, 38, 40, 41 - India",
+        "5G bands": "1, 3, 5, 8, 28, 38, 40, 41, 77, 78 SA/NSA - India",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "1, 3, 5, 7, 8, 19, 20, 28, 38, 40, 41 - Indonesia\n1, 3, 5, 7, 8, 20, 28, 38, 40, 41, 77, 78 SA/NSA - Indonesia"
+      },
+      "Launch": {
+        "Announced": "2025, April 11",
+        "Status": "Available. Released 2025, April 16"
+      },
+      "Body": {
+        "Dimensions": "163.4 x 76.4 x 7.9 mm (6.43 x 3.01 x 0.31 in)",
+        "Weight": "199 g (7.02 oz)",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "Splash resistant\n\nMIL-STD-810H compliant*\n\n* does not guarantee ruggedness or use in extreme conditions"
+      },
+      "Display": {
+        "Type": "AMOLED, 120Hz, 3840Hz PWM, 1300 nits (HBM), 5000 nits (peak)",
+        "Size": "6.77 inches, 110.9 cm<sup>2</sup> (~88.8% screen-to-body ratio)",
+        "Resolution": "1080 x 2392 pixels (~388 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 15, up to 2 major Android upgrades, Funtouch 15",
+        "Chipset": "Qualcomm SM7635 Snapdragon 7s Gen 3 (4 nm)",
+        "CPU": "Octa-core (1x2.5 GHz Cortex-A720 &amp; 3x2.4 GHz Cortex-A720 &amp; 4x1.8 GHz Cortex-A520)",
+        "GPU": "Adreno 810"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM, 512GB 12GB RAM",
+        "Features": "UFS 2.2"
+      },
+      "Main Camera": {
+        "Dual": "50 MP, f/1.8, (wide), 1/1.95\", 0.8µm, PDAF, OIS\n\nAuxiliary lens",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@30/60fps, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.0, (wide)",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band - India\nWi-Fi 802.11 a/b/g/n/ac/6/7, dual-band - Indonesia",
+        "Bluetooth": "5.2(IN), 5.4(IDN), A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS, QZSS",
+        "NFC": "Yes (market/region dependent)",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Si/C Li-Ion 7300 mAh",
+        "Charging": "90W wired\n\nReverse wired"
+      },
+      "Misc": {
+        "Colors": "Stellar Black, Glacier Silver",
+        "SAR": "0.99 W/kg (head) &nbsp; &nbsp; 0.87 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 230 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-iqoo-z10-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-iqoo-z10-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/vivo_iqoo_z10-pictures-13755.php"
+    }
+  }
+}

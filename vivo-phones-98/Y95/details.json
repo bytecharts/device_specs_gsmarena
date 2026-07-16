@@ -1,0 +1,99 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "vivo Y95",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-y95-nebula-purple.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/vivo-y95-.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2018, November",
+    "dimensions": "163.5g, 8.3mm thickness",
+    "os": "Android 8.1, Funtouch 4.5",
+    "storage": "32GB/64GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "1, 3, 5, 8, 34, 38, 39, 40, 41 - China",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat5 150/75 Mbps",
+        "Features": "CDMA 800 &amp; TD-SCDMA - China\n1, 3, 5, 8, 38, 40, 41 - India"
+      },
+      "Launch": {
+        "Announced": "2018, November. Released 2018, November",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "155.1 x 75.1 x 8.3 mm (6.11 x 2.96 x 0.33 in)",
+        "Weight": "163.5 g (5.75 oz)",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "6.22 inches, 96.6 cm<sup>2</sup> (~82.9% screen-to-body ratio)",
+        "Resolution": "720 x 1520 pixels, 19:9 ratio (~270 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 8.1 (Oreo), Funtouch 4.5",
+        "Chipset": "Qualcomm SDM439 Snapdragon 439 (12 nm)",
+        "CPU": "Octa-core (4x1.95 GHz Cortex-A53 &amp; 4x1.45 GHz Cortex A53)",
+        "GPU": "Adreno 505"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "32GB 3GB RAM, 64GB 3GB RAM, 64GB 4GB RAM",
+        "Features": "eMMC 5.1"
+      },
+      "Main Camera": {
+        "Dual": "13 MP, f/2.2, PDAF\n\nAuxiliary lens",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "20 MP, f/2.0, (wide), 1/2.8\", 1.0µm - for Global market\n\n8 MP, f/2.0 - for China",
+        "Features": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
+        "Bluetooth": "4.2, A2DP, LE",
+        "Positioning": "GPS, GLONASS, BDS",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "microUSB 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "4030 mAh, non-removable"
+      },
+      "Misc": {
+        "Colors": "Starry Night, Nebula Purple, Aurora Red",
+        "Models": "1807",
+        "SAR": "1.09 W/kg (head) &nbsp; &nbsp; 0.32 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 250 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-y95-nebula-purple.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-y95-aurora-red.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-y95-starry-black.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-y95-aurora-red-starry-black.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/vivo_y95-pictures-9399.php"
+    }
+  }
+}

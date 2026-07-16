@@ -1,0 +1,98 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "vivo T1x",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-t1x-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/vivo-t1x.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "vivo_t1x_4g-11493"
+    ],
+    "release_date": "Released 2021, November 01",
+    "dimensions": "189g, 8.5mm thickness",
+    "os": "Android 11, OriginOS",
+    "storage": "128GB/256GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / CDMA2000 / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 2100",
+        "4G bands": "1, 3, 4, 5, 8, 28, 34, 38, 39, 40, 41",
+        "5G bands": "1, 3, 28, 41, 77, 78 SA/NSA",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "CDMA 800\nCDMA2000 1x"
+      },
+      "Launch": {
+        "Announced": "2021, October 20",
+        "Status": "Available. Released 2021, November 01"
+      },
+      "Body": {
+        "Dimensions": "164 x 75.3 x 8.5 mm (6.46 x 2.96 x 0.33 in)",
+        "Weight": "189 g (6.67 oz)",
+        "Build": "Glass front, plastic frame, plastic back",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD, 120Hz",
+        "Size": "6.58 inches, 104.3 cm<sup>2</sup> (~84.5% screen-to-body ratio)",
+        "Resolution": "1080 x 2408 pixels, 20:9 ratio (~401 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 11, OriginOS",
+        "Chipset": "Mediatek Dimensity 900 (6 nm)",
+        "CPU": "Octa-core (2x2.4 GHz Cortex-A78 &amp; 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G68 MC4"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Dual": "64 MP, f/1.8, 26mm (wide), 1/1.97\", 0.7µm, PDAF\n\n2 MP (macro)",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@30/60fps, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, f/2.0, (wide)",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.2, A2DP, LE, aptX HD",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS, QZSS",
+        "NFC": "No",
+        "Radio": "No",
+        "USB": "USB Type-C, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "44W wired, 70% in 38 min"
+      },
+      "Misc": {
+        "Colors": "Black, Aurora, Silver",
+        "Models": "V2123A",
+        "Price": "About 230 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-t1x-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-t1x-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/vivo_t1x-pictures-11167.php"
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "vivo NEX S",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-nex-s1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/vivo-nex-s.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/vivo_nex_s-review-1785.php",
+    "siblingDeviceSlugs": [
+      "vivo_nex_dual_display-9435"
+    ],
+    "release_date": "Released 2018, June",
+    "dimensions": "199g, 8mm thickness",
+    "os": "Android 8.1, up to Android 9.0, Funtouch 6.6",
+    "storage": "128GB/256GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 25, 26, 28, 34, 38, 39, 40, 41",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE (4CA) Cat16 1024/150 Mbps",
+        "Features": "CDMA 800 / 1900 &amp; TD-SCDMA"
+      },
+      "Launch": {
+        "Announced": "2018, June. Released 2018, June",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "162 x 77 x 8 mm (6.38 x 3.03 x 0.31 in)",
+        "Weight": "199 g (7.02 oz)",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "Super AMOLED",
+        "Size": "6.59 inches, 107.3 cm<sup>2</sup> (~86.0% screen-to-body ratio)",
+        "Resolution": "1080 x 2316 pixels, 19.3:9 ratio (~388 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 8.1 (Oreo), upgradable to Android 9.0 (Pie), Funtouch 6.6",
+        "Chipset": "Qualcomm SDM845 Snapdragon 845 (10 nm)",
+        "CPU": "Octa-core (4x2.7 GHz Kryo 385 Gold &amp; 4x1.7 GHz Kryo 385 Silver)",
+        "GPU": "Adreno 630"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 8GB RAM, 256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Dual": "12 MP, f/1.8, 1/2.55\", 1.4µm, dual pixel PDAF, 4-axis OIS\n\nAuxiliary lens",
+        "Features": "Dual-LED dual-tone flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "Motorized pop-up 8 MP, f/2.0",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes",
+        "Features": "32-bit/192kHz Hi-Res audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS, BDS, GNSS",
+        "NFC": "No",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Ion 4000 mAh, non-removable",
+        "Charging": "22.5W wired"
+      },
+      "Misc": {
+        "Colors": "Black, Red",
+        "Models": "1805, NEX S",
+        "Price": "About 700 EUR"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 287081 (v7), 351286 (v8)\n\nGeekBench: 9160 (v4.4), 2252 (v5.1)\n\nGFXBench: 34fps (ES 3.1 onscreen)",
+        "Display": "<a class=\"noUnd\" href=\"vivo_nex_s-review-1785p3.php#dt\">Contrast ratio: Infinite (nominal), 4.012 (sunlight)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=9227&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=9227&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"vivo_nex_s-review-1785p3.php#lt\">Voice 71dB / Noise 74dB / Ring 91dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"vivo_nex_s-review-1785p3.php#aq\">Noise -93.6dB / Crosstalk -93.8dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 9227); \">Endurance rating 101h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-nex-s1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-nex-s2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-nex-s3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/vivo_nex_s-pictures-9227.php"
+    }
+  }
+}

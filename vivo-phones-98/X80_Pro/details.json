@@ -1,0 +1,111 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "vivo X80 Pro",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-x80-pro-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/vivo-x80-pro.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/vivo_x80_pro-review-2427.php",
+    "siblingDeviceSlugs": [
+      "vivo_x80-11492"
+    ],
+    "release_date": "Released 2022, April 29",
+    "dimensions": "215g / 219g, 9.1mm thickness",
+    "os": "Android 12, up to 14, Funtouch 14",
+    "storage": "256GB/512GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / EVDO / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 26, 28, 32, 38, 39, 40, 41, 42, 66 - International",
+        "5G bands": "1, 2, 3, 5, 7, 8, 20, 28, 38, 40, 41, 66, 77, 78 SA/NSA - International",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "CDMA 800 / 1900\nCDMA2000 1xEV-DO\n1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 25, 26, 28, 34, 38, 39, 40, 41, 42, 66 - China\n1, 3, 5, 7, 8, 12, 20, 28, 66, 38, 40, 41, 77, 78, 79 SA/NSA - China"
+      },
+      "Launch": {
+        "Announced": "2022, April 25",
+        "Status": "Available. Released 2022, April 29"
+      },
+      "Body": {
+        "Dimensions": "164.6 x 75.3 x 9.1 mm (6.48 x 2.96 x 0.36 in)",
+        "Weight": "215 g / 219 g (7.58 oz)",
+        "Build": "Glass front (Schott Xensation Up), glass back or ceramic back or eco leather back, aluminum frame",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)"
+      },
+      "Display": {
+        "Type": "LTPO3 AMOLED, 1B colors, 120Hz, HDR10+, 1500 nits (peak)",
+        "Size": "6.78 inches, 111.4 cm<sup>2</sup> (~89.9% screen-to-body ratio)",
+        "Resolution": "1440 x 3200 pixels, 20:9 ratio (~517 ppi density)",
+        "Protection": "Schott Xensation Up"
+      },
+      "Platform": {
+        "OS": "Android 12, upgradable to Android 14, Funtouch 14 (Global), OriginOS Ocean (China)",
+        "Chipset": "Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm)\nMediatek Dimensity 9000 (4 nm)",
+        "CPU": "Octa-core (1x3.00 GHz Cortex-X2 &amp; 3x2.50 GHz Cortex-A710 &amp; 4x1.80 GHz Cortex-A510)\nOcta-core (1x3.05 GHz Cortex-X2 &amp; 3x2.85 GHz Cortex-A710 &amp; 4x1.80 GHz Cortex-A510)",
+        "GPU": "Adreno 730\nMali-G710 MC10"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 8GB RAM, 256GB 12GB RAM, 512GB 12GB RAM",
+        "Features": "UFS 3.1"
+      },
+      "Main Camera": {
+        "Quad": "50 MP, f/1.6, (wide), 1/1.3\", PDAF, OIS\n\n8 MP, f/3.4, (periscope telephoto), 1/4.4\", 1.0µm, PDAF, OIS, 5x optical zoom\n\n12 MP, f/1.9, 50mm (telephoto), 1/2.93\", 1.22µm, dual pixel PDAF, 2x optical zoom, gimbal OIS\n\n48 MP, f/2.2, 114˚ (ultrawide), 1/2.0\", AF",
+        "Features": "Laser AF, color spectrum sensor, Zeiss optics, Zeiss T* lens coating, Pixel Shift, dual-LED dual-tone flash, HDR, panorama",
+        "Video": "8K@30fps, 4K@30/60fps, 1080p@30/60fps, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.5, 24mm (wide), 1/2.8\", 0.8µm",
+        "Features": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No",
+        "Features": "32-bit/192kHz audio\n\nSnapdragon Sound"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.2 (Snapdragon)/ 5.3 (Dimensity), A2DP, LE, aptX HD, aptX Adaptive, aptX Lossless",
+        "Positioning": "GPS (L1+L5), GLONASS, BDS, GALILEO, QZSS, NavIC",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 3.1 (Global)/ 3.2 (China), OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "4700 mAh",
+        "Charging": "80W wired, 100% in 38 min\n\n50W wireless, 100% in 50 min\n\nReverse wired"
+      },
+      "Misc": {
+        "Colors": "Cosmic Black, Blue, Orange",
+        "Models": "V2185A, V2145",
+        "Price": "About 850 EUR"
+      },
+      "Our Tests": {
+        "Display": "<a class=\"noUnd\" href=\"vivo_x80_pro-review-2427p3.php\">1014 nits max brightness (measured)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=11407&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=11407&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"vivo_x80_pro-review-2427p3.php#lt\">-25.1 LUFS (Very good)</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 11407); \">Endurance rating 79h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-x80-pro-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-x80-pro-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/vivo_x80_pro-pictures-11407.php"
+    }
+  }
+}

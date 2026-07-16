@@ -1,0 +1,96 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "vivo Pad3 Pro",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-pad3-pro-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/vivo-pad3-pro.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2024, April 03",
+    "dimensions": "679g, 6.6mm thickness",
+    "os": "Android 14, OriginOS 4",
+    "storage": "128GB/256GB/512GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">No cellular connectivity</a>",
+        "2G bands": "N/A",
+        "3G bands": "N/A",
+        "4G bands": "N/A",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2024, March 26",
+        "Status": "Available. Released 2024, April 03"
+      },
+      "Body": {
+        "Dimensions": "289.6 x 198.3 x 6.6 mm (11.40 x 7.81 x 0.26 in)",
+        "Weight": "679 g (1.50 lb)",
+        "Build": "Glass front, aluminum back, aluminum frame",
+        "SIM": "No",
+        "Features": "Stylus support"
+      },
+      "Display": {
+        "Type": "IPS LCD, 1B colors, 144Hz, HDR10, 900 nits (peak)",
+        "Size": "13.0 inches, 503.2 cm<sup>2</sup> (~87.6% screen-to-body ratio)",
+        "Resolution": "2064 x 3096 pixels, 3:2 ratio (~286 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 14, OriginOS 4",
+        "Chipset": "Mediatek Dimensity 9300 (4 nm)",
+        "CPU": "Octa-core (1x3.25 GHz Cortex-X4 &amp; 3x2.85 GHz Cortex-X4 &amp; 4x2.0 GHz Cortex-A720)",
+        "GPU": "Immortalis-G720 MC12"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM, 512GB 16GB RAM",
+        "Features": "UFS 4.0\n\nUFS 3.1 - 128GB only"
+      },
+      "Main Camera": {
+        "Single": "13 MP",
+        "Features": "LED flash, panorama",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Single": "8 MP",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers (8 speakers)",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band",
+        "Bluetooth": "5.4, A2DP, LE",
+        "Positioning": "Unspecified",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 3.2, OTG, magnetic connector"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, proximity (accessories only)"
+      },
+      "Battery": {
+        "Type": "11500 mAh",
+        "Charging": "66W wired, PD\n\n5W reverse wired"
+      },
+      "Misc": {
+        "Colors": "Gray, Blue, Purple",
+        "Price": "About 380 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-pad3-pro-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-pad3-pro-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/vivo_pad3_pro-pictures-12901.php"
+    }
+  }
+}

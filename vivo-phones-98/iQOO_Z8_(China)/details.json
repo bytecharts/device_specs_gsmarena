@@ -1,0 +1,96 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "vivo iQOO Z8 (China)",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-iqoo-z8-china-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/vivo-iqoo-z8-china.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2023, September",
+    "dimensions": "200g, 8.8mm thickness",
+    "os": "Android 13, OriginOS 3",
+    "storage": "256GB/512GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / CDMA2000 / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "1, 3, 5, 8, 28, 34, 38, 39, 40, 41",
+        "5G bands": "1, 5, 8, 28, 41, 77, 78 SA/NSA",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "CDMA 800\nCDMA2000 1x"
+      },
+      "Launch": {
+        "Announced": "2023, August 31",
+        "Status": "Available. Released 2023, September"
+      },
+      "Body": {
+        "Dimensions": "164.6 x 75.8 x 8.8 mm (6.48 x 2.98 x 0.35 in)",
+        "Weight": "200 g (7.05 oz)",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD, 120Hz",
+        "Size": "6.64 inches, 106.8 cm<sup>2</sup> (~85.6% screen-to-body ratio)",
+        "Resolution": "1080 x 2388 pixels (~395 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 13, OriginOS 3",
+        "Chipset": "Mediatek Dimensity 8200 (4 nm)",
+        "CPU": "Octa-core (1x3.1 GHz Cortex-A78 &amp; 3x3.0 GHz Cortex-A78 &amp; 4x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G610 MC6"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 8GB RAM, 256GB 12GB RAM, 512GB 12GB RAM",
+        "Features": "UFS 3.1"
+      },
+      "Main Camera": {
+        "Dual": "64 MP, f/1.8, (wide), 1/2.0\", 0.7µm, PDAF, OIS\n\nAuxiliary lens",
+        "Features": "Dual-LED dual-tone flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "16 MP, f/2.5, (wide)",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.3, A2DP, LE, aptX HD",
+        "Positioning": "GPS (L1), GLONASS (G1), BDS (B1I+B1c), GALILEO (E1), QZSS (L1)",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "120W wired"
+      },
+      "Misc": {
+        "Colors": "Black, Blue, Silver",
+        "Models": "V2314A",
+        "Price": "About 230 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-iqoo-z8-china-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-iqoo-z8-china-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/vivo_iqoo_z8_(china)-pictures-12513.php"
+    }
+  }
+}

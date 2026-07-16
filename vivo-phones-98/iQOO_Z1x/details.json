@@ -1,0 +1,99 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "vivo iQOO Z1x",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-iqoo-z1x-5g-3.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/vivo-iqoo-z1x-5g1.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2020, July 25",
+    "dimensions": "199.5g, 9.1mm thickness",
+    "os": "Android 10, iQOO UI 1.0",
+    "storage": "64GB/128GB/256GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / EVDO / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 2100",
+        "4G bands": "1, 3, 4, 5, 8, 34, 38, 39, 40, 41",
+        "5G bands": "1, 3, 41, 77, 78 SA/NSA",
+        "Speed": "HSPA, LTE (2CA), 5G",
+        "Features": "CDMA 800 &amp; TD-SCDMA\nCDMA2000 1xEV-DO"
+      },
+      "Launch": {
+        "Announced": "2020, July 09. Released 2020, July 25",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "164.2 x 76.5 x 9.1 mm (6.46 x 3.01 x 0.36 in)",
+        "Weight": "199.5 g (7.05 oz)",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD, 120Hz, HDR10",
+        "Size": "6.57 inches, 105.0 cm<sup>2</sup> (~83.6% screen-to-body ratio)",
+        "Resolution": "1080 x 2408 pixels, 20:9 ratio (~400 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 10, iQOO UI 1.0",
+        "Chipset": "Qualcomm SM7250 Snapdragon 765G 5G (7 nm)",
+        "CPU": "Octa-core (1x2.4 GHz Kryo 475 Prime &amp; 1x2.2 GHz Kryo 475 Gold &amp; 6x1.8 GHz Kryo 475 Silver)",
+        "GPU": "Adreno 620"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "64GB 6GB RAM, 128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM",
+        "Features": "UFS 2.1"
+      },
+      "Main Camera": {
+        "Triple": "48 MP, f/1.8, 26mm (wide), 1/2.0\", 0.8µm, PDAF\n\n2 MP (macro)\n\nAuxiliary lens",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@30fps; gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "16 MP, f/2.0, (wide)",
+        "Features": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes",
+        "Features": "24-bit/192kHz Hi-Res audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.1, A2DP, LE, aptX HD",
+        "Positioning": "GPS, GLONASS, BDS, GALILEO",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "33W wired"
+      },
+      "Misc": {
+        "Colors": "Black, Blue, White",
+        "Models": "V2012A",
+        "Price": "About 220 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-iqoo-z1x-5g-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-iqoo-z1x-5g-4.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-iqoo-z1x-5g-5.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/vivo_iqoo_z1x-pictures-10311.php"
+    }
+  }
+}

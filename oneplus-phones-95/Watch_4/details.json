@@ -1,0 +1,94 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "OnePlus Watch 4",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-watch-4-3.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oppo-watch-4.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "oneplus_watch_3-13668",
+      "oppo_watch_x3-14547",
+      "samsung_galaxy_watch_ultra-13127",
+      "xiaomi_watch_5-14383",
+      "samsung_galaxy_watch8_classic-13998",
+      "samsung_galaxy_watch8-13997"
+    ],
+    "release_date": "Released 2026, April",
+    "dimensions": "43g, 11mm thickness",
+    "os": "OxygenOS Watch 8 + Wear OS 6.0",
+    "storage": "32GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">No cellular connectivity</a>",
+        "2G bands": "N/A",
+        "3G bands": "N/A",
+        "4G bands": "N/A",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2026, April 22",
+        "Status": "Available. Released 2026, April"
+      },
+      "Body": {
+        "Dimensions": "47.4 x 47.4 x 11 mm (1.87 x 1.87 x 0.43 in)",
+        "Weight": "43 g (1.52 oz)",
+        "Build": "Glass front (Sapphire crystal), titanium alloy, glass-fiber reinforced plastic back",
+        "SIM": "No",
+        "Features": "5ATM water resistant\n\nIP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)\n\nMIL-STD-810H compliant\n\nECG certified"
+      },
+      "Display": {
+        "Type": "LTPO AMOLED, 600 nits (typ), 1600 nits (HBM), 3000 nits (peak)",
+        "Size": "1.5 inches",
+        "Resolution": "466 x 466 pixels (~310 ppi density)",
+        "Protection": "Sapphire crystal glass"
+      },
+      "Platform": {
+        "OS": "OxygenOS Watch 8 + Wear OS 6.0",
+        "Chipset": "Qualcomm Snapdragon W5 Gen 1 (4 nm)"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "32GB 2GB RAM"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Yes, dual-band",
+        "Bluetooth": "5.2, A2DP, LE",
+        "Positioning": "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, barometer, compass, heart rate, SpO2, thermometer (skin temperature)"
+      },
+      "Battery": {
+        "Type": "Li-Ion 646 mAh",
+        "Charging": "7.5W wired, 100% in 75 min"
+      },
+      "Misc": {
+        "Colors": "Midnight Titanium, Evergreen Titanium"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-watch-4-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-watch-4-4.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oneplus_watch_4-pictures-14622.php"
+    }
+  }
+}

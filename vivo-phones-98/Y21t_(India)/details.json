@@ -1,0 +1,94 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "vivo Y21t (India)",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-y21t-0.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/vivo-y21s.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2022, January 03",
+    "dimensions": "182g, 8mm thickness",
+    "os": "Android 11, Funtouch 12",
+    "storage": "128GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "1, 3, 5, 8, 38, 40, 41",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2022, January 03",
+        "Status": "Available. Released 2022, January 03"
+      },
+      "Body": {
+        "Dimensions": "164.3 x 76.1 x 8 mm (6.47 x 3.00 x 0.31 in)",
+        "Weight": "182 g (6.42 oz)",
+        "Build": "Glass front, plastic frame, plastic back",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD, 90Hz",
+        "Size": "6.58 inches, 104.3 cm<sup>2</sup> (~83.4% screen-to-body ratio)",
+        "Resolution": "1080 x 2408 pixels, 20:9 ratio (~401 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 11, Funtouch 12",
+        "Chipset": "Qualcomm SM6225 Snapdragon 680 4G (6 nm)",
+        "CPU": "Octa-core (4x2.4 GHz Kryo 265 Gold &amp; 4x1.9 GHz Kryo 265 Silver)",
+        "GPU": "Adreno 610"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "128GB 4GB RAM"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, f/1.8, (wide), PDAF\n\n2 MP (macro)\n\nAuxiliary lens",
+        "Features": "LED flash",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, f/1.8, (wide)",
+        "Features": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "18W wired\n\n2.5W reverse wired"
+      },
+      "Misc": {
+        "Colors": "Midnight Blue, Pearl White",
+        "Price": "About 200 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-y21t-0.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-y21t-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/vivo_y21t_(india)-pictures-11301.php"
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "vivo Pad5 Pro",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-pad5-pro-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/vivo-pad5-pro.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "vivo_iqoo_pad5_pro-13887"
+    ],
+    "release_date": "Released 2025, April 25",
+    "dimensions": "578g or 635g, 6.6mm thickness",
+    "os": "Android 15, OriginOS 5 HD",
+    "storage": "128GB/256GB/512GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">No cellular connectivity</a>",
+        "2G bands": "N/A",
+        "3G bands": "N/A",
+        "4G bands": "N/A",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2025, April 21",
+        "Status": "Available. Released 2025, April 25"
+      },
+      "Body": {
+        "Dimensions": "289.6 x 198.3 x 6.6 mm (11.40 x 7.81 x 0.26 in)",
+        "Weight": "578 g or 635 g (1.27 lb)",
+        "Build": "Glass front, aluminum back, aluminum frame",
+        "SIM": "No",
+        "Features": "Stylus support"
+      },
+      "Display": {
+        "Type": "IPS LCD, 1B colors, 144Hz, HDR10, 1200 nits (peak)",
+        "Size": "13.0 inches, 503.2 cm<sup>2</sup> (~87.6% screen-to-body ratio)",
+        "Resolution": "2064 x 3096 pixels, 3:2 ratio (~286 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 15, OriginOS 5 HD",
+        "Chipset": "Mediatek Dimensity 9400 (3 nm)",
+        "CPU": "Octa-core (1x3.63 GHz Cortex-X925 &amp; 3x3.3 GHz Cortex-X4 &amp; 4x2.4 GHz Cortex-A720)",
+        "GPU": "Immortalis-G925"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM, 512GB 12GB RAM, 512GB 16GB RAM",
+        "Features": "UFS 4.1\n\nUFS 3.1 - 128GB only"
+      },
+      "Main Camera": {
+        "Single": "13 MP",
+        "Features": "LED flash, panorama",
+        "Video": "4K, 1080p"
+      },
+      "Selfie camera": {
+        "Single": "8 MP",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers (8 speakers)",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Yes",
+        "Bluetooth": "5.4, A2DP, LE",
+        "Positioning": "Unspecified",
+        "NFC": "No",
+        "Radio": "No",
+        "USB": "USB Type-C 3.2, OTG, magnetic connector"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, proximity (accessories only)"
+      },
+      "Battery": {
+        "Type": "12050 mAh",
+        "Charging": "66W wired, PD\n\n5W reverse wired"
+      },
+      "Misc": {
+        "Colors": "Gray, Blue, White, Soft pink",
+        "Price": "About 360 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-pad5-pro-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-pad5-pro-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-pad5-pro-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/vivo_pad5_pro-pictures-13808.php"
+    }
+  }
+}

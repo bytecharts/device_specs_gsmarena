@@ -1,0 +1,100 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "vivo iQOO Neo8",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/vivo/iqoo-neo8.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/vivo-iqoo-neo8.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "vivo_iqoo_neo8_pro-12292"
+    ],
+    "release_date": "Released 2023, May 23",
+    "dimensions": "192g, 8.5mm thickness",
+    "os": "Android 13, Funtouch 13 or OriginOS 3",
+    "storage": "256GB/512GB/1TB storage, Unspecified",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 19, 28, 28, 34, 38, 39, 40, 41",
+        "5G bands": "1, 3, 5, 8, 28, 40, 41, 77, 78 SA/NSA",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "CDMA 800"
+      },
+      "Launch": {
+        "Announced": "2023, May 23",
+        "Status": "Available. Released 2023, May 23"
+      },
+      "Body": {
+        "Dimensions": "164.7 x 77 x 8.5 mm (6.48 x 3.03 x 0.33 in)",
+        "Weight": "192 g (6.77 oz)",
+        "Build": "Glass front, plastic frame, glass or leather back",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED, 1B colors, 144Hz, HDR10, 1300 nits (peak)",
+        "Size": "6.78 inches, 111.0 cm<sup>2</sup> (~87.5% screen-to-body ratio)",
+        "Resolution": "1260 x 2800 pixels, 20:9 ratio (~453 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 13, Funtouch 13 or OriginOS 3 (China)",
+        "Chipset": "Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm)",
+        "CPU": "Octa-core (1x3.0 GHz Cortex-X2 &amp; 3x2.5 GHz Cortex-A710 &amp; 4x1.80 GHz Cortex-A510)",
+        "GPU": "Adreno 730"
+      },
+      "Memory": {
+        "Card slot": "Unspecified",
+        "Internal": "256GB 12GB RAM, 512GB 12GB RAM, 512GB 16GB RAM, 1TB 16GB RAM",
+        "Features": "UFS 3.1"
+      },
+      "Main Camera": {
+        "Dual": "50 MP, f/1.9, (wide), PDAF, OIS\n\nAuxiliary lens",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "8K@30fps, 4K@30/60fps, 1080p@30/60fps, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "16 MP, f/2.5, (wide)",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No",
+        "Features": "Snapdragon Sound"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.3, A2DP, LE, aptX HD, aptX Adaptive, aptX Lossless",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS, QZSS",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "Unspecified",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "120W wired, 50% in 9 min"
+      },
+      "Misc": {
+        "Colors": "Red, Mint, Black",
+        "Models": "V2301A",
+        "Price": "About 330 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/vivo/iqoo-neo8.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/vivo_iqoo_neo8-pictures-12291.php"
+    }
+  }
+}

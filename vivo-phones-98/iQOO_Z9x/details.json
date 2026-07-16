@@ -1,0 +1,99 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "vivo iQOO Z9x",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-iqoo-z9x-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/vivo-iqoo-z9x.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2024, April 29",
+    "dimensions": "199g, 8mm thickness",
+    "os": "Android 14, Funtouch OS 14, OriginOS",
+    "storage": "128GB/256GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "1, 3, 5, 7, 8, 20, 28, 38, 40, 41 - Global",
+        "5G bands": "1, 3, 8, 28, 38, 40, 41, 77, 78 SA/NSA - Global",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "CDMA 800\n1, 3, 5, 8, 28, 34, 38, 39, 40, 41 - China\n1, 3, 5, 8, 28, 38, 40, 41 - India\n1, 5, 8, 28, 41, 77, 78 SA/NSA - China\n1, 3, 5, 8, 28, 40, 77, 78 SA/NSA - India"
+      },
+      "Launch": {
+        "Announced": "2024, April 24",
+        "Status": "Available. Released 2024, April 29"
+      },
+      "Body": {
+        "Dimensions": "165.7 x 76 x 8 mm (6.52 x 2.99 x 0.31 in)",
+        "Weight": "199 g (7.05 oz)",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "IP64 dust tight and water resistant (water splashes)"
+      },
+      "Display": {
+        "Type": "IPS LCD, 120Hz, 1000 nits (peak)",
+        "Size": "6.72 inches, 108.8 cm<sup>2</sup> (~86.4% screen-to-body ratio)",
+        "Resolution": "1080 x 2408 pixels, 20:9 ratio (~393 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 14, Funtouch OS 14 (International), OriginOS (China)",
+        "Chipset": "Qualcomm SM6450 Snapdragon 6 Gen 1 (4 nm)",
+        "CPU": "Octa-core (4x2.2 GHz Cortex-A78 &amp; 4x1.8 GHz Cortex-A55)",
+        "GPU": "Adreno 710"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (uses shared SIM slot)",
+        "Internal": "128GB 4GB RAM, 128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM",
+        "Features": "UFS 2.2"
+      },
+      "Main Camera": {
+        "Dual": "50 MP, f/1.8, (wide), 1/1.95\", 0.8µm, PDAF\n\nAuxiliary lens",
+        "Features": "LED flash, panorama, HDR",
+        "Video": "4K, 1080p, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, f/2.1, (wide)",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes",
+        "Features": "24-bit/192kHz Hi-Res &amp; Hi-Res wireless audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.1, A2DP, LE, aptX HD, aptX Adaptive",
+        "Positioning": "GPS, GALILEO, GLONASS, QZSS, BDS (B1I+B1c)",
+        "NFC": "Yes (market/region dependent)",
+        "Radio": "Unspecified",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "6000 mAh",
+        "Charging": "44W wired\n\nReverse wired"
+      },
+      "Misc": {
+        "Colors": "Tornado Green (Northern Green), Storm Grey (Mystic Black), White",
+        "Models": "V2353A, I2219",
+        "Price": "About 160 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-iqoo-z9x-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-iqoo-z9x-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/vivo_iqoo_z9x-pictures-12958.php"
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "vivo Y33s",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-y33s-2.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/vivo-y33s.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "vivo_y33s_5g-11391"
+    ],
+    "release_date": "Released 2021, August 24",
+    "dimensions": "182g, 8mm thickness",
+    "os": "Android 11, Funtouch 11.1",
+    "storage": "64GB/128GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "1, 3, 5, 8, 38, 40, 41",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2021, August 24",
+        "Status": "Available. Released 2021, August 24"
+      },
+      "Body": {
+        "Dimensions": "164.3 x 76.1 x 8 mm (6.47 x 3.00 x 0.31 in)",
+        "Weight": "182 g (6.42 oz)",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "6.58 inches, 104.3 cm<sup>2</sup> (~83.4% screen-to-body ratio)",
+        "Resolution": "1080 x 2408 pixels, 20:9 ratio (~401 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 11, Funtouch 11.1",
+        "Chipset": "Mediatek MT6769V/CU Helio G80 (12 nm)",
+        "CPU": "Octa-core (2x2.0 GHz Cortex-A75 &amp; 6x1.8 GHz Cortex-A55)",
+        "GPU": "Mali-G52 MC2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "64GB 4GB RAM, 128GB 4GB RAM, 128GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Dual": "50 MP, f/1.8, (wide), PDAF\n\n2 MP (macro)\n\nAuxiliary lens",
+        "Features": "LED flash",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "16 MP, f/2.0, (wide)",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS",
+        "NFC": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "18W wired\n\n5W reverse wired"
+      },
+      "Misc": {
+        "Colors": "Mirror Black, Midday Dream",
+        "Models": "V2109",
+        "Price": "About 210 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-y33s-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-y33s-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/vivo_y33s-pictures-11067.php"
+    }
+  }
+}

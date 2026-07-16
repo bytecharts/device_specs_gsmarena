@@ -1,0 +1,94 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "vivo Pad SE",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-pad-se-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/vivo-pad-se.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2025, April 25",
+    "dimensions": "559g or 569g, 6.8mm thickness",
+    "os": "Android 15, OriginOS 5 HD",
+    "storage": "128GB/256GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">No cellular connectivity</a>",
+        "2G bands": "N/A",
+        "3G bands": "N/A",
+        "4G bands": "N/A",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2025, April 21",
+        "Status": "Available. Released 2025, April 25"
+      },
+      "Body": {
+        "Dimensions": "277.1 x 185.6 x 6.8 mm (10.91 x 7.31 x 0.27 in)",
+        "Weight": "559 g or 569 g (1.23 lb)",
+        "SIM": "No"
+      },
+      "Display": {
+        "Type": "IPS LCD, 90Hz, 600 nits",
+        "Size": "12.3 inches, 445.8 cm<sup>2</sup> (~86.7% screen-to-body ratio)",
+        "Resolution": "1600 x 2464 pixels, 3:2 ratio (~239 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 15, OriginOS 5 HD",
+        "Chipset": "Qualcomm SM4450 Snapdragon 4 Gen 2 (4 nm)",
+        "CPU": "Octa-core (2x2.2 GHz Cortex-A78 &amp; 6x1.95 GHz Cortex-A55)",
+        "GPU": "Adreno 613"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM",
+        "Features": "UFS 3.1"
+      },
+      "Main Camera": {
+        "Single": "5 MP",
+        "Features": "LED flash",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Single": "5 MP",
+        "Video": "Yes"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers (4 speakers)",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "4.2, A2DP",
+        "Positioning": "No",
+        "NFC": "No",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity (accessories only)"
+      },
+      "Battery": {
+        "Type": "8500 mAh",
+        "Charging": "15W wired"
+      },
+      "Misc": {
+        "Colors": "Gray, Blue, Titanium",
+        "Price": "About 120 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-pad-se-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-pad-se-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/vivo_pad_se-pictures-13812.php"
+    }
+  }
+}

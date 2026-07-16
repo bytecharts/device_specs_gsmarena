@@ -1,0 +1,98 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "vivo S17e",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/vivo/s17e-01.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/vivo-s17e.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2023, May 24",
+    "dimensions": "178g, 7.4mm thickness",
+    "os": "Android 13, OriginOS 3",
+    "storage": "128GB/256GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / CDMA2000 / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 3, 4, 5, 8, 28, 34, 38, 39, 40, 41",
+        "5G bands": "1, 3, 5, 8, 28, 41, 77, 78 SA/NSA",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "CDMA 800\nCDMA2000 1x"
+      },
+      "Launch": {
+        "Announced": "2023, May 24",
+        "Status": "Available. Released 2023, May 24"
+      },
+      "Body": {
+        "Dimensions": "164.2 x 74.9 x 7.4 mm (6.46 x 2.95 x 0.29 in)",
+        "Weight": "178 g (6.28 oz)",
+        "Build": "Glass front, plastic frame, glass back",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED, 1B colors, 120Hz, HDR10, 1300 nits (peak)",
+        "Size": "6.78 inches, 111.0 cm<sup>2</sup> (~90.2% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~388 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 13, OriginOS 3",
+        "Chipset": "Mediatek Dimensity 7200 (4 nm)",
+        "CPU": "Octa-core (2x2.8 GHz Cortex-A715 &amp; 6x Cortex-A510)",
+        "GPU": "Mali-G610 MC4"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM",
+        "Features": "UFS 2.2"
+      },
+      "Main Camera": {
+        "Dual": "64 MP, f/1.8, (wide), PDAF, OIS\n\nAuxiliary lens",
+        "Features": "Ring-LED flash, panorama, HDR",
+        "Video": "4K@30fps, 1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "16 MP, f/2.5, (wide)",
+        "Features": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, (unconfirmed stereo speakers)",
+        "3.5mm jack": "No",
+        "Features": "24-bit/192kHz Hi-Res audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.3, A2DP, LE, aptX HD",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS, NavIC",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "4600 mAh",
+        "Charging": "66W wired, 50% in 20 min"
+      },
+      "Misc": {
+        "Colors": "Black, Mint",
+        "Models": "V2285A",
+        "Price": "About 280 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/vivo/s17e-01.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/vivo_s17e-pictures-12294.php"
+    }
+  }
+}

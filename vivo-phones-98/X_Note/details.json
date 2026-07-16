@@ -1,0 +1,101 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "vivo X Note",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-x-note-0.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/vivo-x-note.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2022, April 15",
+    "dimensions": "216 / 221g, 8.4mm thickness",
+    "os": "Android 12, OriginOS Ocean",
+    "storage": "256GB/512GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / CDMA2000 / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 25, 26, 28, 32, 34, 38, 39, 40, 41, 42, 48, 66",
+        "5G bands": "1, 2, 3, 5, 7, 8, 12, 20, 28, 38, 40, 41, 66, 77, 78, 79 SA/NSA",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "CDMA 800 / 1900\nCDMA2000 1x"
+      },
+      "Launch": {
+        "Announced": "2022, April 11",
+        "Status": "Available. Released 2022, April 15"
+      },
+      "Body": {
+        "Dimensions": "168.8 x 80.3 x 8.4 mm (6.65 x 3.16 x 0.33 in)",
+        "Weight": "216 / 221 g (7.62 oz)",
+        "SIM": "Nano-SIM",
+        "Features": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)"
+      },
+      "Display": {
+        "Type": "LTPO AMOLED, 120Hz, HDR10+",
+        "Size": "7.0 inches, 121.3 cm<sup>2</sup> (~89.5% screen-to-body ratio)",
+        "Resolution": "1440 x 3080 pixels (~486 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 12, OriginOS Ocean",
+        "Chipset": "Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm)",
+        "CPU": "Octa-core (1x3.00 GHz Cortex-X2 &amp; 3x2.50 GHz Cortex-A710 &amp; 4x1.80 GHz Cortex-A510)",
+        "GPU": "Adreno 730"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 8GB RAM, 256GB 12GB RAM, 512GB 12GB RAM",
+        "Features": "UFS 3.1"
+      },
+      "Main Camera": {
+        "Quad": "50 MP, f/1.6, (wide), 1/1.31\", 1.2µm, PDAF, OIS\n\n8 MP, f/3.4, 125mm (periscope telephoto), PDAF, OIS, 5x optical zoom\n\n12 MP, f/2.0, 47mm (telephoto), 1/2.93\", 1.2µm, PDAF, 2x optical zoom\n\n48 MP, f/2.2, 14mm, 114˚ (ultrawide), 1/2.0\", 0.8µm",
+        "Features": "Laser AF, Zeiss optics, Zeiss T* lens coating, Dual-LED flash, panorama",
+        "Video": "8K@30fps, 4K@30/60fps, 1080p@30/60fps, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "16 MP, f/2.5, (wide)",
+        "Features": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No",
+        "Features": "24-bit/192kHz Hi-Res audio\n\nSnapdragon Sound"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.2, A2DP, LE, aptX HD, aptX Adaptive, aptX Lossless",
+        "Positioning": "GPS, GLONASS, BDS, GALILEO, QZSS, NavIC",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, barometer"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "80W wired, 100% in 32 min\n\n50W wireless\n\n10W reverse wireless"
+      },
+      "Misc": {
+        "Colors": "Black, Blue, Gray",
+        "Models": "V2170A",
+        "Price": "About 870 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-x-note-0.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-x-note-5.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-x-note-6.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/vivo_x_note-pictures-11469.php"
+    }
+  }
+}

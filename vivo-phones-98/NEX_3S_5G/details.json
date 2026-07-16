@@ -1,0 +1,101 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "vivo NEX 3S 5G",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-nex-3s-5g-0.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/vivo-nex-3s-5g.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2020, March 14",
+    "dimensions": "219.5g, 9.4mm thickness",
+    "os": "Android 10, Funtouch 10.0",
+    "storage": "256GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / EVDO / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 26, 20, 25, 28, 34, 38, 39, 40, 41",
+        "5G bands": "1, 3, 41, 77, 78, 79 SA/NSA",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "CDMA 800 &amp; TD-SCDMA\nCDMA2000 1xEV-DO"
+      },
+      "Launch": {
+        "Announced": "2020, March 10. Released 2020, March 14",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "167.4 x 76.1 x 9.4 mm (6.59 x 3.00 x 0.37 in)",
+        "Weight": "219.5 g (7.76 oz)",
+        "Build": "Glass front, glass back, aluminum frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "Super AMOLED, HDR10+",
+        "Size": "6.89 inches, 119.3 cm<sup>2</sup> (~93.6% screen-to-body ratio)",
+        "Resolution": "1080 x 2256 pixels (~363 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 10, Funtouch 10.0",
+        "Chipset": "Qualcomm SM8250 Snapdragon 865 5G (7 nm+)",
+        "CPU": "Octa-core (1x2.84 GHz Cortex-A77 &amp; 3x2.42 GHz Cortex-A77 &amp; 4x1.80 GHz Cortex-A55)",
+        "GPU": "Adreno 650"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 8GB RAM, 256GB 12GB RAM",
+        "Features": "UFS 3.1"
+      },
+      "Main Camera": {
+        "Triple": "64 MP, f/1.8, 26mm (wide), 1/1.72\", 0.8µm, PDAF\n\n13 MP, f/2.5, 52mm (telephoto), PDAF, 2x optical zoom\n\n13 MP, f/2.2, 13mm (ultrawide), PDAF",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@30/60/120fps, 720p@960fps, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "Motorized pop-up 16 MP, f/2.1, 26mm (wide), 1/3.06\", 1.0µm",
+        "Features": "LED flash, HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes",
+        "Features": "32-bit/192kHz Hi-Res audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.1, A2DP, LE, aptX HD",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "4500 mAh",
+        "Charging": "44W wired"
+      },
+      "Misc": {
+        "Colors": "Black, Blue, Orange",
+        "Models": "V1950A",
+        "Price": "About 630 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-nex-3s-5g-0.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-nex-3s-5g-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-nex-3s-5g-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-nex-3s-5g-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/vivo_nex_3s_5g-pictures-10122.php"
+    }
+  }
+}

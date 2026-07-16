@@ -1,0 +1,103 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "OnePlus Ace 6 Ultra",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-ace-6-ultra-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-ace-6-ultra.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "oneplus_ace_6_5g-14259",
+      "oneplus_ace_6t_5g-14315"
+    ],
+    "release_date": "Released 2026, April 28",
+    "dimensions": "217g or 219g, 8.5mm thickness",
+    "os": "Android 16, ColorOS 16",
+    "storage": "256GB/512GB/1TB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "1, 3, 4, 5, 8, 18, 19, 26, 28, 34, 38, 39, 40, 41, 42, 43, 48, 66",
+        "5G bands": "1, 3, 5, 8, 18, 26, 28, 34, 38, 39, 40, 41, 48, 66, 77, 78 SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2026, April 28",
+        "Status": "Available. Released 2026, April 28"
+      },
+      "Body": {
+        "Dimensions": "162.5 x 77.5 x 8.5 mm (6.40 x 3.05 x 0.33 in)",
+        "Weight": "217 g or 219 g (7.65 oz)",
+        "Build": "Glass front (Crystal Shield Glass), glass back or silicone polymer back (eco leather), aluminum frame",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "IP68/IP69K dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)"
+      },
+      "Display": {
+        "Type": "AMOLED, 1B colors, 165Hz, PWM, Dolby Vision, HDR10+, HDR Vivid, 800 nits (typ), 1800 nits (HBM)",
+        "Size": "6.78 inches, 112.4 cm<sup>2</sup> (~89.3% screen-to-body ratio)",
+        "Resolution": "1272 x 2772 pixels, 19.5:9 ratio (~450 ppi density)",
+        "Protection": "Crystal Shield Glass"
+      },
+      "Platform": {
+        "OS": "Android 16, ColorOS 16",
+        "Chipset": "Mediatek Dimensity 9500 (3 nm)",
+        "CPU": "Octa-core (1x4.21 GHz C1-Ultra &amp; 3x3.5 GHz C1-Premium &amp; 4x2.7 GHz C1-Pro)",
+        "GPU": "Mali-G1 Ultra MC12"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 12GB RAM, 256GB 16GB RAM, 512GB 12GB RAM, 512GB 16GB RAM, 1TB 16GB RAM",
+        "Features": "UFS 4.1"
+      },
+      "Main Camera": {
+        "Dual": "50 MP, f/1.8, 23mm (wide), 1/1.55\", PDAF, OIS\n\n8 MP, f/2.2, 16mm, 112˚ (ultrawide)",
+        "Features": "Color spectrum sensor, LED flash, HDR, panorama",
+        "Video": "4K@30/60fps, 1080p@30/60/240fps, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "16 MP, f/2.4, 23mm (wide), 1/3\"",
+        "Features": "Panorama",
+        "Video": "1080p@30fps, gyro-EIS"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+        "Bluetooth": "6.0, A2DP, LE",
+        "Positioning": "GPS (L1+L5), GALILEO (E1+E5a+E5b), QZSS (L1+L5), BDS (B1l+B1C+ B2a+B2b), GLONASS, NavIC (L5)",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Si/C Li-Ion 8600 mAh",
+        "Charging": "120W wired, 44W/120W UFCS, 55W PPS, 13.5W PD, 53% in 22 min"
+      },
+      "Misc": {
+        "Colors": "Gray, Gold",
+        "Price": "About 440 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-ace-6-ultra-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-ace-6-ultra-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-ace-6-ultra-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oneplus_ace_6_ultra_5g-pictures-14637.php"
+    }
+  }
+}

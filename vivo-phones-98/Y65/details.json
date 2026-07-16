@@ -1,0 +1,95 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "vivo Y65",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-y65-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/vivo-y65.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2017, November",
+    "dimensions": "157g, 7.5mm thickness",
+    "os": "Android 7.1, Funtouch 3.2",
+    "storage": "16GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "1, 3, 5, 41 - Pakistan, Philippines, Bangladesh, Nepal",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+        "Features": "1, 3, 5, 7, 8 - Malaysia, Vietnam\n1, 3, 5, 8, 40 - Thailand, Indonesia, Myanmar, Sri Lanka"
+      },
+      "Launch": {
+        "Announced": "2017, October. Released 2017, November",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "153.6 x 75.8 x 7.5 mm (6.05 x 2.98 x 0.30 in)",
+        "Weight": "157 g (5.54 oz)",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "5.5 inches, 83.4 cm<sup>2</sup> (~71.6% screen-to-body ratio)",
+        "Resolution": "720 x 1280 pixels, 16:9 ratio (~267 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 7.1 (Nougat), Funtouch 3.2",
+        "Chipset": "Qualcomm MSM8917 Snapdragon 425 (28 nm)",
+        "CPU": "Quad-core 1.4 GHz Cortex-A53",
+        "GPU": "Adreno 308"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "16GB 3GB RAM",
+        "Features": "eMMC 5.1"
+      },
+      "Main Camera": {
+        "Single": "13 MP, f/2.2, AF",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "5 MP, f/2.2",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n",
+        "Bluetooth": "4.2, A2DP, LE",
+        "Positioning": "GPS, GLONASS, BDS",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "microUSB 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Ion 3000 mAh, non-removable"
+      },
+      "Misc": {
+        "Colors": "Gold, Matte Black, Rose Gold",
+        "Models": "1719",
+        "Price": "About 170 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-y65-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-y65-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/vivo_y65-pictures-9113.php"
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "vivo X100 Ultra",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-x100-ultra-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/vivo-x100-ultra.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/vivo_x100_ultra-review-2717.php",
+    "siblingDeviceSlugs": [
+      "vivo_x100_pro-12694",
+      "vivo_x100-12695"
+    ],
+    "release_date": "Released 2024, May 28",
+    "dimensions": "229g, 9.2mm thickness",
+    "os": "Android 14, up to Android 15, OriginOS 5",
+    "storage": "256GB/512GB/1TB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 25, 26, 28, 34, 38, 39, 40, 41, 42, 66",
+        "5G bands": "1, 2, 3, 5, 7, 8, 12, 20, 25, 26, 28, 38, 40, 41, 66, 77, 78, 79 SA/NSA",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "CDMA 800"
+      },
+      "Launch": {
+        "Announced": "2024, May 13",
+        "Status": "Available. Released 2024, May 28"
+      },
+      "Body": {
+        "Dimensions": "164.1 x 75.6 x 9.2 mm (6.46 x 2.98 x 0.36 in)",
+        "Weight": "229 g (8.08 oz)",
+        "Build": "Glass front, glass back, aluminum frame",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "IP69/IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)"
+      },
+      "Display": {
+        "Type": "LTPO AMOLED, 1B colors, 120Hz, Dolby Vision, HDR, 3000 nits (peak)",
+        "Size": "6.78 inches, 111.4 cm<sup>2</sup> (~89.8% screen-to-body ratio)",
+        "Resolution": "1440 x 3200 pixels, 20:9 ratio (~517 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 14, upgradable to Android 15, OriginOS 5",
+        "Chipset": "Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm)",
+        "CPU": "Octa-core (1x3.3 GHz Cortex-X4 &amp; 3x3.2 GHz Cortex-A720 &amp; 2x3.0 GHz Cortex-A720 &amp; 2x2.3 GHz Cortex-A520)",
+        "GPU": "Adreno 750"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 12GB RAM, 512GB 16GB RAM, 1TB 16GB RAM",
+        "Features": "UFS 4.0"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, f/1.8, 23mm (wide), 1/0.98\", 1.6µm, dual pixel PDAF, gimbal OIS\n\n200 MP, f/2.7, 85mm (periscope telephoto), 1/1.4\", 0.56µm, multi-directional PDAF, OIS, 3.7x optical zoom, macro 3.4:1\n\n50 MP, f/2.2, 14mm, 116˚ (ultrawide), 1/2.0\", 0.8µm, AF",
+        "Features": "Laser AF, color spectrum sensor, Zeiss optics, Zeiss T* lens coating, LED flash, panorama, HDR, 3D LUT import",
+        "Video": "8K@30fps, 4K@30/60/120fps, 1080p@30/60/120/240fps, gyro-EIS, Dolby Vision HDR"
+      },
+      "Selfie camera": {
+        "Single": "50 MP, f/2.5, 24mm (wide), 1/2.76\", 0.64µm, AF",
+        "Features": "HDR",
+        "Video": "4K@30/60fps, 1080p@30/60fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No",
+        "Features": "24-bit/192kHz Hi-Res audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band",
+        "Bluetooth": "5.4, A2DP, LE, aptX HD, aptX Adaptive, aptX Lossless, LHDC",
+        "Positioning": "GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), GLONASS",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 3.2, OTG, DisplayPort"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass",
+        "Features": "Emergency SOS via satellite (calls, messages) - 16GB + 1TB model only"
+      },
+      "Battery": {
+        "Type": "Si/C Li-Ion 5500 mAh",
+        "Charging": "80W wired, PD, PPS, QC, UFCS\n\n30W wireless\n\nReverse wired\n\nReverse wireless"
+      },
+      "Misc": {
+        "Colors": "Titanium, White, Grey",
+        "Models": "V2366GA, V2366HA",
+        "Price": "About 610 EUR"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 2152790 (v10)\n\nGeekBench: 6311 (v6)\n\n3DMark: 4934 (Wild Life Extreme)",
+        "Display": "<a class=\"noUnd\" href=\"vivo_x100_ultra-review-2717p3.php#dt\">1801 nits max brightness (measured)</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"vivo_x100_ultra-review-2717p3.php#lt\">-26.2 LUFS (Good)</a>",
+        "Battery": "<div style=\"position:relative;\">\n<a href=\"vivo_x100_ultra-review-2717p3.php#bt\" data-battery2=\"27:25_13:09_16:30_6:52\" onclick=\"showBatteryPopup(event, 12994); \" class=\"v2\">Active use score 12:55h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-x100-ultra-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-x100-ultra-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-x100-ultra-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/vivo_x100_ultra-pictures-12994.php"
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "vivo iQOO Z9s Pro",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-iqoo-z9s-pro-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/vivo-iqoo-z9s-pro-5g.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/iqoo_z9s_pro_hands_on_review-news-65084.php",
+    "siblingDeviceSlugs": [
+      "vivo_iqoo_z9s-13273"
+    ],
+    "release_date": "Released 2024, August 23",
+    "dimensions": "185g or 190g, 7.5mm thickness",
+    "os": "Android 14, up to 2 major upgrades",
+    "storage": "128GB/256GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "1, 3, 5, 8, 28, 38, 40, 41",
+        "5G bands": "1, 3, 5, 8, 28, 40, 77, 78 SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2024, August 21",
+        "Status": "Available. Released 2024, August 23"
+      },
+      "Body": {
+        "Dimensions": "163.7 x 75 x 7.5 or 8.0 mm",
+        "Weight": "185 g or 190 g (6.53 oz)",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "IP64 dust tight and water resistant (water splashes)"
+      },
+      "Display": {
+        "Type": "AMOLED, 1B colors, 120Hz, HDR10+, 4500 nits (peak)",
+        "Size": "6.77 inches, 110.9 cm<sup>2</sup> (~90.3% screen-to-body ratio)",
+        "Resolution": "1080 x 2392 pixels (~388 ppi density)",
+        "Protection": "Schott Xensation"
+      },
+      "Platform": {
+        "OS": "Android 14, up to 2 major Android upgrades, Funtouch 14",
+        "Chipset": "Qualcomm SM7550-AB Snapdragon 7 Gen 3 (4 nm)",
+        "CPU": "Octa-core (1x2.63 GHz Cortex-A715 &amp; 3x2.4 GHz Cortex-A715 &amp; 4x1.8 GHz Cortex-A510)",
+        "GPU": "Adreno 720"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM",
+        "Features": "UFS 2.2"
+      },
+      "Main Camera": {
+        "Dual": "50 MP, f/1.8, (wide), 1/1.95\", 0.8µm, PDAF, OIS\n\n8 MP, f/2.2, 120˚ (ultrawide)",
+        "Features": "LED flash, panorama, HDR",
+        "Video": "4K@30fps, 1080p@30/60fps, gyro-EIS, OIS"
+      },
+      "Selfie camera": {
+        "Single": "16 MP, f/2.5, (wide), 1/3.0\", 1.0µm",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No",
+        "Features": "24-bit/192kHz Hi-Res audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+        "Bluetooth": "5.4, A2DP, LE",
+        "Positioning": "GPS, GALILEO, GLONASS, BDS, QZSS",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Ion 5500 mAh",
+        "Charging": "80W wired, 50% in 21 min\n\n7.5W reverse wired"
+      },
+      "Misc": {
+        "Colors": "Flamboyant Orange, Luxe Marble",
+        "Models": "I2305",
+        "Price": "About 270 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-iqoo-z9s-pro-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-iqoo-z9s-pro-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/vivo_iqoo_z9s_pro-pictures-13272.php"
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "vivo X200s",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-x200s-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/vivo-x200s.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2025, April 25",
+    "dimensions": "203g, 8mm thickness",
+    "os": "Android 15, up to 4 major upgrades",
+    "storage": "256GB/512GB/1TB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 18, 19, 25, 26, 28, 34, 38, 39, 40, 41, 42, 43, 48, 66",
+        "5G bands": "1, 2, 3, 5, 7, 8, 18, 25, 26, 28A, 34, 38, 39, 40, 41, 48, 66, 77, 78 SA/NSA/Sub6",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2025, April 21",
+        "Status": "Available. Released 2025, April 25"
+      },
+      "Body": {
+        "Dimensions": "160 x 74.3 x 8 mm (6.30 x 2.93 x 0.31 in)",
+        "Weight": "203 g (7.16 oz)",
+        "SIM": "· Nano-SIM + Nano-SIM + <a href=\"glossary.php3?term=esim\">eSIM</a> (max 2 at a time)\n· Nano-SIM + Nano-SIM",
+        "Features": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)"
+      },
+      "Display": {
+        "Type": "AMOLED, 1B colors, 120Hz, 2160Hz PWM, HDR10+, HDR Vivid, 5000 nits (peak)",
+        "Size": "6.67 inches, 107.4 cm<sup>2</sup> (~90.4% screen-to-body ratio)",
+        "Resolution": "1260 x 2800 pixels, 20:9 ratio (~460 ppi density)",
+        "Features": "Ultra HDR image support"
+      },
+      "Platform": {
+        "OS": "Android 15, up to 4 major Android upgrades, Funtouch 15 (International), OriginOS 5 (China)",
+        "Chipset": "Mediatek Dimensity 9400+ (3 nm)",
+        "CPU": "Octa-core (1x3.73 GHz Cortex-X925 &amp; 3x3.3 GHz Cortex-X4 &amp; 4x2.4 GHz Cortex-A720)",
+        "GPU": "Immortalis-G925"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 12GB RAM, 256GB 16GB RAM, 512GB 12GB RAM, 512GB 16GB RAM, 1TB 16GB RAM",
+        "Features": "UFS 4.1"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, f/1.6, 23mm (wide), 1/1.56\", PDAF, OIS\n\n50 MP, f/2.6, 70mm (periscope telephoto), 1/1.95\", PDAF, OIS, 3x optical zoom\n\n50 MP, f/2.0, 15mm, 119˚ (ultrawide), 1/2.76\", 0.64µm, AF",
+        "Features": "Laser AF, Zeiss optics, Zeiss T* lens coating, LED flash, panorama, HDR, 3D LUT import",
+        "Video": "4K@30/60fps, 1080p@30/60/120/240fps, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.0, 20mm (ultrawide)",
+        "Features": "HDR",
+        "Video": "4K@30/60fps, 1080p@30/60fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band",
+        "Bluetooth": "5.4, A2DP, LE, aptX HD, LHDC 5",
+        "Positioning": "GPS (L1+L5), GLONASS (L1), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), NavIC (L1+L5)",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Si/C Li-Ion 6200 mAh",
+        "Charging": "90W wired\n\n40W wireless\n\nReverse wired"
+      },
+      "Misc": {
+        "Colors": "Gray, Silver, Mint, Purple",
+        "Models": "V2458A",
+        "Price": "About 510 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-x200s-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-x200s-4.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-x200s-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-x200s-5.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/vivo_x200s_5g-pictures-13783.php"
+    }
+  }
+}

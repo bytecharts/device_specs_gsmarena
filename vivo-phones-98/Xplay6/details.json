@@ -1,0 +1,96 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "vivo Xplay6",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-xplay6-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/vivo-xplay6.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2016, December",
+    "dimensions": "178g, 8.4mm thickness",
+    "os": "Android 6.1, up to Android 8, Funtouch 3",
+    "storage": "128GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / EVDO / LTE</a>",
+        "2G bands": "GSM 900 / 1800 - SIM 1 &amp; SIM 2",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 38, 39, 40, 41",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE (2CA) Cat6 300/50 Mbps",
+        "Features": "CDMA 800\nCDMA2000 1xEV-DO &amp; TD-SCDMA"
+      },
+      "Launch": {
+        "Announced": "2016, November. Released 2016, December",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "153.8 x 73.6 x 8.4 mm (6.06 x 2.90 x 0.33 in)",
+        "Weight": "178 g (6.28 oz)",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "Super AMOLED",
+        "Size": "5.46 inches, 82.2 cm<sup>2</sup> (~72.6% screen-to-body ratio)",
+        "Resolution": "1440 x 2560 pixels, 16:9 ratio (~538 ppi density)",
+        "Protection": "Corning Gorilla Glass 3"
+      },
+      "Platform": {
+        "OS": "Android 6.1 (Marshmallow), upgradable to Android 8 (Oreo), Funtouch 3",
+        "Chipset": "Qualcomm MSM8996 Snapdragon 820 (14 nm)",
+        "CPU": "Quad-core (2x2.15 GHz Kryo &amp; 2x1.6 GHz Kryo)",
+        "GPU": "Adreno 530"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 6GB RAM"
+      },
+      "Main Camera": {
+        "Dual": "12 MP, f/1.7, 1/2.55\", 1.4µm, dual pixel PDAF, 4-axis OIS\n\nAuxiliary lens",
+        "Features": "Dual-LED dual-tone flash, panorama, HDR",
+        "Video": "4K@30fps, 1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "16 MP, f/2.0, 26mm (wide), 1/3.06\", 1.0µm",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes",
+        "Features": "32-bit/192kHz audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "4.2, A2DP, LE",
+        "Positioning": "GPS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "microUSB 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (front-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Ion 4080 mAh, non-removable",
+        "Charging": "18W wired"
+      },
+      "Misc": {
+        "Colors": "Gold, Rose Gold",
+        "Price": "About 700 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-xplay6-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-xplay6-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-xplay6-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/vivo_xplay6-pictures-8436.php"
+    }
+  }
+}

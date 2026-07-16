@@ -1,0 +1,96 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "vivo Xplay5",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-xplay5-0.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/vivo-xplay5.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2016, March",
+    "dimensions": "167.8g, 7.6mm thickness",
+    "os": "Android 5.1, Funtouch 2.5",
+    "storage": "128GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / EVDO / LTE</a>",
+        "2G bands": "GSM 900 / 1800 - SIM 1 &amp; SIM 2",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 38, 39, 40, 41",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE (2CA) Cat6 300/50 Mbps",
+        "Features": "CDMA 800\nCDMA2000 1xEV-DO\nTD-SCDMA"
+      },
+      "Launch": {
+        "Announced": "2016, March. Released 2016, March",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "153.5 x 76.2 x 7.6 mm (6.04 x 3.00 x 0.30 in)",
+        "Weight": "167.8 g (5.93 oz)",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "Super AMOLED",
+        "Size": "5.43 inches, 81.3 cm<sup>2</sup> (~69.5% screen-to-body ratio)",
+        "Resolution": "1440 x 2560 pixels, 16:9 ratio (~541 ppi density)",
+        "Protection": "Corning Gorilla Glass 3"
+      },
+      "Platform": {
+        "OS": "Android 5.1 (Lollipop), Funtouch 2.5",
+        "Chipset": "Qualcomm MSM8976 Snapdragon 652 (28 nm)",
+        "CPU": "Octa-core (4x1.8 GHz Cortex-A72 &amp; 4x1.4 GHz Cortex-A53)",
+        "GPU": "Adreno 510"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 4GB RAM",
+        "Features": "eMMC 5.1"
+      },
+      "Main Camera": {
+        "Single": "16 MP, f/2.0, 1/2.8\", 1.12µm, PDAF",
+        "Features": "Dual-LED dual-tone flash, panorama, HDR",
+        "Video": "4K@30fps, 1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, f/2.4",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes",
+        "Features": "32-bit/192kHz audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+        "Bluetooth": "4.0, A2DP, LE",
+        "Positioning": "GPS",
+        "NFC": "Yes",
+        "Radio": "FM radio",
+        "USB": "microUSB 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Ion 3600 mAh, non-removable"
+      },
+      "Misc": {
+        "Colors": "Silver, Gold, Rose Gold",
+        "Price": "About 520 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-xplay5-0.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-xplay5-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-xplay5-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/vivo_xplay5-pictures-7966.php"
+    }
+  }
+}

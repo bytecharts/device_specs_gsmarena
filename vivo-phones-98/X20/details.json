@@ -1,0 +1,96 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "vivo X20",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-x20-3.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/vivo-x20.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2017, October",
+    "dimensions": "159g, 7.2mm thickness",
+    "os": "Android 7.1.1, up to 8.0, Funtouch 3.2",
+    "storage": "64GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / LTE</a>",
+        "2G bands": "GSM 900 / 1800 - SIM 1 &amp; SIM 2",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4G bands": "1, 2, 3, 5, 7, 8, 34, 38, 39, 40, 41",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE (2CA) Cat6 300/50 Mbps",
+        "Features": "CDMA 800 &amp; TD-SCDMA\n1, 2, 3, 4, 5, 8,  - X20A"
+      },
+      "Launch": {
+        "Announced": "2017, September. Released 2017, October",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "155.9 x 75.2 x 7.2 mm (6.14 x 2.96 x 0.28 in)",
+        "Weight": "159 g (5.61 oz)",
+        "Build": "Glass front, aluminum back, aluminum frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "Super AMOLED",
+        "Size": "6.01 inches, 93.2 cm<sup>2</sup> (~79.5% screen-to-body ratio)",
+        "Resolution": "1080 x 2160 pixels, 18:9 ratio (~402 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 7.1.1 (Nougat), upgradable to Android 8.0 (Oreo), Funtouch 3.2",
+        "Chipset": "Qualcomm SDM660 Snapdragon 660 (14 nm)",
+        "CPU": "Octa-core (4x2.2 GHz Kryo 260 Gold &amp; 4x1.8 GHz Kryo 260 Silver)",
+        "GPU": "Adreno 512"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (uses shared SIM slot)",
+        "Internal": "64GB 4GB RAM",
+        "Features": "eMMC 5.1"
+      },
+      "Main Camera": {
+        "Dual": "12 MP, f/1.8, AF\n\nAuxiliary lens",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "12 MP, f/2.0, (wide), 1/2.8\", 1.28µm",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes",
+        "Features": "32-bit/192kHz audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS",
+        "NFC": "No",
+        "Radio": "No",
+        "USB": "microUSB 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Ion 3250 mAh, non-removable"
+      },
+      "Misc": {
+        "Colors": "Matte Black, Black/Gold, Gold, Rose gold, Blue, Pink",
+        "Models": "X20A, 1721",
+        "Price": "About 390 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-x20-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-x20-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/vivo_x20-pictures-8852.php"
+    }
+  }
+}

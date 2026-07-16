@@ -1,0 +1,117 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "vivo X200 Pro",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-x200-pro-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/vivo-x200-pro.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/vivo_x200_pro-review-2759.php",
+    "siblingDeviceSlugs": [
+      "vivo_x200_ultra-13762",
+      "vivo_x200-13433",
+      "vivo_x200_pro_mini-13434"
+    ],
+    "release_date": "Released 2024, October 19",
+    "dimensions": "223g or 228g, 8.5mm thickness",
+    "os": "Android 15, up to 4 major upgrades",
+    "storage": "256GB/512GB/1TB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100 - China",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 26, 28, 32, 34, 38, 39, 40, 41, 42, 66 - International",
+        "5G bands": "1, 2, 3, 5, 7, 8, 12, 20, 25, 26, 28, 38, 40, 41, 66, 77, 78 SA/NSA/Sub6 - India",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - International\n1, 2, 3, 4, 5, 7, 8, 18, 19, 20, 26, 28, 34, 38, 39, 40, 41, 66 - China\n1, 3, 5, 7, 8, 20, 26, 28, 38, 40, 41, 66, 75, 77, 78, 79 SA/NSA/Sub6 - Malaysia\n1, 3, 5, 8, 28, 38, 40, 41, 77, 78, 79 SA/NSA/Sub6 - China"
+      },
+      "Launch": {
+        "Announced": "2024, October 14",
+        "Status": "Available. Released 2024, October 19"
+      },
+      "Body": {
+        "Dimensions": "162.4 x 76 x 8.2 mm or 8.5 mm",
+        "Weight": "223 g or 228 g (7.87 oz)",
+        "Build": "Glass front, aluminum frame, glass back or glass-fiber reinforced plastic back",
+        "SIM": "· Nano-SIM + Nano-SIM + <a href=\"glossary.php3?term=esim\">eSIM</a> (max 2 at a time)\n· Nano-SIM + Nano-SIM",
+        "Features": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)"
+      },
+      "Display": {
+        "Type": "LTPO AMOLED, 1B colors, 120Hz, 2160Hz PWM, HDR10+, Dolby Vision, 4500 nits (peak)",
+        "Size": "6.78 inches, 111.5 cm<sup>2</sup> (~90.3% screen-to-body ratio)",
+        "Resolution": "1260 x 2800 pixels, 20:9 ratio (~452 ppi density)",
+        "Protection": "Scratch/drop-resistant glass (Armor Glass)",
+        "Features": "Ultra HDR image support"
+      },
+      "Platform": {
+        "OS": "Android 15, up to 4 major Android upgrades, Funtouch 15 (International), OriginOS 5 (China)",
+        "Chipset": "Mediatek Dimensity 9400 (3 nm)",
+        "CPU": "Octa-core (1x3.63 GHz Cortex-X925 &amp; 3x3.3 GHz Cortex-X4 &amp; 4x2.4 GHz Cortex-A720)",
+        "GPU": "Immortalis-G925"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 12GB RAM, 512GB 16GB RAM, 1TB 16GB RAM",
+        "Features": "UFS 4.0"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, f/1.6, 23mm (wide), 1/1.28\", 1.22µm, PDAF, OIS\n\n200 MP, f/2.7, 85mm (periscope telephoto), 1/1.4\", 0.56µm, multi-directional PDAF, OIS, 3.7x optical zoom, macro 2.7:1\n\n50 MP, f/2.0, 15mm, 119˚ (ultrawide), 1/2.76\", 0.64µm, AF",
+        "Features": "Laser AF, color spectrum sensor, Zeiss optics, Zeiss T* lens coating, LED flash, panorama, HDR, 3D LUT import",
+        "Video": "8K@30fps, 4K@30/60/120fps, 1080p@30/60/120/240fps, gyro-EIS, 10-bit Log, Dolby Vision HDR"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.0, 20mm (ultrawide)",
+        "Features": "HDR",
+        "Video": "4K@30/60fps, 1080p@30/60fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No",
+        "Features": "24-bit/192kHz Hi-Res audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band",
+        "Bluetooth": "5.4, A2DP, LE, aptX HD, LHDC 5",
+        "Positioning": "GPS (L1+L5), GLONASS (L1), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), NavIC (L5)",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 3.2, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass",
+        "Features": "Satellite connectivity support (optional, market/region dependent)"
+      },
+      "Battery": {
+        "Type": "· Si/C Li-Ion 6000 mAh (Global)\n· Li-Ion 5200 mAh (Austria, Hungary, Germany)",
+        "Charging": "90W wired\n\n30W wireless\n\nReverse wireless\n\nReverse wired"
+      },
+      "Misc": {
+        "Colors": "Cosmos Black, Titanium Grey, Blue, White",
+        "Models": "V2413, V2405A, V2405DA",
+        "SAR": "0.99 W/kg (head) &nbsp; &nbsp; 0.90 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 620 EUR"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 2609095(v10)\n\nGeekBench: 8152 (v6)\n\n3DMark: 6173 (Wild Life Extreme)",
+        "Display": "<a class=\"noUnd\" href=\"vivo_x200_pro-review-2759p3.php#dt\">1881 nits max brightness (measured)</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"vivo_x200_pro-review-2759p3.php#lt\">-25.0 LUFS (Very good)</a>",
+        "Battery": "<div style=\"position:relative;\">\n<a href=\"vivo_x200_pro-review-2759p3.php#bt\" data-battery2=\"29:41_13:55_17:42_9:37\" onclick=\"showBatteryPopup(event, 13410); \" class=\"v2\">Active use score 15:09h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-x200-pro-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-x200-pro-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-x200-pro-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/vivo_x200_pro-pictures-13410.php"
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "vivo Y73",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-y73-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/vivo-v21e.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2021, June 12",
+    "dimensions": "170g, 7.4mm thickness",
+    "os": "Android 11, Funtouch 11.1",
+    "storage": "128GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "1, 3, 5, 8, 38, 40, 41",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2021, June 10",
+        "Status": "Available. Released 2021, June 12"
+      },
+      "Body": {
+        "Dimensions": "161.2 x 74.4 x 7.4 mm (6.35 x 2.93 x 0.29 in)",
+        "Weight": "170 g (6.00 oz)",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED, HDR10, 430 nits (typ), 570 nits (HBM)",
+        "Size": "6.44 inches, 100.1 cm<sup>2</sup> (~83.5% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~409 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 11, Funtouch 11.1",
+        "Chipset": "Mediatek MT6785V/CD Helio G95 (12 nm)",
+        "CPU": "Octa-core (2x2.05 GHz Cortex-A76 &amp; 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G76 MC4"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "128GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Triple": "64 MP, f/1.8, 26mm (wide), 1/1.72\", 0.8µm, PDAF\n\n2 MP (macro)\n\nAuxiliary lens",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@30/60fps, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "16 MP, f/2.0, (wide)",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes",
+        "Features": "24-bit/192kHz Hi-Res audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS, QZSS",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "4000 mAh",
+        "Charging": "33W wired, 61% in 30 min"
+      },
+      "Misc": {
+        "Colors": "Diamond Flare, Roman Black",
+        "Models": "V2059, V2146, V2212, V2168",
+        "SAR": "0.72 W/kg (head) &nbsp; &nbsp; 0.48 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 240 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-y73-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-y73-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/vivo_y73-pictures-11022.php"
+    }
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "vivo V50",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-v50-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/vivo-v50.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/vivo_v50-review-2815.php",
+    "siblingDeviceSlugs": [
+      "vivo_v50_lite-13745"
+    ],
+    "release_date": "Released 2025, February 25",
+    "dimensions": "189g or 199g, 7.4mm thickness",
+    "os": "Android 15, up to 3 major upgrades",
+    "storage": "128GB/256GB/512GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 26, 28, 38, 39, 40, 41, 42, 66 - Global",
+        "5G bands": "1, 2, 3, 5, 7, 8, 20, 26, 28, 38, 40, 41, 66, 77, 78 SA/NSA - Global",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "1, 3, 4, 5, 8, 18, 19, 26, 28, 38, 39, 40, 41, 42, 66 - India\n1, 3, 5, 8, 28, 40, 66, 77, 78 SA/NSA - India"
+      },
+      "Launch": {
+        "Announced": "2025, February 17",
+        "Status": "Available. Released 2025, February 25"
+      },
+      "Body": {
+        "Dimensions": "163.3 x 76.7 x 7.4 / 7.6 / 7.7 mm",
+        "Weight": "189 g or 199 g (6.67 oz)",
+        "Build": "Glass front, glass back or plastic back",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)"
+      },
+      "Display": {
+        "Type": "AMOLED, 1B colors, HDR10+, 120Hz, 3840Hz PWM, 1300 nits (HBM), 4500 nits (peak)",
+        "Size": "6.77 inches, 110.9 cm<sup>2</sup> (~88.5% screen-to-body ratio)",
+        "Resolution": "1080 x 2392 pixels (~388 ppi density)",
+        "Protection": "Diamond Shield Glass, Mohs level 4"
+      },
+      "Platform": {
+        "OS": "Android 15, up to 3 major Android upgrades, Funtouch 15",
+        "Chipset": "Qualcomm SM7550-AB Snapdragon 7 Gen 3 (4 nm)",
+        "CPU": "Octa-core (1x2.63 GHz Cortex-A715 &amp; 3x2.4 GHz Cortex-A715 &amp; 4x1.8 GHz Cortex-A510)",
+        "GPU": "Adreno 720"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM, 512GB 12GB RAM",
+        "Features": "UFS 2.2"
+      },
+      "Main Camera": {
+        "Dual": "50 MP, f/1.9, 23mm (wide), 1/1.55\", 1.0µm, PDAF, OIS\n\n50 MP, f/2.0, 15mm, 119˚ (ultrawide), 1/2.76\", 0.64µm, AF",
+        "Features": "Color spectrum sensor, Zeiss optics, Ring-LED flash, panorama, HDR",
+        "Video": "4K@30fps, 1080p@30fps, gyro-EIS, OIS"
+      },
+      "Selfie camera": {
+        "Single": "50 MP, f/2.0, 21mm (wide), 1/2.76\", 0.64µm, AF",
+        "Features": "Zeiss optics, HDR",
+        "Video": "4K@30fps, 1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+        "Bluetooth": "5.4, A2DP, LE",
+        "Positioning": "GPS, GALILEO, GLONASS, QZSS, BDS, NavIC",
+        "NFC": "Yes (market/region dependent)",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Si/C Li-Ion 6000 mAh",
+        "Charging": "90W wired, PD\n\nReverse wired"
+      },
+      "Misc": {
+        "Colors": "Ancora Red (Rose Red), Satin Black (Titanium Grey), Starry Blue (Starry Night), Mist Purple",
+        "Models": "V2427",
+        "SAR": "0.99 W/kg (head) &nbsp; &nbsp; 0.84 W/kg (body) &nbsp; &nbsp;",
+        "Price": "<a href=\"vivo_v50-price-13656.php\">$ 584.93</a>"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 833862 (v10)\n\nGeekBench: 3210 (v6)\n\n3DMark: 1450 (Wild Life Extreme)",
+        "Display": "<a class=\"noUnd\" href=\"vivo_v50-review-2815p3.php#dt\">1274 nits max brightness (measured)</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"vivo_v50-review-2815p3.php#lt\">-25.1 LUFS (Very good)</a>",
+        "Battery": "<div style=\"position:relative;\">\n<a href=\"vivo_v50-review-2815p3.php#bt\" data-battery2=\"39:48_13:16_19:19_9:05\" onclick=\"showBatteryPopup(event, 13656); \" class=\"v2\">Active use score 15:20h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      },
+      "EU LABEL": {
+        "Energy": "Class B",
+        "Battery": "52:45h endurance, 800 cycles",
+        "Free fall": "Class C (90 falls)",
+        "Repairability": "Class B"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-v50-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-v50-4.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-v50-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-v50-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/vivo_v50-pictures-13656.php"
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "vivo iQOO Z10 Turbo",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-iqoo-z10-turbo-pro-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/vivo-iqoo-z10-turbo.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "vivo_iqoo_z10_turbo_pro_5g-13800"
+    ],
+    "release_date": "Released 2025, April 28",
+    "dimensions": "212g, 8.1mm thickness",
+    "os": "Android 15, OriginOS 5",
+    "storage": "256GB/512GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 2100",
+        "4G bands": "1, 3, 5, 8, 19, 28, 34, 38, 39, 40, 41, 42, 48",
+        "5G bands": "1, 3, 5, 8, 28, 34, 38, 39, 40, 41, 48, 77, 78 SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2025, April 28",
+        "Status": "Available. Released 2025, April 28"
+      },
+      "Body": {
+        "Dimensions": "163.7 x 75.9 x 8.1 mm (6.44 x 2.99 x 0.32 in)",
+        "Weight": "212 g (7.48 oz)",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "IP65 dust tight and water resistant (low pressure water jets)"
+      },
+      "Display": {
+        "Type": "AMOLED, 1B colors, 144Hz, HDR, 2000 nits (HBM), 4400 nits (peak)",
+        "Size": "6.78 inches, 111.0 cm<sup>2</sup> (~89.3% screen-to-body ratio)",
+        "Resolution": "1260 x 2800 pixels, 20:9 ratio (~453 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 15, OriginOS 5",
+        "Chipset": "Mediatek Dimensity 8400 (4 nm)",
+        "CPU": "Octa-core (1x3.25 GHz Cortex-A725 &amp; 3x3.0 GHz Cortex-A725 &amp; 4x2.1 GHz Cortex-A725)",
+        "GPU": "G720 MC7"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 12GB RAM, 256GB 16GB RAM, 512GB 12GB RAM, 512GB 16GB RAM",
+        "Features": "UFS 4.1"
+      },
+      "Main Camera": {
+        "Dual": "50 MP, f/1.8, (wide), 1/1.95\", 0.8µm, PDAF, OIS\n\nAuxiliary lens",
+        "Features": "Color spectrum sensor, LED flash, HDR, panorama",
+        "Video": "4K, 1080p, gyro-EIS, OIS"
+      },
+      "Selfie camera": {
+        "Single": "16 MP, f/2.5, (wide), 1/3.0\", 1.0µm",
+        "Video": "1080p@30fps, gyro-EIS"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+        "Bluetooth": "6.0, A2DP, LE, aptX HD",
+        "Positioning": "GPS (L1+L5), BDS (B1I+B1C+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5), GLONASS",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Si/C Li-Ion 7620 mAh",
+        "Charging": "90W wired, 100% in 55 min\n\nReverse wired"
+      },
+      "Misc": {
+        "Colors": "White, Black, Orange, Gold",
+        "Models": "V2452A",
+        "Price": "About 220 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-iqoo-z10-turbo-pro-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-iqoo-z10-turbo-pro-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-iqoo-z10-turbo-pro-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/vivo_iqoo_z10_turbo_5g-pictures-13822.php"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "vivo S10e",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-s10e-0.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/vivo-s10e.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2021, October 20",
+    "dimensions": "175g, 7.5mm thickness",
+    "os": "Android 11, OriginOS 1.0",
+    "storage": "128GB/256GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / CDMA2000 / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 2100",
+        "4G bands": "1, 3, 4, 5, 8, 28, 34, 38, 39, 40, 41",
+        "5G bands": "1, 3, 28, 41, 77, 78 SA/NSA",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "CDMA 800\nCDMA2000 1x"
+      },
+      "Launch": {
+        "Announced": "2021, October 18",
+        "Status": "Available. Released 2021, October 20"
+      },
+      "Body": {
+        "Dimensions": "160.9 x 74.3 x 7.5 mm (6.33 x 2.93 x 0.30 in)",
+        "Weight": "175 g (6.17 oz)",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED, HDR",
+        "Size": "6.44 inches, 100.1 cm<sup>2</sup> (~83.8% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~409 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 11, OriginOS 1.0",
+        "Chipset": "Mediatek Dimensity 900 (6 nm)",
+        "CPU": "Octa-core (2x2.4 GHz Cortex-A78 &amp; 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G68 MC4"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 8GB RAM, 256GB 8GB RAM",
+        "Features": "UFS 2.1"
+      },
+      "Main Camera": {
+        "Triple": "64 MP, f/1.8, 26mm (wide), PDAF\n\n8 MP, f/2.2, 120˚, 16mm (ultrawide), 1/4.0\", 1.12µm\n\nAuxiliary lens",
+        "Features": "Dual-LED dual-tone flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@30fps, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.0, (wide), 1/2.8\", 0.8µm",
+        "Features": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.2, A2DP, LE, aptX HD",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS",
+        "NFC": "No",
+        "Radio": "No",
+        "USB": "USB Type-C, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "4000 mAh",
+        "Charging": "44W wired"
+      },
+      "Misc": {
+        "Colors": "Black, White, Aurora",
+        "Models": "V2130A",
+        "Price": "About 320 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-s10e-0.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-s10e-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/vivo_s10e-pictures-11158.php"
+    }
+  }
+}

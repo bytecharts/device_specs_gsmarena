@@ -1,0 +1,95 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "vivo Y02A",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-y02-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/viv0-y02.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2023, April 03",
+    "dimensions": "186g, 8.5mm thickness",
+    "os": "Android 12, Funtouch 12",
+    "storage": "32GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "1, 3, 5, 7, 8, 20, 28, 38, 40, 41",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2023, April 03",
+        "Status": "Available. Released 2023, April 03"
+      },
+      "Body": {
+        "Dimensions": "164 x 75.6 x 8.5 mm (6.46 x 2.98 x 0.33 in)",
+        "Weight": "186 g (6.56 oz)",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": ""
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "6.51 inches, 102.3 cm<sup>2</sup> (~82.5% screen-to-body ratio)",
+        "Resolution": "720 x 1600 pixels, 20:9 ratio (~270 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 12 (Go edition), Funtouch 12",
+        "Chipset": "Mediatek MT6765 Helio P35 (12 nm)",
+        "CPU": "Octa-core (4x2.35 GHz Cortex-A53 &amp; 4x1.8 GHz Cortex-A53)",
+        "GPU": "PowerVR GE8320"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "32GB 3GB RAM",
+        "Features": "eMMC 5.1"
+      },
+      "Main Camera": {
+        "Single": "8 MP, f/2.0",
+        "Features": "LED flash",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "5 MP, f/2.2",
+        "Video": "Yes"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS, QZSS",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "microUSB 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "10W wired\n\n5W reverse wired"
+      },
+      "Misc": {
+        "Colors": "Cosmic Grey, Orchid Blue",
+        "Models": "V2234_PK",
+        "Price": "About 110 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-y02-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-y02-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/vivo_y02a-pictures-12211.php"
+    }
+  }
+}

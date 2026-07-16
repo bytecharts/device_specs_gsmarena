@@ -1,0 +1,102 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "vivo X90s",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-x90s-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/vivo-x90s.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2023, June 30",
+    "dimensions": "197.5 / 201.5 / 202.2 / 203.5g, 8.5mm thickness",
+    "os": "Android 13, OriginOS 3",
+    "storage": "256GB/512GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / CDMA2000 / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 18, 19, 26, 28, 34, 38, 39, 40, 41",
+        "5G bands": "1, 3, 5, 8, 28, 41, 77, 88 SA/NSA",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "CDMA 800\nCDMA2000 1x"
+      },
+      "Launch": {
+        "Announced": "2023, June 26",
+        "Status": "Available. Released 2023, June 30"
+      },
+      "Body": {
+        "Dimensions": "164.1 x 74.4 x 8.5 mm or 8.9 mm",
+        "Weight": "197.5 / 201.5 / 202.2 / 203.5 g (6.98 oz)",
+        "Build": "Glass front, glass back or eco leather back",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "IP64 dust tight and water resistant (water splashes)"
+      },
+      "Display": {
+        "Type": "AMOLED, 1B colors, 120Hz, HDR10+, 1300 nits (peak)",
+        "Size": "6.78 inches, 111.0 cm<sup>2</sup> (~90.9% screen-to-body ratio)",
+        "Resolution": "1260 x 2800 pixels, 20:9 ratio (~453 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 13, OriginOS 3",
+        "Chipset": "Mediatek Dimensity 9200+ (4 nm)",
+        "CPU": "Octa-core (1x3.35 GHz Cortex-X3 &amp; 3x3.0 GHz Cortex-A715 &amp; 4x2.0 GHz Cortex-A510)",
+        "GPU": "Immortalis-G715 MC11"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 8GB RAM, 256GB 12GB RAM, 512GB 12GB RAM",
+        "Features": "UFS 4.0"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, f/1.8, (wide), 1/1.49\", 1.0µm, PDAF, OIS\n\n12 MP, f/2.0, 50mm (telephoto), 1/2.93\", 1.22µm, AF, 2x optical zoom\n\n12 MP, f/2.0, 16mm (ultrawide), 1/2.93\", 1.22µm, AF",
+        "Features": "Laser AF, color spectrum sensor, Zeiss optics, Zeiss T* lens coating, Pixel Shift, dual-LED dual-tone flash, HDR, panorama",
+        "Video": "4K@30/60fps, 1080p@30/60fps, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.5, 24mm (wide), 1/2.8\", 0.8µm",
+        "Features": "HDR",
+        "Video": "1080p@30/60fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No",
+        "Features": "24-bit/192kHz Hi-Res audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, tri-band",
+        "Bluetooth": "5.3, A2DP, LE, aptX HD",
+        "Positioning": "GPS (L1+L5), GLONASS (G1), BDS (B1I+B2a+B2c), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5)",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "4810 mAh",
+        "Charging": "120W wired, 50% in 8 min\n\nReverse wired"
+      },
+      "Misc": {
+        "Colors": "Black, White, Red, Green",
+        "Models": "V2241HA",
+        "Price": "About 510 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-x90s-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-x90s-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-x90s-10.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/vivo_x90s-pictures-12376.php"
+    }
+  }
+}

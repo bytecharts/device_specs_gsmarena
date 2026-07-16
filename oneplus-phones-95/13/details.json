@@ -1,0 +1,122 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "OnePlus 13",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-13-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-13.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/oneplus_13-review-2777.php",
+    "siblingDeviceSlugs": [
+      "oneplus_13s_5g-13818",
+      "oneplus_13r-13548"
+    ],
+    "release_date": "Released 2024, November 01",
+    "dimensions": "210g or 213g, 8.5mm thickness",
+    "os": "Android 15, up to 4 major upgrades",
+    "storage": "256GB/512GB/1TB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100 - International",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 30, 32, 38, 39, 40, 41, 48, 66, 71 - International",
+        "5G bands": "1, 2, 3, 5, 7, 8, 12, 20, 25, 28, 30, 38, 40, 41, 48, 66, 71, 75, 77, 78 SA/NSA/Sub6 - International",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "HSDPA 850 / 900 / 1900 / 2100 - India\n1, 3, 4, 5, 7, 8, 18, 19, 20, 26, 28, 34, 38, 39, 40, 41, 42, 48, 66 - China, India\n1, 3, 5, 7, 8, 20, 28, 38, 40, 41, 48, 66, 77, 78 SA/NSA - China, India"
+      },
+      "Launch": {
+        "Announced": "2024, October 31",
+        "Status": "Available. Released 2024, November 01"
+      },
+      "Body": {
+        "Dimensions": "162.9 x 76.5 x 8.5 mm or 8.9 mm",
+        "Weight": "210 g or 213 g (7.41 oz)",
+        "Build": "Glass front (Ceramic Guard), glass back or silicone polymer back (eco leather), aluminum frame",
+        "SIM": "· Nano-SIM + Nano-SIM + <a href=\"glossary.php3?term=esim\">eSIM</a> (max 2 at a time)\n· Nano-SIM + Nano-SIM",
+        "Features": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)"
+      },
+      "Display": {
+        "Type": "LTPO 4.1 AMOLED, 1B colors, 120Hz, 2160Hz PWM, Dolby Vision, HDR10+, HDR Vivid, 800 nits (typ), 1600 nits (HBM), 4500 nits (peak)",
+        "Size": "6.82 inches, 113.0 cm<sup>2</sup> (~90.7% screen-to-body ratio)",
+        "Resolution": "1440 x 3168 pixels (~510 ppi density)",
+        "Protection": "Ceramic Guard glass, Mohs level 4",
+        "Features": "Ultra HDR image support"
+      },
+      "Platform": {
+        "OS": "Android 15, up to 4 major Android upgrades, OxygenOS 16 (International), ColorOS 16 (China)",
+        "Chipset": "Qualcomm SM8750-AB Snapdragon 8 Elite (3 nm)",
+        "CPU": "Octa-core (2x4.32 GHz Oryon V2 Phoenix L + 6x3.53 GHz Oryon V2 Phoenix M)",
+        "GPU": "Adreno 830"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 12GB RAM, 512GB 12GB RAM, 512GB 16GB RAM, 1TB 24GB RAM",
+        "Features": "UFS 4.0"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, f/1.6, 23mm (wide), 1/1.43\", 1.12µm, multi-directional PDAF, OIS\n\n50 MP, f/2.6, 73mm (periscope telephoto), 1/1.95\", 0.8µm, 3x optical zoom, PDAF, OIS\n\n50 MP, f/2.0, 15mm, 120˚ (ultrawide), 1/2.75\", 0.64µm, PDAF",
+        "Features": "Laser focus, Hasselblad Color Calibration, color spectrum sensor, Dual-LED flash, HDR, panorama",
+        "Video": "8K@30fps, 4K@30/60fps, 1080p@30/60/240/480fps, Auto HDR, gyro-EIS, Dolby Vision"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.4, 21mm (wide), 1/2.74\", 0.8µm",
+        "Features": "HDR, panorama",
+        "Video": "4K@30/60fps, 1080p@30/60fps, gyro-EIS"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No",
+        "Features": "24-bit/192kHz Hi-Res audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual or tri-band, Wi-Fi Direct",
+        "Bluetooth": "5.4, A2DP, LE, aptX HD, LHDC 5",
+        "Positioning": "GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 3.2, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer"
+      },
+      "Battery": {
+        "Type": "Si/C Li-Ion 6000 mAh",
+        "Charging": "100W wired, PD, QC, 50% in 13 min, 100% in 36 min\n\n50W wireless\n\n10W reverse wireless\n\n5W reverse wired"
+      },
+      "Misc": {
+        "Colors": "Black Eclipse, Arctic Dawn, Midnight Ocean",
+        "Models": "CPH2655, CPH2653, PJZ110, CPH2649",
+        "SAR": "1.13 W/kg (head) &nbsp; &nbsp; 1.15 W/kg (body) &nbsp; &nbsp;",
+        "Price": "<a href=\"oneplus_13-price-13477.php\">₹ 57,999 / $ 799.99 / £ 700.00</a>"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 2690491 (v10)\n\nGeekBench: 9278 (v6)\n\n3DMark: 6615 (Wild Life Extreme)",
+        "Display": "<a class=\"noUnd\" href=\"oneplus_13-review-2777p3.php#dt\">1204 nits max brightness (measured)</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"oneplus_13-review-2777p3.php#lt\">-23.5 LUFS (Very good)</a>",
+        "Battery": "<div style=\"position:relative;\">\n<a href=\"oneplus_13-review-2777p3.php#bt\" data-battery2=\"33:55_14:47_23:25_7:48\" onclick=\"showBatteryPopup(event, 13477); \" class=\"v2\">Active use score 15:28h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      },
+      "EU LABEL": {
+        "Energy": "Class A",
+        "Battery": "61:36h endurance, 1000 cycles",
+        "Free fall": "Class D (45 falls)",
+        "Repairability": "Class B"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-13-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-13-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-13-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-13-4.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oneplus_13-pictures-13477.php"
+    }
+  }
+}

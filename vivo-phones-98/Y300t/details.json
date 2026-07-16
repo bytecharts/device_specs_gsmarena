@@ -1,0 +1,100 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "vivo Y300t",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-y300t-5g-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/vivo-y300t.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2025, March 31",
+    "dimensions": "204g or 208g, 8.1mm thickness",
+    "os": "Android 15, OriginOS 5",
+    "storage": "128GB/256GB/512GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "1, 3, 5, 8, 28, 34, 38, 39, 40, 41",
+        "5G bands": "1, 3, 5, 8, 28, 41, 77, 78 SA/NSA",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "CDMA 800"
+      },
+      "Launch": {
+        "Announced": "2025, March 31",
+        "Status": "Available. Released 2025, March 31"
+      },
+      "Body": {
+        "Dimensions": "165.7 x 76.3 x 8.1 mm (6.52 x 3.00 x 0.32 in)",
+        "Weight": "204 g or 208 g (7.20 oz)",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "IP64 dust tight and water resistant (water splashes)"
+      },
+      "Display": {
+        "Type": "IPS LCD, 120Hz, 1050 nits (HBM)",
+        "Size": "6.72 inches, 108.8 cm<sup>2</sup> (~86.0% screen-to-body ratio)",
+        "Resolution": "1080 x 2408 pixels, 20:9 ratio (~393 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 15, OriginOS 5",
+        "Chipset": "Mediatek Dimensity 7300 (4 nm)",
+        "CPU": "Octa-core (4x2.5 GHz Cortex-A78 &amp; 4x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G615 MC2"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM, 512GB 12GB RAM",
+        "Features": "UFS 3.1"
+      },
+      "Main Camera": {
+        "Dual": "50 MP, f/1.8, (wide), PDAF\n\nAuxiliary lens",
+        "Features": "Ring-LED flash, panorama",
+        "Video": "4K@30fps, 1080p@30fps, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, f/2.1, (wide)",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+        "Bluetooth": "5.4, A2DP, LE, aptX HD",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS, QZSS",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Ion 6500 mAh",
+        "Charging": "44W wired, 50% in 40 min\n\nReverse wired"
+      },
+      "Misc": {
+        "Colors": "Black, White, Blue",
+        "Models": "V2445EA",
+        "Price": "About 150 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-y300t-5g-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-y300t-5g-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-y300t-5g-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/vivo_y300t_5g-pictures-13766.php"
+    }
+  }
+}

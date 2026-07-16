@@ -1,0 +1,110 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "OnePlus Pad Go 2",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-pad-go2-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-pad-go2.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/oneplus_pad_go_2-review-2931.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2025, December 24",
+    "dimensions": "597g or 599g, 6.8mm thickness",
+    "os": "Android 16, OxygenOS 16",
+    "storage": "128GB/256GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - cellular model only",
+        "3G bands": "HSDPA 850 / 900 / 2100 - cellular model only",
+        "4G bands": "LTE - cellular model only",
+        "5G bands": "SA/NSA/Sub6 - cellular model only",
+        "Speed": "HSPA, LTE, 5G - cellular model only"
+      },
+      "Launch": {
+        "Announced": "2025, December 17",
+        "Status": "Available. Released 2025, December 24"
+      },
+      "Body": {
+        "Dimensions": "266 x 192.8 x 6.8 mm (10.47 x 7.59 x 0.27 in)",
+        "Weight": "597 g or 599 g (1.32 lb)",
+        "Build": "Glass front, aluminum frame, aluminum back",
+        "SIM": "Yes - cellular model only",
+        "Features": "Stylus support"
+      },
+      "Display": {
+        "Type": "IPS LCD, 68B colors, 120Hz, Dolby Vision, HDR10+, 900 nits (HBM)",
+        "Size": "12.1 inches, 445.3 cm<sup>2</sup> (~86.8% screen-to-body ratio)",
+        "Resolution": "1980 x 2800 pixels (~283 ppi density)",
+        "Protection": "Mohs level 6"
+      },
+      "Platform": {
+        "OS": "Android 16, OxygenOS 16",
+        "Chipset": "Mediatek Dimensity 7300 Ultra (4 nm)",
+        "CPU": "Octa-core (4x2.5 GHz Cortex-A78 &amp; 4x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G615 MC2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "128GB 8GB RAM, 256GB 8GB RAM",
+        "Features": "UFS 3.1"
+      },
+      "Main Camera": {
+        "Single": "8 MP",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers (4 speakers)",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+        "Bluetooth": "5.4, A2DP, LE, aptX HD",
+        "Positioning": "Unspecified",
+        "NFC": "No",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity (accessories only), gyro, compass"
+      },
+      "Battery": {
+        "Type": "10050 mAh",
+        "Charging": "33W wired\n\nReverse wired"
+      },
+      "Misc": {
+        "Colors": "Shadow Black, Lavender Drift",
+        "Models": "OPD2504, OPD2505",
+        "Price": "About 350 EUR"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 719742 (v10), 1022818 (v11)\n\nGeekBench: 2939 (v6)\n\n3DMark: 877 (Wild Life Extreme)",
+        "Display": "<a class=\"noUnd\" href=\"oneplus_pad_go_2-review-2931p3.php#dt\">842 nits max brightness (measured)</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"oneplus_pad_go_2-review-2931p3.php#lt\">-22.1 LUFS (Excellent)</a>",
+        "Battery": "<div style=\"position:relative;\">\n<a href=\"oneplus_pad_go_2-review-2931p3.php#bt\" data-battery2=\"61:48_14:02_15:47_8:01\" onclick=\"showBatteryPopup(event, 14343); \" class=\"v2\">Active use score 14:35h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      },
+      "EU LABEL": {
+        "Energy": "Class F",
+        "Battery": "101:19h endurance, 800 cycles",
+        "Free fall": "Class E (10 falls)",
+        "Repairability": "Class B"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-pad-go2-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-pad-go2-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oneplus_pad_go_2_5g-pictures-14343.php"
+    }
+  }
+}

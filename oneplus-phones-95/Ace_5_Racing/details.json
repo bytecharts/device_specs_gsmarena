@@ -1,0 +1,99 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "OnePlus Ace 5 Racing",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-ace-5-racing-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-ace-5-racing.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2025, May 27",
+    "dimensions": "200g, 8.2mm thickness",
+    "os": "Android 15, ColorOS 15",
+    "storage": "256GB/512GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "1, 3, 4, 5, 8, 19, 28, 34, 38, 39, 40, 41, 42, 48, 66",
+        "5G bands": "1, 3, 5, 8, 28, 38, 40, 41, 48, 66, 77, 78 SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2025, May 27",
+        "Status": "Available. Released 2025, May 27"
+      },
+      "Body": {
+        "Dimensions": "163.6 x 76 x 8.2 mm (6.44 x 2.99 x 0.32 in)",
+        "Weight": "200 g (7.05 oz)",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "IP64 dust tight and water resistant (water splashes)"
+      },
+      "Display": {
+        "Type": "AMOLED, 1B colors, 120Hz, HDR Vivid, 800 nits (typ), 1300 nits (HBM)",
+        "Size": "6.77 inches, 111.5 cm<sup>2</sup> (~89.7% screen-to-body ratio)",
+        "Resolution": "1080 x 2392 pixels (~387 ppi density)",
+        "Protection": "Crystal Shield Glass"
+      },
+      "Platform": {
+        "OS": "Android 15, ColorOS 15",
+        "Chipset": "Mediatek Dimensity 9400e (4 nm)",
+        "CPU": "Octa-core (1x3.4 GHz Cortex-X4 &amp; 3x2.85 GHz Cortex-X4 &amp; 4x2.0 GHz Cortex-A720)",
+        "GPU": "Immortalis-G720 MC12"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 12GB RAM, 256GB 16GB RAM, 512GB 12GB RAM, 512GB 16GB RAM",
+        "Features": "UFS 4.0"
+      },
+      "Main Camera": {
+        "Dual": "50 MP, f/1.8, 26mm (wide), 1/1.95\", 0.8µm, PDAF, OIS\n\nAuxiliary lens",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "4K@30/60fps, 1080p@30/60/120/240fps, gyro-EIS, OIS"
+      },
+      "Selfie camera": {
+        "Single": "16 MP, f/2.4, 23mm (wide), 1/3\", 1.0µm",
+        "Features": "HDR, panorama",
+        "Video": "1080p@30/60fps, gyro-EIS"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band",
+        "Bluetooth": "5.4, A2DP, LE, aptX HD, LHDC 5",
+        "Positioning": "GPS, GALILEO, GLONASS, BDS, QZSS",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Si/C Li-Ion 7100 mAh",
+        "Charging": "80W wired, 33W PPS, 18W PD/QC\n\nBypass charging"
+      },
+      "Misc": {
+        "Colors": "Black, White, Green",
+        "Models": "PLF110",
+        "Price": "About 220 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-ace-5-racing-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-ace-5-racing-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oneplus_ace_5_racing_5g-pictures-13892.php"
+    }
+  }
+}

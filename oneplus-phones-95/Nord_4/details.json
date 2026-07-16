@@ -1,0 +1,118 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "OnePlus Nord 4",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-nord4-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-nord4.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/oneplus_nord_4-review-2724.php",
+    "siblingDeviceSlugs": [
+      "oneplus_nord_5_5g-13992",
+      "oneplus_nord_6_5g-14558",
+      "oneplus_nord_ce4-12892",
+      "oneplus_nord_ce5_5g-13792",
+      "oneplus_nord_3-12135",
+      "oneplus_nord_ce6_5g-14611"
+    ],
+    "release_date": "Released 2024, August 08",
+    "dimensions": "199.5g, 8mm thickness",
+    "os": "Android 14, up to 4 major upgrades",
+    "storage": "128GB/256GB/512GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1800 / 1900 / 2100 - International",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 26, 28, 38, 39, 40, 41, 66 - International",
+        "5G bands": "1, 2, 3, 5, 7, 8, 12, 20, 28, 38, 40, 41, 66, 77, 78 SA/NSA - International",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "HSDPA 850 / 900 / 1900 / 2100 - India\n1, 3, 4, 5, 8, 28, 38, 39, 40, 41 - India\n1, 3, 5, 8, 28, 40, 41, 77, 78 SA/NSA - India"
+      },
+      "Launch": {
+        "Announced": "2024, July 16",
+        "Status": "Available. Released 2024, August 08"
+      },
+      "Body": {
+        "Dimensions": "162.6 x 75 x 8 mm (6.40 x 2.95 x 0.31 in)",
+        "Weight": "199.5 g (7.05 oz)",
+        "Build": "Glass front, aluminum back, aluminum frame",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "IP65 dust tight and water resistant (low pressure water jets)"
+      },
+      "Display": {
+        "Type": "Fluid AMOLED, 1B colors, 120Hz, HDR10+, 2150 nits (peak)",
+        "Size": "6.74 inches, 109.7 cm<sup>2</sup> (~90.0% screen-to-body ratio)",
+        "Resolution": "1240 x 2772 pixels, 20:9 ratio (~450 ppi density)",
+        "Features": "Ultra HDR image support"
+      },
+      "Platform": {
+        "OS": "Android 14, up to 4 major Android upgrades, OxygenOS 15",
+        "Chipset": "Qualcomm SM7675 Snapdragon 7+ Gen 3 (4 nm)",
+        "CPU": "Octa-core (1x2.8 GHz Cortex-X4 &amp; 4x2.6 GHz Cortex-A720 &amp; 3x1.9 GHz Cortex-A520)",
+        "GPU": "Adreno 732"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM, 512GB 16GB RAM",
+        "Features": "UFS 3.1 - 128GB only\n\nUFS 4.0"
+      },
+      "Main Camera": {
+        "Dual": "50 MP, f/1.8, 25mm (wide), 1/1.95\", 0.8µm, PDAF, OIS\n\n8 MP, f/2.2, 112˚ (ultrawide), 1/4.0\", 1.12µm",
+        "Features": "Dual-LED flash, HDR, panorama",
+        "Video": "4K@30/60fps, 1080p@30/60/120fps, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "16 MP, f/2.4, 24mm (wide), 1.0µm",
+        "Features": "Panorama",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.4, A2DP, LE, aptX HD, LHDC",
+        "Positioning": "GPS, GALILEO, GLONASS, BDS, QZSS",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5500 mAh",
+        "Charging": "100W wired, PPS, 100% in 28 min"
+      },
+      "Misc": {
+        "Colors": "Obsidian Midnight, Mercurial Silver, Oasis Green",
+        "Models": "CPH2663, CPH2661",
+        "SAR": "1.18 W/kg (head) &nbsp; &nbsp; 1.06 W/kg (body) &nbsp; &nbsp;",
+        "Price": "<a href=\"oneplus_nord_4-price-13200.php\">€ 361.71</a>"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 1315847 (v10)\n\nGeekBench: 4791 (v6)\n\n3DMark: 3080 (Wild Life Extreme)",
+        "Display": "<a class=\"noUnd\" href=\"oneplus_nord_4-review-2724p3.php#dt\">1163 nits max brightness (measured)</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"oneplus_nord_4-review-2724p3.php#lt\">-24.6 LUFS (Very good)</a>",
+        "Battery": "<div style=\"position:relative;\">\n<a href=\"oneplus_nord_4-review-2724p3.php#bt\" data-battery2=\"32:21_13:33_19:22_8:14\" onclick=\"showBatteryPopup(event, 13200); \" class=\"v2\">Active use score 14:41h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-nord4-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-nord4-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-nord4-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-nord4-11.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oneplus_nord_4-pictures-13200.php"
+    }
+  }
+}

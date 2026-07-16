@@ -1,0 +1,86 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "vivo Watch GT",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-watch-gt-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/vivo-watch-gt.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2024, May 30",
+    "dimensions": "33g, 11.2mm thickness",
+    "os": "Blue OS",
+    "storage": "Unspecified storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">HSPA / LTE</a>",
+        "2G bands": "N/A",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "LTE",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2024, May 30",
+        "Status": "Available. Released 2024, May 30"
+      },
+      "Body": {
+        "Dimensions": "45.8 x 39.6 x 11.2 mm (1.80 x 1.56 x 0.44 in)",
+        "Weight": "33 g (1.16 oz)",
+        "Build": "Glass front, aluminum frame, plastic back",
+        "SIM": "<a href=\"glossary.php3?term=esim\">eSIM</a>",
+        "Features": "2ATM water resistant\n\nCompatible with standard 22mm straps"
+      },
+      "Display": {
+        "Type": "AMOLED",
+        "Size": "1.85 inches",
+        "Resolution": "390 x 450 pixels (~322 ppi density)"
+      },
+      "Platform": {
+        "OS": "Blue OS"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "Unspecified"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "5.3, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS, QZSS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, heart rate, compass, SpO2"
+      },
+      "Battery": {
+        "Type": "505 mAh"
+      },
+      "Misc": {
+        "Colors": "Black, Silver",
+        "Price": "About 100 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-watch-gt-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-watch-gt-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-watch-gt-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-watch-gt-4.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/vivo_watch_gt-pictures-13089.php"
+    }
+  }
+}

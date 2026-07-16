@@ -1,0 +1,113 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "vivo V40",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-v40-2.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/vivo-v40.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/vivo_v40-review-2753.php",
+    "siblingDeviceSlugs": [
+      "vivo_v40_pro-13239",
+      "vivo_v40e-13339"
+    ],
+    "release_date": "Released 2024, July 03",
+    "dimensions": "190g, 7.6mm thickness",
+    "os": "Android 14, Funtouch 14",
+    "storage": "128GB/256GB/512GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - International",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 26, 28, 32, 38, 39, 40, 41, 66 - International",
+        "5G bands": "1, 2, 3, 5, 7, 8, 20, 26, 28, 38, 40, 41, 66, 75, 77, 78 SA/NSA - International",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "HSDPA 850 / 900 / 1900 / 2100 - India\n1, 3, 4, 5, 7, 8, 18, 19, 26, 28, 38, 39, 40, 41 - India\n1, 3, 5, 8, 28, 40, 77, 78 SA/NSA - India"
+      },
+      "Launch": {
+        "Announced": "2024, June 17",
+        "Status": "Available. Released 2024, July 03"
+      },
+      "Body": {
+        "Dimensions": "164.2 x 75 x 7.6 mm (6.46 x 2.95 x 0.30 in)",
+        "Weight": "190 g (6.70 oz)",
+        "Build": "Glass front, plastic frame, glass back",
+        "SIM": "· Nano-SIM + Nano-SIM + <a href=\"glossary.php3?term=esim\">eSIM</a> (max 2 at a time)\n· Nano-SIM + Nano-SIM",
+        "Features": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)"
+      },
+      "Display": {
+        "Type": "AMOLED, HDR10+, 120Hz, 2160Hz PWM, 4500 nits (peak)",
+        "Size": "6.78 inches, 111.0 cm<sup>2</sup> (~90.1% screen-to-body ratio)",
+        "Resolution": "1260 x 2800 pixels, 20:9 ratio (~453 ppi density)",
+        "Protection": "Schott Xensation Alpha"
+      },
+      "Platform": {
+        "OS": "Android 14, Funtouch 14",
+        "Chipset": "Qualcomm SM7550-AB Snapdragon 7 Gen 3 (4 nm)",
+        "CPU": "Octa-core (1x2.63 GHz Cortex-A715 &amp; 3x2.4 GHz Cortex-A715 &amp; 4x1.8 GHz Cortex-A510)",
+        "GPU": "Adreno 720"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM, 512GB 12GB RAM",
+        "Features": "UFS 2.2"
+      },
+      "Main Camera": {
+        "Dual": "50 MP, f/1.9, 24mm (wide), 1/1.56\", 1.0µm, PDAF, OIS\n\n50 MP, f/2.0, 15mm, 119˚ (ultrawide), 1/2.76\", 0.64µm, AF",
+        "Features": "Zeiss optics, Ring-LED flash, panorama, HDR",
+        "Video": "4K@30fps, 1080p@30fps, gyro-EIS, OIS"
+      },
+      "Selfie camera": {
+        "Single": "50 MP, f/2.0, 21mm (wide), 1/2.76\", 0.64µm, AF",
+        "Features": "HDR",
+        "Video": "4K@30fps, 1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+        "Bluetooth": "5.4, A2DP, LE",
+        "Positioning": "GPS, GALILEO, GLONASS, QZSS, BDS, NavIC",
+        "NFC": "Yes (market/region dependent)",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Si/C Li-Ion 5500 mAh",
+        "Charging": "80W wired, PD\n\nReverse wired"
+      },
+      "Misc": {
+        "Colors": "Stellar Silver (Titanium Grey), Nebula Purple (Lotus Purple), Ganges Blue, Moonlight White, Sunglow Peach",
+        "Models": "V2348",
+        "SAR": "0.97 W/kg (head) &nbsp; &nbsp; 0.90 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.97 W/kg (head) &nbsp; &nbsp; 1.14 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 400 EUR"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 658597 (v9), 818546 (v10)\n\n\n\nGeekBench: 2891 (v5), 3208 (v6)\n\n3DMark: 1492 (Wild Life Extreme)",
+        "Display": "<a class=\"noUnd\" href=\"vivo_v24-review-2753p3.php#dt\">1353 nits max brightness (measured)</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"vivo_v24-review-2753p3.php#lt\">-25.4 LUFS (Very good)</a>",
+        "Battery": "<div style=\"position:relative;\">\n<a href=\"vivo_v24-review-2753p3.php#bt\" data-battery2=\"32:01_13:49_17:35_9:25\" onclick=\"showBatteryPopup(event, 13121); \" class=\"v2\">Active use score 15:06h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-v40-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-v40-02.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-v40-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/vivo_v40-pictures-13121.php"
+    }
+  }
+}

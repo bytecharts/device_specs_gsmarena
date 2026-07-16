@@ -1,0 +1,96 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "vivo X50e",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-x50e-5g-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/vivo-x50e-5g.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2020, October 01",
+    "dimensions": "200.4g, 8.9mm thickness",
+    "os": "Android 10, Funtouch 10",
+    "storage": "128GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 34, 38, 39, 40, 41",
+        "5G bands": "1, 28, 78 SA/NSA",
+        "Speed": "HSPA, LTE (4CA), 5G"
+      },
+      "Launch": {
+        "Announced": "2020, September 30. Released 2020, October 01",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "162.1 x 75 x 8.9 mm (6.38 x 2.95 x 0.35 in)",
+        "Weight": "200.4 g (7.05 oz)",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED",
+        "Size": "6.44 inches, 100.1 cm<sup>2</sup> (~82.4% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~409 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 10, Funtouch 10",
+        "Chipset": "Qualcomm SM7250 Snapdragon 765G 5G (7 nm)",
+        "CPU": "Octa-core (1x2.4 GHz Kryo 475 Prime &amp; 1x2.2 GHz Kryo 475 Gold &amp; 6x1.8 GHz Kryo 475 Silver)",
+        "GPU": "Adreno 620"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (uses shared SIM slot)",
+        "Internal": "128GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Quad": "48 MP, f/1.8, (wide), 1/2.0\", 0.8µm, PDAF\n\n13 MP, f/2.5, 50mm (telephoto), 1/2.8\", 0.8µm, PDAF, 2x optical zoom\n\n8 MP, f/2.2, 120˚, 16mm (ultrawide), 1/4.0\", 1.12µm\n\n2 MP (macro)",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@30fps, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.0, 26mm (wide), 1/2.8\", 0.8µm",
+        "Features": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes",
+        "Features": "32-bit/384kHz Hi-Res audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.1, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS",
+        "NFC": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "4350 mAh",
+        "Charging": "33W wired"
+      },
+      "Misc": {
+        "Colors": "Black, Blue",
+        "Models": "V1930",
+        "Price": "About 410 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-x50e-5g-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-x50e-5g-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/vivo_x50e-pictures-10479.php"
+    }
+  }
+}

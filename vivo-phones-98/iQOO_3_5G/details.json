@@ -1,0 +1,110 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "vivo iQOO 3 5G",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-iqoo-3-5g-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/vivo-iqoo-3-5g.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/vivo_iqoo_3_5g-review-2100.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2020, March 04",
+    "dimensions": "214.5g, 9.2mm thickness",
+    "os": "Android 10, iQOO UI 1.0",
+    "storage": "128GB/256GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 25, 26, 34, 38, 39, 40, 41",
+        "5G bands": "1, 3, 41, 77, 78, 79 SA/NSA - China",
+        "Speed": "HSPA, LTE, 5G (3.3 Gbps DL)",
+        "Features": "CDMA 800 / 1900 &amp; TD-SCDMA\n41, 77, 78 - India"
+      },
+      "Launch": {
+        "Announced": "2020, February 25. Released 2020, March 04",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "158.5 x 74.9 x 9.2 mm (6.24 x 2.95 x 0.36 in)",
+        "Weight": "214.5 g (7.58 oz)",
+        "Build": "Glass front (Gorilla Glass 6), glass back (Gorilla Glass 6), aluminum frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "Super AMOLED, HDR10+, 800 nits (typ)",
+        "Size": "6.44 inches, 100.1 cm<sup>2</sup> (~84.3% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~409 ppi density)",
+        "Protection": "Corning Gorilla Glass 6"
+      },
+      "Platform": {
+        "OS": "Android 10, iQOO UI 1.0",
+        "Chipset": "Qualcomm SM8250 Snapdragon 865 5G (7 nm+)",
+        "CPU": "Octa-core (1x2.84 GHz Cortex-A77 &amp; 3x2.42 GHz Cortex-A77 &amp; 4x1.80 GHz Cortex-A55)",
+        "GPU": "Adreno 650"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 6GB RAM, 128GB 8GB RAM, 128GB 12GB RAM, 256GB 8GB RAM, 256GB 12GB RAM",
+        "Features": "UFS 3.1"
+      },
+      "Main Camera": {
+        "Quad": "48 MP, f/1.8, (wide), 1/2.0\", 0.8µm, PDAF\n\n13 MP, f/2.5, 50mm (telephoto), PDAF, 2x optical zoom\n\n13 MP, f/2.2, 120˚, 16mm (ultrawide), AF\n\nAuxiliary lens",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "4K@30/60fps, 1080p@30fps; gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "16 MP, f/2.5, (wide)",
+        "Features": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes",
+        "Features": "32-bit/192kHz Hi-Res audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.1, A2DP, LE, aptX HD",
+        "Positioning": "GPS, GLONASS, BDS, GALILEO",
+        "NFC": "Yes (market/region dependent)",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "4400 mAh",
+        "Charging": "55W wired, 50% in 15 min"
+      },
+      "Misc": {
+        "Colors": "Volcano Orange, Tornado Black, Quantum Silver",
+        "Models": "V1955A, I1927, I1928",
+        "SAR": "1.19 W/kg (head) &nbsp; &nbsp; 0.59 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 480 EUR"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 575601 (v8)\n\nGeekBench: 13325 (v4.4), 3402 (v5.1)\n\nGFXBench: 42fps (ES 3.1 onscreen)",
+        "Display": "<a class=\"noUnd\" href=\"vivo_iqoo_3_5g-review-2100p3.php\">848 nits max brightness (measured)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=10075&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=10075&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"vivo_iqoo_3_5g-review-2100p3.php#ls\">-26.3 LUFS (Good)</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 10075); \">Endurance rating 118h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-iqoo-3-5g-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-iqoo-3-5g-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-iqoo-3-5g-4.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/vivo_iqoo_3_5g-pictures-10075.php"
+    }
+  }
+}

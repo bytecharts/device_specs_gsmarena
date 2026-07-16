@@ -1,0 +1,97 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "OnePlus Watch 3",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-watch-3-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-watch3.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "oneplus_watch_4-14622",
+      "oneplus_watch_3_43mm-13957",
+      "oneplus_watch_2-12843",
+      "oneplus_watch_2r-13209",
+      "samsung_galaxy_watch7-13128",
+      "oppo_watch_x3-14547"
+    ],
+    "release_date": "Released 2025, March 03",
+    "dimensions": "49.7g, 11.8mm thickness",
+    "os": "ColorOS Watch 7.0 + Wear OS 5.0",
+    "storage": "32GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">No cellular connectivity</a>",
+        "2G bands": "N/A",
+        "3G bands": "N/A",
+        "4G bands": "N/A",
+        "Speed": "No",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2025, February 18",
+        "Status": "Available. Released 2025, March 03"
+      },
+      "Body": {
+        "Dimensions": "47.6 x 46.6 x 11.8 mm (1.87 x 1.83 x 0.46 in)",
+        "Weight": "49.7 g (1.76 oz)",
+        "Build": "Sapphire crystal front, stainless steel frame, plastic back",
+        "SIM": "No",
+        "Features": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)\n\nMIL-STD-810H compliant\n\nWaterproof (5ATM/50m)\n\nCompatible with standard 22mm straps\n\nECG certified"
+      },
+      "Display": {
+        "Type": "LTPO AMOLED, 2200 nits (peak)",
+        "Size": "1.5 inches",
+        "Resolution": "466 x 466 pixels (~310 ppi density)",
+        "Protection": "Sapphire crystal glass"
+      },
+      "Platform": {
+        "OS": "ColorOS Watch 7.0 + Wear OS 5.0",
+        "Chipset": "Qualcomm Snapdragon W5 Gen 1 (4 nm)"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "32GB 2GB RAM"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band",
+        "Bluetooth": "5.2, A2DP, LE",
+        "Positioning": "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, barometer, compass, heart rate, SpO2, thermometer (skin temperature)"
+      },
+      "Battery": {
+        "Type": "Li-Ion 648 mAh",
+        "Charging": "7.5W wired"
+      },
+      "Misc": {
+        "Colors": "Black titanium, Silver titanium",
+        "Models": "OPWWE251",
+        "Price": "<a href=\"oneplus_watch_3-price-13668.php\">€ 126.29</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-watch-3-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-watch-3-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oneplus_watch_3-pictures-13668.php"
+    }
+  }
+}

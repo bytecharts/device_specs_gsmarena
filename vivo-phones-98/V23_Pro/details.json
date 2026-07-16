@@ -1,0 +1,110 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "vivo V23 Pro",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-v23-pro-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/vivo-v23-pro.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/vivo_v23_pro-review-2366.php",
+    "siblingDeviceSlugs": [
+      "vivo_v23_5g-11308"
+    ],
+    "release_date": "Released 2022, January 13",
+    "dimensions": "171g, 7.4mm thickness",
+    "os": "Android 12, Funtouch 12",
+    "storage": "128GB/256GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "1, 3, 5, 8, 38, 40, 41",
+        "5G bands": "1, 3, 5, 8, 41, 77, 78 SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2022, January 05",
+        "Status": "Available. Released 2022, January 13"
+      },
+      "Body": {
+        "Dimensions": "159.5 x 73.3 x 7.4 mm (6.28 x 2.89 x 0.29 in)",
+        "Weight": "171 g (6.03 oz)",
+        "Build": "Glass front (Schott Xensation α), glass back",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED, 90Hz, HDR10+",
+        "Size": "6.56 inches, 104.6 cm<sup>2</sup> (~89.5% screen-to-body ratio)",
+        "Resolution": "1080 x 2376 pixels (~398 ppi density)",
+        "Protection": "Schott Xensation α glass"
+      },
+      "Platform": {
+        "OS": "Android 12, Funtouch 12",
+        "Chipset": "Mediatek Dimensity 1200 (6 nm)",
+        "CPU": "Octa-core (1x3.0 GHz Cortex-A78 &amp; 3x2.6 GHz Cortex-A78 &amp; 4x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G77 MC9"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 8GB RAM, 256GB 12GB RAM"
+      },
+      "Main Camera": {
+        "Triple": "108 MP, f/1.9, 26mm (wide), 1/1.52\", 0.7µm PDAF\n\n8 MP, f/2.2, 120˚, 16mm (ultrawide), 1/4.0\", 1.12µm\n\n2 MP (macro)",
+        "Features": "Dual-LED flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@30fps, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Dual": "50 MP, f/2.0, (wide), AF\n\n8 MP, f/2.3, 105˚ (ultrawide)",
+        "Features": "Dual-LED dual-tone flash, HDR",
+        "Video": "4K@30fps, 1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.2, A2DP, LE, aptX HD",
+        "Positioning": "GPS, GLONASS, BDS, GALILEO, QZSS, NavIC",
+        "NFC": "No",
+        "Radio": "No",
+        "USB": "USB Type-C, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",
+        "Features": "Color changing back panel when exposed to sunlight"
+      },
+      "Battery": {
+        "Type": "4300 mAh",
+        "Charging": "44W wired, 63% in 30 min"
+      },
+      "Misc": {
+        "Colors": "Sunshine Gold, Stardust Black",
+        "Models": "V2132",
+        "SAR": "1.22 W/kg (head) &nbsp; &nbsp; 0.63 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 460 EUR"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 635060 (v8), 716766 (v9)\n\nGeekBench: 12377 (v4.4), 3021 (v5.1)\n\nGFXBench: 45fps (ES 3.1 onscreen)",
+        "Display": "<a class=\"noUnd\" href=\"vivo_v23_pro-review-2366p3.php#dt\">798 nits max brightness (measured)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=11286&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=11286&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"vivo_v23_pro-review-2366p3.php#lt\">-28.6 LUFS (Average)</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 11286); \">Endurance rating 110h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-v23-pro-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-v23-pro-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-v23-pro-r1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/vivo_v23_pro-pictures-11286.php"
+    }
+  }
+}

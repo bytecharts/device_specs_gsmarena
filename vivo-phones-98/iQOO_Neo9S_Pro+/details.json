@@ -1,0 +1,98 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "vivo iQOO Neo9S Pro+",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-iqoo-neo9s-pro-plus-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/vivo-iqoo-neo9s-pro-plus.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2024, July 16",
+    "dimensions": "193g or 198g, 8mm thickness",
+    "os": "Android 14, up to Android 16, OriginOS 6",
+    "storage": "256GB/512GB/1TB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / CDMA2000 / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 3, 4, 5, 7, 8, 18, 19, 26, 28, 34, 38, 39, 40, 41",
+        "5G bands": "1, 3, 5, 8, 28, 38, 40, 41, 77, 78 SA/NSA",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "CDMA 800\nCDMA2000 1x"
+      },
+      "Launch": {
+        "Announced": "2024, July 11",
+        "Status": "Available. Released 2024, July 16"
+      },
+      "Body": {
+        "Dimensions": "163.5 x 75.7 x 8 mm or 8.3 mm",
+        "Weight": "193 g or 198 g (6.81 oz)",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "LTPO AMOLED, 1B colors, 144Hz, HDR10+, 1400 nits (HBM)",
+        "Size": "6.78 inches, 111.0 cm<sup>2</sup> (~89.7% screen-to-body ratio)",
+        "Resolution": "1260 x 2800 pixels, 20:9 ratio (~453 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 14, upgradable to Android 16, OriginOS 6",
+        "Chipset": "Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm)",
+        "CPU": "Octa-core (1x3.3 GHz Cortex-X4 &amp; 3x3.2 GHz Cortex-A720 &amp; 2x3.0 GHz Cortex-A720 &amp; 2x2.3 GHz Cortex-A520)",
+        "GPU": "Adreno 750"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 12GB RAM, 256GB 16GB RAM, 512GB 12GB RAM, 512GB 16GB RAM, 1TB 16GB RAM",
+        "Features": "UFS 4.0"
+      },
+      "Main Camera": {
+        "Dual": "50 MP, f/1.9, (wide), 1/1.56\", PDAF, OIS\n\n50 MP, f/2.0, 119˚ (ultrawide), 1/2.76\", 0.64µm, AF",
+        "Features": "LED flash, panorama, HDR",
+        "Video": "8K, 4K, 1080p, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "16 MP, f/2.5, (wide)",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No",
+        "Features": "Snapdragon Sound"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band",
+        "Bluetooth": "5.4, A2DP, LE, aptX HD, aptX Adaptive, aptX Lossless, LHDC",
+        "Positioning": "GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), GLONASS",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5500 mAh",
+        "Charging": "120W wired, 70% in 17 min, 100% in 28 min\n\nReverse wired"
+      },
+      "Misc": {
+        "Colors": "Blue/White, Black, White",
+        "Models": "V2403A",
+        "Price": "About 380 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-iqoo-neo9s-pro-plus-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-iqoo-neo9s-pro-plus-11.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/vivo_iqoo_neo9s_pro+-pictures-13187.php"
+    }
+  }
+}

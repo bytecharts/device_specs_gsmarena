@@ -1,0 +1,112 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "vivo X Fold3 Pro",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-x-fold3-pro-2.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/vivo-x-fold3-pro.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/vivo_x_fold3_pro-review-2729.php",
+    "siblingDeviceSlugs": [
+      "vivo_x_fold3-12900"
+    ],
+    "release_date": "Released 2024, April 23",
+    "dimensions": "236g, 5.2mm thickness",
+    "os": "Android 14, up to 15, Funtouch 15, OriginOS 4",
+    "storage": "256GB/512GB/1TB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / CDMA2000 / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 25, 26, 28, 34, 38, 39, 40, 41, 42, 66",
+        "5G bands": "1, 2, 3, 5, 7, 8, 12, 20, 25, 26, 28, 38, 40, 41, 66, 77, 78 SA/NSA",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "CDMA 800 / 1900\nCDMA2000 1x"
+      },
+      "Launch": {
+        "Announced": "2024, March 26",
+        "Status": "Available. Released 2024, April 23"
+      },
+      "Body": {
+        "Dimensions": "Unfolded: 160 x 142.4 x 5.2 mm\nFolded: 160 x 72.6 x 11.2 mm",
+        "Weight": "236 g (8.32 oz)",
+        "Build": "Carbon fiber hinge",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "IPX8 dust/water resistant (up to 1.5m for 30 min)"
+      },
+      "Display": {
+        "Type": "Foldable LTPO AMOLED, 1B colors, 120Hz, HDR10+, Dolby Vision, 4500 nits (peak)",
+        "Size": "8.03 inches, 206.5 cm<sup>2</sup> (~90.6% screen-to-body ratio)",
+        "Resolution": "2200 x 2480 pixels (~413 ppi density)",
+        "Features": "Cover display:\n\nAMOLED, 120Hz, HDR10+, Dolby Vision, Armor Glass, 4500 nits (peak)\n\n6.53 inches, 1172 x 2748 pixels, 21:9 ratio"
+      },
+      "Platform": {
+        "OS": "Android 14, upgradable to Android 15, Funtouch 15 (International), OriginOS 4 (China)",
+        "Chipset": "Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm)",
+        "CPU": "Octa-core (1x3.3 GHz Cortex-X4 &amp; 3x3.2 GHz Cortex-A720 &amp; 2x3.0 GHz Cortex-A720 &amp; 2x2.3 GHz Cortex-A520)",
+        "GPU": "Adreno 750"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 12GB RAM, 512GB 16GB RAM, 1TB 16GB RAM",
+        "Features": "UFS 4.0"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, f/1.7, 23mm (wide), 1/1.3\", PDAF, OIS\n\n64 MP, f/2.6, 70mm (periscope telephoto), 1/2.0\", PDAF (15cm - ∞), OIS, 3x optical zoom\n\n50 MP, f/2.0, 119˚ (ultrawide), 1/2.76\", PDAF",
+        "Features": "Laser AF, color spectrum sensor, Zeiss optics, Zeiss T* lens coating, Dual-LED flash, panorama",
+        "Video": "8K@30fps, 4K@30/60fps, 1080p@30/60fps, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.4, (wide)\n\nCover camera:\n\n32 MP, f/2.4, (wide)",
+        "Features": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No",
+        "Features": "24-bit/192kHz Hi-Res audio\n\nSnapdragon Sound"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, dual band (INT), tri-band (CN), Wi-Fi Direct",
+        "Bluetooth": "5.4, A2DP, LE, aptX HD, aptX Adaptive, aptX Lossless, LHDC (market/region dependent)",
+        "Positioning": "GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5)",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 3.2 Gen 2, OTG"
+      },
+      "Features": {
+        "Sensors": "Dual screen fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer"
+      },
+      "Battery": {
+        "Type": "Si/C Li-Ion 5700 mAh",
+        "Charging": "100W wired, 100% in 31 min\n\n50W wireless\n\nReverse wireless"
+      },
+      "Misc": {
+        "Colors": "Celestial Black, White, Lunar White",
+        "Models": "V2330",
+        "Price": "About 2000 EUR"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 2066322 (v10)\n\nGeekBench: 6791 (v6)\n\n3DMark: 4714 (Wild Life Extreme)",
+        "Display": "<a class=\"noUnd\" href=\"vivo_x_fold3_pro-review-2729p3.php#dt\">2129 nits max brightness (measured)</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"vivo_x_fold3_pro-review-2729p3.php#lt\">-27.8 LUFS (Good)</a>",
+        "Battery": "<div style=\"position:relative;\">\n<a href=\"vivo_x_fold3_pro-review-2729p3.php#bt\" data-battery2=\"28:11_12:41_16:22_7:53\" onclick=\"showBatteryPopup(event, 12899); \" class=\"v2\">Active use score 13:26h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-x-fold3-pro-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-x-fold3-pro-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-x-fold3-pro-4.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/vivo_x_fold3_pro-pictures-12899.php"
+    }
+  }
+}

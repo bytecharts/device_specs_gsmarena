@@ -1,0 +1,112 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "vivo iQOO 11",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-iqoo11-.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/vivo-iqoo11.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/iqoo_11-review-2512.php",
+    "siblingDeviceSlugs": [
+      "vivo_iqoo_11_pro-12007",
+      "oneplus_11-11893"
+    ],
+    "release_date": "Released 2022, December 08",
+    "dimensions": "205g or 208g, 8.4mm thickness",
+    "os": "Android 13, up to 14, Funtouch 14, OriginOS 3",
+    "storage": "128GB/256GB/512GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / CDMA2000 / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 26, 28, 34, 38, 39, 40, 41 - International",
+        "5G bands": "1, 3, 5, 8, 28, 40, 41, 77, 78 SA/NSA",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "CDMA 800\nCDMA2000 1x\n1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 25, 26, 28, 34, 38, 39, 40, 41, 66 - China"
+      },
+      "Launch": {
+        "Announced": "2022, December 08",
+        "Status": "Available. Released 2022, December 08"
+      },
+      "Body": {
+        "Dimensions": "164.9 x 77.1 x 8.4 mm or 8.7 mm",
+        "Weight": "205 g or 208 g (7.23 oz)",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "LTPO4 AMOLED, 1B colors, 144Hz, HDR10+, 1800 nits (peak)",
+        "Size": "6.78 inches, 111.0 cm<sup>2</sup> (~87.3% screen-to-body ratio)",
+        "Resolution": "1440 x 3200 pixels, 20:9 ratio (~518 ppi density)",
+        "Protection": "Corning Gorilla Glass Victus"
+      },
+      "Platform": {
+        "OS": "Android 13, upgradable to Android 14, Funtouch 14 (International), OriginOS 3 (China)",
+        "Chipset": "Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm)",
+        "CPU": "Octa-core (1x3.2 GHz Cortex-X3 &amp; 2x2.8 GHz Cortex-A715 &amp; 2x2.8 GHz Cortex-A710 &amp; 3x2.0 GHz Cortex-A510)",
+        "GPU": "Adreno 740"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM, 256GB 16GB RAM, 512GB 16GB RAM",
+        "Features": "UFS 3.1 - 128GB\n\nUFS 4.0 - 256/512GB"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, f/1.9, 23mm (wide), 1/1.57\", 1.0µm, PDAF, OIS\n\n13 MP, f/2.5, 47mm (telephoto), PDAF, 2x optical zoom\n\n8 MP, f/2.2, 16mm (ultrawide)",
+        "Features": "Dual-LED flash, HDR, panorama",
+        "Video": "8K@30fps, 4K@30/60fps, 1080p@30/60/120/240fps, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "16 MP, f/2.5, (wide)",
+        "Features": "HDR",
+        "Video": "1080p@30fps, gyro-EIS"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No",
+        "Features": "24-bit/192kHz Hi-Res audio\n\nSnapdragon Sound"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.3, A2DP, LE, aptX HD, aptX Adaptive, aptX Lossless",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS, NavIC",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "120W wired, PD3.0, 100% in 25 min"
+      },
+      "Misc": {
+        "Colors": "Black, Green, White (BMW M branding)",
+        "Models": "V2243A",
+        "Price": "About 650 EUR"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 1281665 (v9)\n\nGeekBench: 4803 (v5.1)\n\nGFXBench: 67fps (ES 3.1 onscreen)",
+        "Display": "<a class=\"noUnd\" href=\"iqoo_11-review-2512p3.php\">1147 nits max brightness (measured)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=11960&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=11960&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"iqoo_11-review-2512p3.php#lt\">-26.3 LUFS (Good)</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 11960); \">Endurance rating 127h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-iqoo11-.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-iqoo11-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-iqoo11-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/vivo_iqoo_11-pictures-11960.php"
+    }
+  }
+}

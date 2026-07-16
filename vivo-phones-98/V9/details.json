@@ -1,0 +1,98 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "vivo V9",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-v9-5.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/vivo-v9-.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "vivo_v9_youth-9167",
+      "vivo_v9_6gb-9258"
+    ],
+    "release_date": "Released 2018, April",
+    "dimensions": "150g, 7.9mm thickness",
+    "os": "Android 8.1, Funtouch 4",
+    "storage": "64GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4G bands": "1, 3, 5, 8, 38, 40, 41",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE (2CA) Cat6 300/50 Mbps"
+      },
+      "Launch": {
+        "Announced": "2018, March. Released 2018, April",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "154.8 x 75.1 x 7.9 mm (6.09 x 2.96 x 0.31 in)",
+        "Weight": "150 g (5.29 oz)",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "6.3 inches, 99.1 cm<sup>2</sup> (~85.2% screen-to-body ratio)",
+        "Resolution": "1080 x 2280 pixels, 19:9 ratio (~400 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 8.1 (Oreo), Funtouch 4",
+        "Chipset": "Qualcomm MSM8953-Pro Snapdragon 626 (14 nm)",
+        "CPU": "Octa-core 2.2 GHz Cortex-A53",
+        "GPU": "Adreno 506"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "64GB 4GB RAM",
+        "Features": "eMMC 5.1"
+      },
+      "Main Camera": {
+        "Dual": "16 MP, f/2.0, PDAF\n\nAuxiliary lens",
+        "Features": "Dual-LED flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "24 MP, f/2.0, 26mm (wide), 1/2.8\", 0.9µm",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "4.2, A2DP, LE",
+        "Positioning": "GPS, GLONASS, BDS",
+        "NFC": "No",
+        "Radio": "FM radio, recording",
+        "USB": "microUSB 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Ion 3260 mAh, non-removable"
+      },
+      "Misc": {
+        "Colors": "Gold, Black, Sapphire Blue",
+        "Models": "1723",
+        "Price": "About 390 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-v9-5.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-v9-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-v9-4.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/vivo_v9-pictures-9117.php"
+    }
+  }
+}

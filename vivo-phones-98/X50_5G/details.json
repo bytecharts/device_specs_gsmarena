@@ -1,0 +1,104 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "vivo X50 5G",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-x50-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/vivo-x50.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "vivo_x50-10356",
+      "vivo_x50_pro-10260"
+    ],
+    "release_date": "Released 2020, June 06",
+    "dimensions": "174.5g, 7.6mm thickness",
+    "os": "Android 10, Funtouch 10.5",
+    "storage": "128GB/256GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - International",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 28, 34, 38, 39, 40, 41 - International",
+        "5G bands": "1, 3, 28, 41, 77, 78, 79 SA/NSA - International",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "CDMA 800 &amp; TD-SCDMA\n1, 2, 3, 4, 5, 7, 8, 34, 38, 39, 40, 41 - China\n1, 3, 41, 77, 78, 79 SA/NSA - China"
+      },
+      "Launch": {
+        "Announced": "2020, June 01. Released 2020, June 06",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "159.5 x 75.4 x 7.6 mm (6.28 x 2.97 x 0.30 in)",
+        "Weight": "174.5 g (6.17 oz)",
+        "Build": "Glass front, glass back, aluminum frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED, 90Hz, HDR10+",
+        "Size": "6.56 inches, 104.6 cm<sup>2</sup> (~87.0% screen-to-body ratio)",
+        "Resolution": "1080 x 2376 pixels (~398 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 10, Funtouch 10.5",
+        "Chipset": "Qualcomm SM7250 Snapdragon 765G 5G (7 nm)",
+        "CPU": "Octa-core (1x2.4 GHz Kryo 475 Prime &amp; 1x2.2 GHz Kryo 475 Gold &amp; 6x1.8 GHz Kryo 475 Silver)",
+        "GPU": "Adreno 620"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 8GB RAM, 256GB 8GB RAM",
+        "Features": "UFS 2.1"
+      },
+      "Main Camera": {
+        "Quad": "48 MP, f/1.6, (wide), PDAF, OIS\n\n13 MP, f/2.5, 50mm (telephoto), 1/2.8\", 0.8µm, PDAF, 2x optical zoom\n\n8 MP, f/2.2, 120˚, 16mm (ultrawide), 1/4.0\", 1.12µm\n\n5 MP (macro)",
+        "Features": "Color spectrum sensor, Dual-LED dual-tone flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@30fps, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.5, 26mm (wide), 1/2.8\", 0.8µm",
+        "Features": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No",
+        "Features": "24-bit/192kHz Hi-Res audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.1, A2DP, LE, aptX HD",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, compass",
+        "Features": "Virtual proximity sensing"
+      },
+      "Battery": {
+        "Type": "4200 mAh",
+        "Charging": "33W wired"
+      },
+      "Misc": {
+        "Colors": "Glaze Black, Frost Blue, Pink",
+        "Models": "V2001A, 2005",
+        "Price": "About 440 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-x50-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-x50-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-x50-03.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/vivo_x50_5g-pictures-10271.php"
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "vivo S10 Pro",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-s10-pro-0.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/vivo-s10-pro.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2021, July 22",
+    "dimensions": "173g, 7.3mm thickness",
+    "os": "Android 11, OriginOS 1.0",
+    "storage": "128GB/256GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / CDMA2000 / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4G bands": "1, 3, 4, 5, 8, 28, 34, 38, 39, 40, 41",
+        "5G bands": "1, 3, 5, 8, 28, 41, 77, 78 SA/NSA",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "CDMA 800\nCDMA2000 1x"
+      },
+      "Launch": {
+        "Announced": "2021, July 15",
+        "Status": "Available. Released 2021, July 22"
+      },
+      "Body": {
+        "Dimensions": "158.2 x 73.7 x 7.3 mm (6.23 x 2.90 x 0.29 in)",
+        "Weight": "173 g (6.10 oz)",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED, 90Hz, HDR10+",
+        "Size": "6.44 inches, 100.1 cm<sup>2</sup> (~85.9% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~409 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 11, OriginOS 1.0",
+        "Chipset": "Mediatek Dimensity 1100 (6 nm)",
+        "CPU": "Octa-core (4x2.6 GHz Cortex-A78 &amp; 4x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G77 MC9"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 8GB RAM, 256GB 12GB RAM",
+        "Features": "UFS 3.1"
+      },
+      "Main Camera": {
+        "Triple": "108 MP, f/1.9, 26mm (wide), 1/1.52\", 0.7µm, PDAF\n\n8 MP, f/2.2, 120˚, 16mm (ultrawide), 1/4.0\", 1.12µm\n\n2 MP (macro)",
+        "Features": "Dual-LED flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@30fps, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Dual": "44 MP, f/2.0, (wide), AF\n\n8 MP, f/2.3, 105˚ (ultrawide)",
+        "Features": "Dual-LED flash, HDR",
+        "Video": "4K@30fps, 1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No",
+        "Features": "24-bit/192kHz Hi-Res audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.2, A2DP, LE, aptX HD",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "4050 mAh",
+        "Charging": "44W wired"
+      },
+      "Misc": {
+        "Colors": "Black, White, Gradient Blue, Yellow",
+        "Models": "V2121A",
+        "Price": "About 500 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-s10-pro-0.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-s10-pro-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/vivo_s10_pro-pictures-11003.php"
+    }
+  }
+}

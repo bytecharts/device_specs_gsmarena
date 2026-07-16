@@ -1,0 +1,95 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "vivo Y81i",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-y81i-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/vivo-y81i.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2018, November",
+    "dimensions": "143g, 7.8mm thickness",
+    "os": "Android 8.1, Funtouch 4",
+    "storage": "16GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "1, 3, 5, 7, 8, 38, 40, 41",
+        "Speed": "HSPA 21.1/5.76 Mbps, LTE (2CA) Cat7 300/150 Mbps"
+      },
+      "Launch": {
+        "Announced": "2018, October. Released 2018, November",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "155.1 x 75 x 7.8 mm (6.11 x 2.95 x 0.31 in)",
+        "Weight": "143 g (5.04 oz)",
+        "Build": "Glass front (Gorilla Glass), plastic back, plastic frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "6.22 inches, 96.6 cm<sup>2</sup> (~83.0% screen-to-body ratio)",
+        "Resolution": "720 x 1520 pixels, 19:9 ratio (~270 ppi density)",
+        "Protection": "Corning Gorilla Glass"
+      },
+      "Platform": {
+        "OS": "Android 8.1 (Oreo), Funtouch 4",
+        "Chipset": "Mediatek MT6761 Helio A22 (12 nm)",
+        "CPU": "Quad-core 2.0 GHz Cortex-A53",
+        "GPU": "PowerVR GE8320"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "16GB 2GB RAM",
+        "Features": "eMMC 5.1"
+      },
+      "Main Camera": {
+        "Single": "13 MP, f/2.2, PDAF",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "5 MP, f/2.2",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS, GLONASS, BDS",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "microUSB 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "3260 mAh, non-removable"
+      },
+      "Misc": {
+        "Colors": "Black, Red",
+        "Models": "1812, 1812_19",
+        "Price": "About 130 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-y81i-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-y81i-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/vivo_y81i-pictures-9404.php"
+    }
+  }
+}

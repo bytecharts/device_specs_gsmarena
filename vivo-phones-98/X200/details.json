@@ -1,0 +1,117 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "vivo X200",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-x200-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/vivo-x200.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/vivo_x200-review-2790.php",
+    "siblingDeviceSlugs": [
+      "vivo_x200t_5g-14366",
+      "vivo_x200_pro-13410",
+      "vivo_x200_fe_5g-13847",
+      "vivo_x200_pro_mini-13434"
+    ],
+    "release_date": "Released 2024, October 19",
+    "dimensions": "197g or 202g, 8mm thickness",
+    "os": "Android 15, up to 4 major upgrades",
+    "storage": "256GB/512GB/1TB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - International",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 26, 28, 32, 38, 39, 40, 41, 42 - International",
+        "5G bands": "1, 3, 5, 7, 8, 20, 26, 28, 38, 40, 41, 75, 77, 78 SA/NSA/Sub6 - International",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100 - China\nHSDPA 850 / 900 / 2100 - Malaysia, India\n1, 3, 5, 8, 28, 38, 40, 41 - India\n1, 2, 3, 4, 5, 7, 8, 18, 19, 26, 28, 34, 38, 39, 40, 41, 66 - China\n1, 3, 5, 8, 28, 40, 77, 78 SA/NSA/Sub6 - India\n1, 3, 5, 8, 28, 38, 40, 41, 77, 78 SA/NSA/Sub6 - China"
+      },
+      "Launch": {
+        "Announced": "2024, October 14",
+        "Status": "Available. Released 2024, October 19"
+      },
+      "Body": {
+        "Dimensions": "160.3 x 74.8 x 8 mm (6.31 x 2.94 x 0.31 in)",
+        "Weight": "197 g or 202 g (6.95 oz)",
+        "Build": "Glass front, aluminum frame, glass back or glass-fiber reinforced plastic back",
+        "SIM": "· Nano-SIM + Nano-SIM + <a href=\"glossary.php3?term=esim\">eSIM</a> (max 2 at a time)\n· Nano-SIM + Nano-SIM",
+        "Features": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)\n\nIP69 (market/region dependent)"
+      },
+      "Display": {
+        "Type": "AMOLED, 1B colors, 120Hz, 2160Hz PWM, HDR10+, 4500 nits (peak)",
+        "Size": "6.67 inches, 107.4 cm<sup>2</sup> (~89.6% screen-to-body ratio)",
+        "Resolution": "1260 x 2800 pixels, 20:9 ratio (~460 ppi density)",
+        "Protection": "Schott Xensation Alpha",
+        "Features": "Ultra HDR image support"
+      },
+      "Platform": {
+        "OS": "Android 15, up to 4 major Android upgrades, Funtouch 15 (International), OriginOS 5 (China)",
+        "Chipset": "Mediatek Dimensity 9400 (3 nm)",
+        "CPU": "Octa-core (1x3.63 GHz Cortex-X925 &amp; 3x3.3 GHz Cortex-X4 &amp; 4x2.4 GHz Cortex-A720)",
+        "GPU": "Immortalis-G925"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 12GB RAM, 512GB 12GB RAM, 512GB 16GB RAM, 1TB 16GB RAM",
+        "Features": "UFS 4.0"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, f/1.6, 23mm (wide), 1/1.56\", PDAF, OIS\n\n50 MP, f/2.6, 70mm (periscope telephoto), 1/1.95\", PDAF, OIS, 3x optical zoom\n\n50 MP, f/2.0, 15mm, 119˚ (ultrawide), 1/2.76\", 0.64µm, AF",
+        "Features": "Laser AF, Zeiss optics, Zeiss T* lens coating, LED flash, panorama, HDR, 3D LUT import",
+        "Video": "4K@30/60fps, 1080p@30/60/120/240fps, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.0, 20mm (ultrawide)",
+        "Features": "HDR",
+        "Video": "4K@30/60fps, 1080p@30/60fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band",
+        "Bluetooth": "5.4, A2DP, LE, aptX HD, LHDC 5",
+        "Positioning": "GPS (L1+L5), GLONASS (L1), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), NavIC (L5)",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Market-dependent versions:\n· Si/C Li-Ion 5800 mAh (Global)\n· Li-Ion 5220 mAh (Austria)",
+        "Charging": "90W wired\n\nReverse wired"
+      },
+      "Misc": {
+        "Colors": "Natural Green (Aurora Green), Cosmos Black, Blue, White, Titanium",
+        "Models": "V2415A, V2405A, V2415",
+        "SAR": "1.00 W/kg (head) &nbsp; &nbsp; 0.78 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 490 EUR"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 2632874 (v10)\n\nGeekBench: 8014 (v6)\n\n3DMark: 6334 (Wild Life Extreme)",
+        "Display": "<a class=\"noUnd\" href=\"vivo_x200-review-2790p3.php#lt\">1563 nits max brightness (measured)</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"vivo_x200-review-2790p3.php#lt\">-26.7 LUFS (Good)</a>",
+        "Battery": "<div style=\"position:relative;\">\n<a href=\"vivo_x200-review-2790p3.php#bt\" data-battery2=\"23:44_12:53_18:07_10:30\" onclick=\"showBatteryPopup(event, 13433); \" class=\"v2\">Active use score 14:51h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-x200-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-x200-4.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-x200-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-x200-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/vivo_x200-pictures-13433.php"
+    }
+  }
+}

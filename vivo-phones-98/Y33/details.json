@@ -1,0 +1,96 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "vivo Y33",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-y53s-4g-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/vivo-y53s-4g.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "vivo_y33s-11067"
+    ],
+    "release_date": "Released 2021, October 04",
+    "dimensions": "191g, 8.4mm thickness",
+    "os": "Android 11, Funtouch 11.1",
+    "storage": "128GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 28, 38, 40, 41, 66",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2021, October 04",
+        "Status": "Available. Released 2021, October 04"
+      },
+      "Body": {
+        "Dimensions": "164 x 75.5 x 8.4 mm (6.46 x 2.97 x 0.33 in)",
+        "Weight": "191 g (6.74 oz)",
+        "Build": "Glass front, plastic frame, plastic back",
+        "SIM": "· Nano-SIM\n· Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "6.58 inches, 104.3 cm<sup>2</sup> (~84.2% screen-to-body ratio)",
+        "Resolution": "1080 x 2408 pixels, 20:9 ratio (~401 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 11, Funtouch 11.1",
+        "Chipset": "Mediatek MT6769V/CU Helio G80 (12 nm)",
+        "CPU": "Octa-core (2x2.0 GHz Cortex-A75 &amp; 6x1.8 GHz Cortex-A55)",
+        "GPU": "Mali-G52 MC2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC",
+        "Internal": "128GB 4GB RAM"
+      },
+      "Main Camera": {
+        "Triple": "48 MP, f/1.8, 26mm (wide), PDAF\n\n2 MP (macro)\n\nAuxiliary lens",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "1080p@30fps, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "16 MP, f/2.0, (wide)",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "18W wired, 70% in 66 min"
+      },
+      "Misc": {
+        "Colors": "Black, Light Blue",
+        "Models": "V2057",
+        "Price": "About 270 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-y53s-4g-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-y53s-4g-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/vivo_y33-pictures-11330.php"
+    }
+  }
+}

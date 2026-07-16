@@ -1,0 +1,95 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "vivo Y18t",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-y03t.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/vivo-y03.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2024, November 12",
+    "dimensions": "185g, 8.4mm thickness",
+    "os": "Android 14, Funtouch 14",
+    "storage": "128GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "1, 3, 5, 8, 38, 40, 41",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2024, November 12",
+        "Status": "Available. Released 2024, November 12"
+      },
+      "Body": {
+        "Dimensions": "163.6 x 75.6 x 8.4 mm (6.44 x 2.98 x 0.33 in)",
+        "Weight": "185 g (6.53 oz)",
+        "Build": "Glass front, plastic frame, plastic back",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "IP54 dust protected and water resistant (water splashes)"
+      },
+      "Display": {
+        "Type": "IPS LCD, 90Hz, 840 nits (HBM)",
+        "Size": "6.56 inches, 103.4 cm<sup>2</sup> (~83.6% screen-to-body ratio)",
+        "Resolution": "720 x 1612 pixels, 20:9 ratio (~269 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 14, Funtouch 14",
+        "Chipset": "Unisoc T612 (12 nm)",
+        "CPU": "Octa-core (2x1.8 GHz Cortex-A75 &amp; 6x1.8 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MP1"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "128GB 4GB RAM",
+        "Features": "eMMC 5.1"
+      },
+      "Main Camera": {
+        "Single": "50 MP, f/1.8, (wide), PDAF\n\nAuxiliary lens",
+        "Features": "LED flash, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, f/2.0, (wide)",
+        "Video": "Yes"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.2, A2DP, LE",
+        "Positioning": "GPS, GALILEO, GLONASS, BDS, QZSS",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Ion 5000 mAh",
+        "Charging": "15W wired"
+      },
+      "Misc": {
+        "Colors": "Space Black, Gem Green",
+        "Price": "About 110 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-y03t.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-y03.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/vivo_y18t-pictures-13492.php"
+    }
+  }
+}

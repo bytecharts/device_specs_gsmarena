@@ -1,0 +1,96 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "vivo Z5",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-z5-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/vivo-z5.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2019, August",
+    "dimensions": "187g, 8.1mm thickness",
+    "os": "Android 9.0, Funtouch 9.1",
+    "storage": "64GB/128GB/256GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 2100",
+        "4G bands": "1, 3, 4, 5, 8, 34, 38, 39, 40, 41",
+        "Speed": "HSPA, LTE",
+        "Features": "CDMA 800 &amp; TD-SCDMA"
+      },
+      "Launch": {
+        "Announced": "2019, July. Released 2019, August",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "159.5 x 75.2 x 8.1 mm (6.28 x 2.96 x 0.32 in)",
+        "Weight": "187 g (6.60 oz)",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "Super AMOLED",
+        "Size": "6.38 inches, 99.9 cm<sup>2</sup> (~83.3% screen-to-body ratio)",
+        "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~404 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 9.0 (Pie), Funtouch 9.1",
+        "Chipset": "Qualcomm SDM712 Snapdragon 712 (10 nm)",
+        "CPU": "Octa-core (2x2.3 GHz Kryo 360 Gold &amp; 6x1.7 GHz Kryo 360 Silver)",
+        "GPU": "Adreno 616"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "64GB 6GB RAM, 128GB 6GB RAM, 128GB 8GB RAM, 256GB 6GB RAM",
+        "Features": "UFS 2.1"
+      },
+      "Main Camera": {
+        "Triple": "48 MP, f/1.8, (wide), 1/2.0\", 0.8µm, PDAF\n\n8 MP, f/2.2, 13mm (ultrawide)\n\nAuxiliary lens",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.0, 26mm (wide), 1/2.8\", 0.8µm",
+        "Features": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.0, A2DP, LE, aptX",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "4500 mAh, non-removable",
+        "Charging": "22.5W wired"
+      },
+      "Misc": {
+        "Colors": "Aurora illusion, Bamboo Forest Night, Holographic illusion",
+        "Models": "V1921A, V1921T, 1921",
+        "Price": "About 210 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-z5-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-z5-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/vivo_z5-pictures-9782.php"
+    }
+  }
+}

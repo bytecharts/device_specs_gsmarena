@@ -1,0 +1,97 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "vivo NEX A",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-nex-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/vivo-nex-r1.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/vivo_nex_s_and_nex_a_hands_on_review-review-1778.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2018, June",
+    "dimensions": "199g, 8mm thickness",
+    "os": "Android 9.0, Funtouch 9",
+    "storage": "128GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 8, 34, 38, 39, 40, 41",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat15 800/150 Mbps",
+        "Features": "CDMA 800 &amp; TD-SCDMA"
+      },
+      "Launch": {
+        "Announced": "2018, June. Released 2018, June",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "162 x 77 x 8 mm (6.38 x 3.03 x 0.31 in)",
+        "Weight": "199 g (7.02 oz)",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "Super AMOLED",
+        "Size": "6.59 inches, 107.3 cm<sup>2</sup> (~86.0% screen-to-body ratio)",
+        "Resolution": "1080 x 2316 pixels, 19.3:9 ratio (~388 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 9.0 (Pie), Funtouch 9",
+        "Chipset": "Qualcomm SDM710 Snapdragon 710 (10 nm)",
+        "CPU": "Octa-core (2x2.2 GHz 360 Gold &amp; 6x1.7 GHz Kryo 360 Silver)",
+        "GPU": "Adreno 616"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 6GB RAM"
+      },
+      "Main Camera": {
+        "Dual": "12 MP, f/1.8, 1/2.55\", 1.4µm, dual pixel PDAF, 4-axis OIS\n\nAuxiliary lens",
+        "Features": "Dual-LED dual-tone flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "Motorized pop-up 8 MP, f/2.0",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes",
+        "Features": "32-bit/192kHz Hi-Res audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS, BDS, GNSS",
+        "NFC": "No",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Ion 4000 mAh, non-removable",
+        "Charging": "22W wired"
+      },
+      "Misc": {
+        "Colors": "Black, Red",
+        "Models": "NEX A",
+        "Price": "About 600 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-nex-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-nex-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-nex-s3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/vivo_nex_a-pictures-9231.php"
+    }
+  }
+}

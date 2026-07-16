@@ -1,0 +1,99 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "vivo iQOO Z10x",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-iqoo-z10x-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/vivo-iqoo-z10x.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2025, April 22",
+    "dimensions": "204g, 8.1mm thickness",
+    "os": "Android 15, up to 2 major upgrades",
+    "storage": "128GB/256GB/512GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "1, 3, 5, 8, 28, 38, 40, 41",
+        "5G bands": "1, 3, 5, 8, 28, 40, 77, 78 SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2025, April 11",
+        "Status": "Available. Released 2025, April 22"
+      },
+      "Body": {
+        "Dimensions": "165.7 x 76.3 x 8.1 mm (6.52 x 3.00 x 0.32 in)",
+        "Weight": "204 g (7.20 oz)",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "IP64 dust tight and water resistant (water splashes)\n\nMIL-STD-810H compliant*\n\n* does not guarantee ruggedness or use in extreme conditions"
+      },
+      "Display": {
+        "Type": "IPS LCD, 120Hz, 960Hz PWM, 1050 nits (HBM)",
+        "Size": "6.72 inches, 108.8 cm<sup>2</sup> (~86.0% screen-to-body ratio)",
+        "Resolution": "1080 x 2408 pixels, 20:9 ratio (~393 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 15, up to 2 major Android upgrades, Funtouch 15",
+        "Chipset": "Mediatek Dimensity 7300 (4 nm)",
+        "CPU": "Octa-core (4x2.5 GHz Cortex-A78 &amp; 4x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G615 MC2"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM, 512GB 12GB RAM",
+        "Features": "UFS 3.1"
+      },
+      "Main Camera": {
+        "Dual": "50 MP, f/1.8, (wide), PDAF\n\nAuxiliary lens",
+        "Features": "Ring-LED flash, panorama",
+        "Video": "4K, 1080p, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, (wide)",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+        "Bluetooth": "5.4, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS, QZSS",
+        "NFC": "No",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Ion 6500 mAh",
+        "Charging": "44W wired\n\nReverse wired"
+      },
+      "Misc": {
+        "Colors": "Ultramarine, Titanium, Ocean Blue",
+        "Models": "I2404",
+        "Price": "About 140 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-iqoo-z10x-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-iqoo-z10x-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-iqoo-z10x-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/vivo_iqoo_z10x_5g-pictures-13773.php"
+    }
+  }
+}

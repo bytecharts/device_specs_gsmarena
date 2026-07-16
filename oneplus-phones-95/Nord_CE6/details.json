@@ -1,0 +1,101 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "OnePlus Nord CE6",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-turbo-6v-11.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-turbo-6v.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/oneplus_nord_ce6-review-2961.php",
+    "siblingDeviceSlugs": [
+      "oneplus_nord_ce6_lite_5g-14567"
+    ],
+    "release_date": "Released 2026, May 08",
+    "dimensions": "208g or 215g, 8.5mm thickness",
+    "os": "Android 16",
+    "storage": "128GB/256GB storage, Unspecified",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - Global",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 26, 28, 32, 38, 39, 40, 41, 42, 48, 66 - Global",
+        "5G bands": "1, 2, 3, 5, 7, 8, 12, 20, 28, 38, 40, 41, 48, 66, 75, 77, 78 SA/NSA - Global",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "HSDPA 850 / 900 / 2100 - India\n1, 3, 5, 8, 19, 28, 38, 40, 41, 42, 48 - India\n1, 3, 5, 8, 28, 38, 40, 41, 48, 77, 78 SA/NSA - India"
+      },
+      "Launch": {
+        "Announced": "2026, May 07",
+        "Status": "Available. Released 2026, May 08"
+      },
+      "Body": {
+        "Dimensions": "162.5 x 77.5 x 8.5 mm (6.40 x 3.05 x 0.33 in)",
+        "Weight": "208 g or 215 g (7.34 oz)",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "IP68/IP69K dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)\n\nMIL-STD-810H compliant*\n\n* does not guarantee ruggedness or use in extreme conditions"
+      },
+      "Display": {
+        "Type": "AMOLED, 1B colors, 144Hz, 3840Hz PWM, HDR, 800 nits (typ), 1800 nits (HBM), 3600 nits (peak)",
+        "Size": "6.78 inches, 112.4 cm<sup>2</sup> (~89.3% screen-to-body ratio)",
+        "Resolution": "1272 x 2772 pixels, 19.5:9 ratio (~450 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 16",
+        "Chipset": "Qualcomm SM7635-AC Snapdragon 7s Gen 4 (4 nm)",
+        "CPU": "Octa-core (1x2.7 GHz Cortex-A720 &amp; 3x2.4 GHz Cortex-A720 &amp; 4x1.8 GHz Cortex-A520)",
+        "GPU": "Adreno 810"
+      },
+      "Memory": {
+        "Card slot": "Unspecified",
+        "Internal": "128GB 8GB RAM, 256GB 8GB RAM",
+        "Features": "UFS 3.1"
+      },
+      "Main Camera": {
+        "Dual": "50 MP, f/1.8, 27mm (wide), 1/2.88\", 0.61µm, PDAF, OIS\n\nAuxiliary lens",
+        "Features": "Color spectrum sensor, LED flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@30/60/120fps, gyro-EIS, OIS"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.0, 21mm (wide), 1/3.1\", 0.7µm",
+        "Features": "Panorama",
+        "Video": "4K@30fps, 1080p@30fps, gyro-EIS"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+        "Bluetooth": "5.2, A2DP, LE, aptX HD, aptX Adaptive, LHDC 5",
+        "Positioning": "GPS, GALILEO, GLONASS, BDS, QZSS",
+        "NFC": "Yes (market/region dependent)",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "7500 mAh - Global\n8000 mAh - India",
+        "Charging": "80W wired, 55W PPS, 13.5W PD\n\n27W reverse wired (India)\n\n6.5W reverse wired (Global)\n\nBypass charging"
+      },
+      "Misc": {
+        "Colors": "Pitch Black, Lunar Pearl, Blue",
+        "Price": "<a href=\"oneplus_nord_ce6_5g-price-14611.php\">₹ 35,999 / £ 449.00 / € 499.00</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-turbo-6v-11.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-turbo-6v-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/oneplus_nord_ce6_5g-pictures-14611.php"
+    }
+  }
+}
