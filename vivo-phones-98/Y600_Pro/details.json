@@ -1,0 +1,98 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "vivo Y600 Pro",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-y600-pro-01.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/vivo-y600-pro-.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2026, April 27",
+    "dimensions": "221g or 223g, 8.2mm thickness",
+    "os": "Android 16, OriginOS 6",
+    "storage": "128GB/256GB/512GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1900 / 2100",
+        "4G bands": "LTE",
+        "5G bands": "SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2026, April 27",
+        "Status": "Available. Released 2026, April 27"
+      },
+      "Body": {
+        "Dimensions": "163.9 x 76.5 x 8.2 mm (6.45 x 3.01 x 0.32 in)",
+        "Weight": "221 g or 223 g (7.80 oz)",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 24 hours)"
+      },
+      "Display": {
+        "Type": "AMOLED, 1B colors, 120Hz, 4320 PWM",
+        "Size": "6.83 inches, 112.6 cm<sup>2</sup> (~89.8% screen-to-body ratio)",
+        "Resolution": "1260 x 2800 pixels, 20:9 ratio (~450 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 16, OriginOS 6",
+        "Chipset": "Mediatek Dimensity 7300e (6 nm)",
+        "CPU": "Octa-core (4x2.5 GHz Cortex-A78 &amp; 4x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G610"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM, 512GB 8GB RAM, 512GB 12GB RAM",
+        "Features": "UFS 3.1"
+      },
+      "Main Camera": {
+        "Single": "50 MP, f/1.8, (wide), PDAF",
+        "Features": "LED flash, panorama, HDR",
+        "Video": "1080p, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.5, (wide)",
+        "Features": "Panorama",
+        "Video": "1080p"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+        "Bluetooth": "5.4, A2DP, LE, aptX HD",
+        "Positioning": "GPS, GALILEO, GLONASS, BDS, QZSS",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Si/C Li-Ion 10200 mAh",
+        "Charging": "90W wired\n\nReverse wired"
+      },
+      "Misc": {
+        "Colors": "Black, Blue, Gold, Violet",
+        "Models": "V2561A",
+        "Price": "About 250 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-y600-pro-01.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-y600-pro-02.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/vivo_y600_pro_5g_(china)-pictures-14634.php"
+    }
+  }
+}

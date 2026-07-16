@@ -1,0 +1,100 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "vivo iQOO 15T",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-iqoo-15t-r1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/vivo-iqoo-15t-.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2026, May 20",
+    "dimensions": "216g or 223g, 8.3mm thickness",
+    "os": "Android 16, OriginOS 6",
+    "storage": "256GB/512GB/1TB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 3, 4, 5, 7, 8, 18, 19, 26, 28, 34, 38, 39, 40, 41, 42, 43, 48, 66",
+        "5G bands": "1, 3, 5, 7, 8, 18, 26, 28, 34, 38, 39, 40, 41, 48, 66, 77, 78 SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2026, May 20",
+        "Status": "Available. Released 2026, May 20"
+      },
+      "Body": {
+        "Dimensions": "163.4 x 76.7 x 8.3 mm (6.43 x 3.02 x 0.33 in)",
+        "Weight": "216 g or 223 g (7.62 oz)",
+        "Build": "Glass front, aluminum frame, glass back or glass-fiber reinforced plastic back",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)\n\nColor-changing rear panel (blue color only)"
+      },
+      "Display": {
+        "Type": "LTPO AMOLED, 1B colors, 144Hz, 2592Hz PWM, HDR10+, 1800 nits (HBM), 4500 nits (peak)",
+        "Size": "6.82 inches, 113.0 cm<sup>2</sup> (~90.2% screen-to-body ratio)",
+        "Resolution": "1440 x 3168 pixels (~510 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 16, OriginOS 6",
+        "Chipset": "MediaTek Dimensity 9500 Monster (3 nm)",
+        "CPU": "Octa-core (1x4.21 GHz C1-Ultra &amp; 3x3.5 GHz C1-Premium &amp; 4x2.7 GHz C1-Pro)",
+        "GPU": "Mali-G1 Ultra MC12"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 12GB RAM, 256GB 16GB RAM, 512GB 12GB RAM, 512GB 16GB RAM, 1TB 16GB RAM",
+        "Features": "UFS 4.1"
+      },
+      "Main Camera": {
+        "Dual": "200 MP, f/1.9, (wide), 1/1.56\", 0.5µm, PDAF, OIS\n\n50 MP, f/2.0, 15mm (ultrawide), 1/2.76\", 0.64µm, AF",
+        "Features": "Color spectrum sensor, LED flash, HDR, panorama",
+        "Video": "8K, 4K, 1080p; gyro-EIS, OIS"
+      },
+      "Selfie camera": {
+        "Single": "16 MP, f/2.5, (wide)",
+        "Features": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.4, A2DP, LE, aptX HD, LHDC 5",
+        "Positioning": "GPS (L1+L5), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), NavIC (L1+L5), GLONASS",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Si/C Li-Ion 8000 mAh",
+        "Charging": "100W wired, PPS, PD\n\nReverse wired\n\nBypass charging"
+      },
+      "Misc": {
+        "Colors": "Black, Blue, White",
+        "Models": "V2564A",
+        "Price": "About 480 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-iqoo-15t-r1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-iqoo-15t-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-iqoo-15t-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/vivo_iqoo_15t_5g-pictures-14661.php"
+    }
+  }
+}

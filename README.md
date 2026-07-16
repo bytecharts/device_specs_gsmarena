@@ -24,6 +24,7 @@ git-ignored and not committed.
 | Sony   | `sony-phones-7`     | 163     | 163              | ✅ Complete  |
 | Nokia  | `nokia-phones-1`    | 596     | 596              | ✅ Complete  |
 | Xiaomi | `xiaomi-phones-80`  | 528     | 527              | ✅ Complete  |
+| Vivo   | `vivo-phones-98`    | 63      | 599              | ⏳ Partial   |
 
 \* Apple: 146 of 148 — 2 models unaccounted for (not yet scraped).
 

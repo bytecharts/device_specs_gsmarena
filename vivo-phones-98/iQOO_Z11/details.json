@@ -1,0 +1,100 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "vivo iQOO Z11",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-iqoo-z11-5g-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/vivo-iqoo-z11-5g.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "vivo_iqoo_z11x_5g-14531",
+      "vivo_iqoo_z11_turbo_5g-14392"
+    ],
+    "release_date": "Released 2026, May 05",
+    "dimensions": "213g , 8.3mm thickness",
+    "os": "Android 16, Origin OS 6.0",
+    "storage": "128GB/256GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 2100",
+        "4G bands": "1, 3, 5, 7, 8, 19, 20, 28, 38, 40, 41, 42, 43, 48, 71",
+        "5G bands": "1, 3, 5, 7, 8, 20, 28, 38, 40, 41, 71, 77, 78 SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2026, May 05",
+        "Status": "Available. Released 2026, May 05"
+      },
+      "Body": {
+        "Dimensions": "163.7 x 76.2 x 8.3 mm (6.44 x 3.00 x 0.33 in)",
+        "Weight": "213 g  (7.51 oz)",
+        "Build": "Glass front, plastic frame, plastic back",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)"
+      },
+      "Display": {
+        "Type": "AMOLED, 1B colors, 144Hz, 2160Hz PWM, HDR, 800 nits (typ), 2000 nits (HBM), 5000 nits (peak)",
+        "Size": "6.83 inches, 112.6 cm<sup>2</sup> (~90.3% screen-to-body ratio)",
+        "Resolution": "1260 x 2800 pixels, 20:9 ratio (~450 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 16, Origin OS 6.0",
+        "Chipset": "Qualcomm Snapdragon 7s Gen 4",
+        "CPU": "Octa-core (1x2.7 GHz Kryo Prime + 3x2.4 GHz Kryo Gold + 4x1.8 GHz Kryo Silver)",
+        "GPU": "Adreno 810"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM",
+        "Features": "UFS 3.1"
+      },
+      "Main Camera": {
+        "Dual": "50 MP, f/1.8, (wide), 1/1.95\", PDAF, OIS\n\nAuxiliary lens",
+        "Features": "LED flash, panorama, HDR",
+        "Video": "4K@30fps, 1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.0, (wide)",
+        "Video": "4K@30fps, 1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No",
+        "Features": "24-bit/192kHz Hi-Res audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+        "Bluetooth": "5.2, A2DP, LE",
+        "Positioning": "GPS (L1+L5), GLONASS, GALILEO, BDS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Si/C Li-Ion 9020 mAh",
+        "Charging": "90W wired, 50% in 37 min\n\n7.5W reverse wired\n\nBypass charging"
+      },
+      "Misc": {
+        "Colors": "Cosmic Black, Glacier Blue",
+        "Price": "About 370 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-iqoo-z11-5g-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-iqoo-z11-5g-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/vivo_iqoo_z11_5g-pictures-14654.php"
+    }
+  }
+}

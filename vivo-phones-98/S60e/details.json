@@ -1,0 +1,99 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "vivo S60e",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-s60e-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/vivo-s60-vitality-.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2026, June 03",
+    "dimensions": "196g or 199g, 7.8mm thickness",
+    "os": "Android 16, OriginOS 6",
+    "storage": "256GB/512GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 2100",
+        "4G bands": "1, 3, 4, 5, 8, 18, 19, 26, 28, 34, 38, 39, 40, 41, 42, 43, 48, 66",
+        "5G bands": "1, 3, 5, 8, 18, 26, 28, 34, 38, 39, 40, 41, 48, 66, 77, 78 SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2026, May 29",
+        "Status": "Available. Released 2026, June 03"
+      },
+      "Body": {
+        "Dimensions": "157.5 x 74.3 x 7.8 mm (6.20 x 2.93 x 0.31 in)",
+        "Weight": "196 g or 199 g (6.91 oz)",
+        "Build": "Glass front, aluminum frame, glass back",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)"
+      },
+      "Display": {
+        "Type": "AMOLED, 1B colors, 144Hz, HDR, 4320Hz PWM",
+        "Size": "6.59 inches, 106.1 cm<sup>2</sup> (~90.7% screen-to-body ratio)",
+        "Resolution": "1260 x 2750 pixels, 19.5:9 ratio (~459 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 16, OriginOS 6",
+        "Chipset": "Mediatek Dimensity 7500 (4 nm)",
+        "CPU": "Octa-core (4x2.6 GHz Arm C1 Pro &amp; 4x2.0 GHz Arm C1 Nano)",
+        "GPU": "Mali-G625 MC"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 8GB RAM, 256GB 12GB RAM, 512GB 12GB RAM"
+      },
+      "Main Camera": {
+        "Dual": "50 MP, f/1.9, (wide), 1/1.56\", 1.0µm, PDAF, OIS\n\n8 MP, f/2.2, 110˚ (ultrawide)",
+        "Features": "Ring-LED flash, panorama, HDR",
+        "Video": "4K, 1080p, OIS"
+      },
+      "Selfie camera": {
+        "Single": "50 MP, f/2.0, 21mm (wide), 1/2.76\", 0.64µm, AF",
+        "Features": "HDR",
+        "Video": "4K, 1080p"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.4, A2DP, LE, aptX HD",
+        "Positioning": "GPS, GALILEO, GLONASS, BDS, QZSS",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, compass, proximity"
+      },
+      "Battery": {
+        "Type": "Si/C Li-Ion 7200 mAh",
+        "Charging": "90W wired, PD\n\nReverse wired"
+      },
+      "Misc": {
+        "Colors": "Black, White, Green",
+        "Models": "V2572A",
+        "Price": "About 370 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-s60e-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-s60e-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-s60-vitality-11.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/vivo_s60_vitality_5g-pictures-14693.php"
+    }
+  }
+}

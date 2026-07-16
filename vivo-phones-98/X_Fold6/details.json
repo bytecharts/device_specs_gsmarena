@@ -1,0 +1,104 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "vivo X Fold6",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-x-fold6-11.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/vivo-x-fold6.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2026, July 01",
+    "dimensions": "228g or 235g, 4.4mm thickness",
+    "os": "Android 16, OriginOS 6 Fold",
+    "storage": "256GB/512GB/1TB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 25, 26, 28, 34, 38, 39, 40, 41, 42, 43, 48, 66",
+        "5G bands": "1, 2, 3, 5, 7, 8, 12, 18, 20, 25, 26, 28, 34, 38, 39, 40, 41, 48, 66, 77, 78, 79 SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2026, June 26",
+        "Status": "Available. Released 2026, July 01"
+      },
+      "Body": {
+        "Dimensions": "Unfolded: 157.2 x 145.7 x 4.4 mm or 4.8 mm\nFolded: 157.2 x 74.3 x 9.4 mm or 9.9 mm",
+        "Weight": "228 g or 235 g (8.04 oz)",
+        "Build": "Glass front (closed), aluminum frame, glass-fiber reinforced plastic back",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "IP58/IP59 dust protected and water resistant (high pressure water jets; immersible up to 1m for 30 min)"
+      },
+      "Display": {
+        "Type": "Foldable LTPO AMOLED, 1B colors, 120Hz, HDR10+, HDR Vivid, Dolby Vision",
+        "Size": "8.02 inches, 206.8 cm<sup>2</sup> (~90.3% screen-to-body ratio)",
+        "Resolution": "2312 x 2504 pixels (~425 ppi density)",
+        "Features": "Cover display:\n\nLTPO AMOLED, 120Hz, HDR10+, Dolby Vision, 5000 nits (peak)\n\n6.51 inches, 1120 x 2528 pixels, 20:9 ratio"
+      },
+      "Platform": {
+        "OS": "Android 16, OriginOS 6 Fold",
+        "Chipset": "Mediatek Dimensity 9500 Super (3 nm)",
+        "CPU": "Octa-core (1x4.21 GHz C1-Ultra &amp; 3x3.5 GHz C1-Premium &amp; 4x2.7 GHz C1-Pro)",
+        "GPU": "Mali-G1 Ultra MC12"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 12GB RAM, 512GB 12GB RAM, 512GB 16GB RAM, 1TB 16GB RAM",
+        "Features": "UFS 4.1"
+      },
+      "Main Camera": {
+        "Triple": "200 MP, f/1.7, (wide), 1/1.4\", PDAF, OIS\n\n50 MP, f/2.6, 70mm (periscope telephoto), 1/1.95\", 0.8µm, PDAF, OIS, 3x optical zoom\n\n50 MP, f/2.1, 16mm, 119˚ (ultrawide), 1/2.76\", 0.64µm, PDAF",
+        "Features": "Color spectrum sensor, Laser AF, Zeiss optics, Zeiss T* lens coating, Dual-LED flash, panorama",
+        "Video": "8K@30fps, 4K@30/60fps, 1080p@30/60fps, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "20 MP, f/2.4, 21mm (wide), 1/3.6\", 0.7µm\n\nCover camera:\n\n20 MP, f/2.4, 21mm (wide), 1/3.6\", 0.7µm",
+        "Features": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No",
+        "Features": "24-bit/192kHz Hi-Res audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, dual-band or tri-band, Wi-Fi Direct",
+        "Bluetooth": "5.4, A2DP, LE, aptX HD, LHDC 5",
+        "Positioning": "GPS (L1+L5), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), NavIC (L1+L5), GLONASS",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 3.2 Gen2, OTG, Display Port"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer"
+      },
+      "Battery": {
+        "Type": "Si/C Li-Ion 7000 mAh",
+        "Charging": "80W wired\n\n40W wireless\n\nReverse wired\n\n5W reverse wireless"
+      },
+      "Misc": {
+        "Colors": "Gray, White, Azure",
+        "Models": "V2545A",
+        "Price": "About 1030 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-x-fold6-11.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-x-fold6-4.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-x-fold6-7.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-x-fold6-6.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-x-fold6-5.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/vivo_x_fold6_5g-pictures-14748.php"
+    }
+  }
+}

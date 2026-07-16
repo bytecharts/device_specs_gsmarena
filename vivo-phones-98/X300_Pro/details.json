@@ -1,0 +1,123 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "vivo X300 Pro",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-x300-pro-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/vivo-x300-pro.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/vivo_x300_pro-review-2896.php",
+    "siblingDeviceSlugs": [
+      "vivo_x300_ultra_5g-14388",
+      "vivo_x300_5g-14224",
+      "vivo_x300_fe_5g-14491"
+    ],
+    "release_date": "Released 2025, October 17",
+    "dimensions": "226g, 8mm thickness",
+    "os": "Android 16, up to 5 major upgrades",
+    "storage": "256GB/512GB/1TB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100 - China",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 18, 19, 20, 25, 26, 28, 34, 38, 39, 40, 41, 42, 43, 48, 66",
+        "5G bands": "1, 2, 3, 5, 7, 8, 18, 20, 25, 26, 28, 34, 38, 39, 40, 41, 48, 66, 77, 78, 79 SA/NSA/Sub6",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - International"
+      },
+      "Launch": {
+        "Announced": "2025, October 13",
+        "Status": "Available. Released 2025, October 17"
+      },
+      "Body": {
+        "Dimensions": "161.2 x 75.5 x 8 mm (6.35 x 2.97 x 0.31 in)",
+        "Weight": "226 g (7.97 oz)",
+        "Build": "Glass front (Armor Glass), aluminum frame, glass back",
+        "SIM": "· Nano-SIM + Nano-SIM + <a href=\"glossary.php3?term=esim\">eSIM</a> (max 2 at a time) - International\n· Nano-SIM + Nano-SIM - China",
+        "Features": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)"
+      },
+      "Display": {
+        "Type": "LTPO AMOLED, 1B colors, 120Hz, 2160Hz PWM, HDR10+, HDR Vivid, Dolby Vision, 4500 nits (peak)",
+        "Size": "6.78 inches, 111.5 cm<sup>2</sup> (~91.6% screen-to-body ratio)",
+        "Resolution": "1260 x 2800 pixels, 20:9 ratio (~452 ppi density)",
+        "Protection": "Armor Glass, Mohs level 4",
+        "Features": "Ultra HDR image support"
+      },
+      "Platform": {
+        "OS": "Android 16, up to 5 major Android upgrades, OriginOS 6",
+        "Chipset": "Mediatek Dimensity 9500 (3 nm)",
+        "CPU": "Octa-core (1x4.21 GHz C1-Ultra &amp; 3x3.5 GHz C1-Premium &amp; 4x2.7 GHz C1-Pro)",
+        "GPU": "Arm G1-Ultra"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 12GB RAM, 512GB 16GB RAM, 1TB 16GB RAM",
+        "Features": "Dual UFS 4.1"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, f/1.6, 24mm (wide), 1/1.28\", 1.22µm, PDAF, OIS\n\n200 MP, f/2.7, 85mm (periscope telephoto), 1/1.4\", 0.56µm, multi-directional PDAF, OIS, 3.7x optical zoom, macro 2.7:1\n\n50 MP, f/2.0, 15mm, 119˚ (ultrawide), 1/2.76\", 0.64µm, AF",
+        "Features": "Laser AF, color spectrum sensor, Zeiss optics, Zeiss T* lens coating, LED flash, panorama, HDR, 3D LUT import",
+        "Video": "8K@30fps, 4K@30/60/120fps, 1080p@30/60/120/240fps, gyro-EIS, 4K@120fps 10-bit Log, Dolby Vision HDR"
+      },
+      "Selfie camera": {
+        "Single": "50 MP, f/2.0, 20mm (wide), 1/2.76\", 0.64µm, AF",
+        "Features": "HDR",
+        "Video": "4K@30/60fps, 1080p@30/60fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No",
+        "Features": "24-bit/192kHz Hi-Res audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band",
+        "Bluetooth": "5.4, A2DP, LE, aptX HD, LHDC 5",
+        "Positioning": "GPS (L1+L5), GLONASS (L1), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), NavIC (L5)",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 3.2, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass",
+        "Features": "Satellite connectivity support (optional, market/region dependent)"
+      },
+      "Battery": {
+        "Type": "· Si/C Li-Ion 6510 mAh (Global)\n· Si/C Li-Ion 5440 mAh (EU markets)",
+        "Charging": "90W wired\n\n40W wireless\n\nReverse wireless\n\nReverse wired"
+      },
+      "Misc": {
+        "Colors": "Phantom Black, Mist Blue, Dune Brown, Cloud White",
+        "Models": "V2514, V2502A",
+        "Price": "<a href=\"vivo_x300_pro_5g-price-14225.php\">₹ 109,999 / $ 829.99 / € 1,177.66</a>"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 2982875 (v10), 3533222 (v11)\n\nGeekBench: 10264 (v6)\n\n3DMark: 7263 (Wild Life Extreme)",
+        "Display": "<a class=\"noUnd\" href=\"vivo_x300_pro-review-2896p3.php#dt\">2113 nits max brightness (measured)</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"vivo_x300_pro-review-2896p3.php#lt\">-24.8 LUFS (Very good)</a>",
+        "Battery": "<div style=\"position:relative;\">\n<a href=\"vivo_x300_pro-review-2896p3.php#bt\" data-battery2=\"20:58_11:29_17:04_7:56_5440\" onclick=\"showBatteryPopup(event, 14225); \" class=\"v2\">Active use score 12:45h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      },
+      "EU LABEL": {
+        "Energy": "Class B",
+        "Battery": "48:21h endurance, 1200 cycles",
+        "Free fall": "Class B (180 falls)",
+        "Repairability": "Class C"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-x300-pro-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-x300-pro-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-x300-pro-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-x300-pro-11.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/vivo_x300_pro_5g-pictures-14225.php"
+    }
+  }
+}

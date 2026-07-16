@@ -1,0 +1,105 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "vivo iQOO 15 Ultra",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-iqoo-15-ultra-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/vivo-iqoo-15-ultra.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "vivo_iqoo_15_5g-14198",
+      "oneplus_15_5g-14206",
+      "vivo_iqoo_15r_5g-14483",
+      "vivo_iqoo_15t_5g-14661"
+    ],
+    "release_date": "Released 2026, February 06",
+    "dimensions": "227g, 8.7mm thickness",
+    "os": "Android 16, up to 5 major upgrades",
+    "storage": "256GB/512GB/1TB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 25, 26, 28, 32, 34, 38, 39, 40, 41, 42, 43, 48, 66",
+        "5G bands": "1, 2, 3, 5, 7, 8, 12, 18, 20, 25, 26, 28, 38, 40, 41, 48, 66, 75, 77, 78, 79, 80, 81, 83, 84, 89, 91, 92, 93, 94 SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2026, February 04",
+        "Status": "Available. Released 2026, February 06"
+      },
+      "Body": {
+        "Dimensions": "163.7 x 76.8 x 8.7 mm (6.44 x 3.02 x 0.34 in)",
+        "Weight": "227 g (8.01 oz)",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)\n\nPressure sensitive zones (600Hz touch-sensing)\n\nBuilt-in cooling fan"
+      },
+      "Display": {
+        "Type": "AMOLED, 1B colors, 144Hz, PWM, Dolby Vision, HDR10+, HDR Vivid, 1000 nits (typ), 2600 nits (HBM), 8000 nits (peak)",
+        "Size": "6.85 inches, 114.0 cm<sup>2</sup> (~90.7% screen-to-body ratio)",
+        "Resolution": "1440 x 3168 pixels (~508 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 16, up to 5 major Android upgrades, OriginOS 6",
+        "Chipset": "Qualcomm SM8850-AC Snapdragon 8 Elite Gen 5 (3 nm)",
+        "CPU": "Octa-core (2x4.6 GHz Oryon V3 Phoenix L + 6x3.62 GHz Oryon V3 Phoenix M)",
+        "GPU": "Adreno 840"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 16GB RAM, 512GB 16GB RAM, 1TB 16GB RAM, 1TB 24GB RAM",
+        "Features": "UFS 4.1"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, f/1.9, 23mm (wide), 1/1.56\", 1.0µm, PDAF, OIS\n\n50 MP, f/2.7, 85mm (periscope telephoto), 1/1.95\", 0.8µm, PDAF, OIS, 3x optical zoom\n\n50 MP, f/2.1, 15mm, 107˚ (ultrawide), 1/2.76\", 0.64µm, AF",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "8K@30fps, 4K@24/30/60fps, 1080p@30/60/120/240fps, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.2, 21mm (wide), 1/3.1\", 0.7µm",
+        "Features": "HDR",
+        "Video": "4K@30/60fps, 1080p@30/60fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers (with Dolby Atmos)",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.4, A2DP, LE, aptX HD, aptX Adaptive, aptX Lossless, LHDC 5",
+        "Positioning": "GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5)",
+        "NFC": "Yes",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 3.2, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Si/C Li-Ion 7400 mAh",
+        "Charging": "100W wired, PPS, PD\n\n40W wireless\n\nBypass charging"
+      },
+      "Misc": {
+        "Colors": "Black, Silver",
+        "Models": "V2546A",
+        "Price": "About 730 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-iqoo-15-ultra-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-iqoo-15-ultra-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-iqoo-15-ultra-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-iqoo-15-ultra-4.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/vivo_iqoo_15_ultra_5g-pictures-14445.php"
+    }
+  }
+}
