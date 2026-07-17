@@ -1,0 +1,87 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola MPx200",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/mov700_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/mov700.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2003, Q3",
+    "dimensions": "118g, 27mm thickness",
+    "os": "Microsoft Smartphone 2002",
+    "storage": "8MB storage, MMC/SD slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "GPRS": "Class 8",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2003, Q3",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "89 x 48 x 27 mm, 96 cc (3.50 x 1.89 x 1.06 in)",
+        "Weight": "118 g (4.16 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 65k colors",
+        "Size": "2.2 inches, 35 x 44 mm, 15.2 cm<sup>2</sup> (~35.7% screen-to-body ratio)",
+        "Resolution": "176 x 220 pixels, 9 lines (~128 ppi density)",
+        "Features": "Second display (80 x 48 pixels)\n\nDownloadable wallpapers and screensavers"
+      },
+      "Platform": {
+        "OS": "Microsoft Smartphone 2002",
+        "Chipset": "TI OMAP 710",
+        "CPU": "133 MHz ARM925"
+      },
+      "Memory": {
+        "Card slot": "MMC/SD (1 GB max)",
+        "Internal": "8MB"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "Alert types": "Vibration; Downloadable polyphonic, WAV ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "miniUSB"
+      },
+      "Features": {
+        "Sensors": "",
+        "Browser": "WAP 1.2.1, HTML (PocketIE)",
+        "Features": "MP3/AAC/AAC+/WMA/OGG/AMR player\n\nWMV/MP4 player\n\nPredictive text input\n\nSync ML\n\nVoice dial"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 860 mAh battery (BA520)",
+        "Stand-by": "Up to 96 h",
+        "Talk time": "Up to 4 h"
+      },
+      "Misc": {
+        "Colors": "Liquorice Black"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/mov700_00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_mpx200-pictures-514.php"
+    }
+  }
+}

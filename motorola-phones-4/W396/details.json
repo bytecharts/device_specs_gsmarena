@@ -1,0 +1,92 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola W396",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola_w396_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-w396.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2008",
+    "dimensions": "94g, 17mm thickness",
+    "os": "Feature phone",
+    "storage": "microSD slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "Class 10",
+        "EDGE": "No",
+        "Features": "GSM 850 / 1900 - US version"
+      },
+      "Launch": {
+        "Announced": "2008, August. Released 2008",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "95 x 45 x 17 mm (3.74 x 1.77 x 0.67 in)",
+        "Weight": "94 g (3.32 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 65K colors",
+        "Size": "1.8 inches, 10.2 cm<sup>2</sup> (~23.9% screen-to-body ratio)",
+        "Resolution": "128 x 160 pixels (~114 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "microSD (dedicated slot)",
+        "Phonebook": "1000 entries",
+        "Call records": "10 dialed, 10 received, 10 missed calls",
+        "Features": "750 SMS messages"
+      },
+      "Main Camera": {
+        "Single": "VGA",
+        "Video": "No"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "Alert types": "Vibration; Polyphonic ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Radio": "Stereo FM radio, RDS, recording",
+        "USB": "1.1"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, EMS, MMS",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "Yes",
+        "Java": "No",
+        "Features": "MP3 player (iMelody,MIDI,MP3,AMR formats)\n\nPredictive text input\n\nCalculator\n\nStopwatch"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 940 mAh battery (BQ50)",
+        "Stand-by": "Up to 400 h",
+        "Talk time": "Up to 9 h"
+      },
+      "Misc": {
+        "Colors": "lustrous silver, dark titanium gray",
+        "SAR": "0.54 W/kg (head) &nbsp; &nbsp; 0.64 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 50 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola_w396_00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_w396-pictures-2483.php"
+    }
+  }
+}

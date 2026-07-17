@@ -1,0 +1,91 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola V975",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/mov975_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/mov975.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2004, Q3",
+    "dimensions": "137g, 27mm thickness",
+    "os": "Feature phone",
+    "storage": "16MB storage, microSD slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / UMTS</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "3G bands": "UMTS 2100",
+        "Speed": "Yes, 384 kbps"
+      },
+      "Launch": {
+        "Announced": "2004, Q3",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "94 x 49 x 27 mm, 105 cc (3.70 x 1.93 x 1.06 in)",
+        "Weight": "137 g (4.83 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 65K colors",
+        "Size": "1.9 inches, 30 x 37 mm, 11.4 cm<sup>2</sup> (~24.7% screen-to-body ratio)",
+        "Resolution": "176 x 220 pixels (~148 ppi density)",
+        "Features": "Second external STN, 4096 colors display (96 x 80 pixels)\n\nDownloadable pictures"
+      },
+      "Memory": {
+        "Card slot": "microSD (dedicated slot)",
+        "Phonebook": "1000 entries",
+        "Call records": "Yes",
+        "Internal": "16MB"
+      },
+      "Main Camera": {
+        "Single": "VGA",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Single": "Yes",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": "Proprietary"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS, Email",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "Yes + downloadable",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "MP4, WMV player\n\nMP3, AAC, AMR audio player \n\nPredictive text input\n\nOrganizer\n\nSyncML"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 930 mAh battery",
+        "Stand-by": "Up to 150 h",
+        "Talk time": "Up to 2 h"
+      },
+      "Misc": {
+        "Colors": "Silver"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/mov975_00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_v975-pictures-856.php"
+    }
+  }
+}

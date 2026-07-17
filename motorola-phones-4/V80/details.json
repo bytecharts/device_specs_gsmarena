@@ -1,0 +1,91 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola V80",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/mov80_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/mov80.gif"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/motorola_v80-review-6.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2003, Q4",
+    "dimensions": "108g, 23mm thickness",
+    "os": "Feature phone",
+    "storage": "5MB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "GPRS": "Class 10",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2003, Q4",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "99 x 45 x 23 mm, 82 cc (3.90 x 1.77 x 0.91 in)",
+        "Weight": "108 g (3.81 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 65K colors",
+        "Size": "",
+        "Resolution": "176 x 220 pixels, 8 lines",
+        "Features": "Screensavers and wallpapers\n\nDownloadable logos, screensavers"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "2000 entries, Photo call",
+        "Call records": "10 dialed, 10 received, 10 missed calls",
+        "Internal": "5MB"
+      },
+      "Main Camera": {
+        "Single": "VGA",
+        "Video": "No"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones, composer",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "1.1",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": "Proprietary"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, EMS, MMS, Email, Instant Messaging",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "3 - Hungry Fish, Skipping Stones, SlideShow",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "MP4 player\n\nPredictive text input (iTAP)\n\nOrganizer"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 820 mAh battery (BA620)",
+        "Stand-by": "Up to 280 h",
+        "Talk time": "Up to 6 h"
+      },
+      "Misc": {
+        "Colors": "Onyx and Platinum"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/mov80_00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_v80-pictures-609.php"
+    }
+  }
+}

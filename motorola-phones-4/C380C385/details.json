@@ -1,0 +1,86 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola C380/C385",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/moc380_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/moc380.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2004, Q1",
+    "dimensions": "80g, 20.9mm thickness",
+    "os": "Feature phone",
+    "storage": "1.8MB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "GPRS": "Class 10",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2004, Q1",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "107 x 44 x 20.9 mm, 80 cc (4.21 x 1.73 x 0.82 in)",
+        "Weight": "80 g (2.82 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "CSTN, 65K colors",
+        "Size": "",
+        "Resolution": "128 x 128 pixels, 5 lines, 1:1 ratio",
+        "Features": "Screensavers and wallpapers\n\nDownloadable logos"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "500 entries",
+        "Call records": "10 dialed, 10 received, 10 missed calls",
+        "Internal": "1.8MB"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "Alert types": "Vibration; Downloadable polyphonic ringtones, composer",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": "Proprietary"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, EMS, MMS",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "Hungry Fish, Skipping Stones + downloadable",
+        "Java": "Yes",
+        "Features": "Predictive text input (iTAP)\n\nOrganizer"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 800 mAh battery (BX200)",
+        "Stand-by": "Up to 190 h",
+        "Talk time": "Up to 5 h"
+      },
+      "Misc": {
+        "Colors": "Cosmic Universe Blue, Shadow Anthracite"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/moc380_00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_c380_c385-pictures-658.php"
+    }
+  }
+}

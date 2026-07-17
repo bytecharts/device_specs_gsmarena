@@ -1,0 +1,90 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola A910",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola_a910_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-a910.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2005, July",
+    "dimensions": "127g, 23mm thickness",
+    "os": "Linux, JUIX UI",
+    "storage": "10MB storage, microSD slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "GPRS": "Class 10",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2005, July",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "93 x 51 x 23 mm, 88 cc (3.66 x 2.01 x 0.91 in)",
+        "Weight": "127 g (4.48 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "",
+        "Resolution": "240 x 320 pixels, 4:3 ratio",
+        "Features": "Second external display TFT, 256K colors (128 x 108 pixels)\n\n4-way navi key\n\nDownloadable logos"
+      },
+      "Platform": {
+        "OS": "Linux, JUIX UI",
+        "CPU": "Intel XScale"
+      },
+      "Memory": {
+        "Card slot": "microSD (dedicated slot)",
+        "Internal": "10MB"
+      },
+      "Main Camera": {
+        "Single": "1.3 MP",
+        "Features": "LED flash",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "Alert types": "Vibration; Polyphonic ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11b/g, UMA technology",
+        "Bluetooth": "2.0, A2DP",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": "Proprietary"
+      },
+      "Features": {
+        "Sensors": "",
+        "Browser": "WAP 2.0/xHTML",
+        "Features": "MP3 player\n\nMP4 player\n\nSpeaker independent voice recognition"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1000 mAh battery",
+        "Stand-by": "Up to 250 h",
+        "Talk time": "Up to 4 h"
+      },
+      "Misc": {
+        "Colors": ""
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola_a910_00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_a910-pictures-1233.php"
+    }
+  }
+}

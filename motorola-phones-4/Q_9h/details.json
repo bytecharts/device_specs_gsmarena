@@ -1,0 +1,95 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola Q 9h",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola_moto-q9_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-q_q9.gif"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/motorola_q_9h-review-182.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2007, February",
+    "dimensions": "134g, 11.8mm thickness",
+    "os": "Microsoft Windows Mobile 6.0 Standard",
+    "storage": "96MB RAM storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 2100 - Q 9h",
+        "Speed": "HSPA 3.6/0.384 Mbps",
+        "Features": "HSDPA 850 / 1900 - Q 9h global"
+      },
+      "Launch": {
+        "Announced": "2007, February",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "118 x 67 x 11.8 mm, 85 cc (4.65 x 2.64 x 0.46 in)",
+        "Weight": "134 g (4.73 oz)",
+        "Keyboard": "QWERTY",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 65k colors",
+        "Size": "2.4 inches, 17.8 cm<sup>2</sup> (~22.6% screen-to-body ratio)",
+        "Resolution": "320 x 240 pixels, 4:3 ratio (~167 ppi density)",
+        "Features": "5-way navigation button\n\nDownloadable wallpaper and screensavers"
+      },
+      "Platform": {
+        "OS": "Microsoft Windows Mobile 6.0 Standard",
+        "CPU": "325 MHz"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Internal": "96MB RAM, 256MB ROM"
+      },
+      "Main Camera": {
+        "Single": "2 MP",
+        "Features": "LED flash",
+        "Video": "@30fps"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "Alert types": "Vibration; Polyphonic, MP3 ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.0, A2DP",
+        "Positioning": "GPS (Q 9h global only)",
+        "Radio": "No",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Browser": "HTML (Opera)",
+        "Features": "MP3/AAC player\n\nMP4/MWV/H.264 player\n\nVoice memo\n\nVoice dial"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1170 mAh battery",
+        "Stand-by": "Up to 480 h",
+        "Talk time": "Up to 6 h 30 min"
+      },
+      "Misc": {
+        "Colors": "Silver, Black",
+        "SAR": "1.29 W/kg (head) &nbsp; &nbsp; 1.53 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 70 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola_moto-q9_00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_q_9h-pictures-1871.php"
+    }
+  }
+}

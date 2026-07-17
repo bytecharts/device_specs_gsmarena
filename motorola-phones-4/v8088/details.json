@@ -1,0 +1,89 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola v8088",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/mov8088_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motw8088.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2000, Q3",
+    "dimensions": "79g, 26mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2000, Q3",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "82 x 43 x 26 mm (3.23 x 1.69 x 1.02 in)",
+        "Weight": "79 g (2.79 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "Monochrome graphic",
+        "Size": "",
+        "Resolution": "96 x 64 pixels, 3:2 ratio",
+        "Features": "Screensavers"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "300",
+        "Call records": "10 dialed, 10 received, 10 missed calls",
+        "Features": "9 voice dial commands\n\n25 voice dial numbers"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Monophonic ringtones, composer",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS",
+        "Browser": "WAP",
+        "Clock": "Yes",
+        "Alarm": "No",
+        "Games": "",
+        "Languages": "16 + 11",
+        "Java": "No",
+        "Features": "Voice memo"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 500 mAh battery",
+        "Stand-by": "up to 80 h",
+        "Talk time": "up to 2.5 h"
+      },
+      "Misc": {
+        "Colors": "4 - Platinum, Lilac, Teal Green and Radar Blue with Chrome Styling Ring"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/mov8088_00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_v8088-pictures-467.php"
+    }
+  }
+}

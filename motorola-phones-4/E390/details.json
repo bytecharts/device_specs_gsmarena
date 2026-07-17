@@ -1,0 +1,93 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola E390",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/moe390_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/moe390.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Cancelled",
+    "dimensions": "100g, 22mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "GPRS": "Class 10",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2003, Q4",
+        "Status": "Cancelled"
+      },
+      "Body": {
+        "Dimensions": "107 x 46 x 22 mm, 100 cc (4.21 x 1.81 x 0.87 in)",
+        "Weight": "100 g (3.53 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 65K colors",
+        "Size": "",
+        "Resolution": "176 x 220 pixels",
+        "Features": "Downloadable screensavers and wallpapers"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "Yes",
+        "Call records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "Main Camera": {
+        "Single": "VGA",
+        "Video": "No"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones, composer",
+        "3.5mm jack": "No",
+        "Features": "3D audio"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "Yes",
+        "Positioning": "No",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, EMS 5.0, MMS, Email, Instant Messaging",
+        "Browser": "WAP 2.0/xHTML",
+        "Clock": "Yes",
+        "Alarm": "Yes",
+        "Games": "Downloadable",
+        "Java": "No",
+        "Features": "Predictive text input (iTAP)\n\nOrganizer\n\nChangeable front covers"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion battery",
+        "Stand-by": "160 h - 210 h",
+        "Talk time": "5 h - 10 h"
+      },
+      "Misc": {
+        "Colors": ""
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/moe390_00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_e390-pictures-420.php"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola V690",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/mov690_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/mov690.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2003, Q3",
+    "dimensions": "93g, 23mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "GPRS": "Yes",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2003, Q3",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "90 x 47 x 23 mm, 80 cc (3.54 x 1.85 x 0.91 in)",
+        "Weight": "93 g (3.28 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 65K colors",
+        "Size": "",
+        "Resolution": "128 x 160 pixels, 9 lines",
+        "Features": "Second external display mono LCD (96 x 16 pixels)\n\nDownloadable logos"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "",
+        "Call records": ""
+      },
+      "Main Camera": {
+        "Single": "VGA",
+        "Features": "LED flash",
+        "Video": "No"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Downloadable polyphonic ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, EMS, MMS",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "Yes + Java downloadable",
+        "Java": "Yes",
+        "Features": "Predictive text input\n\nOrganizer\n\nNokia Smart Messaging"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion battery",
+        "Stand-by": "Up to 150 h",
+        "Talk time": "Up to 2 h 30 min"
+      },
+      "Misc": {
+        "Colors": "Gold, Orange"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/mov690_00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_v690-pictures-515.php"
+    }
+  }
+}

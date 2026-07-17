@@ -1,0 +1,83 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola Timeport 250",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/mot250.gif",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/mot250.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2001",
+    "dimensions": "97g, 23mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2001",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "130 x 46 x 23 mm (5.12 x 1.81 x 0.91 in)",
+        "Weight": "97 g (3.42 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "Monochrome graphic, Optimax",
+        "Size": "",
+        "Resolution": "98 x 64 pixels, 5 lines, 3:2 ratio",
+        "Features": "Blue backlight"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "300",
+        "Call records": "10 dialed, 5 received, 5 missed calls",
+        "Features": "1000 entries in the scheduler\n\n25 phone book voice tags\n\n9 quick access voice tags"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Downloadable monophonic ringtones, composer",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS",
+        "Browser": "WAP",
+        "Clock": "Yes",
+        "Alarm": "No",
+        "Games": "Yes",
+        "Languages": "16 + 11",
+        "Java": "No",
+        "Features": "Voice note\n\nVoice activation\n\nAnswering machine\n\nOrganizer"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 600 mAh battery",
+        "Stand-by": "up to 110 h",
+        "Talk time": "up to 210 min"
+      },
+      "Misc": {
+        "Colors": "Silver"
+      }
+    }
+  }
+}

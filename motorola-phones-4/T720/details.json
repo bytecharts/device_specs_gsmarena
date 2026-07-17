@@ -1,0 +1,87 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola T720",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/mot720_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/mot720.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2002, October",
+    "dimensions": "100g, 21mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "Class 8",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2002, October",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "90 x 47 x 21 mm (3.54 x 1.85 x 0.83 in)",
+        "Weight": "100 g (3.53 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "CSTN, 4096 colors",
+        "Size": "",
+        "Resolution": "120 x 160 pixels, 9 lines, 4:3 ratio",
+        "Features": "Second display 96 x 32 pixels\n\n6 menu palettes\n\nDownloadable screensavers and wallpapers"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "500",
+        "Call records": "10 dialed, 5 received, 5 missed calls"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "Alert types": "Vibration; Downloadable polyphonic ringtones, composer",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, EMS 5.0, Email",
+        "Browser": "WAP 1.2.1",
+        "Clock": "Yes",
+        "Alarm": "No",
+        "Games": "3 - Wu Zi Qi, Sokoban &amp; Black Jack + Java",
+        "Java": "Yes",
+        "Features": "Predictive text input (iTAP)\n\nOrganizer\n\nVoice memo\n\nVoice dial"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1100 mAh battery (98481/SNN5595)",
+        "Stand-by": "Up to 340 h",
+        "Talk time": "Up to 5 h"
+      },
+      "Misc": {
+        "Colors": ""
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/mot720_00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_t720-pictures-354.php"
+    }
+  }
+}

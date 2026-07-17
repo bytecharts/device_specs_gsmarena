@@ -1,0 +1,89 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola V1000",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/mov1000_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/mov1000.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Cancelled",
+    "dimensions": "91 g",
+    "os": "Feature phone",
+    "storage": "microSD slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / UMTS</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "3G bands": "UMTS 2100",
+        "Speed": "Yes, 384 kbps"
+      },
+      "Launch": {
+        "Announced": "2004, Q1",
+        "Status": "Cancelled"
+      },
+      "Body": {
+        "Dimensions": "100 cc",
+        "Weight": "91 g (3.21 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "LCD, 256K colors",
+        "Size": "2.2 inches, 33 x 45 mm, 15.0 cm<sup>2</sup>",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~182 ppi density)",
+        "Features": "Second display (96 x 80 pixels), 65K colors\n\nDownloadable screensavers, wallpapers and ringtones"
+      },
+      "Memory": {
+        "Card slot": "microSD (dedicated slot)",
+        "Phonebook": "Photo call",
+        "Call records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "Main Camera": {
+        "Single": "1.3 MP",
+        "Video": "No"
+      },
+      "Selfie camera": {
+        "Single": "Yes",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "Alert types": "Vibration; Polyphonic(60), MP3 ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS, A-GPS",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, EMS, MMS, Email, Instant Messaging",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "Yes",
+        "Java": "Yes",
+        "Features": "MP3, MP4 player\n\nOrganizer\n\nPredictive text input\n\nVoice memo/dial"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion battery"
+      },
+      "Misc": {
+        "Colors": "Silver"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/mov1000_00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_v1000-pictures-655.php"
+    }
+  }
+}

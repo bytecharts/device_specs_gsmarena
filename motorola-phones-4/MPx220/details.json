@@ -1,0 +1,95 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola MPx220",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/mompx220_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/mompx220.gif"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/motorola_mpx220-review-26.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2004, Q1",
+    "dimensions": "110g, 24.3mm thickness",
+    "os": "Microsoft Smartphone 2003",
+    "storage": "64MB storage, miniSD slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "GPRS": "Class 8",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2004, Q1",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "100 x 48 x 24.3 mm, 99 cc (3.94 x 1.89 x 0.96 in)",
+        "Weight": "110 g (3.88 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 65k colors",
+        "Size": "2.0 inches, 31 x 39 mm, 12.6 cm<sup>2</sup> (~26.2% screen-to-body ratio)",
+        "Resolution": "176 x 220 pixels, 8 lines (~141 ppi density)",
+        "Features": "Second display CSTN 4096 colors (96 x 64 pixels)\n\nDownloadable wallpapers and screensavers"
+      },
+      "Platform": {
+        "OS": "Microsoft Smartphone 2003",
+        "Chipset": "TI OMAP 1611",
+        "CPU": "204 MHz ARM926EJ-S"
+      },
+      "Memory": {
+        "Card slot": "miniSD (512 MB max)",
+        "Internal": "64MB",
+        "Features": "32 MB user accessible, 25 MB free"
+      },
+      "Main Camera": {
+        "Single": "1.3 MP",
+        "Features": "LED flash",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones, composer",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "1.1",
+        "Positioning": "No",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": "Proprietary"
+      },
+      "Features": {
+        "Sensors": "",
+        "Browser": "WAP 2.0/xHTML, HTML (PocketIE)",
+        "Features": "MS Pocket Outlook, Media Player\n\nMP3/MP4 player\n\nPredictive text input\n\nSync ML\n\nVoice command"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1000 mAh battery",
+        "Stand-by": "140 h - 260 h",
+        "Talk time": "5 h - 7h"
+      },
+      "Misc": {
+        "Colors": "Silver"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/mompx220_00.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/mompx220_01.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_mpx220-pictures-668.php"
+    }
+  }
+}

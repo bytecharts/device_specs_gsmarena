@@ -1,0 +1,85 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola C123",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola_c123_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-c123.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2006, Q3",
+    "dimensions": "86g, 21mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2006, Q3",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "101 x 45 x 21 mm, 74 cc (3.98 x 1.77 x 0.83 in)",
+        "Weight": "86 g (3.03 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "Monochrome graphic",
+        "Size": "",
+        "Resolution": "96 x 64 pixels, 3:2 ratio",
+        "Features": "Screensaver, wallpaper"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "SIM based only",
+        "Call records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Monophonic ringtones, composer",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS",
+        "Browser": "",
+        "Games": "3 pre-loaded",
+        "Java": "No",
+        "Features": "iTap\n\nCurrency converter\n\nCalculator\n\nStopwatch"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 920 mAh battery",
+        "Stand-by": "Up to 330 h",
+        "Talk time": "Up to 11 h"
+      },
+      "Misc": {
+        "Colors": "Silver"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola_c123_00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_c123-pictures-2101.php"
+    }
+  }
+}

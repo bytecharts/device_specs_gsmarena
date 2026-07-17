@@ -1,0 +1,94 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola Aura",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-aura-gold-edition.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-aura.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/various_mwc_09-review-326.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2008, December",
+    "dimensions": "141g, 18.6mm thickness",
+    "os": "Feature phone",
+    "storage": "2GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "GPRS": "Class 12",
+        "EDGE": "Class 12"
+      },
+      "Launch": {
+        "Announced": "2008, October. Released 2008, December",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "96.9 x 47.6 x 18.6 mm (3.81 x 1.87 x 0.73 in)",
+        "Weight": "141 g (4.97 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 16M colors",
+        "Size": "1.55 inches, 7.7 cm<sup>2</sup> (~16.8% screen-to-body ratio)",
+        "Resolution": "480 pixels diameter, 1:1 ratio (~309 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "1000 entries, Photocall",
+        "Call records": "30 dialed, 30 received, 30 missed calls",
+        "Internal": "2GB"
+      },
+      "Main Camera": {
+        "Single": "2 MP",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.0, A2DP",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": "2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, EMS, MMS",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "Yes",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "Stainless steel housing with chemically etched textures\n\n Assisted-opening blade mechanism with carbon carbide coated main gears\n\nMP3/WAV/WMA/AAC+ player\n\nMP4/3gp player\n\nVoice memo\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 810 mAh battery",
+        "Stand-by": "Up to 410 h",
+        "Talk time": "Up to 7 h 20 min"
+      },
+      "Misc": {
+        "Colors": "Silver",
+        "SAR": "0.43 W/kg (head) &nbsp; &nbsp; 0.76 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.32 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 530 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-aura-gold-edition.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-aura-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-aura-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_aura-pictures-2562.php"
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola E380",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/moe380_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/moe380.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2003",
+    "dimensions": "85g, 21mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "Yes",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2003",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "115 x 44 x 21 mm (4.53 x 1.73 x 0.83 in)",
+        "Weight": "85 g (3.00 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "CSTN, 4096 colors",
+        "Size": "",
+        "Resolution": "96 x 65 pixels, 4 lines, 3:2 ratio",
+        "Features": "Downloadable screensavers and wallpapers"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "250",
+        "Call records": "10 dialed, 5 received, 5 missed calls"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Downloadable polyphonic ringtones, composer",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": "Proprietary"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, EMS, MMS",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "Downloadable",
+        "Java": "Yes",
+        "Features": "Predictive text input (iTAP)\n\nOrganizer\n\nVoice memo\n\nInterchangeable color lenses"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 600 mAh battery",
+        "Stand-by": "Up to 150 h",
+        "Talk time": "Up to 2 h 30 min"
+      },
+      "Misc": {
+        "Colors": "Sapphire blue"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/moe380_00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_e380-pictures-522.php"
+    }
+  }
+}

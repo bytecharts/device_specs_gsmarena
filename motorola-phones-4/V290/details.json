@@ -1,0 +1,85 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola V290",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/mov290_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/mov290.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2003, Q3",
+    "dimensions": "97g, 22mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "Yes",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2003, Q3",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "87 x 47 x 22 mm, 77 cc (3.43 x 1.85 x 0.87 in)",
+        "Weight": "97 g (3.42 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "CSTN, 4096 colors",
+        "Size": "",
+        "Resolution": "128 x 128 pixels, 1:1 ratio",
+        "Features": "Second display B/W (96 x 32 pixels)\n\nDownloadable screensavers, wallpapers"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "500",
+        "Call records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Downloadable polyphonic ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, EMS",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "Big2, BubbleTea, PacificStorm",
+        "Java": "No",
+        "Features": "Predictive text input (iTAP)\n\nOrganizer\n\nVoice memo/dial"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion battery",
+        "Stand-by": "Up to 220 h",
+        "Talk time": "Up to 5 h"
+      },
+      "Misc": {
+        "Colors": "Silver, Blue"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/mov290_00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_v290-pictures-576.php"
+    }
+  }
+}

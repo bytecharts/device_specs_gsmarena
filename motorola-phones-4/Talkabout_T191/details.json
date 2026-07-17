@@ -1,0 +1,81 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola Talkabout T191",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/mot191.gif",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/mot191.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2001",
+    "dimensions": "80g, 15mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2001",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "106 x 40 x 15 mm, 66 cc (4.17 x 1.57 x 0.59 in)",
+        "Weight": "80 g (2.82 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "Monochrome graphic",
+        "Size": "",
+        "Resolution": "98 x 64 pixels, 5 lines, 3:2 ratio",
+        "Features": "Screen savers"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "",
+        "Call records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Downloadable monophonic ringtones, composer",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS",
+        "Browser": "WAP 1.1",
+        "Clock": "Yes",
+        "Alarm": "No",
+        "Games": "Yes",
+        "Languages": "16 + 11",
+        "Java": "No",
+        "Features": "Predictive text input\n\nVoice note\n\nVoice activation\n\nOrganizer"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion battery",
+        "Stand-by": "120 h",
+        "Talk time": "3 h"
+      },
+      "Misc": {
+        "Colors": "Silver"
+      }
+    }
+  }
+}

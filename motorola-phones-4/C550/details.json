@@ -1,0 +1,92 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola C550",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motc550_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/moc550.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2003, Q4",
+    "dimensions": "94g, 19mm thickness",
+    "os": "Feature phone",
+    "storage": "1MB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "Class 8",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2003, Q4",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "98 x 43 x 19 mm, 77 cc (3.86 x 1.69 x 0.75 in)",
+        "Weight": "94 g (3.32 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "CSTN, 4096 colors",
+        "Size": "",
+        "Resolution": "101 x 80 pixels, 5 lines",
+        "Features": "Downloadable screensavers and wallpapers"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "100 entries, Photo call",
+        "Call records": "10 dialed, 20 received, 20 missed calls",
+        "Internal": "1MB",
+        "Features": "25 voice dial numbers"
+      },
+      "Main Camera": {
+        "Single": "VGA",
+        "Video": "No"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Downloadable polyphonic ringtones, composer",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": "Proprietary"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, EMS, MMS",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "Yes",
+        "Java": "Yes",
+        "Features": "Predictive text input (iTAP)\n\nOrganizer\n\nVoice dial"
+      },
+      "Battery": {
+        "Type": "Standard, Li-Ion 750 mAh (BX200)",
+        "Stand-by": "Up to 210 h",
+        "Talk time": "Up to 5 h"
+      },
+      "Misc": {
+        "Colors": "Silver"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motc550_00.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motc550_01.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_c550-pictures-541.php"
+    }
+  }
+}

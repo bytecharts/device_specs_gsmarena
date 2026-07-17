@@ -1,0 +1,91 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola A6188",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/moa6188_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/moa6188.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2000",
+    "dimensions": "137g, 29mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2000",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "98 x 60 x 29 mm (3.86 x 2.36 x 1.14 in)",
+        "Weight": "137 g (4.83 oz)",
+        "SIM": "Dual (Mini-SIM)"
+      },
+      "Display": {
+        "Type": "Monochrome resistive touchscreen",
+        "Size": "",
+        "Resolution": "240 x 320 pixels, 4:3 ratio"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "1000",
+        "Call records": "20 dialed, 20 received, 20 missed calls"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Monophonic ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Infrared port": "Yes",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, Email",
+        "Browser": "WAP 1.2",
+        "Clock": "Yes",
+        "Alarm": "No",
+        "Games": "3",
+        "Languages": "30",
+        "Java": "No",
+        "Features": "Active flip\n\nOrganizer\n\nScratch memo\n\nVoice memo (3 min)\n\nTrueSync"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 500 mAh battery",
+        "Stand-by": "90 h",
+        "Talk time": "5 h"
+      },
+      "Misc": {
+        "Colors": "3"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/moa6188_00.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/moa6188_01.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/moa6188_02.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/moa6188_03.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_a6188-pictures-202.php"
+    }
+  }
+}

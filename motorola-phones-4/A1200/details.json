@@ -1,0 +1,91 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola A1200",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola_a1200_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-a1200.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2005, December",
+    "dimensions": "122g, 21.5mm thickness",
+    "os": "Linux",
+    "storage": "microSD slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "GPRS": "Class 10",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2005, December",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "95.7 x 51.7 x 21.5 mm (3.77 x 2.04 x 0.85 in)",
+        "Weight": "122 g (4.30 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT resistive touchscreen, 256K colors",
+        "Size": "2.4 inches, 36 x 48 mm, 17.8 cm<sup>2</sup> (~36.1% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)",
+        "Features": "Handwriting and speech recognition (Chi &amp; Eng)"
+      },
+      "Platform": {
+        "OS": "Linux",
+        "CPU": "Intel XScale 312MHz"
+      },
+      "Memory": {
+        "Card slot": "microSD (dedicated slot)",
+        "Features": "8 MB user memory\n\n3.5 MB phonebook memory"
+      },
+      "Main Camera": {
+        "Single": "2 MP",
+        "Video": "QCIF"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.0, A2DP",
+        "Positioning": "No",
+        "Radio": "Stereo FM radio",
+        "USB": "miniUSB"
+      },
+      "Features": {
+        "Sensors": "",
+        "Browser": "WAP 2.0/xHTML, HTML (Opera)",
+        "Features": "MP3/MP4/AAC+ player\n\nOrganizer\n\nDocument viewer (Word, Excel, PowerPoint, PDF)\n\nPhoto editor\n\nVoice dial/memo"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 850 mAh battery (BT50)",
+        "Stand-by": "Up to 200 h",
+        "Talk time": "Up to 4 h"
+      },
+      "Misc": {
+        "Colors": "Black, Red, Silver",
+        "Price": "About 160 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola_a1200_00.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola_a1200_01.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_a1200-pictures-1429.php"
+    }
+  }
+}

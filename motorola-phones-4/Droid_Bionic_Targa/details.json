@@ -1,0 +1,80 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola Droid Bionic Targa",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/motorola-droid-bionic-targa.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-droid-bionic-targa.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released Not officially announced yet",
+    "dimensions": "",
+    "os": "Android 2.3",
+    "storage": "microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">CDMA / EVDO / LTE</a>",
+        "2G bands": "CDMA 800 / 1900",
+        "3G bands": "CDMA2000 1xEV-DO",
+        "4G bands": "LTE 700",
+        "Speed": "EV-DO Rev.A 3.1 Mbps, LTE"
+      },
+      "Launch": {
+        "Announced": "Not officially announced yet",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "-",
+        "Weight": "-",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "4.5 inches, 55.8 cm<sup>2</sup>",
+        "Resolution": "540 x 960 pixels, 16:9 ratio (~245 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 2.3 (Gingerbread)",
+        "CPU": "Dual-core 1.0 GHz"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)"
+      },
+      "Main Camera": {
+        "Single": "8 MP, AF",
+        "Features": "Dual-LED flash",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Single": "Yes",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, DLNA, hotspot",
+        "Bluetooth": "2.1, A2DP, EDR",
+        "Positioning": "GPS, A-GPS",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity, compass",
+        "Browser": "HTML, Adobe Flash",
+        "Features": "HDMI port\n\nMP3/WAV/WMA/AAC+ player\n\nMP4/WMV/H.264 player\n\nDocument viewer\n\nPhoto viewer/editor\n\nOrganizer\n\nVoice memo/dial/commands\n\nPredictive text input (Swype)"
+      },
+      "Battery": {
+        "Type": "Removable Li-Po 1750 mAh battery"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "Models": "XT875"
+      }
+    }
+  }
+}

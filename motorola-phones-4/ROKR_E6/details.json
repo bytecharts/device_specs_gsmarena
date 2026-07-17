@@ -1,0 +1,89 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola ROKR E6",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola_rokr-e6_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-rokr_e6.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2006, December",
+    "dimensions": "121g, 14.5mm thickness",
+    "os": "Linux",
+    "storage": "8MB storage, SD slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "GPRS": "Class 10",
+        "EDGE": "Class 10"
+      },
+      "Launch": {
+        "Announced": "2006, December",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "111 x 51.5 x 14.5 mm (4.37 x 2.03 x 0.57 in)",
+        "Weight": "121 g (4.27 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT resistive touchscreen, 256K colors",
+        "Size": "2.4 inches, 17.8 cm<sup>2</sup> (~31.2% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)"
+      },
+      "Platform": {
+        "OS": "Linux",
+        "CPU": "32-bit Intel XScale PXA270 312 MHz"
+      },
+      "Memory": {
+        "Card slot": "SD, up to 2 GB",
+        "Internal": "8MB"
+      },
+      "Main Camera": {
+        "Single": "2 MP",
+        "Video": "CIF"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "Alert types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.0, A2DP",
+        "Positioning": "No",
+        "Radio": "FM radio",
+        "USB": "2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Browser": "WAP 2.0/xHTML, HTML",
+        "Features": "Document viewer (Word, Excel, PowerPoint, PDF)\n\nMP4/MP3 player \n\nBusiness card scanner\n\nOrganizer"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1000 mAh battery",
+        "Stand-by": "Up to 235 h",
+        "Talk time": "Up to 7 h"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "Price": "About 140 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola_rokr-e6_00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_rokr_e6-pictures-1810.php"
+    }
+  }
+}

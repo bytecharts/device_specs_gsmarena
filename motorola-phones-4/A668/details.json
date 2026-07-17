@@ -1,0 +1,90 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola A668",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/moa668_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/moa668.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2004, Q4",
+    "dimensions": "90g, 23mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "GPRS": "Yes",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2004, Q4",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "92 x 44 x 23 mm (3.62 x 1.73 x 0.91 in)",
+        "Weight": "90 g (3.17 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT resistive touchscreen, 256K colors",
+        "Size": "",
+        "Resolution": "128 x 160 pixels",
+        "Features": "Second external display 96 x 64 pixels\n\nFingerwriting recognition\n\nDownloadable screensavers, wallpapers"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "400 entries, Photo call",
+        "Call records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "Main Camera": {
+        "Single": "1.3 MP",
+        "Features": "LED flash",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Downloadable polyphonic ringtones, composer",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": "Proprietary"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS, EMail, Instant Messaging",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "Yes",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "Organizer\n\nStopwatch\n\nPhoto editor\n\nPredictive text input\n\nVoice dial/memo"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 810 mAh battery",
+        "Stand-by": "Up to 230 h",
+        "Talk time": "Up to 2h 30 min"
+      },
+      "Misc": {
+        "Colors": "Silver, Black"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/moa668_00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_a668-pictures-902.php"
+    }
+  }
+}

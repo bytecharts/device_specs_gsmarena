@@ -1,0 +1,87 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola C168",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola_c168_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-c168.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2005, Q3",
+    "dimensions": "77g, 14mm thickness",
+    "os": "Feature phone",
+    "storage": "640 KB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "Class 8",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2005, Q3",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "104.4 x 46 x 14 mm, 63 cc (4.11 x 1.81 x 0.55 in)",
+        "Weight": "77 g (2.72 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "CSTN, 4096 colors",
+        "Size": "",
+        "Resolution": "128 x 128 pixels, 1:1 ratio",
+        "Features": "Downloadable wallpapers, screensavers"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "600 entries",
+        "Call records": "10 dialed, 10 received, 10 missed calls",
+        "Internal": "640 KB",
+        "Features": "250 SMS messages"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Downloadable polyphonic ringtones, composer",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Radio": "Stereo FM radio",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, EMS, MMS",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "Yes",
+        "Java": "No",
+        "Features": "SyncML\n\nMP3 player\n\nOrganizer\n\nPredictive text input\n\nVoice dial/memo\n\nSync ML\n\nPhoto editor"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1000 mAh battery",
+        "Stand-by": "Up to 340 h",
+        "Talk time": "Up to 9 h 30 min"
+      },
+      "Misc": {
+        "Colors": ""
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola_c168_00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_c168-pictures-1305.php"
+    }
+  }
+}

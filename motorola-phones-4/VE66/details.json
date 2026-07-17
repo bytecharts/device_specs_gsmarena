@@ -1,0 +1,93 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola VE66",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-ve66-01.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-ve66.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2009, February",
+    "dimensions": "121g, 15.2mm thickness",
+    "os": "Linux / Java-based MOTOMAGX",
+    "storage": "110MB 256MB ROM storage, microSD slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "GPRS": "Class 12",
+        "EDGE": "Class 12"
+      },
+      "Launch": {
+        "Announced": "2008, November. Released 2009, February",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "103 x 49.5 x 15.2 mm, 68 cc (4.06 x 1.95 x 0.60 in)",
+        "Weight": "121 g (4.27 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "2.2 inches, 15.0 cm<sup>2</sup> (~29.4% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~182 ppi density)",
+        "Features": "Navigation scroll wheel\n\nScreensavers and wallpapers"
+      },
+      "Platform": {
+        "OS": "Linux / Java-based MOTOMAGX",
+        "CPU": "500 MHz Freescale MXC275-30"
+      },
+      "Memory": {
+        "Card slot": "microSD (dedicated slot)",
+        "Internal": "110MB 256MB ROM"
+      },
+      "Main Camera": {
+        "Single": "5 MP, AF",
+        "Features": "LED flash",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g, DLNA",
+        "Bluetooth": "2.0, A2DP",
+        "Positioning": "No",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Browser": "WAP 2.0/xHTML, HTML (Opera browser)",
+        "Features": "Widgets\n\nMP3/ WAV/ WMA/ AAC++ player\n\nMP4/ WMV/ H.263/ H.263 player\n\nPush to Talk\n\nOrganizer\n\nVoice memo\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 810 mAh battery",
+        "Stand-by": "Up to 400 h",
+        "Talk time": "Up to 6 h 40 min"
+      },
+      "Misc": {
+        "Colors": "",
+        "SAR": "0.99 W/kg (head) &nbsp; &nbsp; 0.59 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.71 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 100 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-ve66-01.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-ve66-02.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_ve66-pictures-2612.php"
+    }
+  }
+}

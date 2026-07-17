@@ -1,0 +1,90 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola W230",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-w230-01.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-w230.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2008, January",
+    "dimensions": "80g, 14.7mm thickness",
+    "os": "Feature phone",
+    "storage": "microSD slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "Class 10",
+        "EDGE": "No",
+        "Features": "GSM 850 / 1900 - US version"
+      },
+      "Launch": {
+        "Announced": "2008, January",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "110 x 45 x 14.7 mm (4.33 x 1.77 x 0.58 in)",
+        "Weight": "80 g (2.82 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "CSTN, 65K colors",
+        "Size": "1.6 inches, 8.3 cm<sup>2</sup> (~16.7% screen-to-body ratio)",
+        "Resolution": "128 x 128 pixels, 1:1 ratio (~113 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "microSD (dedicated slot)",
+        "Phonebook": "500 entries",
+        "Call records": "10 dialed, 10 received, 10 missed calls",
+        "Features": "500 SMS messages"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": "1.1"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, EMS, MMS",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "Yes",
+        "Languages": "7 African languages, Hinglish, Bengali, Tamil ...",
+        "Java": "No",
+        "Features": "MP3 player (iMelody,MIDI,MP3,AMR formats)\n\nPredictive text input\n\nCalculator \n\nStopwatch"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 940 mAh battery (BQ50)",
+        "Stand-by": "Up to 450 h",
+        "Talk time": "Up to 9 h"
+      },
+      "Misc": {
+        "Colors": "lustrous silver, dark titanium gray",
+        "SAR": "1.28 W/kg (head) &nbsp; &nbsp; 1.32 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 30 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-w230-01.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-w230-02.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_w230-pictures-2200.php"
+    }
+  }
+}

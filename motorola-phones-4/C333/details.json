@@ -1,0 +1,87 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola C333",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motc333_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/moc333.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2002",
+    "dimensions": "75g, 19mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "Class 8",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2002",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "101 x 42 x 19 mm (3.98 x 1.65 x 0.75 in)",
+        "Weight": "75 g (2.65 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "Grayscale graphic",
+        "Size": "",
+        "Resolution": "98 x 64 pixels, 5 lines, 3:2 ratio",
+        "Features": "4 shades of grey\n\nWhite backlight"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "",
+        "Call records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Downloadable polyphonic ringtones, composer",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, EMS 5.0",
+        "Browser": "WAP 1.2.1",
+        "Clock": "Yes",
+        "Alarm": "No",
+        "Games": "3 - MotoGP. Snood 21, Astrosmash",
+        "Java": "No",
+        "Features": "Predictive text input\n\nOrganizer\n\nVoice dial\n\nChangeable housings"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion battery",
+        "Stand-by": "80 h - 250 h",
+        "Talk time": "2 h 30 min - 6 h"
+      },
+      "Misc": {
+        "Colors": ""
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motc333_00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_c333-pictures-365.php"
+    }
+  }
+}

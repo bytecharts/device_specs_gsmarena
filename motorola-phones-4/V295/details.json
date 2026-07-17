@@ -1,0 +1,90 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola V295",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/mov295_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/mov295.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Cancelled",
+    "dimensions": "97g, 22mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "Yes",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2003, Q3",
+        "Status": "Cancelled"
+      },
+      "Body": {
+        "Dimensions": "87 x 47 x 22 mm, 77 cc (3.43 x 1.85 x 0.87 in)",
+        "Weight": "97 g (3.42 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "CSTN, 4096 colors",
+        "Size": "",
+        "Resolution": "128 x 128 pixels, 1:1 ratio",
+        "Features": "Second display B/W"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "500 entries, Photo call",
+        "Call records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "Main Camera": {
+        "Single": "VGA",
+        "Video": "No"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Downloadable polyphonic ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, EMS, MMS",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "Yes + downloadable",
+        "Java": "Yes",
+        "Features": "Predictive text input (iTAP)\n\nOrganizer\n\nVoice memo/dial"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion battery",
+        "Stand-by": "Up to 220 h",
+        "Talk time": "Up to 5 h"
+      },
+      "Misc": {
+        "Colors": "Silver, Blue"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/mov295_00.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/mov295_01.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_v295-pictures-575.php"
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola W218",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola_w218_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-w218.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2007, March",
+    "dimensions": "78g, 15mm thickness",
+    "os": "Feature phone",
+    "storage": "500 KB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2007, March",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "109 x 45 x 15 mm (4.29 x 1.77 x 0.59 in)",
+        "Weight": "78 g (2.75 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 65K colors",
+        "Size": "1.6 inches, 8.3 cm<sup>2</sup> (~16.8% screen-to-body ratio)",
+        "Resolution": "128 x 128 pixels, 1:1 ratio (~113 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "500 entries, Photocall",
+        "Call records": "10 dialed, 10 received, 10 missed calls",
+        "Internal": "500 KB",
+        "Features": "750 SMS messages"
+      },
+      "Main Camera": {
+        "Single": "VGA",
+        "Video": "No"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "Alert types": "Vibration; Polyphonic ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Radio": "Stereo FM radio",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS",
+        "Browser": "No",
+        "Games": "Yes",
+        "Java": "No",
+        "Features": "Predictive text input\n\nCalculator \n\nStopwatch"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 850 mAh battery",
+        "Stand-by": "Up to 300 h",
+        "Talk time": "Up to 7 h"
+      },
+      "Misc": {
+        "Colors": "",
+        "SAR": "1.00 W/kg (head) &nbsp; &nbsp; 0.64 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 30 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola_w218_00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_w218-pictures-1932.php"
+    }
+  }
+}

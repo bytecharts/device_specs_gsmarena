@@ -1,0 +1,81 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola V60",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/mov60.gif",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/mov60.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2001, Q4",
+    "dimensions": "109g, 24mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "GPRS": "Class 8",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2001, Q4",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "87 x 45 x 24 mm, 73 cc (3.43 x 1.77 x 0.94 in)",
+        "Weight": "109 g (3.84 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "Monochrome graphic",
+        "Size": "",
+        "Resolution": "96 x 64 pixels, 3:2 ratio",
+        "Features": "Second display"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "500",
+        "Call records": "10 dialed, 10  received + missed calls",
+        "Features": "25 phone book voice tags\n\n9 quick access voice tags"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Monophonic ringtones, composer",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS",
+        "Browser": "WAP 1.1",
+        "Clock": "Yes",
+        "Alarm": "No",
+        "Games": "On some versions",
+        "Java": "No",
+        "Features": "Predictive text input (iTAP)\n\nOrganizer\n\nVoice memo\n\nVoice dial"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 700 mAh battery Removable Li-Ion (SNN5704)",
+        "Stand-by": "Up to 130 h",
+        "Talk time": "Up to 3 h"
+      },
+      "Misc": {
+        "Colors": ""
+      }
+    }
+  }
+}

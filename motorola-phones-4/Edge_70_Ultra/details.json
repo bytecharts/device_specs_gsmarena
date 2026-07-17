@@ -1,0 +1,103 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola Edge 70 Ultra",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-edge-70-ultra-11.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-edge-70-ultra-.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "motorola_edge_70_max_5g-14789",
+      "motorola_edge_70_5g-14216",
+      "motorola_edge_70_pro_5g-14620",
+      "motorola_edge_70_fusion_5g-14432"
+    ],
+    "release_date": "Cancelled",
+    "dimensions": "186g, 7mm thickness",
+    "os": "Android 16, up to 7 major Android upgrades",
+    "storage": "256GB/512GB/1TB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "LTE",
+        "5G bands": "SA/NSA/Sub6",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "Not announced yet",
+        "Status": "Cancelled"
+      },
+      "Body": {
+        "Dimensions": "162.1 x 76.4 x 7 mm (6.38 x 3.01 x 0.28 in)",
+        "Weight": "186 g (6.56 oz)",
+        "Build": "Glass front (Gorilla Glass Victus 2), aluminum frame",
+        "SIM": "Nano-SIM + Nano-SIM + <a href=\"glossary.php3?term=esim\">eSIM</a> (max 2 at a time)",
+        "Features": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)\n\nMIL-STD-810H compliant*\n\n* does not guarantee ruggedness or use in extreme conditions"
+      },
+      "Display": {
+        "Type": "LTPO AMOLED, 1B colors, 165Hz, Dolby Vision, HDR10+, 6200 nits (peak)",
+        "Size": "6.8 inches, 113.9 cm<sup>2</sup> (~92.0% screen-to-body ratio)",
+        "Resolution": "1264 x 2780 pixels (~446 ppi density)",
+        "Protection": "Corning Gorilla Glass Victus 2"
+      },
+      "Platform": {
+        "OS": "Android 16, up to 7 major Android upgrades",
+        "Chipset": "Qualcomm SM8845 Snapdragon 8 Gen 5 (3 nm)",
+        "CPU": "Octa-core (2x3.8 GHz Oryon V3 Phoenix L + 6x3.32 GHz Oryon V3 Phoenix M)",
+        "GPU": "Adreno 829"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 12GB RAM, 512GB 16GB RAM, 1TB 16GB RAM",
+        "Features": "UFS 4.1"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, f/1.6, 23mm (wide), 1/1.28\", 1.22µm, multi-directional PDAF, OIS\n\n50 MP, 71mm (periscope telephoto), 1/1.95\", 0.8µm, dual-pixel PDAF, OIS, 3x optical zoom\n\n50 MP, f/2.0, 12mm, 122˚ (ultrawide), 1/2.76\", 0.64µm, PDAF",
+        "Features": "Laser AF, Dual-LED flash, HDR, panorama",
+        "Video": "8K@30fps (Dolby Vision), 4K@30/60fps (Dolby Vision), 4K@120fps, 1080p@30/60/120/240fps, 10-bit HDR10+, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "50 MP, f/1.9, 21mm (wide), 1/2.93\", 0.6µm, dual-pixel PDAF",
+        "Features": "HDR",
+        "Video": "4K@30/60fps, 1080p@30/60/120fps, HDR"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers (with Dolby Atmos)",
+        "3.5mm jack": "No",
+        "Features": "24-bit/192kHz Hi-Res &amp; Hi-Res Wireless audio\n\nSound by Bose; Qualcomm Snapdragon Sound"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct",
+        "Bluetooth": "6.0, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS, NavIC",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 3.1 Gen2, OTG, DisplayPort 1.4"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass",
+        "Features": "Smart Connect (Ready For) support\n\nUltra Wideband (UWB) support"
+      },
+      "Battery": {
+        "Type": "Si/C Li-Ion 5200 mAh",
+        "Charging": "90W wired\n\n50W wireless\n\n10W reverse wireless\n\n5W reverse wired"
+      },
+      "Misc": {
+        "Colors": "Gold, Blue"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-edge-70-ultra-11.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_edge_70_ultra_5g-pictures-14362.php"
+    }
+  }
+}

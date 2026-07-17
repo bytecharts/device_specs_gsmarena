@@ -1,0 +1,92 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola W360",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola_w360_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-w360.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2007, March",
+    "dimensions": "98g, 11.9mm thickness",
+    "os": "Feature phone",
+    "storage": "5MB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "No",
+        "EDGE": "No",
+        "Features": "GSM 850 / 1900 - US version"
+      },
+      "Launch": {
+        "Announced": "2007, March",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "113 x 47 x 11.9 mm, 65 cc (4.45 x 1.85 x 0.47 in)",
+        "Weight": "98 g (3.46 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 65K colors",
+        "Size": "1.6 inches, 8.1 cm<sup>2</sup> (~15.2% screen-to-body ratio)",
+        "Resolution": "128 x 160 pixels (~128 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "Yes, Photocall",
+        "Call records": "10 dialed, 10 received, 10 missed calls",
+        "Internal": "5MB"
+      },
+      "Main Camera": {
+        "Single": "VGA",
+        "Video": "No"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "Alert types": "Vibration; Polyphonic, MP3 ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Radio": "FM radio",
+        "USB": "1.1"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, EMS, MMS",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "Yes + downloadable",
+        "Java": "Yes",
+        "Features": "MP3 player\n\nPredictive text input\n\nCalculator"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 850 mAh battery",
+        "Stand-by": "Up to 300 h",
+        "Talk time": "Up to 7 h"
+      },
+      "Misc": {
+        "Colors": "",
+        "SAR": "1.49 W/kg (head) &nbsp; &nbsp; 1.33 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 60 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola_w360_00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_w360-pictures-1933.php"
+    }
+  }
+}

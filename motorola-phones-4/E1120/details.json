@@ -1,0 +1,89 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola E1120",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/moe1120_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/moe1120.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Cancelled",
+    "dimensions": "130g, 21mm thickness",
+    "os": "Feature phone",
+    "storage": "63MB storage, microSD slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / UMTS</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "3G bands": "UMTS 2100",
+        "Speed": "Yes, 384 kbps"
+      },
+      "Launch": {
+        "Announced": "2005, Q1",
+        "Status": "Cancelled"
+      },
+      "Body": {
+        "Dimensions": "113 x 53 x 21 mm (4.45 x 2.09 x 0.83 in)",
+        "Weight": "130 g (4.59 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "2.1 inches, 13.7 cm<sup>2</sup> (~22.8% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~190 ppi density)",
+        "Features": "Downloadable wallpapers, screensavers"
+      },
+      "Memory": {
+        "Card slot": "microSD (dedicated slot)",
+        "Phonebook": "Yes",
+        "Call records": "10 dialed, 10 received, 10 missed calls",
+        "Internal": "63MB"
+      },
+      "Main Camera": {
+        "Single": "3.15 MP, AF",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Single": "VGA videocall camera",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS, A-GPS",
+        "Radio": "No",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS, EMail, Instant Messaging",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "Yes + downloadable",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "Barcode scanning\n\nMP3/MP4 player\n\nPredictive text input\n\nOrganizer\n\nVoice dial"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion battery"
+      },
+      "Misc": {
+        "Colors": ""
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/moe1120_00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_e1120-pictures-1056.php"
+    }
+  }
+}

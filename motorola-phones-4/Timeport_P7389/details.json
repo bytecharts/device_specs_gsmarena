@@ -1,0 +1,82 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola Timeport P7389",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/mop7389b.gif",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/mop7389b.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2000",
+    "dimensions": "140g, 23mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2000",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "130 x 46 x 23 mm (5.12 x 1.81 x 0.91 in)",
+        "Weight": "140 g (4.94 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "Monochrome graphic, Optimax",
+        "Size": "",
+        "Resolution": "5 lines",
+        "Features": "Fixed icons"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "100",
+        "Call records": "10 dialed, 5 received, 5 missed calls"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Monophonic ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Infrared port": "Yes",
+        "Radio": "No",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS",
+        "Browser": "WAP",
+        "Clock": "Yes",
+        "Alarm": "No",
+        "Games": "No",
+        "Languages": "27",
+        "Java": "No",
+        "Features": "Voice note\n\nVoice activation"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 600 mAh battery",
+        "Stand-by": "150 h",
+        "Talk time": "210 min"
+      },
+      "Misc": {
+        "Colors": "3"
+      }
+    }
+  }
+}

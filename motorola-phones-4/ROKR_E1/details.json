@@ -1,0 +1,93 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola ROKR E1",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola_rokr-e1_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-rokr_e1.gif"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/motorola_rokr_e1-review-50.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2005, September",
+    "dimensions": "107g, 20.5mm thickness",
+    "os": "Feature phone",
+    "storage": "11MB storage, microSD slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "GPRS": "Class 10",
+        "EDGE": "No",
+        "Features": "GSM 850 / 1800 / 1900 - US version"
+      },
+      "Launch": {
+        "Announced": "2005, September",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "108 x 46 x 20.5 mm, 89 cc (4.25 x 1.81 x 0.81 in)",
+        "Weight": "107 g (3.77 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "1.9 inches, 30 x 37 mm, 11.4 cm<sup>2</sup> (~22.9% screen-to-body ratio)",
+        "Resolution": "176 x 220 pixels, 8 lines (~148 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "microSD (dedicated slot)",
+        "Phonebook": "1000 entries, Photo call",
+        "Call records": "10 dialed, 10 received, 10 missed calls",
+        "Internal": "11MB"
+      },
+      "Main Camera": {
+        "Single": "VGA",
+        "Video": "QCIF"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers (22 Khz with vibration)",
+        "Alert types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones",
+        "3.5mm jack": "No",
+        "Features": "2.5 mm audio jack"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "1.2",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": "1.1"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, EMS, MMS, EMail",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "Yes+ downloadable",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "Apple iTunes compatible\n\nMP4/MP3 player \n\niTAP\n\nVoice dial\n\nOrganizer"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 830 mAh battery",
+        "Stand-by": "Up to 230 h",
+        "Talk time": "4 h 20 min - 9 h 20"
+      },
+      "Misc": {
+        "Colors": "Pearl Star White",
+        "Price": "About 100 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola_rokr-e1_00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_rokr_e1-pictures-1273.php"
+    }
+  }
+}

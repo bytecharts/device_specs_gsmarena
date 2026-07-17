@@ -1,0 +1,86 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola C139",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola_c139_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-c139.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2005, Q3",
+    "dimensions": "85g, 21.8mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "No",
+        "EDGE": "No",
+        "Features": "GSM 850 / 1900 - US version"
+      },
+      "Launch": {
+        "Announced": "2005, Q3",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "100.6 x 45.6 x 21.8 mm, 77 cc (3.96 x 1.80 x 0.86 in)",
+        "Weight": "85 g (3.00 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 65K colors",
+        "Size": "",
+        "Resolution": "96 x 64 pixels, 3:2 ratio"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "100 entries",
+        "Call records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Downloadable monophonic ringtones, composer",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS",
+        "Browser": "",
+        "Games": "Yes",
+        "Java": "No",
+        "Features": "iTap\n\nOrganizer\n\nStopwatch"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 920 mAh battery",
+        "Stand-by": "Up to 450 h",
+        "Talk time": "Up to 11 h 40 min"
+      },
+      "Misc": {
+        "Colors": "Black, Silver",
+        "Price": "About 40 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola_c139_00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_c139-pictures-1304.php"
+    }
+  }
+}

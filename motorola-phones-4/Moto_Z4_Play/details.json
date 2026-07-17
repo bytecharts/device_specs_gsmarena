@@ -1,0 +1,94 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola Moto Z4 Play",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/moto-z4-play-r.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/moto-z4-play-r.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Cancelled",
+    "dimensions": "",
+    "os": "Android 9.0",
+    "storage": "64GB/128GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4G bands": "1, 2, 3, 5, 7, 8, 34, 38, 39, 40, 41",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE (2CA) Cat12 600/50 Mbps",
+        "Features": "CDMA 1900 &amp; TD-SCDMA"
+      },
+      "Launch": {
+        "Announced": "Not announced yet",
+        "Status": "Cancelled"
+      },
+      "Body": {
+        "Dimensions": "-",
+        "Weight": "-",
+        "SIM": "· Nano-SIM\n· Nano-SIM + Nano-SIM",
+        "Features": "Splash resistant"
+      },
+      "Display": {
+        "Type": "Super AMOLED",
+        "Size": "6.22 inches, 95.0 cm<sup>2</sup>",
+        "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~414 ppi density)",
+        "Protection": "Corning Gorilla Glass (unspecified version)"
+      },
+      "Platform": {
+        "OS": "Android 9.0 (Pie)",
+        "Chipset": "Qualcomm SDM675 Snapdragon 675 (11 nm)",
+        "CPU": "Octa-core (2x2.0 GHz Kryo 460 Gold &amp; 6x1.7 GHz Kryo 460 Silver)",
+        "GPU": "Adreno 612"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (uses shared SIM slot)",
+        "Internal": "64GB 4GB RAM, 128GB 6GB RAM"
+      },
+      "Main Camera": {
+        "Single": "48 MP, f/1.8, (wide), 1/2.0\", 0.8µm, PDAF",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "16 MP, f/2.0, 1/3.06\", 1.0µm",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.0, A2DP, LE, EDR",
+        "Positioning": "GPS, GLONASS, BDS",
+        "NFC": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",
+        "Features": "Moto Mods snap-on accessories"
+      },
+      "Battery": {
+        "Type": "Li-Ion 3600 mAh, non-removable",
+        "Charging": "15W wired"
+      },
+      "Misc": {
+        "Colors": "Black"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/moto-z4-play-r.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_moto_z4_play-pictures-9564.php"
+    }
+  }
+}

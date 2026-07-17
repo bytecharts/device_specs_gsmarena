@@ -1,0 +1,88 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola V60i",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/mov60i_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/mov60i.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2002, Q4",
+    "dimensions": "103g, 24mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "GPRS": "Class 8",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2002, Q4",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "87 x 45 x 24 mm, 73 cc (3.43 x 1.77 x 0.94 in)",
+        "Weight": "103 g (3.63 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "Monochrome graphic",
+        "Size": "",
+        "Resolution": "96 x 64 pixels, 3:2 ratio",
+        "Features": "Second display 96 x 16 pixels\n\nDownloadable screensavers"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "500",
+        "Call records": "10 dialed, 5 received, 5 missed calls"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Downloadable monophonic ringtones, composer",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": ""
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, EMS 4.0",
+        "Browser": "WAP 1.2.1",
+        "Clock": "Yes",
+        "Alarm": "No",
+        "Games": "Downloadable",
+        "Java": "Yes",
+        "Features": "Predictive text input (iTAP)\n\nOrganizer\n\nVoice memo\n\nVoice dial\n\nChangeable front covers"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 700 mAh battery (SNN5704)",
+        "Stand-by": "Up to 100 h",
+        "Talk time": "Up to 3 h 20 min"
+      },
+      "Misc": {
+        "Colors": ""
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/mov60i_00.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/mov60i_01.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_v60i-pictures-352.php"
+    }
+  }
+}

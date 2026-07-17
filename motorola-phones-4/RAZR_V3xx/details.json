@@ -1,0 +1,92 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola RAZR V3xx",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola_v3xx_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-v3xx.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2006, July",
+    "dimensions": "107g, 15mm thickness",
+    "os": "Feature phone",
+    "storage": "50MB storage, microSD slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 1900",
+        "Speed": "HSPA 3.6/0.384 Mbps"
+      },
+      "Launch": {
+        "Announced": "2006, July",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "103 x 53 x 15 mm, 80 cc (4.06 x 2.09 x 0.59 in)",
+        "Weight": "107 g (3.77 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "2.2 inches, 33 x 45 mm, 15.0 cm<sup>2</sup> (~27.5% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~182 ppi density)",
+        "Features": "Second external CSTN, 65K colors display (96 x 80 pixels)\n\nScreensavers and wallpapers\n\nDownloadable logos"
+      },
+      "Memory": {
+        "Card slot": "microSD (dedicated slot)",
+        "Phonebook": "1000 entries, Photocall",
+        "Call records": "10 dialed, 10 received, 10 missed calls",
+        "Internal": "50MB"
+      },
+      "Main Camera": {
+        "Single": "1.3 MP",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Single": "VGA videocall camera",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.0, A2DP",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": "miniUSB"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, EMS, MMS, Email, Instant Messaging",
+        "Browser": "WAP 2.0/xHTML, HTML (Opera)",
+        "Games": "Yes",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "Video download\n\nMP3/AAC/AAC+ player\n\nPredictive text input\n\nOrganizer\n\nVoice memo"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 940 mAh battery",
+        "Stand-by": "Up to 290 h",
+        "Talk time": "Up to 3 h"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "Price": "About 160 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola_v3xx_00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_razr_v3xx-pictures-1648.php"
+    }
+  }
+}

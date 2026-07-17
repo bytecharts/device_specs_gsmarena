@@ -1,0 +1,85 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola V188",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola_v188_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/mov188.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2004, Q4",
+    "dimensions": "80g, 22.9mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "GPRS": "Class 10",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2004, Q4",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "86 x 45.2 x 22.9 mm, 82 cc (3.39 x 1.78 x 0.90 in)",
+        "Weight": "80 g (2.82 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "CSTN, 65K colors",
+        "Size": "",
+        "Resolution": "128 x 128 pixels, 1:1 ratio",
+        "Features": "Second external mono display (96 x 32 pixels)\n\nScreensavers\n\nDownloadable screensavers, wallpapers"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "500 entries",
+        "Call records": "10 dialed, 10 received, 10 missed calls"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones, composer",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": "miniUSB"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, EMS, MMS, Instant Messaging",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "",
+        "Java": "Yes",
+        "Features": "Predictive text input\n\nOrganizer\n\nStopwatch\n\nVoice memo"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 830 mAh battery",
+        "Stand-by": "Up to 225 h",
+        "Talk time": "Up to 5 h 50 min"
+      },
+      "Misc": {
+        "Colors": "Silver, Black"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola_v188_00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_v188-pictures-979.php"
+    }
+  }
+}

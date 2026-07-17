@@ -1,0 +1,86 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola V230",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola_v230_00.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-v230.gif"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2005, Q1",
+    "dimensions": "96g, 24.4mm thickness",
+    "os": "Feature phone",
+    "storage": "10MB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "GPRS": "Class 10",
+        "EDGE": "Yes"
+      },
+      "Launch": {
+        "Announced": "2005, Q1",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "86.3 x 47 x 24.4 mm (3.40 x 1.85 x 0.96 in)",
+        "Weight": "96 g (3.39 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "STN, 65K colors",
+        "Size": "",
+        "Resolution": "128 x 160 pixels",
+        "Features": "Second external display (96 x 32 pixels)\n\nDownloadable screensavers"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "1000 entries",
+        "Call records": "10 dialed, 10 received, 10 missed calls",
+        "Internal": "10MB"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "Alert types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": "miniUSB"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, EMS, MMS, Instant Messaging",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "Yes+ downloadable",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "Push to Talk \n\nPredictive text input\n\nOrganizer"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 810 mAh battery",
+        "Stand-by": "Up to 260 h",
+        "Talk time": "Up to 5 h"
+      },
+      "Misc": {
+        "Colors": "Black"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola_v230_00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_v230-pictures-1138.php"
+    }
+  }
+}
