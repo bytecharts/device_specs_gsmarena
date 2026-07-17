@@ -1,0 +1,108 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola Moto G Max",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-g87-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-g87.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "motorola_edge_70_fusion_5g-14432",
+      "motorola_moto_g77_5g-14433",
+      "motorola_moto_g87_5g-14644",
+      "motorola_moto_g86_power_5g-13918",
+      "motorola_moto_g86_5g-13917",
+      "motorola_moto_g77_power_5g-14772",
+      "motorola_edge_70_max_5g-14789",
+      "motorola_edge_70_5g-14216",
+      "motorola_edge_70_pro_5g-14620",
+      "motorola_edge_60_fusion-13752"
+    ],
+    "release_date": "Released 2026, June 11",
+    "dimensions": "183g, 7.3mm thickness",
+    "os": "Android 16",
+    "storage": "256GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 25, 26, 28, 38, 40, 41, 42, 66",
+        "5G bands": "1, 2, 3, 5, 7, 26, 28, 38, 40, 41, 66, 77, 78 SA/NSA/Sub6",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2026, June 11",
+        "Status": "Available. Released 2026, June 11"
+      },
+      "Body": {
+        "Dimensions": "164.5 x 77.3 x 7.3 mm (6.48 x 3.04 x 0.29 in)",
+        "Weight": "183 g (6.46 oz)",
+        "Build": "Glass front (Gorilla Glass 7i), plastic frame, silicone polymer (eco leather) back",
+        "SIM": "Nano-SIM + <a href=\"glossary.php3?term=esim\">eSIM</a>",
+        "Features": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)\n\nMIL-STD-810H compliant*\n\n* does not guarantee ruggedness or use in extreme conditions\n\nDrop resistant up to 1.2m"
+      },
+      "Display": {
+        "Type": "AMOLED, 1B colors, 120Hz, HDR, 5000 nits (peak)",
+        "Size": "6.8 inches, 113.1 cm<sup>2</sup> (~88.9% screen-to-body ratio)",
+        "Resolution": "1272 x 2772 pixels, 19.5:9 ratio (~449 ppi density)",
+        "Protection": "Corning Gorilla Glass 7i"
+      },
+      "Platform": {
+        "OS": "Android 16",
+        "Chipset": "Mediatek Dimensity 6400 (6 nm)",
+        "CPU": "Octa-core (2x2.5 GHz Cortex-A76 &amp; 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (uses shared SIM slot)",
+        "Internal": "256GB 8GB RAM",
+        "Features": "UFS 2.2"
+      },
+      "Main Camera": {
+        "Dual": "200 MP, f/1.8, (wide), 0.5µm, PDAF, OIS\n\n8 MP, f/2.2, 120˚ (ultrawide), 1.12µm",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "1440p@30fps, 1080p@30/60fps"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.2, (wide)",
+        "Video": "1440p@30fps, 1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers (with Dolby Atmos)",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.4, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS, QZSS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",
+        "Features": "Smart Connect support"
+      },
+      "Battery": {
+        "Type": "5200 mAh",
+        "Charging": "30W wired"
+      },
+      "Misc": {
+        "Colors": "Pantone: Overture, Blue Atoll",
+        "Price": "About 420 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-g87-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_moto_g_max_5g-pictures-14724.php"
+    }
+  }
+}

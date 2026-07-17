@@ -1,0 +1,106 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola Moto G37",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-g37-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-g37.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "motorola_moto_g37_power-14647"
+    ],
+    "release_date": "Released 2026, May 15",
+    "dimensions": "191g, 7.8mm thickness",
+    "os": "Android 16",
+    "storage": "64GB/128GB/256GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4G bands": "1, 2, 3, 5, 7, 8, 20, 26, 28, 32, 38, 40, 41, 42, 71 - ЕМЕА",
+        "5G bands": "1, 3, 5, 7, 8, 20, 26, 28, 38, 40, 41, 71, 75, 77, 78 SA/NSA - ЕМЕА",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "1, 2, 3, 5, 8, 28, 38, 40, 41, 48 - India\n1, 2, 3, 5, 8, 28, 38, 40, 41, 48, 77, 78 SA/NSA - India"
+      },
+      "Launch": {
+        "Announced": "2026, April 29",
+        "Status": "Available. Released 2026, May 15"
+      },
+      "Body": {
+        "Dimensions": "166.2 x 76.5 x 7.8 mm (6.54 x 3.01 x 0.31 in)",
+        "Weight": "191 g (6.74 oz)",
+        "Build": "Glass front (Gorilla Glass 7i), plastic back or silicone polymer (eco leather), plastic frame",
+        "SIM": "· Nano-SIM + <a href=\"glossary.php3?term=esim\">eSIM</a>\n· Nano-SIM + Nano-SIM",
+        "Features": "IP64 dust tight and water resistant (water splashes)\n\nMIL-STD-810H compliant*\n\n* does not guarantee ruggedness or use in extreme conditions"
+      },
+      "Display": {
+        "Type": "IPS LCD, 120Hz, HDR10, 1050 nits (peak)",
+        "Size": "6.67 inches, 107.2 cm<sup>2</sup> (~84.3% screen-to-body ratio)",
+        "Resolution": "720 x 1604 pixels, 20:9 ratio (~264 ppi density)",
+        "Protection": "Corning Gorilla Glass 7i, Mohs level 4"
+      },
+      "Platform": {
+        "OS": "Android 16",
+        "Chipset": "Mediatek Dimensity 6300 (6 nm) - global\nMediatek Dimensity 6400 (6 nm) - India",
+        "CPU": "Octa-core (2x2.4 GHz Cortex-A76 &amp; 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "64GB 4GB RAM, 128GB 4GB RAM, 256GB 4GB RAM",
+        "Features": "UFS 2.2"
+      },
+      "Main Camera": {
+        "Single": "50 MP, f/1.8, (wide), 0.61µm, PDAF",
+        "Features": "Dual-LED flash, HDR, panorama",
+        "Video": "1440p@30fps, 1080p@30/60fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, f/2.0, (wide), 1.12µm",
+        "Video": "1440p@30fps, 1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes",
+        "Features": "24-bit/192kHz Hi-Res audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.4, A2DP, LE",
+        "Positioning": "GPS, GALILEO, GLONASS, BDS, QZSS",
+        "NFC": "Yes (market/region dependent)",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5200 mAh",
+        "Charging": "20W wired\n\n6W reverse wired"
+      },
+      "Misc": {
+        "Colors": "Pantone: Nautical Blue, Impenetrable, Fuchsia Red, Pantone Capri",
+        "Price": "<a href=\"motorola_moto_g37-price-14646.php\">₹ 14,855 / £ 269.99 / € 219.00</a>"
+      },
+      "EU LABEL": {
+        "Energy": "Class B",
+        "Battery": "48:27h endurance, 1000 cycles",
+        "Free fall": "Class B (180 falls)",
+        "Repairability": "Class B"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-g37-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_moto_g37-pictures-14646.php"
+    }
+  }
+}

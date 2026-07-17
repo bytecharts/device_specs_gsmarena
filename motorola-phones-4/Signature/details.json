@@ -1,0 +1,115 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola Signature",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-signature-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-signature.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/motorola_signature-review-2932.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2026, January 30",
+    "dimensions": "186g, 7mm thickness",
+    "os": "Android 16, up to 7 major Android upgrades",
+    "storage": "256GB/512GB/1TB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 32, 34, 38, 39, 40, 41, 42, 43, 48, 66, 71 - version 1",
+        "5G bands": "1, 2, 3, 5, 7, 8, 20, 25, 26, 28, 38, 40, 41, 66, 70, 71, 77, 78, 80, 81, 83, 84, 89, 94 SA/NSA/Sub6 - version 1",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "CDMA 800\n1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 32, 34, 38, 39, 40, 41, 42, 43, 48, 66 - version 2\n1, 2, 3, 5, 7, 8, 20, 26, 28, 38, 40, 41, 66, 75, 77, 78 SA/NSA/Sub6 - version 2"
+      },
+      "Launch": {
+        "Announced": "2026, January 07",
+        "Status": "Available. Released 2026, January 30"
+      },
+      "Body": {
+        "Dimensions": "162.1 x 76.4 x 7 mm (6.38 x 3.01 x 0.28 in)",
+        "Weight": "186 g (6.56 oz)",
+        "Build": "Glass front (Gorilla Glass Victus 2), aluminum frame",
+        "SIM": "· Nano-SIM + <a href=\"glossary.php3?term=esim\">eSIM</a>\n· Nano-SIM + Nano-SIM",
+        "Features": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.2m for 30 min)\n\nMIL-STD-810H compliant*\n\n* does not guarantee ruggedness or use in extreme conditions"
+      },
+      "Display": {
+        "Type": "LTPO AMOLED, 1B colors, 165Hz, Dolby Vision, HDR10+, 6200 nits (peak)",
+        "Size": "6.8 inches, 113.9 cm<sup>2</sup> (~92.0% screen-to-body ratio)",
+        "Resolution": "1264 x 2780 pixels (~446 ppi density)",
+        "Protection": "Corning Gorilla Glass Victus 2"
+      },
+      "Platform": {
+        "OS": "Android 16, up to 7 major Android upgrades",
+        "Chipset": "Qualcomm SM8845 Snapdragon 8 Gen 5 (3 nm)",
+        "CPU": "Octa-core (2x3.8 GHz Oryon V3 Phoenix L + 6x3.32 GHz Oryon V3 Phoenix M)",
+        "GPU": "Adreno 829"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 12GB RAM, 512GB 12GB RAM, 512GB 16GB RAM, 1TB 16GB RAM",
+        "Features": "UFS 4.1"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, f/1.6, 23mm (wide), 1/1.28\", 1.22µm, multi-directional PDAF, OIS\n\n50 MP, 71mm (periscope telephoto), 1/1.95\", 0.8µm, dual-pixel PDAF, OIS, 3x optical zoom\n\n50 MP, f/2.0, 12mm, 122˚ (ultrawide), 1/2.76\", 0.64µm, PDAF",
+        "Features": "Dual-LED flash, HDR, panorama",
+        "Video": "8K@30fps (Dolby Vision), 4K@30/60fps (Dolby Vision), 4K@120fps, 1080p@30/60/120/240fps, 10-bit HDR10+, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "50 MP, f/2.0, 21mm (wide), 1/2.93\", 0.6µm, dual-pixel PDAF",
+        "Features": "HDR",
+        "Video": "4K@30/60fps, 1080p@30/60/120/240fps, HDR"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers (with Dolby Atmos)",
+        "3.5mm jack": "No",
+        "Features": "24-bit/192kHz Hi-Res &amp; Hi-Res Wireless audio\n\nSound by Bose; Qualcomm Snapdragon Sound"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct",
+        "Bluetooth": "6.0, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS, NavIC",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 3.1 Gen2, OTG, DisplayPort 1.4"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass",
+        "Features": "Smart Connect (Ready For) support\n\nUltra Wideband (UWB) support"
+      },
+      "Battery": {
+        "Type": "Si/C Li-Ion 5200 mAh",
+        "Charging": "90W wired, 50% in 15 min\n\n50W wireless\n\n10W reverse wireless\n\n5W reverse wired"
+      },
+      "Misc": {
+        "Colors": "Pantone: Carbon, Martini Olive",
+        "Models": "XT2603-2",
+        "Price": "<a href=\"motorola_signature_5g-price-14397.php\">£ 795.00 / € 761.99</a>"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 2381753 (v10), 3057975 (v11)\n\nGeekBench: 8755 (v6)\n\n3DMark: 5589 (Wild Life Extreme)",
+        "Display": "<a class=\"noUnd\" href=\"motorola_signature-review-2932p3.php#dt\">1518 nits max brightness (measured)</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"motorola_signature-review-2932p3.php#lt\">-22.8 LUFS (Excellent)</a>",
+        "Battery": "<div style=\"position:relative;\">\n<a href=\"motorola_signature-review-2932p3.php#bt\" data-battery2=\"39:52_14:31_20:39_9:19\" onclick=\"showBatteryPopup(event, 14397); \" class=\"v2\">Active use score 16:13h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      },
+      "EU LABEL": {
+        "Energy": "Class A",
+        "Battery": "52:0h endurance, 1200 cycles",
+        "Free fall": "Class B",
+        "Repairability": "Class B"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-signature-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-signature-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_signature_5g-pictures-14397.php"
+    }
+  }
+}

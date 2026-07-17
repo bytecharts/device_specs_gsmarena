@@ -1,0 +1,105 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola Razr 70+",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-razr-plus-2026-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-razr-plus-2026.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2026, April 29",
+    "dimensions": "189g, 7.1mm thickness",
+    "os": "Android 16",
+    "storage": "256GB/512GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 17, 18, 19, 20, 25, 26, 28, 29, 30, 38, 39, 40, 41, 46, 48, 66, 71",
+        "5G bands": "1, 2, 3, 5, 7, 12, 14, 20, 25, 26, 28, 29, 30, 38, 40, 41, 48, 66, 70, 71, 77, 78 SA/NSA/Sub6",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2026, April 29",
+        "Status": "Available. Released 2026, April 29"
+      },
+      "Body": {
+        "Dimensions": "Unfolded: 171.4 x 74 x 7.1 mm\nFolded: 88.1 x 74 x 15.3 mm",
+        "Weight": "189 g (6.67 oz)",
+        "Build": "Plastic front (unfolded), glass front (folded, Gorilla Glass Victus), hinge (titanium)",
+        "SIM": "Nano-SIM + <a href=\"glossary.php3?term=esim\">eSIM</a>",
+        "Features": "IP48 dust and water resistant (dust &gt; 1mm; immersible up to 1.5m for 30 min)"
+      },
+      "Display": {
+        "Type": "Foldable LTPO AMOLED, 1B colors, Dolby Vision, 165Hz, HDR10+, 3000 nits (peak)",
+        "Size": "6.9 inches, 107.9 cm<sup>2</sup> (~85.1% screen-to-body ratio)",
+        "Resolution": "1084 x 2640 pixels (~414 ppi density)",
+        "Protection": "Mohs level 4",
+        "Features": "Second external LTPO AMOLED, 1B colors, 165Hz, 2400 nits (peak)\n\n4 inches, 1272 x 1080 pixels, 165Hz, 417 ppi, Gorilla Glass Victus"
+      },
+      "Platform": {
+        "OS": "Android 16",
+        "Chipset": "Qualcomm SM8635 Snapdragon 8s Gen 3 (4 nm)",
+        "CPU": "Octa-core (1x3.0 GHz Cortex-X4 &amp; 4x2.8 GHz Cortex-A720 &amp; 3x2.0 GHz Cortex-A520)",
+        "GPU": "Adreno 735"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 12GB RAM, 512GB 12GB RAM",
+        "Features": "UFS 4.0"
+      },
+      "Main Camera": {
+        "Dual": "50 MP, f/1.8, (wide), 1/1.95\", 0.8µm, PDAF, OIS\n\n50 MP, f/2.0, 122˚ (ultrawide), 1/2.76\", 0.64µm",
+        "Features": "Pantone Validated, LED flash, panorama, HDR",
+        "Video": "4K@30/60fps, 1080p@30/60/240fps,  HDR10+, Dolby Vision"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.4, (wide), 0.7µm",
+        "Features": "HDR",
+        "Video": "4K@30/60fps, 1080p@30/60fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers (with Dolby Atmos)",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/ax/6e/7, tri-band",
+        "Bluetooth": "5.4, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS, QZSS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, compass, barometer"
+      },
+      "Battery": {
+        "Type": "4500 mAh",
+        "Charging": "45W wired\n\n15W wireless\n\n5W reverse wired"
+      },
+      "Misc": {
+        "Colors": "Pantone: Mountain View",
+        "Models": "XT2659-3",
+        "Price": "<a href=\"motorola_razr_70+-price-14642.php\">£ 849.10 / € 948.99</a>"
+      },
+      "EU LABEL": {
+        "Energy": "Class A",
+        "Battery": "48:53h endurance, 1200 cycles",
+        "Free fall": "Class B (175 falls)",
+        "Repairability": "Class B"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-razr-plus-2026-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_razr_70+-pictures-14642.php"
+    }
+  }
+}

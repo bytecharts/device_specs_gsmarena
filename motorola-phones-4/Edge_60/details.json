@@ -1,0 +1,118 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola Edge 60",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-edge-60-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-edge-60.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/motorola_edge_60-review-2831.php",
+    "siblingDeviceSlugs": [
+      "motorola_edge_60_fusion-13752",
+      "motorola_edge_60_pro-13815",
+      "motorola_edge_60_neo_5g-14124"
+    ],
+    "release_date": "Released 2025, April 25",
+    "dimensions": "179g or 181g, 7.9mm thickness",
+    "os": "Android 15, up to 3 major Android upgrades",
+    "storage": "256GB/512GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 32, 34, 38, 39, 40, 41, 42, 43, 48, 66",
+        "5G bands": "1, 2, 3, 5, 7, 8, 20, 26, 28, 38, 40, 41, 66, 75, 77, 78 SA/NSA/Sub6",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2025, April 24",
+        "Status": "Available. Released 2025, April 25"
+      },
+      "Body": {
+        "Dimensions": "161.2 x 73.1 x 7.9 mm or 8.2 mm",
+        "Weight": "179 g or 181 g (6.31 oz)",
+        "Build": "Glass front (Gorilla Glass 7i), plastic frame, plastic back",
+        "SIM": "· Nano-SIM\n· Nano-SIM + <a href=\"glossary.php3?term=esim\">eSIM</a>\n· Nano-SIM + Nano-SIM",
+        "Features": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)\n\nMIL-STD-810H compliant*\n\n* does not guarantee ruggedness or use in extreme conditions"
+      },
+      "Display": {
+        "Type": "P-OLED, 1B colors, 120Hz, 720Hz PWM, HDR10+, 4500 nits peak",
+        "Size": "6.67 inches, 107.4 cm<sup>2</sup> (~91.1% screen-to-body ratio)",
+        "Resolution": "1220 x 2712 pixels, 20:9 ratio (~446 ppi density)",
+        "Protection": "Corning Gorilla Glass 7i, Mohs level 4"
+      },
+      "Platform": {
+        "OS": "Android 15, up to 3 major Android upgrades",
+        "Chipset": "Mediatek Dimensity 7300 (4 nm) - Global\nMediatek Dimensity 7400 (4 nm) - India",
+        "CPU": "Octa-core (4x2.5 GHz Cortex-A78 &amp; 4x2.0 GHz Cortex-A55) - Global\nOcta-core (4x2.6 GHz Cortex-A78 &amp; 4x2.0 GHz Cortex-A55) - India",
+        "GPU": "Mali-G615 MC2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC",
+        "Internal": "256GB 8GB RAM, 256GB 12GB RAM, 512GB 8GB RAM, 512GB 12GB RAM",
+        "Features": "UFS 2.2"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, f/1.8, 24mm (wide), 1/1.56\", 1.0µm, multi-directional PDAF, OIS\n\n10 MP, f2.0, 73mm (telephoto), 1/3.94\", 1.0µm, PDAF, 3x optical zoom, OIS\n\n50 MP, f/2.0, 12mm, 122˚ (ultrawide), 1/2.76\", 0.64µm, PDAF",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@30/60/120/240fps, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "50 MP, f/2.0, (wide), 0.64µm",
+        "Features": "HDR",
+        "Video": "4K@30fps, 1080p@30/120fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers (with Dolby Atmos)",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS, GLONASS, GALILEO",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",
+        "Features": "Smart Connect support"
+      },
+      "Battery": {
+        "Type": "Market-dependent versions:\n· 5200 mAh (Global)\n· 5500 mAh (China, India)",
+        "Charging": "68W wired"
+      },
+      "Misc": {
+        "Colors": "Pantone: Gibraltar sea, Shamrock, Plum perfect",
+        "Models": "XT2505-1, XT2505-4",
+        "SAR EU": "0.95 W/kg (head) &nbsp; &nbsp; 1.22 W/kg (body) &nbsp; &nbsp;",
+        "Price": "<a href=\"motorola_edge_60-price-13779.php\">$ 309.99 / £ 287.68 / € 315.00</a>"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 661808 (v10)\n\nGeekBench: 2999 (v6)\n\n3DMark: 850 (Wild Life Extreme)",
+        "Display": "<a class=\"noUnd\" href=\"motorola_edge_60-review-2831p3.php#dt\">1401 nits max brightness (measured)</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"motorola_edge_60-review-2831p3.php#lt\">-22.5 LUFS (Excellent)</a>",
+        "Battery": "<div style=\"position:relative;\">\n<a href=\"motorola_edge_60-review-2831p3.php#bt\" data-battery2=\"32:10_13:14_17:17_7:14\" onclick=\"showBatteryPopup(event, 13779); \" class=\"v2\">Active use score 13:32h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      },
+      "EU LABEL": {
+        "Energy": "Class A",
+        "Battery": "58:54h endurance, 1000 cycles",
+        "Free fall": "Class B (180 falls)",
+        "Repairability": "Class B"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-edge-60-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-edge-60-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_edge_60-pictures-13779.php"
+    }
+  }
+}

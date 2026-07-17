@@ -1,0 +1,105 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola Moto G15 Power",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/mototola-moto-g15-power-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/mototola-g15-r.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/best_entry_level_smartphones_buyers_guide-review-2034.php",
+    "siblingDeviceSlugs": [
+      "motorola_moto_g15-13507"
+    ],
+    "release_date": "Released 2025, February 12",
+    "dimensions": "203g, 8.8mm thickness",
+    "os": "Android 15",
+    "storage": "256GB/512GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4G bands": "1, 2, 3, 5, 7, 8, 20, 28, 38, 40, 41",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2024, December 17",
+        "Status": "Available. Released 2025, February 12"
+      },
+      "Body": {
+        "Dimensions": "165.7 x 76 x 8.8 mm (6.52 x 2.99 x 0.35 in)",
+        "Weight": "203 g (7.16 oz)",
+        "Build": "Glass front (Gorilla Glass 3), plastic frame, silicone polymer back (eco leather)",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "IP54 dust protected and water resistant (water splashes)"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "6.72 inches, 109.0 cm<sup>2</sup> (~86.6% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~392 ppi density)",
+        "Protection": "Corning Gorilla Glass 3, Mohs level 5"
+      },
+      "Platform": {
+        "OS": "Android 15",
+        "Chipset": "Mediatek Helio G81 Extreme (12 nm)",
+        "CPU": "Octa-core (2x2.0 GHz Cortex-A75 &amp; 6x1.7 GHz Cortex-A55)",
+        "GPU": "Mali-G52 MC2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC",
+        "Internal": "256GB 8GB RAM, 512GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Dual": "50 MP, f/1.8, (wide), 0.64µm, PDAF\n\n5 MP, f/2.4, (ultrawide)",
+        "Features": "Dual-LED flash, HDR, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, f/2.0, (wide), 1.12µm",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS, GALILEO, GLONASS, BDS, QZSS",
+        "NFC": "Yes (market/region dependent)",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "6000 mAh",
+        "Charging": "30W wired"
+      },
+      "Misc": {
+        "Colors": "Gravity Grey, Iguana Green",
+        "Models": "XT2521-5",
+        "Price": "<a href=\"motorola_moto_g15_power-price-13572.php\">£ 141.36 / € 144.99</a>"
+      },
+      "EU LABEL": {
+        "Energy": "Class A",
+        "Battery": "62:07h endurance, 1000 cycles",
+        "Free fall": "Class B (180 falls)",
+        "Repairability": "Class B"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/mototola-moto-g15-power-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/mototola-moto-g15-power-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_moto_g15_power-pictures-13572.php"
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola Moto G (2026)",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-g-2026-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-g-2026.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/motorola_moto_g_2026_g_play_2026-review-2925.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2025, December 11",
+    "dimensions": "202g, 8.5mm thickness",
+    "os": "Android 16",
+    "storage": "128GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 17, 18, 20, 25, 26, 28, 29, 30, 38, 39, 40, 41, 48, 66, 71",
+        "5G bands": "2, 5, 7, 12, 14, 25, 26, 29, 30, 41, 48, 66, 70, 71, 77, 78 SA/NSA/Sub6",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2025, November 05",
+        "Status": "Available. Released 2025, December 11"
+      },
+      "Body": {
+        "Dimensions": "167.2 x 76.4 x 8.5 mm (6.58 x 3.01 x 0.33 in)",
+        "Weight": "202 g (7.13 oz)",
+        "Build": "Glass front (Gorilla Glass 3), silicone polymer (eco leather) back, plastic frame",
+        "SIM": "Nano-SIM + <a href=\"glossary.php3?term=esim\">eSIM</a>",
+        "Features": "Water-repellent design"
+      },
+      "Display": {
+        "Type": "IPS LCD, 120Hz, 1000 nits (peak)",
+        "Size": "6.7 inches, 108.2 cm<sup>2</sup> (~84.7% screen-to-body ratio)",
+        "Resolution": "720 x 1604 pixels, 20:9 ratio (~262 ppi density)",
+        "Protection": "Corning Gorilla Glass 3"
+      },
+      "Platform": {
+        "OS": "Android 16",
+        "Chipset": "Mediatek Dimensity 6300 (6 nm)",
+        "CPU": "Octa-core (2x2.4 GHz Cortex-A76 &amp; 6x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G57 MC2"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "128GB 4GB RAM"
+      },
+      "Main Camera": {
+        "Dual": "50 MP, f/1.8, (wide), 0.61µm, PDAF\n\n2 MP (macro)",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.2, (wide), 0.64µm",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers (with Dolby Atmos)",
+        "3.5mm jack": "Yes",
+        "Features": "24-bit/192kHz Hi-Res audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS, GALILEO, GLONASS",
+        "NFC": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer"
+      },
+      "Battery": {
+        "Type": "5200 mAh",
+        "Charging": "30W wired"
+      },
+      "Misc": {
+        "Colors": "Pantone: Slipstream, Cattleya Orchid",
+        "Models": "XT2613-1",
+        "Price": "<a href=\"motorola_moto_g_5g_(2026)-price-14138.php\">$ 201.75</a>"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 417027 (v10), 552360 (v11)\n\nGeekBench: 2100 (v6)\n\n3DMark: 384 (Wild Life Extreme)",
+        "Display": "<a class=\"noUnd\" href=\"motorola_moto_g_2026-review-2925p3.php#dt\">1851:1 contrast ratio, 948 nits max brightness (measured)</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"motorola_moto_g_2026-review-2925p3.php#lt\">-21.1 LUFS (Excellent)</a>",
+        "Battery": "<div style=\"position:relative;\">\n<a href=\"motorola_moto_g_2026-review-2925p3.php#bt\" data-battery2=\"35:23_16:02_22:39_9:07\" onclick=\"showBatteryPopup(event, 14138); \" class=\"v2\">Active use score 16:48h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-g-2026-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-g-2026-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_moto_g_5g_(2026)-pictures-14138.php"
+    }
+  }
+}

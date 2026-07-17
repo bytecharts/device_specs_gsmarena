@@ -1,0 +1,113 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola Razr 70 Ultra",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-razr-ultra-2026-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-razr-ultra-2026.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/motorola_razr_70_ultra-review-2972.php",
+    "siblingDeviceSlugs": [
+      "motorola_razr_70-14643"
+    ],
+    "release_date": "Released 2026, April 29",
+    "dimensions": "199g, 7.2mm thickness",
+    "os": "Android 16",
+    "storage": "512GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 17, 18, 19, 20, 25, 26, 28, 29, 30, 38, 39, 40, 41, 48, 66, 71",
+        "5G bands": "1, 2, 3, 5, 7, 12, 14, 20, 25, 26, 28, 29, 30, 38, 40, 41, 48, 66, 70, 71, 77, 78 SA/NSA/Sub6",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2026, April 29",
+        "Status": "Available. Released 2026, April 29"
+      },
+      "Body": {
+        "Dimensions": "Unfolded: 171.5 x 74 x 7.2 mm\nFolded: 88.1 x 74 x 15.7 mm",
+        "Weight": "199 g (7.02 oz)",
+        "Build": "Plastic front (unfolded), glass front (folded, Gorilla Glass Ceramic), aluminum frame",
+        "SIM": "Nano-SIM + <a href=\"glossary.php3?term=esim\">eSIM</a>",
+        "Features": "IP48 dust and water resistant (dust &gt; 1mm; immersible up to 1.5m for 30 min)"
+      },
+      "Display": {
+        "Type": "Foldable LTPO AMOLED, 1B colors, 165Hz, Dolby Vision, HDR10+, 5000 nits (peak)",
+        "Size": "7.0 inches, 110.8 cm<sup>2</sup> (~87.3% screen-to-body ratio)",
+        "Resolution": "1224 x 2992 pixels (~462 ppi density)",
+        "Protection": "Mohs level 4",
+        "Features": "Second external LTPO AMOLED, 1B colors, Dolby Vision, 165Hz, HDR10+, 3000 nits (peak)\n\n4 inches, 1272 x 1080 pixels, 417 ppi, Gorilla Glass Ceramic"
+      },
+      "Platform": {
+        "OS": "Android 16",
+        "Chipset": "Qualcomm Snapdragon 8 Elite (3 nm)",
+        "CPU": "Octa-core (2x4.47 GHz Oryon+ 6x3.53 GHz Oryon)",
+        "GPU": "Adreno 830"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "512GB 12GB RAM, 512GB 16GB RAM",
+        "Features": "UFS 4.0"
+      },
+      "Main Camera": {
+        "Dual": "50 MP, f/1.8, (wide), 1/1.56\", 1.0µm, PDAF, OIS\n\n50 MP, f/2.0, 122˚ (ultrawide), 1/2.93\", 0.6µm",
+        "Features": "LED flash, panorama, HDR, Pantone Validated Colour and Skin Tones",
+        "Video": "8K@30fps, 4K@30/60/120fps, 1080p@30/60/120/240fps, Dolby Vision HDR10+"
+      },
+      "Selfie camera": {
+        "Single": "50 MP, f/2.0, (wide), 0.64µm",
+        "Video": "4K@30/60fps, 1080p@30/60fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers (with Dolby Atmos)",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band",
+        "Bluetooth": "5.4, A2DP, LE",
+        "Positioning": "GPS, GALILEO, GLONASS, BDS, QZSS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "68W wired\n\n30W wireless\n\n5W reverse wired"
+      },
+      "Misc": {
+        "Colors": "Pantone: Orient Blue, Cocoa",
+        "Models": "XT2655-1",
+        "Price": "<a href=\"motorola_razr_70_ultra-price-14641.php\">$ 1,439.99 / £ 1,199.00 / € 1,279.00</a>"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 2256591 (v10), 2841165 (v11)\n\nGeekBench: 8651 (v6)\n\n3DMark: 5865 (Wild Life Extreme)",
+        "Display": "<a class=\"noUnd\" href=\"motorola_razr_70_ultra-review-2972p3.php#dt\">1486 nits max brightness (measured)</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"motorola_razr_70_ultra-review-2972p3.php#lt\">-27.0 LUFS (Good)</a>",
+        "Battery": "<div style=\"position:relative;\">\n<a href=\"motorola_razr_70_ultra-review-2972p3.php#bt\" data-battery2=\"35:10_15:50_22:08_8:59\" onclick=\"showBatteryPopup(event, 14641); \" class=\"v2\">Active use score 16:33h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      },
+      "EU LABEL": {
+        "Energy": "Class A",
+        "Battery": "51:23h endurance, 1200 cycles",
+        "Free fall": "Class C (95 falls)",
+        "Repairability": "Class B"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-razr-ultra-2026-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_razr_70_ultra-pictures-14641.php"
+    }
+  }
+}

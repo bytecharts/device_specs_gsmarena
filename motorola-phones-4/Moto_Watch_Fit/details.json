@@ -1,0 +1,86 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola Moto Watch Fit",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-watch-fit-01.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-watch-fit.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2025, May",
+    "dimensions": "25g, 9.5mm thickness",
+    "os": "RTOS",
+    "storage": "Unspecified storage storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">No cellular connectivity</a>",
+        "2G bands": "N/A",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2025, April 24",
+        "Status": "Available. Released 2025, May"
+      },
+      "Body": {
+        "Dimensions": "44.5 x 38 x 9.5 mm (1.75 x 1.50 x 0.37 in)",
+        "Weight": "25 g (0.88 oz)",
+        "Build": "Glass front (Gorilla Glass 3), aluminum frame, plastic back",
+        "SIM": "No",
+        "Features": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)\n\n5 ATM, 50m water resistant"
+      },
+      "Display": {
+        "Type": "OLED, 1000 nits (peak)",
+        "Size": "1.9 inches",
+        "Resolution": "348 x 442 pixels* (~296 ppi density)",
+        "Protection": "Corning Gorilla Glass 3",
+        "Features": "* speculative display resolution; not officially announced"
+      },
+      "Platform": {
+        "OS": "RTOS"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "Unspecified storage"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "5.3, A2DP, LE",
+        "Positioning": "GPS",
+        "NFC": "No",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, heart rate, PPG"
+      },
+      "Battery": {
+        "Type": ""
+      },
+      "Misc": {
+        "Colors": "Trekking Green",
+        "Price": "About 80 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-watch-fit-01.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-watch-fit-02.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-watch-fit-03.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_moto_watch_fit-pictures-13817.php"
+    }
+  }
+}

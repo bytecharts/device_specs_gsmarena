@@ -1,0 +1,84 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola Moto Watch 120",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-watch-120-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-watch-120.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2024, August",
+    "dimensions": "55g, 11mm thickness",
+    "os": "Moto Watch OS",
+    "storage": "Unspecified storage storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">No cellular connectivity</a>",
+        "2G bands": "N/A",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2024, August 13",
+        "Status": "Available. Released 2024, August"
+      },
+      "Body": {
+        "Dimensions": "50.6 x 44.6 x 11 mm (1.99 x 1.76 x 0.43 in)",
+        "Weight": "55 g (1.94 oz)",
+        "Build": "Glass front, plastic back, zinc alloy frame",
+        "SIM": "No",
+        "Features": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)\n\nCompatible with standard 20mm straps"
+      },
+      "Display": {
+        "Type": "AMOLED",
+        "Size": "1.43 inches",
+        "Resolution": "320 x 320 pixels (~316 ppi density)"
+      },
+      "Platform": {
+        "OS": "Moto Watch OS"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "Unspecified storage"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "5.3, A2DP, LE",
+        "Positioning": "GPS",
+        "NFC": "No",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, heart rate, SpO2"
+      },
+      "Battery": {
+        "Type": "Li-Ion 300 mAh"
+      },
+      "Misc": {
+        "Colors": "Glacier Silver, Phantom Black, Rose Gold",
+        "Price": "About 110 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-watch-120-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-watch-120-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-watch-120-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_moto_watch_120-pictures-14485.php"
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola Moto Pad 70 Pro",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-pad-70-pro-wi-fi-2.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-pad-70-pro-wi-fi.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2026, July 04",
+    "dimensions": "598g, 6.2mm thickness",
+    "os": "Android 16, up to 2 major Android upgrades",
+    "storage": "128GB/256GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">No cellular connectivity</a>",
+        "2G bands": "N/A",
+        "3G bands": "N/A",
+        "4G bands": "N/A",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2026, June 27",
+        "Status": "Available. Released 2026, July 04"
+      },
+      "Body": {
+        "Dimensions": "296.5 x 191.9 x 6.2 mm (11.67 x 7.56 x 0.24 in)",
+        "Weight": "598 g (1.32 lb)",
+        "Build": "Glass front, aluminum frame, aluminum back",
+        "SIM": "No",
+        "Features": "Stylus support\n\nSplash resistant"
+      },
+      "Display": {
+        "Type": "IPS LCD, 68B colors, 144Hz, HDR, Dolby Vision, 800 nits (peak)",
+        "Size": "13.0 inches, 490.0 cm<sup>2</sup> (~86.1% screen-to-body ratio)",
+        "Resolution": "3504 x 2190 pixels, 16:10 ratio (~318 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 16, up to 2 major Android upgrades",
+        "Chipset": "Qualcomm SM8735 Snapdragon 8s Gen 4 (4 nm)",
+        "CPU": "Octa-core (1x3.21 GHz Cortex-X4 &amp; 3x3.0 GHz Cortex-A720 &amp; 2x2.8 GHz Cortex-A720 &amp; 2x2.0 GHz Cortex-A720)",
+        "GPU": "Adreno 825"
+      },
+      "Memory": {
+        "Card slot": "microSDXC",
+        "Internal": "128GB 8GB RAM, 256GB 8GB RAM",
+        "Features": "UFS 3.1 - 128GB\n\nUFS 4.0 - 256GB"
+      },
+      "Main Camera": {
+        "Single": "13 MP",
+        "Features": "LED flash",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Single": "8 MP",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers (4 speakers, with Dolby Atmos)",
+        "3.5mm jack": "No",
+        "Features": "JBL sound\n\n24-bit/192kHz Hi-Res audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, dual-band, Wi-Fi Direct",
+        "Bluetooth": "6.0, A2DP, LE",
+        "Positioning": "No",
+        "NFC": "No",
+        "Radio": "No",
+        "USB": "USB Type-C 3.2, DisplayPort, OTG, accessory connector pins"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, proximity (accessories only)"
+      },
+      "Battery": {
+        "Type": "Li-Po 10200 mAh",
+        "Charging": "68W wired\n\nReverse wired"
+      },
+      "Misc": {
+        "Colors": "Pantone Titan",
+        "Price": "About 380 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-pad-70-pro-wi-fi-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-pad-70-pro-wi-fi-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_moto_pad_70_pro-pictures-14756.php"
+    }
+  }
+}

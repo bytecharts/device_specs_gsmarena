@@ -1,0 +1,107 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola Moto G57",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-g57-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-g57.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "motorola_moto_g57_power_5g-14282"
+    ],
+    "release_date": "Released 2025, December",
+    "dimensions": "8.6mm thickness",
+    "os": "Android 16",
+    "storage": "128GB/256GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4G bands": "LTE",
+        "5G bands": "SA/NSA/Sub6",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2025, November 05",
+        "Status": "Available. Released 2025, December"
+      },
+      "Body": {
+        "Dimensions": "-",
+        "Weight": "-",
+        "Build": "Glass front (Gorilla Glass 7i), plastic frame, silicone polymer (eco leather) back",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "IP64 dust tight and water resistant (water splashes)\n\nMIL-STD-810H compliant*\n\n* does not guarantee ruggedness or use in extreme conditions\n\nDrop resistant up to 1.2m"
+      },
+      "Display": {
+        "Type": "IPS LCD, 120Hz, 1050 nits (peak)",
+        "Size": "6.72 inches, 109.0 cm<sup>2</sup> (~85.8% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~392 ppi density)",
+        "Protection": "Corning Gorilla Glass 7i, Mohs level 4"
+      },
+      "Platform": {
+        "OS": "Android 16",
+        "Chipset": "Qualcomm SM6435-AA Snapdragon 6s Gen 4 (4 nm)",
+        "CPU": "Octa-core (4x2.4 GHz Cortex-A78 &amp; 4x1.8 GHz Cortex-A55)",
+        "GPU": "Adreno"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 8GB RAM, 256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Dual": "50 MP, f/1.8 (wide), 1/1.95\", 0.8µm, PDAF\n\n8 MP, f/2.2, 120˚ (ultrawide), 1/4.0\", 1.12µm",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "1440p@30fps, 1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, f/2.2, (wide), 1/4.0\", 1.12µm",
+        "Features": "HDR",
+        "Video": "1440p@30fps, 1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers (with Dolby Atmos)",
+        "3.5mm jack": "Yes",
+        "Features": "24-bit/192kHz Hi-Res audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.1, A2DP, LE",
+        "Positioning": "GPS, GALILEO, GLONASS, BDS, QZSS",
+        "NFC": "Yes (market/region dependent)",
+        "Radio": "Unspecified",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "5200 mAh"
+      },
+      "Misc": {
+        "Colors": "Pantone: Fluidity, Pink Lemonade, Corsair, Regatta",
+        "Models": "XT2537-2",
+        "Price": "<a href=\"motorola_moto_g57_5g-price-14284.php\">€ 216.25</a>"
+      },
+      "EU LABEL": {
+        "Energy": "Class B",
+        "Battery": "53:59h endurance, 1000 cycles",
+        "Free fall": "Class A (270 falls)",
+        "Repairability": "Class A"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-g57-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-g57-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-g57-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_moto_g57_5g-pictures-14284.php"
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola Moto Pad 60 Pro",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-pad-60-pro-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-pad-60-pro.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "motorola_moto_pad_60_neo_5g-14140"
+    ],
+    "release_date": "Released 2025, April 23",
+    "dimensions": "620g, 6.9mm thickness",
+    "os": "Android 14, up to 2 major Android upgrades",
+    "storage": "128GB/256GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">No cellular connectivity</a>",
+        "2G bands": "N/A",
+        "3G bands": "N/A",
+        "4G bands": "N/A",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2025, April 17",
+        "Status": "Available. Released 2025, April 23"
+      },
+      "Body": {
+        "Dimensions": "291.8 x 189.1 x 6.9 mm (11.49 x 7.44 x 0.27 in)",
+        "Weight": "620 g (1.37 lb)",
+        "Build": "Glass front, aluminum frame, aluminum back",
+        "SIM": "No",
+        "Features": "Stylus support\n\nSplash resistant"
+      },
+      "Display": {
+        "Type": "IPS LCD, 144Hz, HDR10, 400 nits",
+        "Size": "12.7 inches, 467.7 cm<sup>2</sup> (~84.8% screen-to-body ratio)",
+        "Resolution": "2944 x 1840 pixels, 16:10 ratio (~273 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 14, up to 2 major Android upgrades",
+        "Chipset": "Mediatek Dimensity 8300 (4 nm)",
+        "CPU": "Octa-core (1x3.35 GHz Cortex-A715 &amp; 3x3.20 GHz Cortex-A715 &amp; 4x2.20 GHz Cortex-A510)",
+        "GPU": "Mali G615-MC6"
+      },
+      "Memory": {
+        "Card slot": "microSDXC",
+        "Internal": "128GB 8GB RAM, 256GB 12GB RAM",
+        "Features": "UFS 3.1 - 128GB\n\nUFS 4.0 - 256GB"
+      },
+      "Main Camera": {
+        "Single": "13 MP, (wide), AF",
+        "Features": "LED flash",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Single": "8 MP",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers (4 speakers)",
+        "3.5mm jack": "No",
+        "Features": "JBL sound\n\n24-bit/192kHz Hi-Res audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.3, A2DP, LE",
+        "Positioning": "GPS, GALILEO, GLONASS",
+        "NFC": "No",
+        "Radio": "No",
+        "USB": "USB Type-C 3.2, DisplayPort, OTG, accessory connector pins"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity (accessories only), compass"
+      },
+      "Battery": {
+        "Type": "Li-Po 10200 mAh",
+        "Charging": "45W wired\n\nReverse wired"
+      },
+      "Misc": {
+        "Colors": "Pantone: Bronze Green",
+        "Price": "About 280 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-pad-60-pro-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_moto_pad_60_pro-pictures-13802.php"
+    }
+  }
+}
