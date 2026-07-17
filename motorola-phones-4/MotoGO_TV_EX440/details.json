@@ -1,0 +1,96 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola MotoGO TV EX440",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-motogo-tv.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-motogo-tv.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2012, July",
+    "dimensions": "87g, 12.4mm thickness",
+    "os": "Feature phone",
+    "storage": "128MB ROM storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 &amp; SIM 2",
+        "GPRS": "Yes",
+        "EDGE": "Yes"
+      },
+      "Launch": {
+        "Announced": "2012, July. Released 2012, July",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "110.2 x 62 x 12.4 mm (4.34 x 2.44 x 0.49 in)",
+        "Weight": "87 g (3.07 oz)",
+        "SIM": "Dual SIM (Mini-SIM)",
+        "Features": "Dust, dirt and water resistant"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "3.2 inches, 31.7 cm<sup>2</sup> (~46.4% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio",
+        "Features": "Touch sensitive controls"
+      },
+      "Platform": {
+        "CPU": "312 MHz"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot), 2 GB included",
+        "Phonebook": "Yes, Photocall",
+        "Call records": "Yes",
+        "Internal": "128MB ROM, 50MB RAM"
+      },
+      "Main Camera": {
+        "Single": "3.15 MP",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g",
+        "Bluetooth": "2.1, A2DP, EDR",
+        "Positioning": "No",
+        "NFC": "No",
+        "Radio": "Stereo FM radio",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity",
+        "Messaging": "SMS(threaded view), MMS, Email, IM, Push Email",
+        "Games": "Yes + downloadable",
+        "Java": "Yes",
+        "Features": "Digital &amp; analogue TV\n\nMP3/WAV/AAC player\n\nMP4/H.264 player\n\nPhoto viewer\n\nOrganizer\n\nVoice memo/dial\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Li-Ion 910 mAh, removable",
+        "Stand-by": "Up to 400 h",
+        "Talk time": "Up to 6 h",
+        "Music play": "Up to 40 h"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "Price": "About 160 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-motogo-tv.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-motogo-tv-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_motogo_tv_ex440-pictures-5155.php"
+    }
+  }
+}

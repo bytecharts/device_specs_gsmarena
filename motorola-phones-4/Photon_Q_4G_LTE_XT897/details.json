@@ -1,0 +1,97 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola Photon Q 4G LTE XT897",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-photon-q.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-photon-q.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2012, August",
+    "dimensions": "170.1g, 13.7mm thickness",
+    "os": "Android 4.0.4",
+    "storage": "8GB storage, microSDHC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / EVDO / LTE</a>",
+        "2G bands": "CDMA 800 / 1900",
+        "3G bands": "CDMA2000 1xEV-DO",
+        "4G bands": "25",
+        "Speed": "HSPA 21.1/5.76 Mbps, LTE, EV-DO Rev.A 3.1 Mbps",
+        "Features": "GSM 850 / 900 / 1800 / 1900\nHSDPA 850 / 1900 / 2100"
+      },
+      "Launch": {
+        "Announced": "2012, July. Released 2012, August",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "126.5 x 66 x 13.7 mm (4.98 x 2.60 x 0.54 in)",
+        "Weight": "170.1 g (6.00 oz)",
+        "Keyboard": "QWERTY",
+        "SIM": "Non-removable"
+      },
+      "Display": {
+        "Type": "TFT",
+        "Size": "4.3 inches, 51.0 cm<sup>2</sup> (~61.1% screen-to-body ratio)",
+        "Resolution": "540 x 960 pixels, 16:9 ratio (~256 ppi density)",
+        "Protection": "Scratch-resistant glass",
+        "Features": "ColorBoost technology"
+      },
+      "Platform": {
+        "OS": "Android 4.0.4 (Ice Cream Sandwich)",
+        "CPU": "Dual-core 1.5 GHz"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Internal": "8GB 1GB RAM"
+      },
+      "Main Camera": {
+        "Single": "8 MP, AF",
+        "Features": "LED flash",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "Yes",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, DLNA, hotspot",
+        "Bluetooth": "4.0, A2DP, EDR, LE",
+        "Positioning": "GPS, A-GPS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity, compass",
+        "Features": "HDMI port\n\nMP3/WAV/WMA/AAC+ player\n\nMP4/WMV/H.264 player\n\nDocument viewer\n\nPhoto viewer/editor\n\nOrganizer\n\nVoice memo/dial/commands\n\nPredictive text input (Swype)"
+      },
+      "Battery": {
+        "Type": "Non-removable Li-Ion 1785 mAh battery",
+        "Stand-by": "Up to 220 h (3G)",
+        "Talk time": "Up to 7 h 30 min (3G)"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "SAR": "0.89 W/kg (head) &nbsp; &nbsp; 0.77 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 220 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-photon-q.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-photon-q2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_photon_q_4g_lte_xt897-pictures-4885.php"
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola XPRT MB612",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-xprt-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-xprt.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2011, June",
+    "dimensions": "145g, 13mm thickness",
+    "os": "Android 2.2, not up to 4.1",
+    "storage": "2GB storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / EVDO</a>",
+        "2G bands": "CDMA 800 / 1900",
+        "3G bands": "CDMA2000 1xEV-DO",
+        "Speed": "HSPA 10.2/1.8 Mbps, EV-DO Rev.A 3.1 Mbps",
+        "Features": "GSM 850 / 900 / 1800 / 1900\nHSDPA 850 / 1900 / 2100"
+      },
+      "Launch": {
+        "Announced": "2011, May. Released 2011, June",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "120.4 x 60.9 x 13 mm (4.74 x 2.40 x 0.51 in)",
+        "Weight": "145 g (5.11 oz)",
+        "Keyboard": "QWERTY",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT",
+        "Size": "3.1 inches, 28.6 cm<sup>2</sup> (~39.0% screen-to-body ratio)",
+        "Resolution": "320 x 480 pixels, 3:2 ratio (~186 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 2.2 (Froyo), not upgradable to 4.1 (Jelly Bean)",
+        "Chipset": "TI OMAP 3620 - 1000",
+        "CPU": "1.0 GHz Cortex-A8",
+        "GPU": "PowerVR SGX530"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot), 2 GB included",
+        "Internal": "2GB"
+      },
+      "Main Camera": {
+        "Single": "5 MP, AF",
+        "Features": "LED flash",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, DLNA, hotspot",
+        "Bluetooth": "2.1, A2DP",
+        "Positioning": "GPS, A-GPS",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity, compass",
+        "Browser": "HTML, Adobe Flash",
+        "Features": "MP3/WAV/WMA/AAC+ player\n\nMP4/WMV/H.264 player\n\nQuickoffice document editor\n\nPhoto viewer/editor\n\nOrganizer\n\nVoice memo/dial\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1860 mAh battery",
+        "Stand-by": "Up to 380 h",
+        "Talk time": "Up to 9 h"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "Price": "About 140 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-xprt-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_xprt_mb612-pictures-3946.php"
+    }
+  }
+}

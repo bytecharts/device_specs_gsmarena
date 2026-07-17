@@ -1,0 +1,89 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola XT390",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-xt390.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-xt390.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2012, Q4",
+    "dimensions": "110g, 11mm thickness",
+    "os": "Android 2.3.6",
+    "storage": "512MB 512MB RAM storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 &amp; SIM 2",
+        "3G bands": "HSDPA 850 / 2100",
+        "Speed": "HSPA 7.2/5.76 Mbps"
+      },
+      "Launch": {
+        "Announced": "2012, April. Released 2012, Q4",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "116 x 63.5 x 11 mm (4.57 x 2.5 x 0.43 in)",
+        "Weight": "110 g (3.88 oz)",
+        "SIM": "Dual SIM (Mini-SIM, dual stand-by)"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "3.5 inches, 36.5 cm<sup>2</sup> (~49.5% screen-to-body ratio)",
+        "Resolution": "320 x 480 pixels, 3:2 ratio (~165 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 2.3.6 (Gingerbread)",
+        "Chipset": "Mediatek MT6573 (65 nm)",
+        "CPU": "800 MHz Cortex-A9",
+        "GPU": "PowerVR SGX531"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Internal": "512MB 512MB RAM"
+      },
+      "Main Camera": {
+        "Single": "3.15 MP",
+        "Video": "480p@30fps"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+        "Bluetooth": "3.0, A2DP, EDR",
+        "Positioning": "GPS, A-GPS",
+        "Radio": "No",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity, compass",
+        "Features": "MP3/WAV/AAC+ player\n\nMP4/H.264/WMV player\n\nDocument viewer\n\nPhoto viewer\n\nOrganizer\n\nVoice memo/dial\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion battery",
+        "Stand-by": "Up to 220 h",
+        "Talk time": "Up to 6 h"
+      },
+      "Misc": {
+        "Colors": "Champagne, truffle black",
+        "Price": "About 210 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-xt390.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_xt390-pictures-4696.php"
+    }
+  }
+}

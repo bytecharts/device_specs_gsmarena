@@ -1,0 +1,94 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola ATRIX TV XT687",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-atrix-tv-xt687.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-atrix-tv-xt687.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2012, June",
+    "dimensions": "129.7g, 9.9mm thickness",
+    "os": "Android 4.0",
+    "storage": "512MB 512MB RAM storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 &amp; SIM 2",
+        "3G bands": "HSDPA 850 / 2100",
+        "Speed": "HSPA 7.2/5.76 Mbps",
+        "Features": "HSDPA 900 / 1800"
+      },
+      "Launch": {
+        "Announced": "2012, May. Released 2012, June",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "119.8 x 60.5 x 9.9 mm (4.72 x 2.38 x 0.39 in)",
+        "Weight": "129.7 g (4.55 oz)",
+        "SIM": "Dual SIM (Mini-SIM, dual stand-by)"
+      },
+      "Display": {
+        "Type": "TFT",
+        "Size": "4.0 inches, 44.1 cm<sup>2</sup> (~60.8% screen-to-body ratio)",
+        "Resolution": "480 x 854 pixels, 16:9 ratio (~245 ppi density)",
+        "Features": "Touch sensitive controls"
+      },
+      "Platform": {
+        "OS": "Android 4.0 (Ice Cream Sandwich)",
+        "Chipset": "Qualcomm MSM7227A-AA Snapdragon S1",
+        "CPU": "1.0 GHz Cortex-A5",
+        "GPU": "Adreno 200"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot), 2 GB included",
+        "Internal": "512MB 512MB RAM"
+      },
+      "Main Camera": {
+        "Single": "8 MP, AF",
+        "Features": "LED flash",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Single": "VGA",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+        "Bluetooth": "3.0, A2DP, EDR",
+        "Positioning": "GPS, A-GPS",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity, compass",
+        "Features": "Mobile TV\n\nMP3/WAV/WMA/AAC+ player\n\nDivx/MP4/WMV/H.264 player\n\nDocument viewer\n\nPhoto viewer/editor\n\nOrganizer\n\nVoice memo/dial\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion battery",
+        "Stand-by": "Up to 500 h (2G) / Up to 400 h (3G)",
+        "Talk time": "Up to 10 h (2G) / Up to 6 h (3G)"
+      },
+      "Misc": {
+        "Colors": "Dark Grey",
+        "Models": "XT687",
+        "Price": "About 210 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-atrix-tv-xt687.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_atrix_tv_xt687-pictures-4921.php"
+    }
+  }
+}

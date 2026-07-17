@@ -1,0 +1,112 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola Moto G6 Play",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-g6-play-2.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-g6-play-r1.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/motorola_moto_g6_play-review-1765.php",
+    "siblingDeviceSlugs": [
+      "motorola_moto_g6-9000"
+    ],
+    "release_date": "Released 2018, May",
+    "dimensions": "175g, 9mm thickness",
+    "os": "Android 8.0, up to Android 9.0",
+    "storage": "16GB/32GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / EVDO / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100 - Europe, Brazil",
+        "4G bands": "1, 3, 5, 7, 8, 20, 38 - Europe",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+        "Features": "CDMA 800 / 1900 - USA\nHSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - USA\nCDMA2000 1xEV-DO - USA\n1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 17, 25, 26, 29, 30, 66 - USA\n1, 2, 3, 4, 5, 7, 28 - Brazil"
+      },
+      "Launch": {
+        "Announced": "2018, April. Released 2018, May",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "154.4 x 72.2 x 9 mm (6.08 x 2.84 x 0.35 in)",
+        "Weight": "175 g (6.17 oz)",
+        "Build": "Glass front (Gorilla Glass), plastic back, plastic frame",
+        "SIM": "· Nano-SIM\n· Nano-SIM + Nano-SIM",
+        "Features": "Splash resistant"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "5.7 inches, 83.8 cm<sup>2</sup> (~75.2% screen-to-body ratio)",
+        "Resolution": "720 x 1440 pixels, 18:9 ratio (~282 ppi density)",
+        "Protection": "Corning Gorilla Glass (unspecified version)"
+      },
+      "Platform": {
+        "OS": "Android 8.0 (Oreo), upgradable to Android 9.0 (Pie)",
+        "Chipset": "Qualcomm MSM8937 Snapdragon 430 (28 nm)\nQualcomm MSM8920 Snapdragon 427 (28 nm) - USA",
+        "CPU": "Octa-core 1.4 GHz Cortex-A53\nQuad-core 1.4 GHz Cortex-A53 - USA",
+        "GPU": "Adreno 505\nAdreno 308 - USA"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "16GB 2GB RAM, 16GB 3GB RAM, 32GB 3GB RAM",
+        "Features": "eMMC 5.1"
+      },
+      "Main Camera": {
+        "Single": "13 MP, f/2.0, 1/3.1\", 1.12µm, PDAF",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "5 MP (USA)\n\n8 MP (other markets)",
+        "Features": "LED flash",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct\nWi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct - USA",
+        "Bluetooth": "4.2, A2DP, LE, EDR",
+        "Positioning": "GPS, GLONASS, BDS",
+        "NFC": "Yes (Europe)",
+        "Radio": "FM radio",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity"
+      },
+      "Battery": {
+        "Type": "Li-Ion 4000 mAh, non-removable",
+        "Charging": "10W / 15W wired (market dependent)"
+      },
+      "Misc": {
+        "Colors": "Deep Indigo, Silver, Flash Gray, Gold",
+        "Models": "XT1922-1, XT1922-2, XT1922-3, XT1922-4, XT1922-5, XT1922-10",
+        "SAR": "1.20 W/kg (head) &nbsp; &nbsp; 1.11 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.66 W/kg (head) &nbsp; &nbsp; 1.42 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 150 EUR"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 58757 (v7)\n\nGeekBench: 2328 (v4.4)\n\nGFXBench: 5.3fps (ES 3.1 onscreen)",
+        "Display": "<a class=\"noUnd\" href=\"motorola_moto_g6_play-review-1765p3.php#dt\">Contrast ratio: 1404 (nominal), 3.419 (sunlight)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=9002&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=9002&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"motorola_moto_g6_play-review-1765p3.php#lt\">Voice 66dB / Noise 70dB / Ring 76dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"motorola_moto_g6_play-review-1765p3.php#aq\">Noise -89.0dB / Crosstalk -87.3dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 9002); \">Endurance rating 92h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-g6-play-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-g6-play-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_moto_g6_play-pictures-9002.php"
+    }
+  }
+}

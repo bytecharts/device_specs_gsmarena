@@ -1,0 +1,117 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola Moto G 5G Plus",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-g-5g-plus-03.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-g-5g-plus.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/motorola_moto_g_5g_plus-review-2141.php",
+    "siblingDeviceSlugs": [
+      "motorola_moto_g_5g-10577",
+      "motorola_moto_g5_plus-8453",
+      "motorola_moto_g100-10791",
+      "motorola_edge_70_max_5g-14789",
+      "motorola_edge_70_fusion_5g-14432",
+      "motorola_edge_70_5g-14216",
+      "motorola_edge_70_pro_5g-14620",
+      "motorola_edge_60_fusion-13752",
+      "motorola_edge_60_pro-13815"
+    ],
+    "release_date": "Released 2020, July 08",
+    "dimensions": "207g, 9.7mm thickness",
+    "os": "Android 10",
+    "storage": "64GB/128GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 20, 26, 28, 32, 38, 39, 40, 41, 42, 43, 66",
+        "5G bands": "1, 3, 7, 8, 28, 38, 41, 77, 78 SA/NSA",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "1, 2, 3, 4, 5, 7, 8, 12, 17, 20, 26, 28, 32, 38, 39, 40, 41, 42, 43, 66"
+      },
+      "Launch": {
+        "Announced": "2020, July 07. Released 2020, July 08",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "168.3 x 74 x 9.7 mm (6.63 x 2.91 x 0.38 in)",
+        "Weight": "207 g (7.30 oz)",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "· Nano-SIM\n· Nano-SIM + Nano-SIM",
+        "Features": "Water-repellent coating"
+      },
+      "Display": {
+        "Type": "IPS LCD, 90Hz, HDR10",
+        "Size": "6.7 inches, 104.9 cm<sup>2</sup> (~84.2% screen-to-body ratio)",
+        "Resolution": "1080 x 2520 pixels, 21:9 ratio (~409 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 10",
+        "Chipset": "Qualcomm SM7250 Snapdragon 765 5G (7 nm)",
+        "CPU": "Octa-core (1x2.3 GHz Kryo 475 Prime &amp; 1x2.2 GHz Kryo 475 Gold &amp; 6x1.8 GHz Kryo 475 Silver)",
+        "GPU": "Adreno 620"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (uses shared SIM slot)",
+        "Internal": "64GB 4GB RAM, 128GB 6GB RAM, 128GB 8GB RAM",
+        "Features": "UFS 2.1"
+      },
+      "Main Camera": {
+        "Quad": "48 MP, f/1.7, 26mm (wide), 1/2.0\", 0.8µm, PDAF\n\n8 MP, f/2.2, 118˚ (ultrawide), 1.12µm\n\n5 MP (macro), AF\n\nAuxiliary lens",
+        "Features": "Dual-LED flash, panorama, HDR",
+        "Video": "4K@30fps, 1080p@30/60fps, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Dual": "16 MP, f/2.0, 29mm (normal), 1.0µm\n\n8 MP, f/2.2, 118˚ (ultrawide), 1.12µm",
+        "Features": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.1, A2DP, LE",
+        "Positioning": "GPS (L1+L5), GLONASS, GALILEO, BDS",
+        "NFC": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Po 5000 mAh",
+        "Charging": "20W wired"
+      },
+      "Misc": {
+        "Colors": "Surfing Blue, Mystic Lilac",
+        "Models": "XT2075, XT2075-2, XT2075-3",
+        "Price": "About 260 EUR"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 299926 (v8)\n\nGeekBench: 1898 (v5.1)\n\nGFXBench: 16fps (ES 3.1 onscreen)",
+        "Display": "<a class=\"noUnd\" href=\"motorola_moto_g_5g_plus-review-2141p2.php\">1269:1 contrast ratio, 543 nits max brightness (measured)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=10307&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=10307&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"motorola_moto_g_5g_plus-review-2141p3.php#lt\">-28.4 LUFS (Average)</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 10307); \">Endurance rating 114h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-g-5g-plus-03.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-g-5g-plus-04.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_moto_g_5g_plus-pictures-10307.php"
+    }
+  }
+}

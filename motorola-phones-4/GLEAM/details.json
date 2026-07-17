@@ -1,0 +1,91 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola GLEAM",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-gleam-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-gleam.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2011, May",
+    "dimensions": "105g, 13.9mm thickness",
+    "os": "Feature phone",
+    "storage": "5MB storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "Class 12",
+        "EDGE": "No",
+        "Features": "GSM 850 / 1900 - Latin America"
+      },
+      "Launch": {
+        "Announced": "2011, February. Released 2011, May",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "106 x 53 x 13.9 mm (4.17 x 2.09 x 0.55 in)",
+        "Weight": "105 g (3.70 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT,  256K colors",
+        "Size": "2.4 inches, 17.8 cm<sup>2</sup> (~31.8% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~167 ppi density)",
+        "Features": "Secondary external display with icons"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Phonebook": "800 entries, Photocall",
+        "Call records": "Yes",
+        "Internal": "5MB"
+      },
+      "Main Camera": {
+        "Single": "2 MP",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.1, A2DP, EDR",
+        "Positioning": "No",
+        "Radio": "Stereo FM radio",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS, Email",
+        "Browser": "HTML",
+        "Games": "Yes",
+        "Java": "",
+        "Features": "MP3/WAV/AAC+ player\n\nMP4/H.263 player\n\nOrganizer\n\nVoice memo\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 750 mAh battery",
+        "Stand-by": "Up to 500 h",
+        "Talk time": "Up to 6 h 20 min"
+      },
+      "Misc": {
+        "Colors": "Black, Red",
+        "Price": "About 80 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-gleam-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_gleam-pictures-3871.php"
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola Moto Watch 40",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-watch40-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-watch40.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2024, February 07",
+    "dimensions": "26g, 10.2mm thickness",
+    "os": "Moto Watch OS",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">No cellular connectivity</a>",
+        "2G bands": "No",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2024, February 07",
+        "Status": "Available. Released 2024, February 07"
+      },
+      "Body": {
+        "Dimensions": "45.9 x 30.8 x 10.2 mm (1.81 x 1.21 x 0.40 in)",
+        "Weight": "26 g (0.92 oz)",
+        "Build": "Zinc alloy case, plastic back",
+        "SIM": "No",
+        "Features": "IP67"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "1.57 inches",
+        "Resolution": "240 x 280 pixels (~235 ppi density)"
+      },
+      "Platform": {
+        "OS": "Moto Watch OS"
+      },
+      "Memory": {
+        "Card slot": "No"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "No",
+        "NFC": "No",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, heart rate, SpO2"
+      },
+      "Battery": {
+        "Type": "240 mAh",
+        "Charging": "Wired, 100% in 25 min"
+      },
+      "Misc": {
+        "Colors": "Phantom Black, Black  Rose Gold",
+        "Price": "About 60 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-watch40-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_moto_watch_40-pictures-12826.php"
+    }
+  }
+}

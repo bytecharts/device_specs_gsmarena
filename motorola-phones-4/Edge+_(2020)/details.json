@@ -1,0 +1,110 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola Edge+ (2020)",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-edge-plus-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-edge-plus.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/motorola_edge_plus-review-2112.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2020, May 14",
+    "dimensions": "203g, 9.6mm thickness",
+    "os": "Android 10",
+    "storage": "256GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / EVDO / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - Global",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 20, 25, 26, 28, 29, 30, 34, 38, 39, 40, 41, 42, 46, 66, 71 - Global",
+        "5G bands": "5, 41, 66, 71, 77, 78 Sub6 - Global",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE (6CA) Cat20 2000/200 Mbps, 5G 4 Gbps DL",
+        "Features": "CDMA 800 / 1900\nHSDPA 850 / 900 / 1900 / 2100 - Verizon\nCDMA2000 1xEV-DO\n1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 20, 28, 46, 48, 66 - Verizon\n2, 5, 66, 260, 261 mmWave/Sub6 - Verizon"
+      },
+      "Launch": {
+        "Announced": "2020, April 22. Released 2020, May 14",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "161.1 x 71.4 x 9.6 mm (6.34 x 2.81 x 0.38 in)",
+        "Weight": "203 g (7.16 oz)",
+        "Build": "Glass front (Gorilla Glass 5), aluminum frame",
+        "SIM": "Nano-SIM",
+        "Features": "Water-repellent coating"
+      },
+      "Display": {
+        "Type": "OLED, 1B colors, 90Hz, HDR10+",
+        "Size": "6.7 inches, 110.2 cm<sup>2</sup> (~95.8% screen-to-body ratio)",
+        "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~385 ppi density)",
+        "Protection": "Corning Gorilla Glass 5"
+      },
+      "Platform": {
+        "OS": "Android 10",
+        "Chipset": "Qualcomm SM8250 Snapdragon 865 5G (7 nm+)",
+        "CPU": "Octa-core (1x2.84 GHz Cortex-A77 &amp; 3x2.42 GHz Cortex-A77 &amp; 4x1.80 GHz Cortex-A55)",
+        "GPU": "Adreno 650"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 12GB RAM",
+        "Features": "UFS 3.0"
+      },
+      "Main Camera": {
+        "Triple": "108 MP, f/1.8, (wide), 1/1.33\", 0.8µm, PDAF, OIS\n\n8 MP, f/2.4, 81mm (telephoto), 3x optical zoom, PDAF, OIS\n\n16 MP, f/2.2, 13mm (ultrawide), 1.0µm, AF\n\nTOF 3D, (depth)",
+        "Features": "Dual-LED dual-tone flash, panorama, HDR",
+        "Video": "6K@30fps, 4K@30fps, 1080p@30/60/120fps, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "25 MP, f/2.0, (wide), 0.9µm",
+        "Features": "HDR",
+        "Video": "1080p@30/120fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes",
+        "Features": "Snapdragon Sound"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.1, A2DP, LE, aptX HD, aptX Adaptive",
+        "Positioning": "GPS (L1+L5), GLONASS, BDS, GALILEO",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 3.1"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, barometer"
+      },
+      "Battery": {
+        "Type": "Li-Po 5000 mAh",
+        "Charging": "18W wired\n\n15W wireless\n\n5W reverse wireless"
+      },
+      "Misc": {
+        "Colors": "Smokey Sangria, Thunder Grey, Baltic Gray",
+        "Models": "XT2061-3",
+        "Price": "About 670 EUR"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 574155 (v8)\n\nGeekBench: 3295 (v5.1)\n\nGFXBench: 48fps (ES 3.1 onscreen)",
+        "Display": "<a class=\"noUnd\" href=\"motorola_edge_plus-review-2112p3.php\">607 nits max brightness (measured)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=10119&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=10119&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"motorola_edge_plus-review-2112p3.php#lt\">-25.3 LUFS (Very good)</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 10119); \">Endurance rating 100h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-edge-plus-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-edge-plus-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-edge-plus-r3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_edge+_(2020)-pictures-10119.php"
+    }
+  }
+}

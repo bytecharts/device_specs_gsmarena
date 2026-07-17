@@ -1,0 +1,97 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola Photon 4G MB855",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-photon-4g-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-photon-4g.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2011, August",
+    "dimensions": "158g, 12.2mm thickness",
+    "os": "Android 2.3, not up to 4.1",
+    "storage": "16GB storage, microSDHC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / EVDO</a>",
+        "2G bands": "CDMA 800 / 1900",
+        "3G bands": "CDMA2000 1xEV-DO",
+        "Speed": "EV-DO Rev.A 3.1 Mbps, HSPA",
+        "Features": "GSM 850 / 900 / 1800 / 1900\nHSDPA 850 / 1900 / 2100"
+      },
+      "Launch": {
+        "Announced": "2011, June. Released 2011, August",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "126.9 x 66.9 x 12.2 mm (5.00 x 2.63 x 0.48 in)",
+        "Weight": "158 g (5.57 oz)",
+        "SIM": "Mini-SIM",
+        "Features": "Built-in kickstand"
+      },
+      "Display": {
+        "Type": "TFT",
+        "Size": "4.3 inches, 51.0 cm<sup>2</sup> (~60.0% screen-to-body ratio)",
+        "Resolution": "540 x 960 pixels, 16:9 ratio (~256 ppi density)",
+        "Protection": "Corning Gorilla Glass"
+      },
+      "Platform": {
+        "OS": "Android 2.3 (Gingerbread), not upgradable to 4.1 (Jelly Bean)",
+        "Chipset": "Nvidia Tegra 2 AP20H",
+        "CPU": "Dual-core 1.0 GHz Cortex-A9",
+        "GPU": "ULP GeForce"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Internal": "16GB 1GB RAM"
+      },
+      "Main Camera": {
+        "Single": "8 MP, AF",
+        "Features": "Dual-LED flash",
+        "Video": "720p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "VGA",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, DLNA, hotspot; WiMAX 802.16 e",
+        "Bluetooth": "2.1, A2DP, EDR",
+        "Positioning": "GPS, A-GPS",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity, compass",
+        "Browser": "HTML, Adobe Flash",
+        "Features": "HDMI port\n\nMP3/WAV/WMA/AAC+ player\n\nMP4/WMV/H.264 player\n\nQuickoffice document viewer\n\nPhoto viewer/editor\n\nOrganizer\n\nVoice memo/dial/commands\n\nPredictive text input (Swype)"
+      },
+      "Battery": {
+        "Type": "Standard battery, Li-Ion 1700 mAh ( in CDMA)",
+        "Stand-by": "Up to 200 h",
+        "Talk time": "Up to 10 h"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "SAR": "0.93 W/kg (head) &nbsp; &nbsp; 0.91 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 270 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-photon-4g-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-photon-4g-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_photon_4g_mb855-pictures-3987.php"
+    }
+  }
+}

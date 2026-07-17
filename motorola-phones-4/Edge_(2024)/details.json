@@ -1,0 +1,101 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola Edge (2024)",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-edge-2024-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-edge-2024.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2024, June 20",
+    "dimensions": "174g, 8.1mm thickness",
+    "os": "Android 14",
+    "storage": "256GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 17, 18, 19, 20, 25, 26, 29, 30, 38, 39, 40, 41, 48, 66, 71",
+        "5G bands": "1, 2, 3, 5, 7, 12, 14, 20, 25, 26, 29, 30, 38, 40, 41, 48, 66, 70, 71, 77, 78 SA/NSA/Sub6",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2024, June 04",
+        "Status": "Available. Released 2024, June 20"
+      },
+      "Body": {
+        "Dimensions": "159.6 x 72 x 8.1 mm (6.28 x 2.83 x 0.32 in)",
+        "Weight": "174 g (6.14 oz)",
+        "Build": "Glass front, aluminum frame, silicone polymer back (eco leather)",
+        "SIM": "Nano-SIM + <a href=\"glossary.php3?term=esim\">eSIM</a>",
+        "Features": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)"
+      },
+      "Display": {
+        "Type": "P-OLED, 1B colors, 144Hz, 1300 nits (peak)",
+        "Size": "6.6 inches, 103.6 cm<sup>2</sup> (~90.2% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~402 ppi density)",
+        "Protection": "Corning Gorilla Glass 3"
+      },
+      "Platform": {
+        "OS": "Android 14",
+        "Chipset": "Qualcomm SM7435-AB Snapdragon 7s Gen 2 (4 nm)",
+        "CPU": "Octa-core (4x2.40 GHz Cortex-A78 &amp; 4x1.95 GHz Cortex-A55)",
+        "GPU": "Adreno 710"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 8GB RAM",
+        "Features": "UFS 2.2"
+      },
+      "Main Camera": {
+        "Dual": "50 MP, f/1.8, (wide), 1/1.5\", 1.0µm, multi-directional PDAF, OIS\n\n13 MP, f/2.2, 120˚ (ultrawide), 1.12µm, AF",
+        "Features": "Dual-LED flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@30/60fps, HDR, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.4, (wide), 0.7µm, AF",
+        "Features": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No",
+        "Features": "Snapdragon sound"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e, tri-band, Wi-Fi Direct",
+        "Bluetooth": "5.2, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 3.1, DisplayPort 1.4"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",
+        "Features": "Smart Connect (Ready For) support"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "68W wired\n\n15W wireless"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "Models": "XT2405V, XT-2405V",
+        "Price": "<a href=\"motorola_edge_(2024)-price-13111.php\">$ 164.52</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-edge-2024-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-edge-2024-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_edge_(2024)-pictures-13111.php"
+    }
+  }
+}

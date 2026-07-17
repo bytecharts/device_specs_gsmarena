@@ -1,0 +1,96 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola Luge",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-luge.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-luge.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2014, August",
+    "dimensions": "125.9g, 8.4mm thickness",
+    "os": "Android 4.4.2",
+    "storage": "8GB storage, microSDHC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / EVDO / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4G bands": "13",
+        "Speed": "HSPA 21.1/5.76 Mbps, LTE, EV-DO Rev.A 3.1 Mbps",
+        "Features": "CDMA 800 / 1900\nCDMA2000 1xEV-DO"
+      },
+      "Launch": {
+        "Announced": "2014, August. Released 2014, August",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "122.4 x 60.7 x 8.4 mm (4.82 x 2.39 x 0.33 in)",
+        "Weight": "125.9 g (4.44 oz)",
+        "SIM": "Micro-SIM",
+        "Features": "Splash resistant"
+      },
+      "Display": {
+        "Type": "Super AMOLED Advanced",
+        "Size": "4.3 inches, 51.0 cm<sup>2</sup> (~68.6% screen-to-body ratio)",
+        "Resolution": "540 x 960 pixels, 16:9 ratio (~256 ppi density)",
+        "Protection": "Corning Gorilla Glass 2"
+      },
+      "Platform": {
+        "OS": "Android 4.4.2 (KitKat)",
+        "Chipset": "Qualcomm MSM8960 Snapdragon S4 Plus",
+        "CPU": "Dual-core 1.5 GHz Krait",
+        "GPU": "Adreno 225"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Internal": "8GB 1GB RAM"
+      },
+      "Main Camera": {
+        "Single": "8 MP, AF",
+        "Features": "LED flash",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "VGA",
+        "Video": "720p"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, DLNA, hotspot",
+        "Bluetooth": "4.0, A2DP, EDR, aptX",
+        "Positioning": "GPS, S-GPS, GLONASS",
+        "NFC": "No",
+        "Radio": "No",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Ion 2000 mAh, non-removable",
+        "Stand-by": "Up to 408 h (3G)",
+        "Talk time": "Up to 20 h (3G)"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "SAR": "1.30 W/kg (head) &nbsp; &nbsp; 0.63 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 240 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-luge.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_luge-pictures-6806.php"
+    }
+  }
+}

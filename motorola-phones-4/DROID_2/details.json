@@ -1,0 +1,91 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola DROID 2",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-droid-2-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-droid-2.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2010, August",
+    "dimensions": "169g, 13.7mm thickness",
+    "os": "Android 2.2",
+    "storage": "8GB storage, microSDHC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">CDMA / EVDO</a>",
+        "2G bands": "CDMA 800 / 1900",
+        "3G bands": "CDMA2000 1xEV-DO",
+        "Speed": "EV-DO Rev.A 3.1 Mbps"
+      },
+      "Launch": {
+        "Announced": "2010, August. Released 2010, August",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "116.3 x 60.5 x 13.7 mm (4.58 x 2.38 x 0.54 in)",
+        "Weight": "169 g (5.96 oz)",
+        "Keyboard": "QWERTY",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT",
+        "Size": "3.7 inches, 37.7 cm<sup>2</sup> (~53.6% screen-to-body ratio)",
+        "Resolution": "480 x 854 pixels, 16:9 ratio (~265 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 2.2 (Froyo)",
+        "CPU": "1.0 GHz"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot), 8 GB included",
+        "Internal": "8GB"
+      },
+      "Main Camera": {
+        "Single": "5 MP, AF",
+        "Video": "480p@30fps"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, DLNA, hotspot",
+        "Bluetooth": "2.1, A2DP",
+        "Positioning": "GPS, A-GPS",
+        "Radio": "No",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity, compass",
+        "Browser": "HTML, Adobe Flash",
+        "Features": "MP3/WAV/WMA/AAC+ player\n\nMP4/WMV/H.264 player\n\nDocument viewer\n\nPhoto viewer/editor\n\nOrganizer\n\nVoice memo/dial/commands\n\nPredictive text input (Swype)"
+      },
+      "Battery": {
+        "Type": "Removable Li-Po 1400 mAh battery",
+        "Stand-by": "Up to 315 h",
+        "Talk time": "Up to 10 h"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "SAR": "1.49 W/kg (head) &nbsp; &nbsp; 1.50 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 180 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-droid-2-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-droid-2-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_droid_2-pictures-3475.php"
+    }
+  }
+}

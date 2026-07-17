@@ -1,0 +1,94 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola Motosmart Flip XT611",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-motosmart-flip-xt611.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-motosmart-flip-xt611.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2012, March",
+    "dimensions": "110g, 13.9mm thickness",
+    "os": "Android 2.3",
+    "storage": "512MB 512MB RAM storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 1900",
+        "Speed": "HSPA",
+        "Features": "HSDPA 900 / 2100\nHSDPA 850 / 2100"
+      },
+      "Launch": {
+        "Announced": "2012, March. Released 2012, March",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "110 x 58.5 x 13.9 mm / 14.4 mm (w/ NFC)",
+        "Weight": "110 g (3.88 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "3.2 inches, 30.5 cm<sup>2</sup> (~47.4% screen-to-body ratio)",
+        "Resolution": "320 x 480 pixels, 3:2 ratio (~180 ppi density)",
+        "Features": "Handwriting recognition"
+      },
+      "Platform": {
+        "OS": "Android 2.3 (Gingerbread)",
+        "Chipset": "Qualcomm MSM7227T-1 Snapdragon S1",
+        "CPU": "800 MHz",
+        "GPU": "Adreno 200"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Internal": "512MB 512MB RAM"
+      },
+      "Main Camera": {
+        "Single": "5 MP, AF",
+        "Features": "LED flash",
+        "Video": "480p@26-30fps"
+      },
+      "Selfie camera": {
+        "Single": "VGA",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+        "Bluetooth": "3.0, A2DP",
+        "Positioning": "GPS, A-GPS",
+        "NFC": "Optional",
+        "Radio": "No",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity",
+        "Features": "MP3/WAV/AAC+ player\n\nMP4/DivX/Xvid/H.264/WMV player\n\nDocument viewer\n\nPhoto viewer\n\nOrganizer\n\nVoice memo/dial\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1540 mAh battery",
+        "Stand-by": "Up to 500 h (2G) / Up to 400 h (3G)",
+        "Talk time": "Up to 10 h (2G) / Up to 6 h (3G)"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "Price": "About 150 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-motosmart-flip-xt611.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_motosmart_flip_xt611-pictures-4713.php"
+    }
+  }
+}

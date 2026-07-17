@@ -1,0 +1,91 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola XT301",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-xt301.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-xt301.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2011, Q2",
+    "dimensions": "110g, 15mm thickness",
+    "os": "Android 2.1",
+    "storage": "512MB 256MB RAM storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">CDMA / EVDO</a>",
+        "2G bands": "CDMA 800 / 1900",
+        "3G bands": "CDMA2000 1xEV-DO",
+        "Speed": "EV-DO Rev.0, 153.2 Kbps"
+      },
+      "Launch": {
+        "Announced": "2010, November. Released 2011, Q2",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "104 x 59 x 15 mm (4.09 x 2.32 x 0.59 in)",
+        "Weight": "110 g (3.88 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "3.0 inches, 27.9 cm<sup>2</sup> (~45.4% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~133 ppi density)",
+        "Features": "MOTOBLUR UI with Live Widgets"
+      },
+      "Platform": {
+        "OS": "Android 2.1 (Eclair)",
+        "Chipset": "Qualcomm MSM7625",
+        "CPU": "528 MHz ARM 11",
+        "GPU": "Adreno 200"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Internal": "512MB 256MB RAM"
+      },
+      "Main Camera": {
+        "Single": "3.15 MP",
+        "Video": "CIF@30fps"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g",
+        "Bluetooth": "2.1, A2DP",
+        "Positioning": "GPS, A-GPS",
+        "Radio": "FM radio",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity, compass",
+        "Browser": "HTML, Adobe Flash Lite",
+        "Features": "MP3/WAV/WMA/AAC+ player\n\nMP4/WMV/H.264 player\n\nDocument viewer\n\nPhoto viewer/editor\n\nOrganizer\n\nVoice memo/dial\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1170 mAh battery",
+        "Stand-by": "Up to 240 h",
+        "Talk time": "Up to 7 h 40 min"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "Price": "About 170 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-xt301.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_xt301-pictures-3628.php"
+    }
+  }
+}

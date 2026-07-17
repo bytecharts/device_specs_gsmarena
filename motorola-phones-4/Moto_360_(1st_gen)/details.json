@@ -1,0 +1,90 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola Moto 360 (1st gen)",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-360-2014-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-360-2014.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/motorola_moto_360-review-1176.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2014, September",
+    "dimensions": "49g, 11.5mm thickness",
+    "os": "Android Wear OS",
+    "storage": "4GB 512MB RAM storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">No cellular connectivity</a>",
+        "2G bands": "N/A",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2014, September. Released 2014, September",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "46 x 46 x 11.5 mm (1.81 x 1.81 x 0.45 in)",
+        "Weight": "49 g (1.73 oz)",
+        "Build": "Glass front (Gorilla Glass 3), stainless steel frame",
+        "SIM": "No",
+        "Features": "IP67 dust/water resistant (up to 1m for 30 min)"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "1.56 inches",
+        "Resolution": "320 x 290 pixels (~205 ppi density)",
+        "Protection": "Corning Gorilla Glass 3"
+      },
+      "Platform": {
+        "OS": "Android Wear OS",
+        "Chipset": "TI OMAP 3",
+        "CPU": "1.0 GHz"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "4GB 512MB RAM"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "4.0, LE, aptX",
+        "Positioning": "No",
+        "NFC": "No",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, heart rate",
+        "Features": "MP3 player\n\nPhoto viewer\n\nVoice dial/commands"
+      },
+      "Battery": {
+        "Type": "Li-Ion 320 mAh, non-removable",
+        "Charging": "Wireless (Qi)"
+      },
+      "Misc": {
+        "Colors": "Cognac Leather, Black, Stone Grey, Champagne Metal, Natural Metal, Champagne, Dark Metal, Light Metal",
+        "Price": "About 190 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-360-2014-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-360-2014-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-360-2014-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_moto_360_(1st_gen)-pictures-7682.php"
+    }
+  }
+}

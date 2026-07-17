@@ -1,0 +1,87 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola WX181",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/WX181.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/WX181.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2010, July",
+    "dimensions": "83g, 14.8mm thickness",
+    "os": "Feature phone",
+    "storage": "No card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800",
+        "GPRS": "No",
+        "EDGE": "No",
+        "Features": "GSM 850 / 1900"
+      },
+      "Launch": {
+        "Announced": "2010, April. Released 2010, July",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "108 x 46 x 14.8 mm (4.25 x 1.81 x 0.58 in)",
+        "Weight": "83 g (2.93 oz)",
+        "SIM": "Mini-SIM",
+        "Features": "Flashlight"
+      },
+      "Display": {
+        "Type": "CSTN, 65K colors",
+        "Size": "1.5 inches, 7.3 cm<sup>2</sup> (~14.6% screen-to-body ratio)",
+        "Resolution": "128 x 128 pixels, 1:1 ratio (~121 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "100 entries",
+        "Call records": "Yes"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "No",
+        "Positioning": "No",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": "miniUSB"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS",
+        "Browser": "No",
+        "Games": "Yes",
+        "Java": "No",
+        "Features": "Calculator\n\nCurrency converter \n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 750 mAh battery",
+        "Stand-by": "Up to 380 h",
+        "Talk time": "Up to 8 h"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "SAR": "0.86 W/kg (head) &nbsp; &nbsp; 0.49 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 30 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/WX181.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_wx181-pictures-3289.php"
+    }
+  }
+}

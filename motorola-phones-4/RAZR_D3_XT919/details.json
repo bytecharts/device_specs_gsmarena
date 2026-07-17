@@ -1,0 +1,95 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola RAZR D3 XT919",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-razr-d3-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-razr-d3.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2013, April",
+    "dimensions": "120g, 9.8mm thickness",
+    "os": "Android 4.1, up to 4.4.2",
+    "storage": "4GB 1GB RAM storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - XT919",
+        "3G bands": "HSDPA",
+        "Speed": "HSPA 7.2/5.76 Mbps",
+        "GPRS": "Yes",
+        "EDGE": "Yes",
+        "Features": "GSM 850 / 900 / 1800 / 1900 - SIM 1 &amp; SIM 2 - XT920"
+      },
+      "Launch": {
+        "Announced": "2013, March. Released 2013, April",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "119.3 x 59.8 x 9.8 mm (4.70 x 2.35 x 0.39 in)",
+        "Weight": "120 g (4.23 oz)",
+        "SIM": "Single SIM or Dual SIM (dual stand-by)"
+      },
+      "Display": {
+        "Type": "TFT",
+        "Size": "4.0 inches, 45.5 cm<sup>2</sup> (~63.8% screen-to-body ratio)",
+        "Resolution": "480 x 800 pixels, 5:3 ratio (~233 ppi density)",
+        "Protection": "Corning Gorilla Glass"
+      },
+      "Platform": {
+        "OS": "Android 4.1 (Jelly Bean), upgradable to 4.4.2 (KitKat)",
+        "Chipset": "Mediatek MT6577T (40 nm)",
+        "CPU": "Dual-core 1.2 GHz Cortex-A9",
+        "GPU": "PowerVR SGX531u"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Internal": "4GB 1GB RAM"
+      },
+      "Main Camera": {
+        "Single": "8 MP, AF",
+        "Features": "LED flash, HDR",
+        "Video": "720p"
+      },
+      "Selfie camera": {
+        "Single": "1.2 MP",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, hotspot, Wi-Fi Direct",
+        "Bluetooth": "4.0, LE, EDR, aptX",
+        "Positioning": "GPS",
+        "NFC": "Yes",
+        "Radio": "FM radio",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Ion 2000 mAh, non-removable"
+      },
+      "Misc": {
+        "Colors": "Black, White",
+        "Models": "XT920",
+        "Price": "About 230 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-razr-d3-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-razr-d3-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_razr_d3_xt919-pictures-5356.php"
+    }
+  }
+}

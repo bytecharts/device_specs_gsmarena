@@ -1,0 +1,97 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola Moto G9 (India)",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-g9-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-g9.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/motorola_moto_g9_play-review-2172.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2020, August 31",
+    "dimensions": "200g, 9.2mm thickness",
+    "os": "Android 10",
+    "storage": "64GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4G bands": "1, 2, 3, 5, 7, 8, 18, 19, 20, 26, 28, 38, 40, 41",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2020, August 24. Released 2020, August 31",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "165.2 x 75.7 x 9.2 mm (6.50 x 2.98 x 0.36 in)",
+        "Weight": "200 g (7.05 oz)",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "· Nano-SIM\n· Nano-SIM + Nano-SIM",
+        "Features": "Water-repellent coating"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "6.5 inches, 102.8 cm<sup>2</sup> (~82.2% screen-to-body ratio)",
+        "Resolution": "720 x 1600 pixels, 20:9 ratio (~269 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 10",
+        "Chipset": "Qualcomm SM6115 Snapdragon 662 (11 nm)",
+        "CPU": "Octa-core (4x2.0 GHz Kryo 260 Gold &amp; 4x1.8 GHz Kryo 260 Silver)",
+        "GPU": "Adreno 610"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (uses shared SIM slot)",
+        "Internal": "64GB 4GB RAM",
+        "Features": "eMMC 5.1"
+      },
+      "Main Camera": {
+        "Triple": "48 MP, f/1.7, (wide), 1/2.0\", 0.8µm, PDAF\n\n2 MP (macro)\n\nAuxiliary lens",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "1080p@30/60fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, f/2.2, 1.12µm",
+        "Features": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO",
+        "NFC": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity"
+      },
+      "Battery": {
+        "Type": "Li-Po 5000 mAh",
+        "Charging": "20W wired"
+      },
+      "Misc": {
+        "Colors": "Forest Green, Sapphire Blue",
+        "Price": "About 130 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-g9-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-g9-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_moto_g9_(india)-pictures-10384.php"
+    }
+  }
+}

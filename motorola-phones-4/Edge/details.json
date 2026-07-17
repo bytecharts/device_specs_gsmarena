@@ -1,0 +1,115 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola Edge",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-edge-midnight-magenta-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-edge-midnight-magenta.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/motorola_edge-review-2111.php",
+    "siblingDeviceSlugs": [
+      "motorola_edge_70_max_5g-14789",
+      "motorola_edge_70_fusion_5g-14432",
+      "motorola_edge_70_5g-14216",
+      "motorola_edge_70_pro_5g-14620",
+      "motorola_edge_60_fusion-13752",
+      "motorola_edge_60_pro-13815"
+    ],
+    "release_date": "Released 2020, May 29",
+    "dimensions": "188g, 9.3mm thickness",
+    "os": "Android 10",
+    "storage": "128GB/256GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / EVDO / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 20, 25, 26, 28, 32, 38, 39, 40, 41, 66, 71",
+        "5G bands": "1, 2, 3, 5, 7, 25, 28, 38, 41, 66, 71, 78 Sub6",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE (5CA) Cat16 1000/150 Mbps, 5G",
+        "Features": "CDMA 800 / 1900\nCDMA2000 1xEV-DO"
+      },
+      "Launch": {
+        "Announced": "2020, April 22. Released 2020, May 29",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "161.6 x 71.1 x 9.3 mm (6.36 x 2.80 x 0.37 in)",
+        "Weight": "188 g (6.63 oz)",
+        "Build": "Glass front (Gorilla Glass 5), aluminum frame, plastic back",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "Water-repellent coating"
+      },
+      "Display": {
+        "Type": "OLED, 90Hz, HDR10",
+        "Size": "6.7 inches, 110.2 cm<sup>2</sup> (~95.9% screen-to-body ratio)",
+        "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~385 ppi density)",
+        "Protection": "Corning Gorilla Glass 5"
+      },
+      "Platform": {
+        "OS": "Android 10",
+        "Chipset": "Qualcomm SM7250 Snapdragon 765G 5G (7 nm)",
+        "CPU": "Octa-core (1x2.4 GHz Kryo 475 Prime &amp; 1x2.2 GHz Kryo 475 Gold &amp; 6x1.8 GHz Kryo 475 Silver)",
+        "GPU": "Adreno 620"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (uses shared SIM slot)",
+        "Internal": "128GB 4GB RAM, 128GB 6GB RAM, 256GB 6GB RAM",
+        "Features": "UFS 2.1"
+      },
+      "Main Camera": {
+        "Triple": "64 MP, f/1.8, (wide), 1/1.72\", 0.8µm, PDAF\n\n8 MP, f/2.4, 52mm (telephoto), 1.12µm, 2x optical zoom, PDAF\n\n16 MP, f/2.2, 13mm (ultrawide), 1.0µm\n\nTOF 3D, (depth)",
+        "Features": "LED flash, panorama, HDR",
+        "Video": "4K@30fps, 1080p@30/60fps"
+      },
+      "Selfie camera": {
+        "Single": "25 MP, f/2.0, (wide), 0.9µm",
+        "Features": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.1, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS",
+        "NFC": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity"
+      },
+      "Battery": {
+        "Type": "Li-Po 4500 mAh",
+        "Charging": "18W wired"
+      },
+      "Misc": {
+        "Colors": "Solar Black, Midnight Magenta",
+        "Models": "XT2063-2, XT2063-3",
+        "Price": "About 250 EUR"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 305989 (v8)\n\nGeekBench: 1862 (v5.1)\n\nGFXBench: 18fps (ES 3.1 onscreen)",
+        "Display": "<a class=\"noUnd\" href=\"motorola_edge-review-2111p3.php#dt\">Contrast ratio: Infinite (nominal)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=10133&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=10133&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"motorola_edge-review-2111p3.php#lt\">-30.4 LUFS (Below average)</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 10133); \">Endurance rating 102h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-edge-midnight-magenta-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-edge-solar-black-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_edge-pictures-10133.php"
+    }
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola Razr 50",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-razr-50-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-razr-50.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/motorola_razr_50_razr_2024-review-2735.php",
+    "siblingDeviceSlugs": [
+      "motorola_razr_50_ultra-13150"
+    ],
+    "release_date": "Released 2024, June 25",
+    "dimensions": "188.4g, 7.3mm thickness",
+    "os": "Android 14",
+    "storage": "256GB/512GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / EVDO / LTE / 5G</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 32, 38, 39, 40, 41, 42, 43, 66, 71",
+        "5G bands": "1, 2, 3, 5, 7, 8, 20, 26, 28, 38, 40, 41, 66, 71, 77, 78 SA/NSA/Sub6",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "CDMA 800 / 1900\nCDMA2000 1xEV-DO"
+      },
+      "Launch": {
+        "Announced": "2024, June 25",
+        "Status": "Available. Released 2024, June 25"
+      },
+      "Body": {
+        "Dimensions": "Unfolded: 171.3 x 74 x 7.3 mm Folded: 88.1 x 74 x 15.9 mm",
+        "Weight": "188.4 g (6.63 oz)",
+        "Build": "Plastic front (unfolded), glass front (folded, Gorilla Glass Victus), silicone polymer back (eco leather), aluminum frame (6000 series), hinge (stainless steel)",
+        "SIM": "· Nano-SIM + <a href=\"glossary.php3?term=esim\">eSIM</a>\n· Nano-SIM + Nano-SIM",
+        "Features": "IPX8 water resistant (up to 1.5m for 30 min)"
+      },
+      "Display": {
+        "Type": "Foldable LTPO AMOLED, 1B colors, 120Hz, HDR10+, 3000 nits (peak)",
+        "Size": "6.9 inches, 107.6 cm<sup>2</sup> (~84.9% screen-to-body ratio)",
+        "Resolution": "1080 x 2640 pixels (~413 ppi density)",
+        "Features": "Second external AMOLED, 1B colors, 90Hz, HDR10+, 1700 nits (peak)\n\n3.6 inches, 1056 x 1066 pixels, 413 ppi, Gorilla Glass Victus"
+      },
+      "Platform": {
+        "OS": "Android 14",
+        "Chipset": "Mediatek Dimensity 7300X (4 nm)",
+        "CPU": "Octa-core (4x2.5 GHz Cortex-A78 &amp; 4x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G615 MC2"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 8GB RAM, 512GB 12GB RAM",
+        "Features": "UFS 2.2"
+      },
+      "Main Camera": {
+        "Dual": "50 MP, f/1.7, 25mm (wide), 1/1.95\", 0.8µm, dual pixel PDAF, OIS\n\n13 MP, f/2.2, 120˚ (ultrawide), 1/3.0\", 1.12µm, AF",
+        "Features": "LED flash, panorama, HDR",
+        "Video": "4K@30fps, 1080p@30/60fps, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.4, 25mm (wide), 1/3.14\", 0.7µm",
+        "Features": "HDR",
+        "Video": "4K@30fps, 1080p@30/60fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band or tri-band (region dependent)",
+        "Bluetooth": "5.4, A2DP, LE",
+        "Positioning": "GPS, GLONASS, BDS, GALILEO, QZSS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), gyro, accelerometer, proximity, compass, barometer"
+      },
+      "Battery": {
+        "Type": "4200 mAh",
+        "Charging": "30W wired\n\n15W wireless"
+      },
+      "Misc": {
+        "Colors": "Koala Grey (Steel Wool), Beach Sand (Pumice Stone), Spritz Orange (Arabesque)",
+        "Models": "XT2453-1",
+        "Price": "<a href=\"motorola_razr_50-price-13151.php\">£ 776.00 / € 491.43</a>"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 657381 (v10)\n\nGeekBench: 3016 (v5)\n\n3DMark: 856 (Wild Life Extreme)",
+        "Display": "<a class=\"noUnd\" href=\"motorola_razr_50_razr_2024-review-2735p3.php#dt\">1289 nits max brightness (measured)</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"motorola_razr_50_razr_2024-review-2735p3.php#lt\">-23.5 LUFS (Very good)</a>",
+        "Battery": "<div style=\"position:relative;\">\n<a href=\"motorola_razr_50_razr_2024-review-2735p3.php#bt\" data-battery2=\"22:54_11:30_19:21_5:46\" onclick=\"showBatteryPopup(event, 13151); \" class=\"v2\">Active use score 11:46h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-razr-50-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-razr-50-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-razr-50-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-razr-50-4.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-razr-50-5.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_razr_50-pictures-13151.php"
+    }
+  }
+}

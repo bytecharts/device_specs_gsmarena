@@ -1,0 +1,95 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola SPICE XT300",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-spice-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-spice.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2010, December",
+    "dimensions": "145g, 16.8mm thickness",
+    "os": "Android 2.1",
+    "storage": "512MB 256MB RAM storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 1900",
+        "Speed": "HSPA 3.6/0.384 Mbps",
+        "Features": "HSDPA 850 / 2100  or 1700/2100"
+      },
+      "Launch": {
+        "Announced": "2010, October. Released 2010, December",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "97 x 61 x 16.8 mm, 87.5 cc (3.82 x 2.40 x 0.66 in)",
+        "Weight": "145 g (5.11 oz)",
+        "Keyboard": "QWERTY",
+        "SIM": "Mini-SIM",
+        "Features": "BACKTRACK rear trackpad"
+      },
+      "Display": {
+        "Type": "TFT",
+        "Size": "3.0 inches, 27.9 cm<sup>2</sup> (~47.1% screen-to-body ratio)",
+        "Resolution": "240 x 320 pixels, 4:3 ratio (~133 ppi density)",
+        "Features": "MOTOBLUR UI with Live Widgets"
+      },
+      "Platform": {
+        "OS": "Android 2.1 (Eclair)",
+        "Chipset": "Qualcomm MSM7225 Snapdragon S1",
+        "CPU": "528 MHz ARM 11",
+        "GPU": "Adreno 200"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Internal": "512MB 256MB RAM"
+      },
+      "Main Camera": {
+        "Single": "3.15 MP",
+        "Video": "480p@25fps"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g",
+        "Bluetooth": "2.1, A2DP",
+        "Positioning": "GPS, A-GPS",
+        "Radio": "FM radio",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity, compass",
+        "Browser": "HTML, Adobe Flash Lite",
+        "Features": "MP3/WAV/WMA/AAC+ player\n\nMP4/WMV/H.264 player\n\nDocument viewer\n\nPhoto viewer/editor\n\nOrganizer\n\nVoice memo/dial\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1170 mAh battery",
+        "Stand-by": "Up to 230 h",
+        "Talk time": "Up to 7 h"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "SAR": "0.58 W/kg (head) &nbsp; &nbsp; 0.81 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 170 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-spice-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_spice_xt300-pictures-3540.php"
+    }
+  }
+}

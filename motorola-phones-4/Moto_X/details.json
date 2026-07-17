@@ -1,0 +1,110 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola Moto X",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-x-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/moto-x.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/motorola_moto_x-review-971.php",
+    "siblingDeviceSlugs": [
+      "motorola_edge_70_max_5g-14789",
+      "motorola_edge_70_fusion_5g-14432",
+      "motorola_edge_70_5g-14216",
+      "motorola_edge_70_pro_5g-14620",
+      "motorola_edge_60_fusion-13752",
+      "motorola_edge_60_pro-13815"
+    ],
+    "release_date": "Released 2013, August",
+    "dimensions": "130g, 10.4mm thickness",
+    "os": "Android 4.2.2, up to 5.1",
+    "storage": "16GB/32GB/64GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - all versions",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100 - AT&amp;T",
+        "4G bands": "2, 4, 5, 17 - AT&amp;T",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat3 100/50 Mbps, EV-DO Rev.A 3.1 Mbps",
+        "Features": "HSDPA 850 / 900 / 1900 / 2100 - EU\nHSDPA 850 / 900 / 1700 / 1900 / 2100 - T-Mobile\n3, 7, 20 - EU\n2, 4, 17 - T-Mobile"
+      },
+      "Launch": {
+        "Announced": "2013, August. Released 2013, August",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "129.3 x 65.3 x 10.4 mm (5.09 x 2.57 x 0.41 in)",
+        "Weight": "130 g (4.59 oz)",
+        "SIM": "Nano-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED",
+        "Size": "4.7 inches, 60.9 cm<sup>2</sup> (~72.1% screen-to-body ratio)",
+        "Resolution": "720 x 1280 pixels, 16:9 ratio (~312 ppi density)",
+        "Protection": "Corning Gorilla Glass 3"
+      },
+      "Platform": {
+        "OS": "Android 4.2.2 (Jelly Bean), upgradable to 5.1 (Lollipop)",
+        "Chipset": "Qualcomm MSM8960DT Snapdragon S4 Pro",
+        "CPU": "Dual-core 1.7 GHz Krait 300",
+        "GPU": "Adreno 320"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "16GB 2GB RAM, 32GB 2GB RAM, 64GB 2GB RAM"
+      },
+      "Main Camera": {
+        "Single": "10 MP, f/2.4, 30mm (standard), 1/2.6\", 1.4µm, AF",
+        "Features": "LED flash, panorama, HDR",
+        "Video": "1080p@30fps, stereo sound rec., HDR"
+      },
+      "Selfie camera": {
+        "Single": "2 MP",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, DLNA, hotspot",
+        "Bluetooth": "4.0, A2DP, EDR, LE, aptX",
+        "Positioning": "GPS, GLONASS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "microUSB 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, proximity, compass, barometer, temperature"
+      },
+      "Battery": {
+        "Type": "Li-Ion 2200 mAh, non-removable",
+        "Stand-by": "Up to 576 h",
+        "Talk time": "Up to 13 h"
+      },
+      "Misc": {
+        "Colors": "Black, White (front panel), 18 color options (back panel)",
+        "Models": "XT1058, XT1053, XT1052, XT1056, XT1060, XT1055, XT1049",
+        "SAR": "1.39 W/kg (head) &nbsp; &nbsp; 0.50 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 250 EUR"
+      },
+      "Our Tests": {
+        "Audio quality": "<a class=\"noUnd\" href=\"motorola_moto_x-review-971p6.php\">Noise -91.6dB / Crosstalk -92.8dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 5601); \">Endurance rating 39h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-x-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-x-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-x-colours.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_moto_x-pictures-5601.php"
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola Edge+ 5G UW (2022)",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-edge-30-pro-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-edge-30-pro.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2022, March 24",
+    "dimensions": "196g, 8.8mm thickness",
+    "os": "Android 12, up to Android 14",
+    "storage": "128GB/256GB/512GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 17, 20, 25, 26, 28, 29, 30, 38, 39, 40, 41, 46, 48, 66, 71",
+        "5G bands": "2, 5, 7, 12, 25, 26, 29, 30, 41, 48, 66, 71, 77, 78, 260, 261 SA/NSA/Sub6/mmWave - Verizon, USA",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat20 2000/150 Mbps, 5G"
+      },
+      "Launch": {
+        "Announced": "2022, January 24",
+        "Status": "Available. Released 2022, March 24"
+      },
+      "Body": {
+        "Dimensions": "163.1 x 76 x 8.8 mm (6.42 x 2.99 x 0.35 in)",
+        "Weight": "196 g (6.91 oz)",
+        "Build": "Glass front (Gorilla Glass 3), glass back (Gorilla Glass 5), plastic frame",
+        "SIM": "· Nano-SIM\n· Nano-SIM + Nano-SIM",
+        "Features": "Water-repellent design"
+      },
+      "Display": {
+        "Type": "OLED, 1B colors, 144Hz, HDR10+",
+        "Size": "6.7 inches, 108.4 cm<sup>2</sup> (~87.4% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~393 ppi density)",
+        "Protection": "Corning Gorilla Glass 3"
+      },
+      "Platform": {
+        "OS": "Android 12, upgradable to Android 14",
+        "Chipset": "Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm)",
+        "CPU": "Octa-core (1x3.00 GHz Cortex-X2 &amp; 3x2.50 GHz Cortex-A710 &amp; 4x1.80 GHz Cortex-A510)",
+        "GPU": "Adreno 730"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM, 512GB 8GB RAM, 512GB 12GB RAM",
+        "Features": "UFS 3.1"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, f/1.8, (wide), 1/1.55\", 1.0µm, multi-directional PDAF, OIS\n\n50 MP, f/2.2, 114˚ (ultrawide), 1/2.76\", 0.64µm, AF\n\nAuxiliary lens",
+        "Features": "Dual-LED dual-tone flash, HDR, panorama",
+        "Video": "8K@24/30fps, 4K@30/60fps, 1080p@30/60/120/240/960fps, 10-bit HDR10+, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "60 MP, f/2.2, (wide), 1/2.8\", 0.61µm",
+        "Features": "HDR",
+        "Video": "4K@30fps, 1080p@30/120fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No",
+        "Features": "24-bit/192kHz Hi-Res audio"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.2, A2DP, LE",
+        "Positioning": "GPS (L1+L5), GLONASS, BDS, GALILEO",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 3.1, DisplayPort 1.4"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer",
+        "Features": "Smart Connect (Ready For) support"
+      },
+      "Battery": {
+        "Type": "Li-Po 4800 mAh",
+        "Charging": "68W wired, 50% in 15 min, 100% in 35 min\n\n15W wireless\n\n5W reverse wireless"
+      },
+      "Misc": {
+        "Colors": "Cosmos Blue, Stardust White",
+        "Price": "About 850 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-edge-30-pro-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-edge-30-pro-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_edge+_5g_uw_(2022)-pictures-11755.php"
+    }
+  }
+}

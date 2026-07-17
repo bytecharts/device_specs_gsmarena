@@ -1,0 +1,107 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola Moto Z4",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-z4-r.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-z4-r.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/motorola_moto_z4-review-1946.php",
+    "siblingDeviceSlugs": [
+      "motorola_moto_z4_force-9693"
+    ],
+    "release_date": "Released 2019, June",
+    "dimensions": "165g, 7.4mm thickness",
+    "os": "Android 9.0, up to Android 10",
+    "storage": "128GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - USA",
+        "4G bands": "1, 2, 3, 4, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 30, 38, 40, 41, 66, 71 - USA",
+        "Speed": "HSPA, LTE",
+        "Features": "CDMA 800 / 1900"
+      },
+      "Launch": {
+        "Announced": "2019, May. Released 2019, June",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "158 x 75 x 7.4 mm (6.22 x 2.95 x 0.29 in)",
+        "Weight": "165 g (5.82 oz)",
+        "Build": "Glass front (Gorilla Glass 3), glass back, aluminum frame",
+        "SIM": "· Nano-SIM\n· Nano-SIM + Nano-SIM",
+        "Features": "Splash and dust resistant"
+      },
+      "Display": {
+        "Type": "OLED",
+        "Size": "6.4 inches, 100.5 cm<sup>2</sup> (~84.8% screen-to-body ratio)",
+        "Resolution": "1080 x 2340 pixels, 19.5:9 ratio (~403 ppi density)",
+        "Protection": "Corning Gorilla Glass 3"
+      },
+      "Platform": {
+        "OS": "Android 9.0 (Pie), upgradable to Android 10",
+        "Chipset": "Qualcomm SDM675 Snapdragon 675 (11 nm)",
+        "CPU": "Octa-core (2x2.0 GHz Kryo 460 Gold &amp; 6x1.7 GHz Kryo 460 Silver)",
+        "GPU": "Adreno 612"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (uses shared SIM slot)",
+        "Internal": "128GB 4GB RAM",
+        "Features": "UFS 2.1"
+      },
+      "Main Camera": {
+        "Single": "48 MP, f/1.7, (wide), 1/2.0\", 0.8µm, PDAF, OIS",
+        "Features": "Dual-LED dual-tone flash, panorama, HDR",
+        "Video": "4K@30fps, 1080p@30/60fps"
+      },
+      "Selfie camera": {
+        "Single": "25 MP, f/2.0, 0.9µm",
+        "Features": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.0, A2DP, LE, EDR",
+        "Positioning": "GPS, GLONASS, GALILEO",
+        "NFC": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 3.1, OTG, magnetic connector"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",
+        "Features": "Moto Mods snap-on accessories"
+      },
+      "Battery": {
+        "Type": "Li-Ion 3600 mAh, non-removable",
+        "Charging": "15W wired"
+      },
+      "Misc": {
+        "Colors": "Flash Grey, Frost White",
+        "SAR": "1.16 W/kg (head) &nbsp; &nbsp; 1.44 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 500 EUR"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 173234 (v7)\n\nGeekBench: 6515 (v4.4)\n\nGFXBench: 8fps (ES 3.1 onscreen)",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"motorola_moto_z4-review-1946p3.php#lt\">Voice 70dB / Noise 73dB / Ring 80dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 9691); \">Endurance rating 70h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-z4-r.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_moto_z4-pictures-9691.php"
+    }
+  }
+}

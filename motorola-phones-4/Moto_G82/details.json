@@ -1,0 +1,105 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola Moto G82",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-g82-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-g82.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/motorola_moto_g82-review-2508.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2022, June 07",
+    "dimensions": "173g, 8mm thickness",
+    "os": "Android 12, up to Android 13",
+    "storage": "128GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 26, 28, 32, 38, 39, 40, 41, 42, 43, 66",
+        "5G bands": "1, 2, 3, 5, 7, 8, 20, 28, 38, 40, 41, 66, 77, 78, 78 SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2022, May 12",
+        "Status": "Available. Released 2022, June 07"
+      },
+      "Body": {
+        "Dimensions": "160.9 x 74.5 x 8 mm (6.33 x 2.93 x 0.31 in)",
+        "Weight": "173 g (6.10 oz)",
+        "Build": "Glass front, plastic frame, plastic back",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "Water-repellent design"
+      },
+      "Display": {
+        "Type": "AMOLED, 120Hz",
+        "Size": "6.6 inches, 103.6 cm<sup>2</sup> (~86.4% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~402 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 12, upgradable to Android 13",
+        "Chipset": "Qualcomm SM6375 Snapdragon 695 5G (6 nm)",
+        "CPU": "Octa-core (2x2.2 GHz Kryo 660 Gold &amp; 6x1.7 GHz Kryo 660 Silver)",
+        "GPU": "Adreno 619"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (uses shared SIM slot)",
+        "Internal": "128GB 6GB RAM, 128GB 8GB RAM",
+        "Features": "UFS"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, f/1.8 (wide), 1/2.76\", 0.64µm, PDAF, OIS\n\n8 MP, f/2.2, 118˚ (ultrawide), 1/4.0\", 1.12µm\n\n2 MP (macro)",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "1080p@30/60fps"
+      },
+      "Selfie camera": {
+        "Single": "16 MP, f/2.2, (wide), 1.0µm",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.1, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO",
+        "NFC": "Yes (market/region dependent)",
+        "Radio": "FM radio (market/region dependent)",
+        "USB": "USB Type-C 2.0"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Po 5000 mAh",
+        "Charging": "30W wired"
+      },
+      "Misc": {
+        "Colors": "Meteorite Gray, White Lily",
+        "Models": "XT2225-1",
+        "Price": "About 290 EUR"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 380812 (v9)\n\nGeekBench: 1977 (v5.1)\n\nGFXBench: 16fps (ES 3.1 onscreen)",
+        "Display": "<a class=\"noUnd\" href=\"motorola_moto_g82-review-2508p3.php\">690 nits max brightness (measured)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=11508&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=11508&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"motorola_moto_g82-review-2508p3.php#lt\">-26.4 LUFS (Good)</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 11508); \">Endurance rating 130h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-g82-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-g82-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_moto_g82-pictures-11508.php"
+    }
+  }
+}

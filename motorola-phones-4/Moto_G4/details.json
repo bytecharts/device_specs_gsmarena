@@ -1,0 +1,112 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola Moto G4",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-g4-2.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-g4-.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/lenovo_moto_g4-review-1458.php",
+    "siblingDeviceSlugs": [
+      "motorola_moto_g4_plus-8050",
+      "motorola_moto_g4_play-8104"
+    ],
+    "release_date": "Released 2016, May",
+    "dimensions": "155g, 9.8mm thickness",
+    "os": "Android 6.0.1, up to 7.0",
+    "storage": "16GB/32GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 &amp; SIM 2 (dual-SIM model only)",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100 - XT1622",
+        "4G bands": "1, 3, 5, 7, 8, 19, 20, 28, 40 - XT1622",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+        "Features": "CDMA 800 / 1900 - XT1625\nHSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - XT1625\nHSDPA 850 / 900 / 2100 - XT1624\n1, 2, 3, 4, 5, 7, 8, 12, 13, 25, 26, 41 - XT1625\n1, 3, 5, 8, 40 - XT1624"
+      },
+      "Launch": {
+        "Announced": "2016, May. Released 2016, May",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "153 x 76.6 x 9.8 mm (6.02 x 3.02 x 0.39 in)",
+        "Weight": "155 g (5.47 oz)",
+        "Build": "Glass front (Gorilla Glass 3), plastic back, plastic frame",
+        "SIM": "Single SIM (Micro-SIM) or Dual SIM (Micro-SIM, dual stand-by)"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "5.5 inches, 83.4 cm<sup>2</sup> (~71.2% screen-to-body ratio)",
+        "Resolution": "1080 x 1920 pixels, 16:9 ratio (~401 ppi density)",
+        "Protection": "Corning Gorilla Glass 3"
+      },
+      "Platform": {
+        "OS": "Android 6.0.1 (Marshmallow), upgradable to 7.0 (Nougat)",
+        "Chipset": "Qualcomm MSM8952 Snapdragon 617 (28 nm)",
+        "CPU": "Octa-core (4x1.5 GHz Cortex-A53 &amp; 4x1.2 GHz Cortex-A53)",
+        "GPU": "Adreno 405"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "16GB 2GB RAM, 32GB 2GB RAM",
+        "Features": "eMMC 5.1"
+      },
+      "Main Camera": {
+        "Single": "13 MP, f/2.0, AF",
+        "Features": "Dual-LED dual-tone flash, panorama",
+        "Video": "1080p@30fps, HDR"
+      },
+      "Selfie camera": {
+        "Single": "5 MP, f/2.2",
+        "Features": "HDR",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct",
+        "Bluetooth": "4.1, A2DP, LE, aptX",
+        "Positioning": "GPS, GLONASS, BDS",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "microUSB 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro"
+      },
+      "Battery": {
+        "Type": "Li-Ion 3000 mAh, non-removable",
+        "Charging": "15W wired"
+      },
+      "Misc": {
+        "Colors": "Black, White",
+        "Models": "XT1625, XT1622, XT1624",
+        "SAR": "1.23 W/kg (head) &nbsp; &nbsp; 1.10 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.59 W/kg (head) &nbsp; &nbsp; 1.83 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 130 EUR"
+      },
+      "Our Tests": {
+        "Performance": "Basemark X: 6932",
+        "Display": "<a class=\"noUnd\" href=\"lenovo_moto_g4-review-1458p3.php\">Contrast ratio: 1560 (nominal),  2.544 (sunlight)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=8103&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=8103&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"lenovo_moto_g4-review-1458p6.php\">Voice 64dB / Noise 70dB / Ring 72dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"lenovo_moto_g4-review-1458p7.php\">Noise -92.4dB / Crosstalk -92.1dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 8103); \">Endurance rating 73h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-g4-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-g4-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_moto_g4-pictures-8103.php"
+    }
+  }
+}

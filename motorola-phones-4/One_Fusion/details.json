@@ -1,0 +1,94 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola One Fusion",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/one-fusion-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-one-fusion-1.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2020, July 02",
+    "dimensions": "202g, 9.4mm thickness",
+    "os": "Android 10",
+    "storage": "64GB/128GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 19, 28, 66",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps"
+      },
+      "Launch": {
+        "Announced": "2020, July 02. Released 2020, July 02",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "165 x 75.9 x 9.4 mm (6.50 x 2.99 x 0.37 in)",
+        "Weight": "202 g (7.13 oz)",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "· Nano-SIM\n· Nano-SIM + Nano-SIM",
+        "Features": "Water-repellent coating"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "6.5 inches, 102.0 cm<sup>2</sup> (~81.5% screen-to-body ratio)",
+        "Resolution": "720 x 1600 pixels, 20:9 ratio (~270 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 10",
+        "Chipset": "Qualcomm SDM710 Snapdragon 710 (10 nm)",
+        "CPU": "Octa-core (2x2.2 GHz 360 Gold &amp; 6x1.7 GHz Kryo 360 Silver)",
+        "GPU": "Adreno 616"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (uses shared SIM slot)",
+        "Internal": "64GB 4GB RAM, 128GB 4GB RAM"
+      },
+      "Main Camera": {
+        "Quad": "48 MP, f/1.7, (wide), 1/2.0\", 0.8µm, PDAF\n\n8 MP, f/2.2, 118˚ (ultrawide), 1/4.0\", 1.12µm\n\n5 MP (macro)\n\nAuxiliary lens",
+        "Features": "LED flash, panorama, HDR",
+        "Video": "4K@30fps, 1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, f/2.0",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS",
+        "NFC": "No",
+        "Radio": "FM radio (market/region dependent)",
+        "USB": "USB Type-C 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity"
+      },
+      "Battery": {
+        "Type": "Li-Po 5000 mAh",
+        "Charging": "10W wired"
+      },
+      "Misc": {
+        "Colors": "Emerald Green, Deep Sapphire Blue",
+        "Models": "XT2073-2",
+        "Price": "About 100 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/one-fusion-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_one_fusion-pictures-10317.php"
+    }
+  }
+}

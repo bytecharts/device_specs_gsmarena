@@ -1,0 +1,110 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola Edge 30 Fusion",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-edge30-fusion-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-edge30-fusion.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/motorola_edge_30_fusion-review-2472.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2022, September 08",
+    "dimensions": "168g / 175g, 7.5mm thickness",
+    "os": "Android 12, up to Android 14",
+    "storage": "128GB/256GB/512GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / CDMA2000 / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - International",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 32, 38, 39, 40, 41, 42, 43, 66 - International",
+        "5G bands": "1, 3, 5, 7, 8, 20, 28, 38, 40, 41, 66, 77, 78 SA/NSA - International",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "CDMA 800 - PRC\nHSDPA 850 / 900 / 1900 / 2100 - PRC\nCDMA2000 1x - PRC\n1, 3, 4, 5, 7, 8, 18, 19, 20, 26, 28, 34, 38, 39, 40, 41, 42, 43 - PRC\n1, 2, 3, 5, 7, 8, 20, 28, 38, 41, 77, 78 SA/NSA - PRC"
+      },
+      "Launch": {
+        "Announced": "2022, September 08",
+        "Status": "Available. Released 2022, September 08"
+      },
+      "Body": {
+        "Dimensions": "158.5 x 72 x 7.5 mm or 7.7 mm",
+        "Weight": "168 g / 175 g (5.93 oz)",
+        "Build": "Glass front (Gorilla Glass 5), glass back (Gorilla Glass 5), aluminum frame",
+        "SIM": "· Nano-SIM\n· Nano-SIM + Nano-SIM",
+        "Features": "Splash and dust resistant"
+      },
+      "Display": {
+        "Type": "P-OLED, 1B colors, 144Hz, HDR10+, 1100 nits (peak)",
+        "Size": "6.55 inches, 103.6 cm<sup>2</sup> (~90.8% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~402 ppi density)",
+        "Protection": "Corning Gorilla Glass 5"
+      },
+      "Platform": {
+        "OS": "Android 12, upgradable to Android 14",
+        "Chipset": "Qualcomm SM8350 Snapdragon 888+ 5G (5 nm)",
+        "CPU": "Octa-core (1x2.99 GHz Cortex-X1 &amp; 3x2.42 GHz Cortex-A78 &amp; 4x1.80 GHz Cortex-A55)",
+        "GPU": "Adreno 660"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "128GB 8GB RAM, 256GB 6GB RAM, 256GB 8GB RAM, 256GB 12GB RAM, 512GB 12GB RAM",
+        "Features": "UFS 3.1"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, f/1.8, (wide), 1/1.55\", 1.0µm, multi-directional PDAF, OIS\n\n13 MP, f/2.2, 120˚ (ultrawide), 1.12µm, AF\n\nAuxiliary lens",
+        "Features": "LED flash, panorama, HDR",
+        "Video": "8K@30fps, 4K@30fps, 1080p@30/60/120fps, 720p@960fps, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.5, (wide), 1/2.8\", 0.8µm, AF",
+        "Features": "HDR",
+        "Video": "4K@30fps, 1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No",
+        "Features": "Snapdragon Sound"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e, tri-band, Wi-Fi Direct",
+        "Bluetooth": "5.2, A2DP, LE, aptX HD, aptX Adaptive",
+        "Positioning": "GPS (L1+L5), GLONASS, BDS (B1I+B1c), GALILEO",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 3.1, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",
+        "Features": "Smart Connect (Ready For) support"
+      },
+      "Battery": {
+        "Type": "Li-Po 4400 mAh",
+        "Charging": "68W wired, 50% in 10 min"
+      },
+      "Misc": {
+        "Colors": "Neptune Blue, Cosmic Grey, Solar Gold, Aurora White, Viva Magenta",
+        "Models": "XT2243-1",
+        "Price": "About 150 EUR"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 827929 (v9)\n\nGeekBench: 3458 (v5.1)\n\nGFXBench: 62fps (ES 3.1 onscreen)",
+        "Display": "<a class=\"noUnd\" href=\"motorola_edge_30_fusion-review-2472p3.php#dt\">946 nits max brightness (measured)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=11851&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=11851&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"motorola_edge_30_fusion-review-2472p3.php#lt\">-24.6 LUFS (Very good)</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 11851); \">Endurance rating 101h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-edge30-fusion-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-edge-30-fusion-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_edge_30_fusion-pictures-11851.php"
+    }
+  }
+}

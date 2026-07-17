@@ -1,0 +1,102 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola Moto G8",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-g8-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-g8.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "motorola_moto_g8_plus-9916",
+      "motorola_moto_g8_power-10052",
+      "motorola_moto_g8_power_lite-10154"
+    ],
+    "release_date": "Released 2020, March 05",
+    "dimensions": "188.3g, 9mm thickness",
+    "os": "Android 10, up to Android 11",
+    "storage": "64GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 20, 38, 40, 41 - Europe",
+        "Speed": "HSPA, LTE",
+        "Features": "1, 2, 3, 4, 5, 7, 8, 28, 66 - USA"
+      },
+      "Launch": {
+        "Announced": "2020, March 05. Released 2020, March 05",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "161.3 x 75.8 x 9 mm (6.35 x 2.98 x 0.35 in)",
+        "Weight": "188.3 g (6.63 oz)",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "Water-repellent coating"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "6.4 inches, 100.5 cm<sup>2</sup> (~82.2% screen-to-body ratio)",
+        "Resolution": "720 x 1560 pixels, 19.5:9 ratio (~268 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 10, upgradable to Android 11",
+        "Chipset": "Qualcomm SM6125 Snapdragon 665 (11 nm)",
+        "CPU": "Octa-core (4x2.0 GHz Kryo 260 Gold &amp; 4x1.8 GHz Kryo 260 Silver)",
+        "GPU": "Adreno 610"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (uses shared SIM slot)",
+        "Internal": "64GB 4GB RAM",
+        "Features": "eMMC 5.1"
+      },
+      "Main Camera": {
+        "Triple": "16 MP, f/1.7, (wide), 1/2.8\", 1.12µm, PDAF\n\n8 MP, f/2.2, 118˚ (ultrawide), 1/4.0\", 1.12µm\n\n2 MP (macro)",
+        "Features": "Laser AF, LED flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@30/60fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, f/2.0, 1.12µm",
+        "Features": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS, GLONASS, BDS, GALILEO",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity"
+      },
+      "Battery": {
+        "Type": "Li-Po 4000 mAh",
+        "Charging": "10W wired"
+      },
+      "Misc": {
+        "Colors": "White Prism, Capri Blue, Pearl White, Neon Blue",
+        "Models": "XT2045-1",
+        "Price": "About 230 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-g8-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-g8-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_moto_g8-pictures-10051.php"
+    }
+  }
+}

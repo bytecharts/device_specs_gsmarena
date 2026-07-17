@@ -1,0 +1,101 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola MILESTONE XT720",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-XT720-milestone-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-milestone-xt720-final.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/motorola_milestone_xt720-review-505.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2010, July",
+    "dimensions": "139g, 10.9mm thickness",
+    "os": "Android 2.1",
+    "storage": "512MB 256MB RAM storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 1700 / 2100",
+        "Speed": "HSPA 10.2/5.76 Mbps"
+      },
+      "Launch": {
+        "Announced": "2010, June. Released 2010, July",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "116 x 60.9 x 10.9 mm (4.57 x 2.40 x 0.43 in)",
+        "Weight": "139 g (4.90 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT",
+        "Size": "3.7 inches, 37.7 cm<sup>2</sup> (~53.4% screen-to-body ratio)",
+        "Resolution": "480 x 854 pixels, 16:9 ratio (~265 ppi density)",
+        "Protection": "Corning Gorilla Glass",
+        "Features": "Touch sensitive controls"
+      },
+      "Platform": {
+        "OS": "Android 2.1 (Eclair)",
+        "CPU": "600 MHz Cortex-A8",
+        "GPU": "PowerVR SGX530"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot), 8 GB included",
+        "Internal": "512MB 256MB RAM"
+      },
+      "Main Camera": {
+        "Single": "8 MP, AF",
+        "Features": "Xenon flash",
+        "Video": "720p@24fps"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g, DLNA",
+        "Bluetooth": "2.1, A2DP",
+        "Positioning": "GPS, A-GPS",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity, compass",
+        "Browser": "HTML",
+        "Features": "MP3/WAV/WMA/AAC+ player\n\nMP4/WMV/H.264 player\n\nTV-out (720p video) via HDMI port\n\nDocument viewer\n\nPhoto viewer/editor\n\nFace tagging\n\nOrganizer\n\nVoice memo\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Po 1390 mAh battery",
+        "Stand-by": "Up to 320 h (2G) / Up to 320 h (3G)",
+        "Talk time": "Up to 4 h 30 min (2G) / Up to 9 h (3G)"
+      },
+      "Misc": {
+        "Colors": "Black Slate",
+        "SAR": "1.01 W/kg (head) &nbsp; &nbsp; 1.21 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.60 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 190 EUR"
+      },
+      "Our Tests": {
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=3375&amp;nSuggest=1\">Photo</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"motorola_milestone_xt720-review-505p4.php\">Voice 66dB / Noise 65dB / Ring 77dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"motorola_milestone_xt720-review-505p6.php#aq\">Noise -86.0dB / Crosstalk -86.3dB</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-XT720-milestone-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-XT720-milestone-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_milestone_xt720-pictures-3375.php"
+    }
+  }
+}

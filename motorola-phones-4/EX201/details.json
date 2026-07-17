@@ -1,0 +1,85 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola EX201",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-ex201.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-ex201.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2010, October",
+    "dimensions": "112.5g, 15.2mm thickness",
+    "os": "Feature phone",
+    "storage": "512MB storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / EVDO</a>",
+        "2G bands": "GSM 900 / 1800",
+        "3G bands": "CDMA2000 1xEV-DO",
+        "Speed": "EV-DO Rev.A 3.1 Mbps",
+        "Features": "CDMA 800 / 1900"
+      },
+      "Launch": {
+        "Announced": "2010, October. Released 2010, October",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "116.5 x 54.3 x 15.2 mm (4.59 x 2.14 x 0.60 in)",
+        "Weight": "112.5 g (3.95 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT resistive touchscreen, 256K colors",
+        "Size": "3.0 inches, 25.6 cm<sup>2</sup> (~40.5% screen-to-body ratio)",
+        "Resolution": "240 x 400 pixels, 5:3 ratio (~155 ppi density)",
+        "Features": "Handwriting recognition"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Phonebook": "2000 entries, Photocall",
+        "Call records": "Yes",
+        "Internal": "512MB"
+      },
+      "Main Camera": {
+        "Single": "2 MP",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Single": "Yes",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g",
+        "Bluetooth": "2.0, A2DP",
+        "Positioning": "GPS, A-GPS",
+        "Radio": "FM radio",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer",
+        "Messaging": "SMS, MMS, Email",
+        "Browser": "WAP 2.0/xHTML, HTML",
+        "Games": "Yes",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "MP3/WAV/AAC+ player\n\nMP4/H.264 player\n\nOrganizer\n\nVoice memo/dial\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 910 mAh battery",
+        "Stand-by": "Up to 130 h",
+        "Talk time": "Up to 5 h 50 min"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "Price": "About 140 EUR"
+      }
+    }
+  }
+}

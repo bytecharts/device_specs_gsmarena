@@ -1,0 +1,90 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola MOTOKEY 3-CHIP EX117",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/Motorola-MOTOKEY-3-CHIP.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/Motorola-MOTOKEY-3-CHIP.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2012, June",
+    "dimensions": "87g, 12.8mm thickness",
+    "os": "Feature phone",
+    "storage": "50MB 64MB RAM storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 &amp; SIM 2  &amp; SIM 3",
+        "GPRS": "Class 10",
+        "EDGE": "Class 10"
+      },
+      "Launch": {
+        "Announced": "2012, May. Released 2012, June",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "102 x 59 x 12.8 mm (4.02 x 2.32 x 0.50 in)",
+        "Weight": "87 g (3.07 oz)",
+        "Keyboard": "QWERTY",
+        "SIM": "Triple SIM (Mini-SIM)"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "2.0 inches, 12.6 cm<sup>2</sup> (~20.9% screen-to-body ratio)",
+        "Resolution": "220 x 176 pixels (~141 ppi density)"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot), 2 GB included",
+        "Phonebook": "1000 entries, Photocall",
+        "Call records": "Yes",
+        "Internal": "50MB 64MB RAM"
+      },
+      "Main Camera": {
+        "Single": "2 MP",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.1, A2DP, EDR",
+        "Positioning": "No",
+        "Radio": "Stereo FM radio",
+        "USB": "Proprietary"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS, Email, IM",
+        "Games": "Yes",
+        "Java": "No",
+        "Features": "SNS applications\n\nFacebook dedicated key\n\nMP3/WAV/AAC+ player\n\nMP4/H.264 player\n\nOrganizer\n\nDocument viewer\n\nVoice memo\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 750 mAh battery",
+        "Stand-by": "Up to 400 h",
+        "Talk time": "Up to 3 h"
+      },
+      "Misc": {
+        "Colors": "Brown, White",
+        "SAR": "0.72 W/kg (head) &nbsp; &nbsp; 0.72 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 70 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/Motorola-MOTOKEY-3-CHIP.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_motokey_3_chip_ex117-pictures-4796.php"
+    }
+  }
+}

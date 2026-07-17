@@ -1,0 +1,114 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola Moto Z2 Play",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-z2-play-0.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-z2-play.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/motorola_moto_z2_play-review-1663.php",
+    "siblingDeviceSlugs": [
+      "motorola_moto_z2_force-8693"
+    ],
+    "release_date": "Released 2017, June",
+    "dimensions": "145g, 6mm thickness",
+    "os": "Android 7.1.1, up to Android 9.0",
+    "storage": "32GB/64GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 &amp; SIM 2 (dual-SIM model only)",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4G bands": "1, 3, 5, 7, 8, 19, 20, 28, 38, 40, 41",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2017, June. Released 2017, June",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "156.2 x 76.2 x 6 mm (6.15 x 3.00 x 0.24 in)",
+        "Weight": "145 g (5.11 oz)",
+        "Build": "Glass front (Gorilla Glass 3), aluminum back, aluminum frame",
+        "SIM": "· Nano-SIM\n· Nano-SIM + Nano-SIM",
+        "Features": "Splash and dust resistant"
+      },
+      "Display": {
+        "Type": "Super AMOLED",
+        "Size": "5.5 inches, 83.4 cm<sup>2</sup> (~70.1% screen-to-body ratio)",
+        "Resolution": "1080 x 1920 pixels, 16:9 ratio (~401 ppi density)",
+        "Protection": "Corning Gorilla Glass 3"
+      },
+      "Platform": {
+        "OS": "Android 7.1.1 (Nougat), upgradable to Android 9.0 (Pie)",
+        "Chipset": "Qualcomm MSM8953-Pro Snapdragon 626 (14 nm)",
+        "CPU": "Octa-core 2.2 GHz Cortex-A53",
+        "GPU": "Adreno 506"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "32GB 3GB RAM, 64GB 4GB RAM",
+        "Features": "eMMC 5.1"
+      },
+      "Main Camera": {
+        "Single": "12 MP, f/1.7, 1/2.55\", 1.4µm, dual pixel PDAF",
+        "Features": "Laser AF, Dual-LED dual-tone flash, panorama",
+        "Video": "4K@30fps, 1080p@60fps, 720p@120fps"
+      },
+      "Selfie camera": {
+        "Single": "5 MP, f/2.2, 1/4.0\", 1.4µm",
+        "Features": "Dual-LED dual-tone flash",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n, Wi-Fi Direct",
+        "Bluetooth": "4.2, A2DP, EDR, LE, aptX",
+        "Positioning": "GPS, GLONASS",
+        "NFC": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 3.1, OTG, magnetic connector"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (front-mounted), accelerometer, gyro, proximity, compass",
+        "Features": "Moto Mods snap-on accessories"
+      },
+      "Battery": {
+        "Type": "Li-Ion 3000 mAh, non-removable",
+        "Charging": "15W wired, 50% in 30 min",
+        "Talk time": "Up to 30 h (3G)"
+      },
+      "Misc": {
+        "Colors": "Lunar Gray, Fine Gold, Nimbus Blue",
+        "Models": "XT1710-09, XT1710-10, XT1710-07, XT1710-07, XT1710-01, XT1710-02, XT1710-08",
+        "SAR": "1.30 W/kg (head) &nbsp; &nbsp; 1.20 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.67 W/kg (head) &nbsp; &nbsp; 1.68 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 230 EUR"
+      },
+      "Our Tests": {
+        "Performance": "GFXBench: 3.8fps (ES 3.1 onscreen)",
+        "Display": "<a class=\"noUnd\" href=\"motorola_moto_z2_play-review-1663p3.php#dt\">Contrast ratio: Infinite (nominal), 4.459 (sunlight)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=8674&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=8674&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"motorola_moto_z2_play-review-1663p6.php#lt\">Voice 66dB / Noise 70dB / Ring 85dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"motorola_moto_z2_play-review-1663p6.php#aq\">Noise -93.4dB / Crosstalk -94.4dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 8674); \">Endurance rating 76h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-z2-play-0.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-z2-play-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-z2-play-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_moto_z2_play-pictures-8674.php"
+    }
+  }
+}

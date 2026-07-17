@@ -1,0 +1,107 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola Moto G9 Plus",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-g9-plus-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-g9-plus-new.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/motorola_moto_g9_plus-review-2180.php",
+    "siblingDeviceSlugs": [
+      "motorola_moto_g9_power-10574",
+      "motorola_moto_g9_play-10387"
+    ],
+    "release_date": "Released 2020, September 07",
+    "dimensions": "223g, 9.7mm thickness",
+    "os": "Android 10, up to Android 11",
+    "storage": "64GB/128GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 28, 66 Brazil",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2020, September 07. Released 2020, September 07",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "170 x 78.1 x 9.7 mm (6.69 x 3.07 x 0.38 in)",
+        "Weight": "223 g (7.87 oz)",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "· Nano-SIM\n· Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD, HDR10",
+        "Size": "6.81 inches, 112.0 cm<sup>2</sup> (~84.3% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~386 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 10, upgradable to Android 11",
+        "Chipset": "Qualcomm SDM730 Snapdragon 730G (8 nm)",
+        "CPU": "Octa-core (2x2.2 GHz Kryo 470 Gold &amp; 6x1.8 GHz Kryo 470 Silver)",
+        "GPU": "Adreno 618"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (uses shared SIM slot)",
+        "Internal": "64GB 4GB RAM, 128GB 4GB RAM, 128GB 6GB RAM"
+      },
+      "Main Camera": {
+        "Quad": "64 MP, f/1.8, 26mm (wide), 1/1.73\", 0.8µm, PDAF\n\n8 MP, f/2.2, 118˚ (ultrawide), 1/4.0\", 1.12µm\n\n2 MP (macro)\n\nAuxiliary lens",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@30/60/120fps, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "16 MP, f/2.0, 29mm (standard)",
+        "Features": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO",
+        "NFC": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity"
+      },
+      "Battery": {
+        "Type": "Li-Po 5000 mAh",
+        "Charging": "30W wired"
+      },
+      "Misc": {
+        "Colors": "Rose Gold, Indigo Blue",
+        "Models": "XT2087-1",
+        "Price": "About 300 EUR"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 253105 (v8)\n\nGeekBench: 1695 (v5.1)\n\nGFXBench: 15fps (ES 3.1 onscreen)",
+        "Display": "<a class=\"noUnd\" href=\"motorola_moto_g9_plus-review-2180p3.php#dt\">1356:1 contrast ratio, 522 nits max brightness (measured)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=10432&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=10432&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"motorola_moto_g9_plus-review-2180p3.php#lt\">-29.0 LUFS (Average)</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 10432); \">Endurance rating 136h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-g9-plus-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-g9-plus-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-g9-plus-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_moto_g9_plus-pictures-10432.php"
+    }
+  }
+}

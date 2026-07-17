@@ -1,0 +1,93 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola MotoGO EX430",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-motogo1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-motogo.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2012, Q4",
+    "dimensions": "100g, 13mm thickness",
+    "os": "Feature phone",
+    "storage": "50MB storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 2100",
+        "Speed": "HSPA 7.2/0.384 Mbps"
+      },
+      "Launch": {
+        "Announced": "2012, May. Released 2012, Q4",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "104 x 63.9 x 13 mm (4.09 x 2.52 x 0.51 in)",
+        "Weight": "100 g (3.53 oz)",
+        "Keyboard": "QWERTY",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "2.2 inches, 15.0 cm<sup>2</sup> (~22.6% screen-to-body ratio)",
+        "Resolution": "320 x 240 pixels, 4:3 ratio (~182 ppi density)"
+      },
+      "Platform": {
+        "CPU": "MTK 6276W"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot), 2 GB included",
+        "Phonebook": "Yes, Photocall",
+        "Call records": "Yes",
+        "Internal": "50MB"
+      },
+      "Main Camera": {
+        "Single": "2 MP",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g",
+        "Bluetooth": "2.1, A2DP, EDR",
+        "Positioning": "GPS",
+        "Radio": "FM radio",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS, Email, IM",
+        "Games": "Yes",
+        "Java": "",
+        "Features": "SNS integration\n\nMP3/WAV/AAC player\n\nMP4/H.263 player\n\nOrganizer\n\nVoice memo\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 910 mAh battery",
+        "Stand-by": "Up to 350 h",
+        "Talk time": "Up to 5 h"
+      },
+      "Misc": {
+        "Colors": "White",
+        "Price": "About 130 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-motogo1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-motogo.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_motogo_ex430-pictures-4746.php"
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola Moto Z",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-z-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-z.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/moto_z_droid_edition-review-1471.php",
+    "siblingDeviceSlugs": [
+      "motorola_moto_z2_play-8674",
+      "motorola_edge_70_max_5g-14789",
+      "motorola_edge_70_fusion_5g-14432",
+      "motorola_edge_70_5g-14216",
+      "motorola_edge_70_pro_5g-14620",
+      "motorola_edge_60_fusion-13752",
+      "motorola_edge_60_pro-13815"
+    ],
+    "release_date": "Released 2016, September",
+    "dimensions": "136g, 5.2mm thickness",
+    "os": "Android 6.0.1, up to Android 8.0",
+    "storage": "32GB/64GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / EVDO / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 &amp; SIM 2 (dual-SIM model only)",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100 - USA",
+        "4G bands": "1, 2, 3, 4, 5, 7, 13 - USA",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE (3CA) Cat9 450/50 Mbps, EV-DO Rev.A 3.1 Mbps - USA\nHSPA 42.2/5.76 Mbps, LTE (2CA) Cat6 300/50 Mbps - Global",
+        "Features": "CDMA 800 / 1900 - USA\nCDMA2000 1xEV-DO - USA\nHSDPA 850 / 900 / 1700 / 1900 / 2100 - Global\n1, 2, 3, 4, 5, 7, 8, 12, 17, 19, 20, 25, 28, 38, 40, 41 - Global"
+      },
+      "Launch": {
+        "Announced": "2016, June. Released 2016, September",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "153.3 x 75.3 x 5.2 mm (6.04 x 2.96 x 0.20 in)",
+        "Weight": "136 g (4.80 oz)",
+        "Build": "Glass front (Gorilla Glass 4), aluminum back, aluminum frame",
+        "SIM": "· Nano-SIM\n· Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "AMOLED",
+        "Size": "5.5 inches, 83.1 cm<sup>2</sup> (~72.0% screen-to-body ratio)",
+        "Resolution": "1440 x 2560 pixels, 16:9 ratio (~535 ppi density)",
+        "Protection": "Corning Gorilla Glass 4"
+      },
+      "Platform": {
+        "OS": "Android 6.0.1 (Marshmallow), upgradable to Android 8.0 (Oreo)",
+        "Chipset": "Qualcomm MSM8996 Snapdragon 820 (14 nm)",
+        "CPU": "Quad-core (2x2.15 GHz Kryo &amp; 2x1.6 GHz Kryo) - USA\nQuad-core (2x1.8 GHz Kryo &amp; 2x1.6 GHz Kryo) - Global",
+        "GPU": "Adreno 530"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "32GB 4GB RAM, 64GB 4GB RAM"
+      },
+      "Main Camera": {
+        "Single": "13 MP, f/1.8, OIS",
+        "Features": "Laser AF, Dual-LED dual-tone flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@60fps, HDR"
+      },
+      "Selfie camera": {
+        "Single": "5 MP, f/2.2, 1/4.0\", 1.4µm",
+        "Features": "LED flash",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "4.1, A2DP, LE, aptX",
+        "Positioning": "GPS, GLONASS",
+        "NFC": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C, OTG, magnetic connector"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (front-mounted), accelerometer, gyro, proximity, compass",
+        "Features": "Moto Mods snap-on accessories"
+      },
+      "Battery": {
+        "Type": "Li-Ion 2600 mAh, non-removable",
+        "Charging": "15W wired"
+      },
+      "Misc": {
+        "Colors": "Black/Gray, Black/Rose Gold, Black/Gold, White",
+        "Models": "XT1650, XT1650-05",
+        "SAR": "0.91 W/kg (head) &nbsp; &nbsp; 1.14 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.30 W/kg (head) &nbsp; &nbsp; 1.72 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 220 EUR"
+      },
+      "Our Tests": {
+        "Performance": "Basemark OS II 2.0: 5566\nBasemark X: 36322",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=8094&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=8094&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"moto_z_droid_edition-review-1471p8.php#lt\">Voice 64dB / Noise 66dB / Ring 81dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"moto_z_droid_edition-review-1471p8.php#aq\">Noise -93.6dB / Crosstalk -93.6dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 8094); \">Endurance rating 53h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-z-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-z-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_moto_z-pictures-8094.php"
+    }
+  }
+}

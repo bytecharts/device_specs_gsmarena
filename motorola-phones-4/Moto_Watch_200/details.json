@@ -1,0 +1,82 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola Moto Watch 200",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-watch-200-10.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-watch-200-.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Cancelled",
+    "dimensions": "45g, 12.3mm thickness",
+    "os": "Moto Watch OS",
+    "storage": "Unspecified storage storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">No cellular connectivity</a>",
+        "2G bands": "N/A",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2023, May 02",
+        "Status": "Cancelled"
+      },
+      "Body": {
+        "Dimensions": "46.5 x 38 x 12.3 mm (1.83 x 1.50 x 0.48 in)",
+        "Weight": "45 g (1.59 oz)",
+        "Build": "Glass front, aluminum frame",
+        "SIM": "No",
+        "Features": "5 ATM, 50m water resistant"
+      },
+      "Display": {
+        "Type": "AMOLED",
+        "Size": "1.78 inches",
+        "Resolution": "348 x 442 pixels (~316 ppi density)"
+      },
+      "Platform": {
+        "OS": "Moto Watch OS"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "Unspecified storage"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "5.3, A2DP, LE",
+        "Positioning": "GPS",
+        "NFC": "Unspecified",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, heart rate, SpO2, altimeter"
+      },
+      "Battery": {
+        "Type": "Li-Po 355 mAh"
+      },
+      "Misc": {
+        "Colors": "Warm Gold, Phantom Black",
+        "Price": "About 150 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-watch-200-10.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_moto_watch_200-pictures-12033.php"
+    }
+  }
+}

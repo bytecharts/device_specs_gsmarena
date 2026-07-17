@@ -1,0 +1,113 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola Razr 40 Ultra",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-razr-40-ultra-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-razr-40-ultra.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/motorola_razr_40_ultra-review-2574.php",
+    "siblingDeviceSlugs": [
+      "motorola_razr_40-12311"
+    ],
+    "release_date": "Released 2023, June 05",
+    "dimensions": "184.5g or 188.5g, 7mm thickness",
+    "os": "Android 13, up to 3 major Android upgrades",
+    "storage": "256GB/512GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / EVDO / LTE / 5G</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 32, 34, 38, 39, 40, 41, 42, 43, 48, 66 - International",
+        "5G bands": "1, 3, 5, 7, 8, 20, 28, 38, 41, 66, 77, 78, 79 SA/NSA/Sub6 - International",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "CDMA 800 / 1900\nCDMA2000 1xEV-DO\n1, 2, 3, 4, 5, , 7, 8, 12, 13, 14, 17, 18, 19, 20, 25, 26, 28, 29, 30, 38, 39, 40, 41, 46, 48, 66, 71 - North America\n2, 5, 7, 12, 13, 14, 25, 26, 29, 30, 38, 41, 48, 66, 70, 71, 77, 78 SA/NSA/Sub6 - North America"
+      },
+      "Launch": {
+        "Announced": "2023, June 01",
+        "Status": "Available. Released 2023, June 05"
+      },
+      "Body": {
+        "Dimensions": "Unfolded: 170.8 x 74 x 7 mm\nFolded: 88.4 x 74 x 15.1 mm",
+        "Weight": "184.5 g or 188.5 g (6.53 oz)",
+        "Build": "Plastic front (unfolded), glass front (folded, Gorilla Glass Victus), glass back (Gorilla Glass Victus), aluminum frame (7000 series), hinge (stainless steel)",
+        "SIM": "· Nano-SIM + <a href=\"glossary.php3?term=esim\">eSIM</a>\n· Nano-SIM + Nano-SIM",
+        "Features": "Water-repellent coating"
+      },
+      "Display": {
+        "Type": "Foldable LTPO AMOLED, 1B colors, 165Hz, HDR10+, 1400 nits (peak)",
+        "Size": "6.9 inches, 107.6 cm<sup>2</sup> (~85.1% screen-to-body ratio)",
+        "Resolution": "1080 x 2640 pixels (~413 ppi density)",
+        "Features": "Second external AMOLED, 1B colors, 144Hz, HDR10+, 1100 nits (peak)\n\n3.6 inches, 1056 x 1066 pixels, 413 ppi, Gorilla Glass Victus"
+      },
+      "Platform": {
+        "OS": "Android 13, up to 3 major Android upgrades",
+        "Chipset": "Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm)",
+        "CPU": "Octa-core (1x3.19 GHz Cortex-X2 &amp; 3x2.75 GHz Cortex-A710 &amp; 4x1.80 GHz Cortex-A510)",
+        "GPU": "Adreno 730"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 4GB RAM, 256GB 8GB RAM, 256GB 12GB RAM, 512GB 12GB RAM",
+        "Features": "UFS 3.1"
+      },
+      "Main Camera": {
+        "Dual": "12 MP, f/1.5, (wide), 1/2.55\", 1.4µm, PDAF, OIS\n\n13 MP, f/2.2, 108˚ (ultrawide), 1/3.0\", 1.12µm, AF",
+        "Features": "LED flash, panorama, HDR",
+        "Video": "4K@30/60fps, 1080p@30/60/120fps, HDR10+, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.4, (wide), 0.7µm",
+        "Features": "HDR",
+        "Video": "4K@30/60fps, 1080p@30/60fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No",
+        "Features": "Snapdragon Sound"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band or tri-band (region dependent)",
+        "Bluetooth": "5.3, A2DP, LE, aptX HD, aptX Adaptive, aptX Lossless",
+        "Positioning": "GPS (L1+L5), GLONASS (L1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5)",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer (USA only)"
+      },
+      "Battery": {
+        "Type": "Li-Po 3800 mAh",
+        "Charging": "30W wired\n\n5W wireless"
+      },
+      "Misc": {
+        "Colors": "Infinite Black, Glacier Blue, Viva Magenta, Peach Fuzz",
+        "Models": "XT2321-3, XT2321-1, XT2321-2",
+        "Price": "<a href=\"motorola_razr_40_ultra-price-12169.php\">$ 219.98 / £ 469.95 / € 540.11</a>"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 975461 (v9)\n\nGeekBench: 3645 (v5.1), 4045 (v6)\n\nGFXBench: 65fps (ES 3.1 onscreen)",
+        "Display": "<a class=\"noUnd\" href=\"motorola_razr_40_ultra-review-2574p3.php\">1050 nits max brightness (measured)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=12169&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=12169&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"motorola_razr_40_ultra-review-2574p3.php#lt\">-25.4 LUFS (Very good)</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 12169); \">Endurance rating 83h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-razr-40-ultra-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-razr-40-ultra-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-razr-40-ultra-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-razr-40-ultra-4.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_razr_40_ultra-pictures-12169.php"
+    }
+  }
+}

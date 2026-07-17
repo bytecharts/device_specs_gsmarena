@@ -1,0 +1,105 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola Moto G Stylus 5G (2024)",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-g-stylus-5g-2024-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-g-stylus-5g-2024.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/moto_g_stylus_5g_2024-review-2723.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2024, May 30",
+    "dimensions": "190g, 8.3mm thickness",
+    "os": "Android 14, up to 1 major Android upgrades",
+    "storage": "128GB/256GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 17, 18, 19, 20, 25, 26, 28, 29, 30, 38, 39, 40, 41, 48, 66, 71",
+        "5G bands": "1, 2, 3, 5, 7, 12, 14, 20, 25, 26, 28, 29, 30, 38, 40, 41, 48, 66, 70, 71, 77, 78 SA/NSA/Sub6",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2024, May 10",
+        "Status": "Available. Released 2024, May 30"
+      },
+      "Body": {
+        "Dimensions": "162.6 x 74.8 x 8.3 mm (6.40 x 2.94 x 0.33 in)",
+        "Weight": "190 g (6.70 oz)",
+        "Build": "Glass front, silicone polymer (eco leather) back, plastic frame",
+        "SIM": "Nano-SIM + <a href=\"glossary.php3?term=esim\">eSIM</a>",
+        "Features": "Stylus\n\nWater-repellent design"
+      },
+      "Display": {
+        "Type": "P-OLED, 1B colors, 120Hz, 1200 nits (peak)",
+        "Size": "6.7 inches, 107.3 cm<sup>2</sup> (~88.2% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~395 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 14, up to 1 major Android upgrades",
+        "Chipset": "Qualcomm SM6450 Snapdragon 6 Gen 1 (4 nm)",
+        "CPU": "Octa-core (4x2.2 GHz Cortex-A78 &amp; 4x1.8 GHz Cortex-A55)",
+        "GPU": "Adreno 710"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "128GB 4GB RAM, 128GB 8GB RAM, 256GB 8GB RAM"
+      },
+      "Main Camera": {
+        "Dual": "50 MP, f/1.8, 24mm (wide), 1/1.57\", 1.0µm, dual-pixel PDAF, OIS\n\n13 MP, f/2.2, 16mm, 120˚ (ultrawide), 1/3.0\", 1.12µm, AF",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@30/60/120fps"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.4, 25mm (wide), 1/3.14\", 0.7µm",
+        "Features": "HDR",
+        "Video": "4K@30fps, 1080p@30/60fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.1, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO",
+        "NFC": "Yes",
+        "Radio": "FM radio (market/region dependent)",
+        "USB": "USB Type-C 2.0"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, barometer"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "30W wired\n\n15W wireless"
+      },
+      "Misc": {
+        "Colors": "Caramel Latte, Scarlet Wave",
+        "Models": "XT2419-2, XT2419-1, XT2419",
+        "Price": "<a href=\"motorola_moto_g_stylus_5g_(2024)-price-12787.php\">$ 142.44</a>"
+      },
+      "Our Tests": {
+        "Performance": "AnTuTu: 549817 (v10)\n\nGeekBench: 2664 (v6)\n\n3DMark: 606 (Wild Life Extreme)",
+        "Display": "<a class=\"noUnd\" href=\"moto_g_stylus_5g_2024-review-2723p3.php#dt\">1387 nits max brightness (measured)</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"moto_g_stylus_5g_2024-review-2723p3.php#lt\">-24.3 LUFS (Very good)</a>",
+        "Battery": "<div style=\"position:relative;\">\n<a href=\"moto_g_stylus_5g_2024-review-2723p3.php#bt\" data-battery2=\"30:55_12:44_15:51_6:44\" onclick=\"showBatteryPopup(event, 12787); \" class=\"v2\">Active use score 12:43h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-g-stylus-5g-2024-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-g-stylus-5g-2024-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-g-stylus-5g-2024-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_moto_g_stylus_5g_(2024)-pictures-12787.php"
+    }
+  }
+}

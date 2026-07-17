@@ -1,0 +1,102 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola DEFY",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-defy-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-defy.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/motorola_defy-review-546.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2010, October",
+    "dimensions": "118g, 13.4mm thickness",
+    "os": "Android 2.1, up to 2.2",
+    "storage": "2GB 512MB RAM storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 900 / 2100",
+        "Speed": "HSPA 7.2/2 Mbps",
+        "Features": "HSDPA 1700 / 2100\nHSDPA 850 / 1900"
+      },
+      "Launch": {
+        "Announced": "2010, September. Released 2010, October",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "107 x 59 x 13.4 mm (4.21 x 2.32 x 0.53 in)",
+        "Weight": "118 g (4.16 oz)",
+        "SIM": "Mini-SIM",
+        "Features": "Dust/water resistant"
+      },
+      "Display": {
+        "Type": "TFT",
+        "Size": "3.7 inches, 37.7 cm<sup>2</sup> (~59.8% screen-to-body ratio)",
+        "Resolution": "480 x 854 pixels, 16:9 ratio (~265 ppi density)",
+        "Protection": "Corning Gorilla Glass",
+        "Features": "Touch sensitive controls\n\nMOTOBLUR UI with Live Widgets"
+      },
+      "Platform": {
+        "OS": "Android 2.1 (Eclair), upgradable to 2.2 (Froyo)",
+        "Chipset": "TI OMAP 3610",
+        "CPU": "800 MHz Cortex-A8",
+        "GPU": "PowerVR SGX530"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot), 2 GB included",
+        "Internal": "2GB 512MB RAM"
+      },
+      "Main Camera": {
+        "Single": "5 MP, AF",
+        "Features": "LED flash",
+        "Video": "480p@30fps"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, DLNA, hotspot (Android 2.2)",
+        "Bluetooth": "2.1, A2DP",
+        "Positioning": "GPS, A-GPS",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity, compass",
+        "Browser": "HTML, Adobe Flash Lite",
+        "Features": "MP3/WAV/WMA/AAC+ player\n\nMP4/WMV/H.264 player\n\nDocument viewer\n\nPhoto viewer/editor\n\nOrganizer\n\nVoice memo/dial/commands\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Po 1540 mAh battery",
+        "Stand-by": "Up to 238 h",
+        "Talk time": "Up to 6 h 48 min"
+      },
+      "Misc": {
+        "Colors": "Black, White",
+        "SAR": "1.52 W/kg (head) &nbsp; &nbsp; 1.53 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 110 EUR"
+      },
+      "Our Tests": {
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=3514&amp;nSuggest=1\">Photo</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"motorola_defy-review-546p4.php\">Voice 66dB / Noise 65dB / Ring 74dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"motorola_defy-review-546p5.php#aq\">Noise -88.7dB / Crosstalk -89.5dB</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-defy-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_defy-pictures-3514.php"
+    }
+  }
+}

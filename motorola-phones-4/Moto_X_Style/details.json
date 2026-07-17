@@ -1,0 +1,105 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola Moto X Style",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/moto-x-style-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/moto-x-style-r.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/moto_x_style_pure_edition-review-1308.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2015, September",
+    "dimensions": "179g, 11.1mm thickness",
+    "os": "Android 5.1.1, 6.0, up to 7.0",
+    "storage": "16GB/32GB/64GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - all versions",
+        "3G bands": "HSDPA 800 / 850 / 1700 / 1900 / 2100 / 900 - EU (XT1572)",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 20, 25, 28, 29, 40, 41 - EU (XT1572)",
+        "Speed": "HSPA, LTE (2CA) Cat6 300/50 Mbps",
+        "Features": "CDMA 800 / 850 / 1900 - USA\nHSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - USA\n1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 25, 26, 41 - USA"
+      },
+      "Launch": {
+        "Announced": "2015, July. Released 2015, September",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "153.9 x 76.2 x 11.1 mm (6.06 x 3.00 x 0.44 in)",
+        "Weight": "179 g (6.31 oz)",
+        "SIM": "Nano-SIM",
+        "Features": "Splash and dust resistant"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "5.7 inches, 87.9 cm<sup>2</sup> (~74.9% screen-to-body ratio)",
+        "Resolution": "1440 x 2560 pixels, 16:9 ratio (~520 ppi density)",
+        "Protection": "Corning Gorilla Glass 3"
+      },
+      "Platform": {
+        "OS": "Android 5.1.1 (Lollipop), 6.0, upgradable to 7.0 (Nougat)",
+        "Chipset": "Qualcomm MSM8992 Snapdragon 808 (20 nm)",
+        "CPU": "Hexa-core (4x1.4 GHz Cortex-A53 &amp; 2x1.8 GHz Cortex-A57)",
+        "GPU": "Adreno 418"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "16GB 3GB RAM, 32GB 3GB RAM, 64GB 3GB RAM",
+        "Features": "eMMC 5.0"
+      },
+      "Main Camera": {
+        "Single": "21 MP, f/2.0, 27mm (wide), 1/2.4\", 1.1µm, PDAF",
+        "Features": "Dual-LED dual-tone flash, panorama",
+        "Video": "4K@30fps, 1080p@30fps, HDR"
+      },
+      "Selfie camera": {
+        "Single": "5 MP, f/2.0, 1/4.0\", 1.4µm",
+        "Features": "LED flash",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, hotspot",
+        "Bluetooth": "4.1, A2DP, EDR, LE, aptX",
+        "Positioning": "GPS, GLONASS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "Li-Ion 3000 mAh, non-removable",
+        "Charging": "15W wired, 34% in 15 min"
+      },
+      "Misc": {
+        "Colors": "Black lens/Dark Gray Frame and accents/ Black Soft Feel Inlay\nWhite lens/Silver Frame and accents/Bamboo Inlay",
+        "Models": "XT1572, XT1575",
+        "SAR": "0.99 W/kg (head) &nbsp; &nbsp; 1.43 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.39 W/kg (head) &nbsp; &nbsp; 0.73 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 260 EUR"
+      },
+      "Our Tests": {
+        "Audio quality": "<a class=\"noUnd\" href=\"moto_x_style_pure_edition-review-1308p6.php\">Noise -93.5dB / Crosstalk -92.7dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 7229); \">Endurance rating 63h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/moto-x-style-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/moto-x-style-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_moto_x_style-pictures-7229.php"
+    }
+  }
+}

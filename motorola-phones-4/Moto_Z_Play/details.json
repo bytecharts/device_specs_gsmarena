@@ -1,0 +1,118 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola Moto Z Play",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-z-play-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-z-play.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/moto_z_play-review-1538.php",
+    "siblingDeviceSlugs": [
+      "motorola_edge_70_max_5g-14789",
+      "motorola_edge_70_fusion_5g-14432",
+      "motorola_edge_70_5g-14216",
+      "motorola_edge_70_pro_5g-14620",
+      "motorola_edge_60_fusion-13752",
+      "motorola_edge_60_pro-13815"
+    ],
+    "release_date": "Released 2016, September",
+    "dimensions": "165g, 7mm thickness",
+    "os": "Android 6.0.1, up to Android 8.0",
+    "storage": "32GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 &amp; SIM 2 (dual-SIM model only)",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 17, 19, 20, 28, 38, 40 - USA",
+        "Speed": "HSPA, LTE",
+        "Features": "CDMA 800 / 1900 - USA\n1, 2, 3, 4, 5, 7, 8, 12, 17, 19, 20, 25, 28, 38, 40, 41 - India\n1, 2, 3, 4, 5, 7, 8, 12, 17, 19, 20, 28 - Europe"
+      },
+      "Launch": {
+        "Announced": "2016, August. Released 2016, September",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "156.4 x 76.4 x 7 mm (6.16 x 3.01 x 0.28 in)",
+        "Weight": "165 g (5.82 oz)",
+        "Build": "Glass front (Gorilla Glass 3), glass back, aluminum frame",
+        "SIM": "· Nano-SIM\n· Nano-SIM + Nano-SIM",
+        "Features": "Splash and dust resistant"
+      },
+      "Display": {
+        "Type": "Super AMOLED",
+        "Size": "5.5 inches, 82.6 cm<sup>2</sup> (~69.1% screen-to-body ratio)",
+        "Resolution": "1080 x 1920 pixels, 16:9 ratio (~403 ppi density)",
+        "Protection": "Corning Gorilla Glass 3"
+      },
+      "Platform": {
+        "OS": "Android 6.0.1 (Marshmallow), upgradable to Android 8.0 (Oreo)",
+        "Chipset": "Qualcomm MSM8953 Snapdragon 625 (14 nm)",
+        "CPU": "Octa-core 2.0 GHz Cortex-A53",
+        "GPU": "Adreno 506"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "32GB 3GB RAM",
+        "Features": "eMMC 5.1"
+      },
+      "Main Camera": {
+        "Single": "16 MP, f/2.0, 1.3µm, PDAF",
+        "Features": "Laser AF, Dual-LED dual-tone flash, panorama",
+        "Video": "4K@30fps, 1080p@30fps, 720p@120fps"
+      },
+      "Selfie camera": {
+        "Single": "5 MP, f/2.2, 1/4.0\", 1.4µm",
+        "Features": "LED flash",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n, Wi-Fi Direct",
+        "Bluetooth": "4.0, A2DP, LE, aptX",
+        "Positioning": "GPS, GLONASS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C, magnetic connector"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (front-mounted), accelerometer, gyro, proximity, compass",
+        "Features": "Moto Mods snap-on accessories"
+      },
+      "Battery": {
+        "Type": "Li-Ion 3510 mAh, non-removable",
+        "Charging": "15W wired"
+      },
+      "Misc": {
+        "Colors": "Black/Silver/Black Slate, White/Fine Gold/Sugar White",
+        "Models": "XT1635-02, XT1635-01, XT1635-03",
+        "SAR": "1.45 W/kg (head) &nbsp; &nbsp; 1.15 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.40 W/kg (head) &nbsp; &nbsp; 1.40 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 220 EUR"
+      },
+      "Our Tests": {
+        "Performance": "GFXBench: 3.7fps (ES 3.1 onscreen)",
+        "Display": "<a class=\"noUnd\" href=\"moto_z_play-review-1538p3.php#dt\">Contrast ratio: Infinite (nominal), 3.526 (sunlight)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=8310&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=8310&amp;nSuggest=1\">Video</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"moto_z_play-review-1538p7.php#aq\">Noise-93.0dB / Crosstalk -93.8dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 8310); \">Endurance rating 100h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-z-play-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-z-play-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-z-play-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_moto_z_play-pictures-8310.php"
+    }
+  }
+}

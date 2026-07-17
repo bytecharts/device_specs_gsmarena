@@ -1,0 +1,101 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola Moto S50",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-edge-50-neo-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-edge-50-neo.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "motorola_s50_neo-13152"
+    ],
+    "release_date": "Released 2024, September 05",
+    "dimensions": "170g, 8.1mm thickness",
+    "os": "Android 14",
+    "storage": "256GB/512GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / CDMA2000 / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "LTE",
+        "5G bands": "SA/NSA/Sub6",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "CDMA 800 / 1900\nCDMA2000 1x"
+      },
+      "Launch": {
+        "Announced": "2024, September 05",
+        "Status": "Available. Released 2024, September 05"
+      },
+      "Body": {
+        "Dimensions": "154.1 x 71.2 x 8.1 mm (6.07 x 2.80 x 0.32 in)",
+        "Weight": "170 g (6.00 oz)",
+        "Build": "Glass front (Gorilla Glass 3), plastic frame, plastic back or silicone polymer (eco leather) back",
+        "SIM": "Nano-SIM + Nano-SIM",
+        "Features": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)"
+      },
+      "Display": {
+        "Type": "LTPO P-OLED, 1B colors, 120Hz, HDR10+, 3000 nits (peak)",
+        "Size": "6.36 inches, 103.5 cm<sup>2</sup> (~94.4% screen-to-body ratio)",
+        "Resolution": "1272 x 2670 pixels, 19:9 ratio (~460 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 14",
+        "Chipset": "Mediatek Dimensity 7300 (4 nm)",
+        "CPU": "Octa-core (4x2.5 GHz Cortex-A78 &amp; 4x2.0 GHz Cortex-A55)",
+        "GPU": "Mali-G615 MC2"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "256GB 12GB RAM, 512GB 12GB RAM",
+        "Features": "UFS"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, f/1.9, (wide), 1/1.5\", 1.0µm, multi-directional PDAF, OIS\n\n10 MP, f/2.0, 73mm (telephoto), 1.0µm, PDAF, OIS, 3x optical zoom\n\n13 MP, f/2.2, 13mm, 123˚ (ultrawide), 1.12µm, PDAF",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@30/60/120/240fps, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.4, (wide), 0.7µm",
+        "Features": "HDR",
+        "Video": "4K@30fps, 1080p@30/60/120fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e, tri-band",
+        "Bluetooth": "5.3, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 2.0"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      },
+      "Battery": {
+        "Type": "4310 mAh",
+        "Charging": "68W wired, 50% in 13 min\n\n15W wireless"
+      },
+      "Misc": {
+        "Colors": "Nautical Blue, Latte, Poinciana",
+        "Models": "XT2309-5",
+        "Price": "About 280 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-edge-50-neo-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-s50.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_moto_s50-pictures-13293.php"
+    }
+  }
+}

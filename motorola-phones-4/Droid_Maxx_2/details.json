@@ -1,0 +1,99 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola Droid Maxx 2",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-droid-maxx-2.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-droid-maxx-2.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2015, October",
+    "dimensions": "169g, 10.9mm thickness",
+    "os": "Android 5.1.1, up to 7.0",
+    "storage": "16GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / EVDO / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4G bands": "2, 3, 4, 5, 7, 13, 20",
+        "Speed": "HSPA, LTE Cat4 150/50 Mbps, EV-DO Rev.A 3.1 Mbps",
+        "Features": "CDMA 800 / 1900\nCDMA2000 1xEV-DO"
+      },
+      "Launch": {
+        "Announced": "2015, October. Released 2015, October",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "148 x 75 x 10.9 mm (5.83 x 2.95 x 0.43 in)",
+        "Weight": "169 g (5.96 oz)",
+        "SIM": "Nano-SIM",
+        "Features": "Splash and dust resistant"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "5.5 inches, 82.6 cm<sup>2</sup> (~74.4% screen-to-body ratio)",
+        "Resolution": "1080 x 1920 pixels, 16:9 ratio (~403 ppi density)",
+        "Protection": "Corning Gorilla Glass 3"
+      },
+      "Platform": {
+        "OS": "Android 5.1.1 (Lollipop), upgradable to 7.0 (Nougat)",
+        "Chipset": "Qualcomm MSM8939 Snapdragon 615 (28 nm)",
+        "CPU": "Octa-core (4x1.7 GHz Cortex-A53 &amp; 4x1.0 GHz Cortex-A53)",
+        "GPU": "Adreno 405"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "16GB 2GB RAM",
+        "Features": "eMMC 4.5"
+      },
+      "Main Camera": {
+        "Single": "21 MP, f/2.0, PDAF",
+        "Features": "Dual-LED dual-tone flash, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "5 MP, f/2.0",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, hotspot",
+        "Bluetooth": "4.0, A2DP, LE, aptX",
+        "Positioning": "GPS",
+        "NFC": "Yes",
+        "Radio": "FM radio",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Yes"
+      },
+      "Battery": {
+        "Type": "Li-Ion 3630 mAh, non-removable",
+        "Charging": "15W wired",
+        "Stand-by": "Up to 576 h (3G)",
+        "Talk time": "Up to 48 h (3G)"
+      },
+      "Misc": {
+        "Colors": "Deep Sea Blue, White",
+        "Models": "XT1565B, XT1565",
+        "SAR": "1.14 W/kg (head) &nbsp; &nbsp; 1.38 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 300 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-droid-maxx-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_droid_maxx_2-pictures-7712.php"
+    }
+  }
+}

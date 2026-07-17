@@ -1,0 +1,92 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola DROID X2",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-droid-x2-000.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-droid-x2.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2011, May",
+    "dimensions": "155g, 9.9mm thickness",
+    "os": "Android 2.3, not up to 4.1",
+    "storage": "8GB 512MB RAM storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">CDMA / EVDO</a>",
+        "2G bands": "CDMA 800 / 1900",
+        "3G bands": "CDMA2000 1xEV-DO",
+        "Speed": "EV-DO Rev.A 3.1 Mbps"
+      },
+      "Launch": {
+        "Announced": "2011, May. Released 2011, May",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "127.5 x 65.5 x 9.9 mm (5.02 x 2.58 x 0.39 in)",
+        "Weight": "155 g (5.47 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT",
+        "Size": "4.3 inches, 51.0 cm<sup>2</sup> (~61.0% screen-to-body ratio)",
+        "Resolution": "540 x 960 pixels, 16:9 ratio (~256 ppi density)",
+        "Protection": "Corning Gorilla Glass"
+      },
+      "Platform": {
+        "OS": "Android 2.3 (Gingerbread), not upgradable to 4.1 (Jelly Bean)",
+        "Chipset": "Nvidia Tegra 2 AP20H",
+        "CPU": "Dual-core 1.0 GHz Cortex-A9",
+        "GPU": "ULP GeForce"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot), 8 GB included",
+        "Internal": "8GB 512MB RAM"
+      },
+      "Main Camera": {
+        "Single": "8 MP, AF",
+        "Features": "Dual-LED flash",
+        "Video": "720p@30fps"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, DLNA, hotspot",
+        "Bluetooth": "2.1, A2DP",
+        "Positioning": "GPS, A-GPS",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity, compass",
+        "Browser": "HTML, Adobe Flash",
+        "Features": "MP3/WAV/WMA/AAC+ player\n\nMP4/WMV/H.264 player\n\nHDMI port\n\nDocument viewer\n\nPhoto viewer/editor\n\nOrganizer\n\nVoice memo/dial/commands\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1540 mAh battery"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "SAR": "0.74 W/kg (head) &nbsp; &nbsp; 1.50 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 230 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-droid-x2-000.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-droid-x2-001.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_droid_x2-pictures-3959.php"
+    }
+  }
+}

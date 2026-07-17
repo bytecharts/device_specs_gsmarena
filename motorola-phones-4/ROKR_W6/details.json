@@ -1,0 +1,93 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola ROKR W6",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-motorokr-w6-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-motorokr-w6.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2009, May",
+    "dimensions": "107g, 17.5mm thickness",
+    "os": "Feature phone",
+    "storage": "20MB storage, microSD slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "GPRS": "Class 10",
+        "EDGE": "Class 10"
+      },
+      "Launch": {
+        "Announced": "2009, April. Released 2009, May",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "99 x 46 x 17.5 mm (3.90 x 1.81 x 0.69 in)",
+        "Weight": "107 g (3.77 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "1.9 inches, 11.4 cm<sup>2</sup> (~24.9% screen-to-body ratio)",
+        "Resolution": "176 x 220 pixels (~148 ppi density)",
+        "Features": "Second external CSTN, 65K colors display (96 x 80 pixels)"
+      },
+      "Memory": {
+        "Card slot": "microSD (dedicated slot)",
+        "Phonebook": "1000 entries, Photocall",
+        "Call records": "40 dialed, 40 received, 40 missed calls",
+        "Internal": "20MB"
+      },
+      "Main Camera": {
+        "Single": "1.3 MP",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No",
+        "Features": "Dedicated music key"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.0, A2DP",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": "miniUSB"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, EMS, MMS, Email",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "Yes",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "MP3/AAC+ player\n\nOrganizer\n\nVoice memo\n\nFitness applications\n\nMotoID music recognition\n\nPush-to-Talk\n\nVoice memo\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 880 mAh battery",
+        "Stand-by": "Up to 350 h",
+        "Talk time": "Up to 6 h 40 min"
+      },
+      "Misc": {
+        "Colors": "",
+        "SAR": "1.08 W/kg (head) &nbsp; &nbsp; 0.55 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.76 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 70 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-motorokr-w6-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_rokr_w6-pictures-2786.php"
+    }
+  }
+}

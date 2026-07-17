@@ -1,0 +1,93 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola Cliq 2",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-cliq-2-ofic-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-cliq-2-ofic.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2011, March",
+    "dimensions": "175g, 14.5mm thickness",
+    "os": "Android 2.3, not up to 4.1",
+    "storage": "1GB 512MB RAM storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 1700 / 2100  / 850",
+        "Speed": "HSPA 10.2/5.76 Mbps"
+      },
+      "Launch": {
+        "Announced": "2011, January. Released 2011, March",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "116 x 59.6 x 14.5 mm (4.57 x 2.35 x 0.57 in)",
+        "Weight": "175 g (6.17 oz)",
+        "Keyboard": "QWERTY",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 256K colors",
+        "Size": "3.7 inches, 37.7 cm<sup>2</sup> (~54.6% screen-to-body ratio)",
+        "Resolution": "480 x 854 pixels, 16:9 ratio (~265 ppi density)",
+        "Features": "MOTOBLUR UI\n\nTouch sensitive controls"
+      },
+      "Platform": {
+        "OS": "Android 2.3 (Gingerbread), not upgradable to 4.1 (Jelly Bean)",
+        "CPU": "1.0 GHz"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot), 2 GB included",
+        "Internal": "1GB 512MB RAM"
+      },
+      "Main Camera": {
+        "Single": "5 MP, AF",
+        "Features": "Dual-LED flash",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, DLNA, hotspot",
+        "Bluetooth": "2.1, A2DP, EDR",
+        "Positioning": "GPS, A-GPS",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity, compass",
+        "Browser": "HTML, Adobe Flash",
+        "Features": "MP3/eAAC+/WAV/WMA9 player\n\nMP4/H.264/WMV9 player\n\nOrganizer\n\nQuickOffice document editor\n\nVoice memo/dial/commands\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1420 mAh battery",
+        "Stand-by": "Up to 312 h",
+        "Talk time": "Up to 7 h 50 min"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "SAR": "0.77 W/kg (head) &nbsp; &nbsp; 1.21 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 200 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-cliq-2-ofic-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-cliq-2-ofic-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_cliq_2-pictures-3454.php"
+    }
+  }
+}

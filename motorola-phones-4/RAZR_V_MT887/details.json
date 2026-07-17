@@ -1,0 +1,92 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola RAZR V MT887",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-razr-v-mt887.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-razr-v-mt887.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2012, June",
+    "dimensions": "125g, 8.4mm thickness",
+    "os": "Android 4.0",
+    "storage": "1GB RAM storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "TD-SCDMA",
+        "Speed": "HSPA",
+        "GPRS": "Class 12",
+        "EDGE": "Class 12"
+      },
+      "Launch": {
+        "Announced": "2012, May. Released 2012, June",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "128.5 x 65.8 x 8.4 mm (5.06 x 2.59 x 0.33 in)",
+        "Weight": "125 g (4.41 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "4.3 inches, 51.0 cm<sup>2</sup> (~60.3% screen-to-body ratio)",
+        "Resolution": "540 x 960 pixels, 16:9 ratio (~256 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 4.0 (Ice Cream Sandwich)",
+        "CPU": "Dual-core 1.2 GHz"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Internal": "1GB RAM"
+      },
+      "Main Camera": {
+        "Single": "8 MP, AF",
+        "Features": "LED flash",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "Yes",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS, A-GPS",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity, compass",
+        "Features": "MP3/WAV/AAC+ player\n\nMP4/H.264/WMV player\n\nDocument viewer\n\nPhoto editor\n\nOrganizer\n\nVoice memo/dial\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Non-removable Li-Ion 1750 mAh battery",
+        "Stand-by": "Up to 240 h",
+        "Talk time": "Up to 14 h"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "Price": "About 210 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-razr-v-mt887.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-razr-v-mt887-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_razr_v_mt887-pictures-4778.php"
+    }
+  }
+}

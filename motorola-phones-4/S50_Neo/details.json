@@ -1,0 +1,98 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola S50 Neo",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-s50-neo-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-s50-neo.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "motorola_moto_s50-13293"
+    ],
+    "release_date": "Released 2024, June 28",
+    "dimensions": "171g or 173g, 7.6mm thickness",
+    "os": "Android 14",
+    "storage": "256GB/512GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 2100",
+        "4G bands": "LTE",
+        "5G bands": "SA/NSA/Sub6",
+        "Speed": "HSPA, LTE, 5G",
+        "Features": "CDMA 800"
+      },
+      "Launch": {
+        "Announced": "2024, June 25",
+        "Status": "Available. Released 2024, June 28"
+      },
+      "Body": {
+        "Dimensions": "161.9 x 73.1 x 7.6 mm (6.37 x 2.88 x 0.30 in)",
+        "Weight": "171 g or 173 g (6.03 oz)",
+        "Build": "Glass front, plastic frame, plastic back or silicone polymer (eco leather) back",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "P-OLED, 1B colors, 120Hz, HDR10+, 1600 nits (peak)",
+        "Size": "6.7 inches, 108.4 cm<sup>2</sup> (~91.6% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~393 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 14",
+        "Chipset": "Qualcomm SM6375 Snapdragon 6s Gen 3 (6 nm)",
+        "CPU": "Octa-core (2x2.2 GHz Kryo 660 Gold &amp; 6x1.7 GHz Kryo 660 Silver)",
+        "GPU": "Adreno 619"
+      },
+      "Memory": {
+        "Card slot": "microSDXC",
+        "Internal": "256GB 8GB RAM, 256GB 12GB RAM, 512GB 12GB RAM",
+        "Features": "UFS 2.x"
+      },
+      "Main Camera": {
+        "Dual": "50 MP, f/1.8 (wide), 1/1.95\", 0.8µm, PDAF, OIS\n\n8 MP, f/2.2, 118˚ (ultrawide)",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "1080p@30/60fps"
+      },
+      "Selfie camera": {
+        "Single": "32 MP, f/2.5, (wide)",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Yes",
+        "Bluetooth": "Yes",
+        "Positioning": "GPS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical); unspecified sensors"
+      },
+      "Battery": {
+        "Type": "5000 mAh",
+        "Charging": "30W wired"
+      },
+      "Misc": {
+        "Colors": "Olivine, Surf, Gray",
+        "Models": "XT2427-4"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-s50-neo-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-s50-neo-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_s50_neo-pictures-13152.php"
+    }
+  }
+}

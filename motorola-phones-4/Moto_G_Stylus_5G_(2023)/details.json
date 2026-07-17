@@ -1,0 +1,98 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola Moto G Stylus 5G (2023)",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-g-stylus-5g-2023-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-g-stylus-5g-2023.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/best_usa_market_phones-review-2358.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2023, June 02",
+    "dimensions": "202g, 9.2mm thickness",
+    "os": "Android 13, planned upgrade to Android 14",
+    "storage": "64GB/128GB/256GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 17, 18, 19, 20, 25, 26, 29, 30, 38, 39, 40, 41, 48, 66, 71",
+        "5G bands": "1, 2, 3, 5, 7, 12, 13, 14, 25, 26, 29, 30, 38, 41, 48, 66, 70, 71, 77, 78 SA/NSA",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2023, May 30",
+        "Status": "Available. Released 2023, June 02"
+      },
+      "Body": {
+        "Dimensions": "162.8 x 73.8 x 9.2 mm (6.41 x 2.91 x 0.36 in)",
+        "Weight": "202 g (7.13 oz)",
+        "Build": "Glass front, plastic frame, plastic back",
+        "SIM": "Nano-SIM",
+        "Features": "Stylus\n\nWater-repellent design"
+      },
+      "Display": {
+        "Type": "IPS LCD, 120Hz",
+        "Size": "6.6 inches, 105.2 cm<sup>2</sup> (~87.5% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~399 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 13, planned upgrade to Android 14",
+        "Chipset": "Qualcomm SM6450 Snapdragon 6 Gen 1 (4 nm)",
+        "CPU": "Octa-core (4x2.2 GHz Cortex-A78 &amp; 4x1.8 GHz Cortex-A55)",
+        "GPU": "Adreno 710"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "64GB 4GB RAM, 128GB 4GB RAM, 128GB 6GB RAM, 256GB 6GB RAM"
+      },
+      "Main Camera": {
+        "Dual": "50 MP, f/1.9, (wide), 1.0µm, PDAF\n\n8 MP, f/2.2, (ultrawide), 1/4.0\", 1.12µm, AF",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "4K@30fps, 1080p@30/60fps"
+      },
+      "Selfie camera": {
+        "Single": "16 MP, f/2.5, (wide), 1.0µm",
+        "Features": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+        "Bluetooth": "5.1, A2DP, LE",
+        "Positioning": "GPS (L1+L5), GALILEO",
+        "NFC": "Yes",
+        "Radio": "FM radio",
+        "USB": "USB Type-C 2.0"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer"
+      },
+      "Battery": {
+        "Type": "Li-Po 5000 mAh",
+        "Charging": "20W wired"
+      },
+      "Misc": {
+        "Colors": "Cosmic Black, Rose Champagne",
+        "Models": "XT2315-1, XT2315-4",
+        "Price": "<a href=\"motorola_moto_g_stylus_5g_(2023)-price-12301.php\">$ 100.89</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-g-stylus-5g-2023-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-g-stylus-5g-2023-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_moto_g_stylus_5g_(2023)-pictures-12301.php"
+    }
+  }
+}

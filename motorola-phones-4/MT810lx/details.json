@@ -1,0 +1,93 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola MT810lx",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-mt810-lx-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-mt810-lx.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2010, November",
+    "dimensions": "173g, 18.1mm thickness",
+    "os": "Android-based OPhone 2.0",
+    "storage": "512MB 512MB RAM storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 2100",
+        "Speed": "HSPA, TD-SCDMA",
+        "Features": "TD-SCDMA"
+      },
+      "Launch": {
+        "Announced": "2010, November. Released 2010, November",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "108.6 x 55.5 x 18.1 mm (4.28 x 2.19 x 0.71 in)",
+        "Weight": "173 g (6.10 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT resistive touchscreen, 16M colors",
+        "Size": "3.2 inches, 28.2 cm<sup>2</sup> (~46.8% screen-to-body ratio)",
+        "Resolution": "480 x 854 pixels, 16:9 ratio (~306 ppi density)",
+        "Features": "External capacitive display"
+      },
+      "Platform": {
+        "OS": "Android-based OPhone 2.0",
+        "Chipset": "TI OMAP 3430",
+        "CPU": "600 MHz Cortex-A8",
+        "GPU": "PowerVR SGX530"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Internal": "512MB 512MB RAM"
+      },
+      "Main Camera": {
+        "Single": "5 MP, AF",
+        "Features": "LED flash",
+        "Video": "720p@20fps"
+      },
+      "Selfie camera": {
+        "Single": "VGA videocall camera",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g",
+        "Bluetooth": "2.1, A2DP",
+        "Positioning": "GPS, A-GPS",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, compass",
+        "Browser": "HTML",
+        "Features": "CMMB mobile TV\n\nMP3/WAV/WMA/AAC+ player\n\nMP4/H.264/AVI/MKV/WMV player\n\nDocument viewer\n\nOrganizer\n\nVoice memo\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1140 mAh battery",
+        "Stand-by": "Up to 190 h",
+        "Talk time": "Up to 7 h"
+      },
+      "Misc": {
+        "Colors": "Gray"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-mt810-lx-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_mt810lx-pictures-3626.php"
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola Moto E7 Plus",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-e7-plus-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-e7-plus.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "motorola_moto_e7-10511"
+    ],
+    "release_date": "Released 2020, September 16",
+    "dimensions": "200g, 9.2mm thickness",
+    "os": "Android 10",
+    "storage": "64GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 19, 28, 66",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2020, September 11. Released 2020, September 16",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "165.2 x 75.7 x 9.2 mm (6.50 x 2.98 x 0.36 in)",
+        "Weight": "200 g (7.05 oz)",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "6.5 inches, 102.0 cm<sup>2</sup> (~81.6% screen-to-body ratio)",
+        "Resolution": "720 x 1600 pixels, 20:9 ratio (~270 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 10",
+        "Chipset": "Qualcomm SM4250 Snapdragon 460 (11 nm)",
+        "CPU": "Octa-core (4x1.8 GHz Kryo 240 &amp; 4x1.6 GHz Kryo 240)",
+        "GPU": "Adreno 610"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (uses shared SIM slot)",
+        "Internal": "64GB 4GB RAM",
+        "Features": "eMMC 5.1"
+      },
+      "Main Camera": {
+        "Dual": "48 MP, f/1.7, 26mm (wide), 1/2.0\", 0.8µm, PDAF\n\nAuxiliary lens",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "1080p@30/60fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, f/2.2, 26mm (wide), 1/4.0\", 1.12µm",
+        "Features": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n",
+        "Bluetooth": "5.0, A2DP, LE",
+        "Positioning": "GPS, GLONASS, GALILEO",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "microUSB 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (rear-mounted), accelerometer, proximity"
+      },
+      "Battery": {
+        "Type": "Li-Po 5000 mAh",
+        "Charging": "10W wired"
+      },
+      "Misc": {
+        "Colors": "Navy Blue, Amber Bronze",
+        "Models": "XT2081-1, XT2081-2",
+        "Price": "About 350 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-e7-plus-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-e7-plus-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-e7-plus-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_moto_e7_plus-pictures-10436.php"
+    }
+  }
+}

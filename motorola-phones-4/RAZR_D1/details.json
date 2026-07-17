@@ -1,0 +1,94 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola RAZR D1",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-razr-d1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-razr-d1.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2013, March",
+    "dimensions": "110g, 11mm thickness",
+    "os": "Android 4.1, up to 4.4.2",
+    "storage": "4GB 1GB RAM storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 &amp; SIM 2 (dual-SIM model only)",
+        "3G bands": "HSDPA",
+        "Speed": "HSPA 7.2/5.76 Mbps",
+        "GPRS": "Yes",
+        "EDGE": "Yes"
+      },
+      "Launch": {
+        "Announced": "2013, March. Released 2013, March",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "110 x 59 x 11 mm (4.33 x 2.32 x 0.43 in)",
+        "Weight": "110 g (3.88 oz)",
+        "SIM": "Single SIM or Dual SIM (dual stand-by)"
+      },
+      "Display": {
+        "Type": "TFT",
+        "Size": "3.5 inches, 36.5 cm<sup>2</sup> (~56.2% screen-to-body ratio)",
+        "Resolution": "320 x 480 pixels, 3:2 ratio (~165 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 4.1 (Jelly Bean), upgradable to 4.4.2 (KitKat)",
+        "Chipset": "Mediatek MT6575M (65 nm)",
+        "CPU": "1.0 GHz Cortex-A9",
+        "GPU": "PowerVR SGX531"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Internal": "4GB 1GB RAM"
+      },
+      "Main Camera": {
+        "Single": "5 MP, AF",
+        "Features": "HDR",
+        "Video": "480p"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+        "Bluetooth": "4.0, EDR, aptX",
+        "Positioning": "GPS",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity, compass",
+        "Features": "Analog/ Digital TV tunner"
+      },
+      "Battery": {
+        "Type": "Li-Ion 1785 mAh, removable"
+      },
+      "Misc": {
+        "Colors": "Black, White",
+        "Models": "XT914, XT915, XT916, XT918",
+        "Price": "About 150 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-razr-d1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-razr-d1-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-razr-d1-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_razr_d1-pictures-5355.php"
+    }
+  }
+}

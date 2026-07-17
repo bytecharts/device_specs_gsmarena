@@ -27,7 +27,7 @@ git-ignored and not committed.
 | Vivo   | `vivo-phones-98`    | 602     | 600              | ✅ Complete  |
 | OnePlus| `oneplus-phones-95` | 113     | 112              | ✅ Complete  |
 | Oppo   | `oppo-phones-82`    | 420     | 421              | ⏳ Partial   |
-| Motorola| `motorola-phones-4`| 54      | 701              | ⏳ Partial   |
+| Motorola| `motorola-phones-4`| 458     | 701              | ⏳ Partial   |
 
 \* Apple: 146 of 148 — 2 models unaccounted for (not yet scraped).
 

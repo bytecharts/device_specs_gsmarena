@@ -1,0 +1,102 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola MILESTONE 2",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-milestone-2-01.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-milestone-2.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/motorola_milesone_2-review-559.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2010, October",
+    "dimensions": "169g, 13.7mm thickness",
+    "os": "Android 2.2, up to 2.3",
+    "storage": "8GB storage, microSDHC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 900 / 2100",
+        "Speed": "HSPA",
+        "Features": "HSDPA 850 / 1900 / 2100"
+      },
+      "Launch": {
+        "Announced": "2010, September. Released 2010, October",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "116.3 x 60.5 x 13.7 mm (4.58 x 2.38 x 0.54 in)",
+        "Weight": "169 g (5.96 oz)",
+        "Keyboard": "QWERTY",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT",
+        "Size": "3.7 inches, 37.7 cm<sup>2</sup> (~53.6% screen-to-body ratio)",
+        "Resolution": "480 x 854 pixels, 16:9 ratio (~265 ppi density)",
+        "Protection": "Corning Gorilla Glass",
+        "Features": "MOTOBLUR UI with Live Widgets\n\nTouch sensitive controls"
+      },
+      "Platform": {
+        "OS": "Android 2.2 (Froyo), upgradable to 2.3 (Gingerbread)",
+        "Chipset": "TI OMAP 3630",
+        "CPU": "1.0 GHz Cortex-A8",
+        "GPU": "PowerVR SGX530"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot), 8 GB included",
+        "Internal": "8GB; 512MB RAM"
+      },
+      "Main Camera": {
+        "Single": "5 MP, AF",
+        "Features": "Dual-LED flash",
+        "Video": "720p@30fps"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, DLNA, hotspot",
+        "Bluetooth": "2.1, A2DP, EDR",
+        "Positioning": "GPS, A-GPS",
+        "Radio": "No",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity, compass",
+        "Browser": "HTML, Adobe Flash",
+        "Features": "MP3/WAV/WMA/AAC+ player\n\nMP4/WMV/H.264/DivX/XviD player\n\nQuickoffice document editor\n\nPhoto viewer/editor\n\nOrganizer\n\nVoice memo/dial/commands\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Po 1400 mAh battery (BP6X)",
+        "Stand-by": "Up to 400 h (2G) / Up to 400 h (3G)",
+        "Talk time": "Up to 7 h 40 min (2G) / Up to 4 h 50 min (3G)"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "SAR": "0.65 W/kg (head) &nbsp; &nbsp; 0.72 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 170 EUR"
+      },
+      "Our Tests": {
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=3495&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=3495&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"motorola_milesone_2-review-559p5.php\">Voice 66dB / Noise 63dB / Ring 74dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"motorola_milesone_2-review-559p6.php#aq\">Noise -88.2dB / Crosstalk -90.2dB</a>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-milestone-2-01.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_milestone_2-pictures-3495.php"
+    }
+  }
+}

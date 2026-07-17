@@ -1,0 +1,102 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola Moto G (2nd gen)",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/moto-g-2014-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-g-2014.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/motorola_moto_g_2014-review-1139.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2014, September",
+    "dimensions": "149g, 11mm thickness",
+    "os": "Android 4.4.4, up to 6.0",
+    "storage": "8GB storage, microSDHC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100 - Global model",
+        "Speed": "HSPA 21.1/5.76 Mbps",
+        "Features": "HSDPA 850 / 1700 / 1900 / 2100 - USA model"
+      },
+      "Launch": {
+        "Announced": "2014, September. Released 2014, September",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "141.5 x 70.7 x 11 mm (5.57 x 2.78 x 0.43 in)",
+        "Weight": "149 g (5.26 oz)",
+        "SIM": "Micro-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "5.0 inches, 68.9 cm<sup>2</sup> (~68.9% screen-to-body ratio)",
+        "Resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)",
+        "Protection": "Corning Gorilla Glass 3"
+      },
+      "Platform": {
+        "OS": "Android 4.4.4 (KitKat), upgradable to 6.0 (Marshmallow)",
+        "Chipset": "Qualcomm MSM8226 Snapdragon 400 (28 nm)",
+        "CPU": "Quad-core 1.2 GHz Cortex-A7",
+        "GPU": "Adreno 305"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Internal": "8GB 1GB RAM",
+        "Features": "eMMC 4.5"
+      },
+      "Main Camera": {
+        "Single": "8 MP, f/2.0, AF",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "720p@30fps, stereo sound rec., HDR"
+      },
+      "Selfie camera": {
+        "Single": "2 MP, f/2.2",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+        "Bluetooth": "4.0, A2DP, LE, aptX",
+        "Positioning": "GPS, GLONASS",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "microUSB 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, proximity, compass",
+        "Features": "Digital TV (DS DTV 16GB model only)"
+      },
+      "Battery": {
+        "Type": "Li-Ion 2070 mAh, non-removable"
+      },
+      "Misc": {
+        "Colors": "White, Black",
+        "Models": "XT1068, XT1063, XT1064, XT1069, XT1077",
+        "Price": "About 160 EUR"
+      },
+      "Our Tests": {
+        "Performance": "Basemark OS II 2.0: 497\nBasemark X: 3142",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=6647&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=6647&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"motorola_moto_g_2014-review-1139p6.php\">Voice 66dB / Noise 66dB / Ring 75dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"motorola_moto_g_2014-review-1139p7.php\">Noise -91.6dB / Crosstalk -91.7dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 6647); \">Endurance rating 50h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/moto-g-2014-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_moto_g_(2nd_gen)-pictures-6647.php"
+    }
+  }
+}

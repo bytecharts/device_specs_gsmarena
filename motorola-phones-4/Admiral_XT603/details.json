@@ -1,0 +1,92 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola Admiral XT603",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/motorola-admiral.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-admiral.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2011, October",
+    "dimensions": "134g, 12.2mm thickness",
+    "os": "Android 2.3.4, not up to 4.1",
+    "storage": "4GB 512MB RAM storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">CDMA / EVDO</a>",
+        "2G bands": "CDMA 800 / 1900",
+        "3G bands": "CDMA2000 1xEV-DO",
+        "Speed": "EV-DO Rev.A 3.1 Mbps"
+      },
+      "Launch": {
+        "Announced": "2011, October. Released 2011, October",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "119 x 62 x 12.2 mm (4.69 x 2.44 x 0.48 in)",
+        "Weight": "134 g (4.73 oz)",
+        "Keyboard": "QWERTY",
+        "SIM": "Mini-SIM",
+        "Features": "MIL-STD-810F compliant salt, dust, humidity, rain, vibration, solar radiation, transport and thermal shock resistant"
+      },
+      "Display": {
+        "Type": "TFT",
+        "Size": "3.1 inches, 29.8 cm<sup>2</sup> (~40.3% screen-to-body ratio)",
+        "Resolution": "480 x 640 pixels, 4:3 ratio (~258 ppi density)",
+        "Protection": "Corning Gorilla Glass"
+      },
+      "Platform": {
+        "OS": "Android 2.3.4 (Gingerbread), not upgradable to 4.1 (Jelly Bean)",
+        "Chipset": "Qualcomm MSM8655 Snapdragon S2",
+        "CPU": "1.2 GHz Scorpion",
+        "GPU": "Adreno 205"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Internal": "4GB 512MB RAM"
+      },
+      "Main Camera": {
+        "Single": "5 MP, AF",
+        "Features": "LED flash",
+        "Video": "480p@30fps"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, DLNA, hotspot",
+        "Bluetooth": "2.1, A2DP, EDR",
+        "Positioning": "GPS, A-GPS",
+        "Radio": "No",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity, compass",
+        "Features": "MP3/WAV/WMA/AAC+ player\n\nMP4/WMV/H.264 player\n\nDocument viewer\n\nPhoto viewer/editor\n\nOrganizer\n\nVoice memo/dial\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1860 mAh battery",
+        "Stand-by": "Up to 79 h",
+        "Talk time": "Up to 9 h"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "SAR": "1.06 W/kg (head) &nbsp; &nbsp; 0.73 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 160 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_admiral_xt603-pictures-4282.php"
+    }
+  }
+}

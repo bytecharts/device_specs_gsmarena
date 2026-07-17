@@ -1,0 +1,100 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola Edge+ (2023)",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-edge-plus-2023-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-edge-plus-2023.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/best_usa_market_phones-review-2358.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2023, May 19",
+    "dimensions": "203g, 8.6mm thickness",
+    "os": "Android 13, up to Android 14",
+    "storage": "512GB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE / 5G</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 17, 18, 20, 25, 26, 28, 29, 30, 38, 39, 40, 41, 41, 46, 48, 66, 71",
+        "5G bands": "1, 2, 3, 5, 7, 12, 14, 20, 25, 26, 28, 29, 30, 38, 41, 41, 48, 66, 70, 71, 77, 78 SA/NSA/Sub6/mmWave",
+        "Speed": "HSPA, LTE, 5G"
+      },
+      "Launch": {
+        "Announced": "2023, May 02",
+        "Status": "Available. Released 2023, May 19"
+      },
+      "Body": {
+        "Dimensions": "161.2 x 74 x 8.6 mm (6.35 x 2.91 x 0.34 in)",
+        "Weight": "203 g (7.16 oz)",
+        "Build": "Glass front (Gorilla Glass Victus), glass back (Gorilla Glass Victus), aluminum frame",
+        "SIM": "Nano-SIM + <a href=\"glossary.php3?term=esim\">eSIM</a>",
+        "Features": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)"
+      },
+      "Display": {
+        "Type": "OLED, 1B colors, 165Hz, HDR10+, Dolby Vision, 1300 nits (peak)",
+        "Size": "6.67 inches, 107.4 cm<sup>2</sup> (~90.0% screen-to-body ratio)",
+        "Resolution": "1080 x 2400 pixels, 20:9 ratio (~395 ppi density)",
+        "Protection": "Corning Gorilla Glass Victus"
+      },
+      "Platform": {
+        "OS": "Android 13, upgradable to Android 14",
+        "Chipset": "Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm)",
+        "CPU": "Octa-core (1x3.2 GHz Cortex-X3 &amp; 2x2.8 GHz Cortex-A715 &amp; 2x2.8 GHz Cortex-A710 &amp; 3x2.0 GHz Cortex-A510)",
+        "GPU": "Adreno 740"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "512GB 8GB RAM",
+        "Features": "UFS 4.0"
+      },
+      "Main Camera": {
+        "Triple": "50 MP, f/1.8, (wide), 1/1.55\", 1.0µm, multi-directional PDAF, OIS\n\n12 MP, f/1.6, (telephoto), 1/2.93\", 1.22µm, PDAF, 2x optical zoom\n\n50 MP, f/2.2, 114˚ (ultrawide), 1/2.76\", 0.64µm, AF",
+        "Features": "Dual-LED flash, panorama, HDR",
+        "Video": "8K@30fps, 4K@30/60fps, 1080p@30/60/120/240/960fps, 10-bit HDR10+, gyro-EIS"
+      },
+      "Selfie camera": {
+        "Single": "60 MP, f/2.2, (wide), 1/2.8\", 0.61µm",
+        "Features": "HDR",
+        "Video": "4K@30/60fps, 1080p@30/60/120/240fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes, with stereo speakers",
+        "3.5mm jack": "No",
+        "Features": "Snapdragon Sound"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct",
+        "Bluetooth": "5.3, A2DP, LE, aptX HD, aptX Adaptive",
+        "Positioning": "GPS, GLONASS, GALILEO, BDS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 3.2, OTG, DisplayPort 1.4"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, barometer",
+        "Features": "Smart Connect (Ready For) support"
+      },
+      "Battery": {
+        "Type": "Li-Po 5100 mAh",
+        "Charging": "68W wired\n\n15W wireless\n\n5W reverse wired\n\n5W reverse wireless"
+      },
+      "Misc": {
+        "Colors": "Interstellar Black",
+        "Price": "About 250 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-edge-plus-2023-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_edge+_(2023)-pictures-12251.php"
+    }
+  }
+}

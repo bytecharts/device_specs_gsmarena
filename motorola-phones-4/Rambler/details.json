@@ -1,0 +1,92 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola Rambler",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/Motorola-Rambler-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/Motorola-Rambler.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2010, August",
+    "dimensions": "108g, 17.8mm thickness",
+    "os": "Feature phone",
+    "storage": "microSD slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">CDMA / CDMA2000</a>",
+        "2G bands": "CDMA 1900",
+        "3G bands": "CDMA2000 1x",
+        "Speed": "Yes, 384 kbps"
+      },
+      "Launch": {
+        "Announced": "2010, July. Released 2010, August",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "93.9 x 56.9 x 17.8 mm (3.70 x 2.24 x 0.70 in)",
+        "Weight": "108 g (3.81 oz)",
+        "Keyboard": "QWERTY",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 65K colors",
+        "Size": "2.2 inches, 15.2 cm<sup>2</sup> (~28.5% screen-to-body ratio)",
+        "Resolution": "176 x 220 pixels (~128 ppi density)",
+        "Features": "Secondary display"
+      },
+      "Memory": {
+        "Card slot": "microSD (dedicated slot)",
+        "Phonebook": "1000 entries, Photocall",
+        "Call records": "Yes"
+      },
+      "Main Camera": {
+        "Single": "1.3 MP",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No",
+        "Features": "2.5 mm audio jack"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.0, A2DP",
+        "Positioning": "GPS, A-GPS",
+        "Radio": "No",
+        "USB": "miniUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS, Email, IM",
+        "Browser": "WAP 2.0/xHTML",
+        "Games": "Yes",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "MP3/eAAC+ player\n\nMP4/H.263 player\n\nOrganizer\n\nVoice memo/dial\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion battery",
+        "Stand-by": "Up to 480 h",
+        "Talk time": "Up to 5 h"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "SAR": "1.29 W/kg (head) &nbsp; &nbsp; 0.64 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 80 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/Motorola-Rambler-1.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_rambler-pictures-3449.php"
+    }
+  }
+}

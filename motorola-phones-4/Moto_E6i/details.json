@@ -1,0 +1,95 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola Moto E6i",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-e6i-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-e6i.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2021, February 11",
+    "dimensions": "160g, 8.5mm thickness",
+    "os": "Android 10",
+    "storage": "32GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 19, 28, 66",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2021, February 11",
+        "Status": "Available. Released 2021, February 11"
+      },
+      "Body": {
+        "Dimensions": "155.6 x 73 x 8.5 mm (6.13 x 2.87 x 0.33 in)",
+        "Weight": "160 g (5.64 oz)",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "6.1 inches, 91.3 cm<sup>2</sup> (~80.4% screen-to-body ratio)",
+        "Resolution": "720 x 1560 pixels, 19.5:9 ratio (~282 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 10 (Go edition)",
+        "Chipset": "Unisoc SC9863A (28 nm)",
+        "CPU": "Octa-core (4x1.6 GHz Cortex-A55 &amp; 4x1.2 GHz Cortex-A55)",
+        "GPU": "IMG8322"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (uses shared SIM slot)",
+        "Internal": "32GB 2GB RAM",
+        "Features": "eMMC 5.1"
+      },
+      "Main Camera": {
+        "Dual": "13 MP, f/2.2, 26mm (wide), 1/3.1\", 1.12µm, PDAF\n\nAuxiliary lens",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "5 MP, f/2.2, 27mm (wide), 1.12µm",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n",
+        "Bluetooth": "4.2, A2DP, LE",
+        "Positioning": "GPS, GLONASS",
+        "NFC": "No",
+        "Radio": "Unspecified",
+        "USB": "microUSB 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (rear-mounted), accelerometer, proximity"
+      },
+      "Battery": {
+        "Type": "Li-Ion 3000 mAh",
+        "Charging": "10W wired"
+      },
+      "Misc": {
+        "Colors": "Titanium Gray, Pink",
+        "Models": "XT2053-5",
+        "Price": "About 170 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-e6i-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-e6i-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_moto_e6i-pictures-10734.php"
+    }
+  }
+}

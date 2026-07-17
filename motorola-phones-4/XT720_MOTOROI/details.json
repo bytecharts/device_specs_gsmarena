@@ -1,0 +1,93 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola XT720 MOTOROI",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-xt720-motoroi-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-xt720-motoroi-new.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2010, July",
+    "dimensions": "139g, 10.9mm thickness",
+    "os": "Android 2.1",
+    "storage": "512MB 256MB RAM storage, microSDHC slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 2100",
+        "Speed": "HSPA 10.2/5.76 Mbps"
+      },
+      "Launch": {
+        "Announced": "2010, January. Released 2010, July",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "116 x 60.9 x 10.9 mm (4.57 x 2.40 x 0.43 in)",
+        "Weight": "139 g (4.90 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT",
+        "Size": "3.7 inches, 37.7 cm<sup>2</sup> (~53.4% screen-to-body ratio)",
+        "Resolution": "480 x 854 pixels, 16:9 ratio (~265 ppi density)",
+        "Features": "Touch-sensitive navigation controls"
+      },
+      "Platform": {
+        "OS": "Android 2.1 (Eclair)",
+        "CPU": "720 MHz Cortex-A8"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot), 8 GB included",
+        "Internal": "512MB 256MB RAM"
+      },
+      "Main Camera": {
+        "Single": "8 MP, AF",
+        "Features": "Xenon flash",
+        "Video": "720p@24fps"
+      },
+      "Selfie camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g, DLNA",
+        "Bluetooth": "2.1, A2DP",
+        "Positioning": "GPS, A-GPS",
+        "Radio": "Stereo FM radio, RDS",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity, compass",
+        "Browser": "HTML",
+        "Features": "MP3/WAV/WMA/AAC+ player\n\nMP4/WMV/H.264 player\n\nTV-out (720p video) via HDMI port\n\nDocument viewer\n\nPhoto viewer/editor\n\nFace tagging\n\nOrganizer\n\nT-DMB TV tuner\n\nVoice memo\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Po 1390 mAh battery",
+        "Stand-by": "Up to 200 h (3G)",
+        "Talk time": "Up to 8 h 40 min (3G)"
+      },
+      "Misc": {
+        "Colors": "Gentle Black",
+        "Models": "xt711",
+        "SAR": "0.25 W/kg (head) &nbsp; &nbsp; 0.23 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 250 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-xt720-motoroi-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-xt720-motoroi-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_xt720_motoroi-pictures-3090.php"
+    }
+  }
+}

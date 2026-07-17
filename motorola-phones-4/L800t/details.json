@@ -1,0 +1,95 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola L800t",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-l800t-01.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-l800t.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2009",
+    "dimensions": "110g, 15mm thickness",
+    "os": "Feature phone",
+    "storage": "64MB storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM</a>",
+        "2G bands": "GSM 900 / 1800 / 1900",
+        "3G bands": "TD-SCDMA",
+        "GPRS": "Class 10",
+        "EDGE": "Class 10"
+      },
+      "Launch": {
+        "Announced": "2009, June. Released 2009",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "117 x 49 x 15 mm (4.61 x 1.93 x 0.59 in)",
+        "Weight": "110g (3.88 oz)",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT, 16M colors",
+        "Size": "1.9 inches, 11.4 cm<sup>2</sup> (~19.8% screen-to-body ratio)",
+        "Resolution": "176 x 220 pixels (~148 ppi density)",
+        "Features": "ModeShift morphing keypad"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Phonebook": "Yes, Photocall",
+        "Call records": "20 dialed, 20 received, 20 missed calls",
+        "Internal": "64MB"
+      },
+      "Main Camera": {
+        "Single": "2 MP",
+        "Video": "Yes"
+      },
+      "Selfie camera": {
+        "Single": "Yes",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "No",
+        "Bluetooth": "2.0, A2DP",
+        "Positioning": "No",
+        "Radio": "No",
+        "USB": "miniUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "",
+        "Messaging": "SMS, MMS, Email, IM",
+        "Browser": "WAP 2.0/xHTML, HTML",
+        "Games": "Yes",
+        "Java": "Yes, MIDP 2.0",
+        "Features": "MP3/AAC+ player\n\nMP4/H.263 player\n\nOrganizer\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1130 mAh battery",
+        "Stand-by": "Up to 200 h",
+        "Talk time": "Up to 5 h"
+      },
+      "Misc": {
+        "Colors": "Hyun Black Shadow",
+        "SAR": "1.26 W/kg (head) &nbsp; &nbsp; 0.41 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.89 W/kg (head) &nbsp; &nbsp;",
+        "Price": "About 100 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-l800t-01.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-l800t-00.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_l800t-pictures-2830.php"
+    }
+  }
+}

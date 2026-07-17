@@ -1,0 +1,110 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola Moto G (3rd gen)",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-g-3rd-gen-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-g-3rd-gen-r.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/moto_g_3rd_gen-review-1281.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2015, July",
+    "dimensions": "155g, 11.6mm thickness",
+    "os": "Android 5.1.1, up to 6.0",
+    "storage": "8GB/16GB storage, microSDHC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 900 / 2100 - XT1541",
+        "4G bands": "1, 3, 7, 8, 20 - XT1541",
+        "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+        "Features": "CDMA 800 / 1900 - XT1548\nHSDPA 850 / 1700(AWS) / 1900 / 2100 - XT1540\nHSDPA 850 / 1700 / 1900 - XT1548\n2, 4, 5, 7, 17 - XT1540\n2, 4, 5, 12, 17, 25, 26, 41 - XT1548"
+      },
+      "Launch": {
+        "Announced": "2015, July. Released 2015, July",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "142.1 x 72.4 x 11.6 mm (5.59 x 2.85 x 0.46 in)",
+        "Weight": "155 g (5.47 oz)",
+        "Build": "Glass front (Gorilla Glass 3), plastic back, plastic frame",
+        "SIM": "Micro-SIM",
+        "Features": "IPX7 water resistant up to 1 meter and 30 minutes"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "5.0 inches, 68.9 cm<sup>2</sup> (~67.0% screen-to-body ratio)",
+        "Resolution": "720 x 1280 pixels, 16:9 ratio (~294 ppi density)",
+        "Protection": "Corning Gorilla Glass 3"
+      },
+      "Platform": {
+        "OS": "Android 5.1.1 (Lollipop), upgradable to 6.0 (Marshmallow)",
+        "Chipset": "Qualcomm MSM8916 Snapdragon 410 (28 nm)",
+        "CPU": "Quad-core 1.4 GHz Cortex-A53",
+        "GPU": "Adreno 306"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Internal": "8GB 1GB RAM, 16GB 2GB RAM",
+        "Features": "eMMC 4.5"
+      },
+      "Main Camera": {
+        "Single": "13 MP, f/2.0, AF",
+        "Features": "Dual-LED dual-tone flash, panorama",
+        "Video": "1080p@30fps, HDR"
+      },
+      "Selfie camera": {
+        "Single": "5 MP, f/2.2",
+        "Features": "HDR",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+        "Bluetooth": "4.0, A2DP, LE, aptX",
+        "Positioning": "GPS, GLONASS, BDS",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "microUSB 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity"
+      },
+      "Battery": {
+        "Type": "Li-Ion 2470 mAh, non-removable"
+      },
+      "Misc": {
+        "Colors": "Black, White",
+        "Models": "XT1541, XT1540, XT1548, Moto G3",
+        "SAR": "1.06 W/kg (head) &nbsp; &nbsp; 1.13 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.68 W/kg (head) &nbsp; &nbsp; 0.60 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 170 EUR"
+      },
+      "Our Tests": {
+        "Performance": "Basemark X: 1866",
+        "Display": "<a class=\"noUnd\" href=\"moto_g_3rd_gen-review-1281p3.php\">Contrast ratio: 1009:1 (nominal), 2.026 (sunlight)</a>",
+        "Camera": "<a class=\"noUnd\" href=\"piccmp.php3?idType=4&amp;idPhone1=7247&amp;nSuggest=1\">Photo</a> / <a class=\"noUnd\" href=\"vidcmp.php3?idType=4&amp;idPhone1=7247&amp;nSuggest=1\">Video</a>",
+        "Loudspeaker": "<a class=\"noUnd\" href=\"moto_g_3rd_gen-review-1281p6.php\">Voice 75dB / Noise 69dB / Ring 75dB</a>",
+        "Audio quality": "<a class=\"noUnd\" href=\"moto_g_3rd_gen-review-1281p6.php#aq\">Noise -91.5dB / Crosstalk -92.6dB</a>",
+        "Battery (old)": "<div style=\"position:relative;\">\n<a href=\"#\" onclick=\"showBatteryPopup(event, 7247); \">Endurance rating 76h</a><div class=\"popover top\" id=\"battery-popover\" style=\"display: none;\"></div>\n</div>"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-g-3rd-gen-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-g-3rd-gen-11.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-g-3rd-gen-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_moto_g_(3rd_gen)-pictures-7247.php"
+    }
+  }
+}

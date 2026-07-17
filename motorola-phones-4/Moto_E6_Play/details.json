@@ -1,0 +1,100 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola Moto E6 Play",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-e6-play-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-e6-play.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [
+      "motorola_moto_e6-9682"
+    ],
+    "release_date": "Released 2019, November",
+    "dimensions": "140g, 8.3mm thickness",
+    "os": "Android 9.0",
+    "storage": "32GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / HSPA / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+        "4G bands": "1, 3, 5, 7, 8, 20, 38, 40, 41",
+        "Speed": "HSPA, LTE"
+      },
+      "Launch": {
+        "Announced": "2019, October. Released 2019, November",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "146.5 x 70.9 x 8.3 mm (5.77 x 2.79 x 0.33 in)",
+        "Weight": "140 g (4.94 oz)",
+        "Build": "Glass front, plastic back, plastic frame",
+        "SIM": "Nano-SIM + Nano-SIM"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "5.5 inches, 77.0 cm<sup>2</sup> (~74.1% screen-to-body ratio)",
+        "Resolution": "720 x 1440 pixels, 18:9 ratio (~295 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 9.0 (Pie)",
+        "Chipset": "Mediatek MT6739 (28 nm)",
+        "CPU": "Quad-core 1.5 GHz Cortex-A53",
+        "GPU": "PowerVR GE8100"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "32GB 2GB RAM",
+        "Features": "eMMC 5.1"
+      },
+      "Main Camera": {
+        "Single": "13 MP, f/2.2, 1/3.1\", 1.12µm, PDAF",
+        "Features": "LED flash, HDR, panorama",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "5 MP, f/2.2, 1/5.0\", 1.12µm",
+        "Features": "HDR",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n",
+        "Bluetooth": "4.2, A2DP, LE",
+        "Positioning": "GPS, GLONASS",
+        "NFC": "No",
+        "Radio": "FM radio",
+        "USB": "microUSB 2.0, OTG"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (rear-mounted), accelerometer, proximity"
+      },
+      "Battery": {
+        "Type": "Li-Po 3000 mAh, non-removable"
+      },
+      "Misc": {
+        "Colors": "Turquoise Blue, Anthracite",
+        "Models": "XT2029, XT2029-1",
+        "SAR EU": "0.55 W/kg (head) &nbsp; &nbsp; 1.78 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 160 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-e6-play-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-e6-play-4.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-e6-play-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-e6-play-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_moto_e6_play-pictures-9932.php"
+    }
+  }
+}

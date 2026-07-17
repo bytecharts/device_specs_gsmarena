@@ -1,0 +1,106 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola Moto Z3 Play",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-z3-play-5.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-z3-play-.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/moto_z3_play_hands_on-review-1774.php",
+    "siblingDeviceSlugs": [
+      "motorola_moto_z3-9283"
+    ],
+    "release_date": "Released 2018, June",
+    "dimensions": "156g, 6.8mm thickness",
+    "os": "Android 8.1, up to Android 9.0",
+    "storage": "32GB/64GB/128GB storage, microSDXC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / EVDO / LTE</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+        "4G bands": "1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 17, 18, 19, 20, 25, 26, 28, 29, 30, 38, 40, 41, 66, 71",
+        "Speed": "HSPA, LTE",
+        "Features": "CDMA 800 / 1900 - USA\nCDMA2000 1xEV-DO - USA"
+      },
+      "Launch": {
+        "Announced": "2018, June. Released 2018, June",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "156.5 x 76.5 x 6.8 mm (6.16 x 3.01 x 0.27 in)",
+        "Weight": "156 g (5.50 oz)",
+        "Build": "Glass front (Gorilla Glass 3), glass back (Gorilla Glass 3), aluminum frame (6000 series)",
+        "SIM": "· Nano-SIM\n· Nano-SIM + Nano-SIM",
+        "Features": "Splash and dust resistant"
+      },
+      "Display": {
+        "Type": "Super AMOLED",
+        "Size": "6.01 inches, 93.2 cm<sup>2</sup> (~77.9% screen-to-body ratio)",
+        "Resolution": "1080 x 2160 pixels, 18:9 ratio (~402 ppi density)",
+        "Protection": "Corning Gorilla Glass 3"
+      },
+      "Platform": {
+        "OS": "Android 8.1 (Oreo), upgradable to Android 9.0 (Pie)",
+        "Chipset": "Qualcomm SDM636 Snapdragon 636 (14 nm)",
+        "CPU": "Octa-core (4x1.8 GHz Kryo 260 Gold &amp; 4x1.6 GHz Kryo 260 Silver)",
+        "GPU": "Adreno 509"
+      },
+      "Memory": {
+        "Card slot": "microSDXC (dedicated slot)",
+        "Internal": "32GB 4GB RAM, 64GB 4GB RAM, 128GB 6GB RAM",
+        "Features": "eMMC 5.1"
+      },
+      "Main Camera": {
+        "Dual": "12 MP, f/1.7, 1/2.55\", 1.4µm, dual pixel PDAF\n\nAuxiliary lens",
+        "Features": "Dual-LED dual-tone flash, panorama",
+        "Video": "4K@30fps, 1080p@30/60fps"
+      },
+      "Selfie camera": {
+        "Single": "8 MP, f/2.0, 1/4.0\", 24mm (wide), 1.12µm",
+        "Video": "1080p@30fps"
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+        "Bluetooth": "5.0, A2DP, EDR, LE, aptX",
+        "Positioning": "GPS, GLONASS, BDS",
+        "NFC": "Yes",
+        "Radio": "No",
+        "USB": "USB Type-C 3.1, OTG, magnetic connector"
+      },
+      "Features": {
+        "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass",
+        "Features": "Moto Mods snap-on accessories"
+      },
+      "Battery": {
+        "Type": "Li-Ion 3000 mAh, non-removable",
+        "Charging": "15W wired"
+      },
+      "Misc": {
+        "Colors": "Deep Indigo, Onyx Black (128/6GB only)",
+        "Models": "XT1929",
+        "SAR": "1.18 W/kg (head) &nbsp; &nbsp; 1.18 W/kg (body) &nbsp; &nbsp;",
+        "SAR EU": "0.56 W/kg (head) &nbsp; &nbsp; 1.44 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 400 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-z3-play-5.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-z3-play-onyx-black.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-z3-play-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-z3-play-2.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_moto_z3_play-pictures-9003.php"
+    }
+  }
+}

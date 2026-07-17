@@ -1,0 +1,94 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola Moto 360 46mm (2nd gen)",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-360-2015-1.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-360-2015-new.jpg"
+      }
+    ],
+    "review_url": "https://www.gsmarena.com/motorola_ifa_2015_hands_on_review-review-1295.php",
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2015, September",
+    "dimensions": "11.4mm thickness",
+    "os": "Android Wear OS 2.1",
+    "storage": "4GB 512MB RAM storage, no card slot",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">No cellular connectivity</a>",
+        "2G bands": "N/A",
+        "GPRS": "No",
+        "EDGE": "No"
+      },
+      "Launch": {
+        "Announced": "2015, September. Released 2015, September",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "46 x 46 x 11.4 mm (1.81 x 1.81 x 0.45 in)",
+        "Weight": "-",
+        "Build": "Glass front (Gorilla Glass 3), stainless steel frame",
+        "SIM": "No",
+        "Features": "IP67 dust/water resistant (up to 1m for 30 min)\n\nCompatible with standard 22mm straps"
+      },
+      "Display": {
+        "Type": "IPS LCD",
+        "Size": "1.56 inches",
+        "Resolution": "360 x 330 pixels (~233 ppi density)",
+        "Protection": "Corning Gorilla Glass 3"
+      },
+      "Platform": {
+        "OS": "Android Wear OS 2.1",
+        "Chipset": "Qualcomm MSM8926 Snapdragon 400 (28 nm)",
+        "CPU": "Quad-core 1.2 GHz Cortex-A7",
+        "GPU": "Adreno 305"
+      },
+      "Memory": {
+        "Card slot": "No",
+        "Internal": "4GB 512MB RAM",
+        "Features": "eMMC 4.5"
+      },
+      "Camera": {
+        "Features": "No"
+      },
+      "Sound": {
+        "Loudspeaker": "No",
+        "3.5mm jack": "No"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g",
+        "Bluetooth": "4.0, LE, aptX",
+        "Positioning": "No",
+        "NFC": "No",
+        "Radio": "No",
+        "USB": "No"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, gyro, heart rate",
+        "Features": "MP3 player\n\nPhoto viewer\n\nVoice dial/commands"
+      },
+      "Battery": {
+        "Type": "Li-Ion 400 mAh, non-removable",
+        "Charging": "Wireless (Qi)"
+      },
+      "Misc": {
+        "Colors": "Black Leather, Black Metal, Rose Gold/Blush Leather, Silver/Cognac Leather",
+        "Price": "About 300 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-360-2015-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-360-2015-2.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-360-2015-3.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-360-2015-4.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-360-2015-5.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_moto_360_46mm_(2nd_gen)-pictures-7683.php"
+    }
+  }
+}

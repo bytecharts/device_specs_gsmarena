@@ -1,0 +1,95 @@
+{
+  "status": true,
+  "data": {
+    "brand": "",
+    "model": "Motorola DROID 3",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-droid-3.jpg",
+    "device_images": [
+      {
+        "color": "Default",
+        "url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-droid-3.jpg"
+      }
+    ],
+    "siblingDeviceSlugs": [],
+    "release_date": "Released 2011, July",
+    "dimensions": "167g, 13mm thickness",
+    "os": "Android 2.3, not up to 4.1",
+    "storage": "16GB storage, microSDHC",
+    "specifications": {
+      "Network": {
+        "Technology": "<a href=\"#\" class=\"link-network-detail collapse\" data-spec=\"nettech\">GSM / CDMA / HSPA / EVDO</a>",
+        "2G bands": "GSM 850 / 900 / 1800 / 1900",
+        "3G bands": "HSDPA 850 / 1900 / 2100",
+        "Speed": "EV-DO Rev.A 3.1 Mbps, HSPA",
+        "Features": "CDMA 800 / 1900\nCDMA2000 1xEV-DO"
+      },
+      "Launch": {
+        "Announced": "2011, July. Released 2011, July",
+        "Status": "Discontinued"
+      },
+      "Body": {
+        "Dimensions": "124 x 64 x 13 mm (4.88 x 2.52 x 0.51 in)",
+        "Weight": "167 g (5.89 oz)",
+        "Keyboard": "QWERTY",
+        "SIM": "Mini-SIM"
+      },
+      "Display": {
+        "Type": "TFT",
+        "Size": "4.0 inches, 44.1 cm<sup>2</sup> (~55.6% screen-to-body ratio)",
+        "Resolution": "540 x 960 pixels, 16:9 ratio (~275 ppi density)"
+      },
+      "Platform": {
+        "OS": "Android 2.3 (Gingerbread), not upgradable to 4.1 (Jelly Bean)",
+        "Chipset": "TI OMAP 4430",
+        "CPU": "Dual-core 1GHz Cortex-A9",
+        "GPU": "PowerVR SGX540"
+      },
+      "Memory": {
+        "Card slot": "microSDHC (dedicated slot)",
+        "Internal": "16GB 512MB RAM"
+      },
+      "Main Camera": {
+        "Single": "8 MP, AF",
+        "Features": "LED flash",
+        "Video": "1080p@30fps"
+      },
+      "Selfie camera": {
+        "Single": "VGA",
+        "Video": ""
+      },
+      "Sound": {
+        "Loudspeaker": "Yes",
+        "3.5mm jack": "Yes"
+      },
+      "Comms": {
+        "WLAN": "Wi-Fi 802.11 b/g/n, DLNA, hotspot",
+        "Bluetooth": "2.1, A2DP, EDR",
+        "Positioning": "GPS, A-GPS",
+        "Radio": "No",
+        "USB": "microUSB 2.0"
+      },
+      "Features": {
+        "Sensors": "Accelerometer, proximity, compass",
+        "Features": "HDMI port\n\nMP3/WAV/eAAC+ player\n\nMP4/H.264/WMV player\n\nQuickoffice document editor\n\nPhoto viewer/editor\n\nOrganizer\n\nVoice memo/dial\n\nPredictive text input"
+      },
+      "Battery": {
+        "Type": "Removable Li-Ion 1540 mAh battery",
+        "Stand-by": "Up to 300 h",
+        "Talk time": "Up to 9 h 16 min"
+      },
+      "Misc": {
+        "Colors": "Black",
+        "Models": "XT862, XT860",
+        "SAR": "0.77 W/kg (head) &nbsp; &nbsp; 1.46 W/kg (body) &nbsp; &nbsp;",
+        "Price": "About 200 EUR"
+      }
+    },
+    "picturesPageData": {
+      "officialImages": [
+        "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-droid-3.jpg"
+      ],
+      "colorVariants": [],
+      "picturesPageUrl": "https://www.gsmarena.com/motorola_droid_3-pictures-4036.php"
+    }
+  }
+}
