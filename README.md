@@ -4,6 +4,9 @@ Structured phone specifications scraped from GSMArena via the
 [`gsmarena-dxomark-mobile-specs-api`](https://github.com/Sanjeevu-Tarun/gsmarena-dxomark-mobile-specs-api)
 and saved as JSON.
 
+## Note
+The data was scraped for a data viz project. The original idea was brought by @surbhi-bh. If anyone ends up making #dataviz using this data, let her know.
+
 ## Structure
 
 ```
