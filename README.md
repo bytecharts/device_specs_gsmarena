@@ -5,7 +5,7 @@ Structured phone specifications scraped from GSMArena via the
 and saved as JSON.
 
 ## Note
-The data was scraped for a data viz project. The original idea was brought by [@surbhi-bh](https://github.com/surbhi-bh). If anyone ends up making #dataviz using this data, let her know.
+The data was scraped for a data viz project. The original idea was brought by [@surbhi-bh](https://github.com/surbhi-bh). If anyone ends up making a #dataviz using this data, let her know by tagging on her socials [@bysurbhibhatia](https://instagram.com/bysurbhibhatia).
 
 ## Structure
 
